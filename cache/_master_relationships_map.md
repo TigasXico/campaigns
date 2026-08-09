@@ -2,6 +2,12 @@
 
 ## adventuring_classes [lore]
 - hunts → monsters_and_ecology [lore] — Adventurers hunt monsters as their primary occupation
+
+## aetris [location]
+- contains → kythoria [location] — Kythoria is the primary continent on Aetris
+- part_of → cosmology_and_the_planes [lore] — Aetris is the Material Plane, one of many planes
+- created_by → the_originals [lore] — The Originals created Aetris as their final experiment
+- sustained_by → the_great_sacrifice [event] — B's scattered essence sustains all life on Aetris
 - draws_from → the_arcane_weave [lore] — Wizards, bards, and artificers manipulate the Weave directly
 - draws_from → primal_nature_magic [lore] — Druids and rangers draw power from nature's absorbed arcane energy
 - channeled_by → the_gods_and_the_deception [lore] — Clerics and paladins receive power through the gods as conduits
@@ -26,6 +32,8 @@
 
 ## cosmology_and_the_planes [lore]
 - sourced → monsters_and_ecology [lore] — Invasion monsters came from the Abyss, Nine Hells, Shadowfell, and Feywild
+- contains → aetris [location] — Aetris is the Material Plane within the cosmology
+- contains → kythoria [location] — Kythoria is a continent within the Material Plane
 - hosts_patrons ← adventuring_classes [lore] — Planar entities can serve as warlock patrons
 - created_by → the_originals [lore] — The Originals created all planes as experiments
 - connected_to → the_great_sacrifice [event] — B's essence scattered equally across all planes
@@ -39,6 +47,23 @@
 - contains → god_of_forge_and_arcana [character] — Claims domain in the Outer Planes
 - contains → god_of_peace_and_twilight [character] — Claims domain in the Outer Planes
 - contains → god_of_wealth_and_fortune [character] — Claims domain in the Outer Planes
+
+## emberforge [location]
+- part_of → the_last_stand [lore] — One of the three capital cities of the Last Stand
+- sister_city_to → skywatch [location] — The three capitals work together
+- sister_city_to → weaveheart [location] — The three capitals work together
+- located_in → kythoria [location] — Located in the temperate heartlands of Kythoria
+- fosters → the_guild_of_the_spark [organization] — Strong ties to the church of Forge and Arcana
+- fosters → the_adventurers_guild [organization] — Prototype weapons tested here
+- connected_to → society_economy_and_culture [lore] — Industrial heart of the mortal races
+
+## founding_of_the_last_stand [event]
+- created → skywatch [location] — One of the capitals founded in this event
+- created → emberforge [location] — One of the capitals founded in this event
+- created → weaveheart [location] — One of the capitals founded in this event
+- ended → the_abominable_end [event] — Marked the end of the invasion era
+- began → the_first_alliance [organization] — The First Alliance formed after the capitals were established
+- part_of → the_last_stand [lore] — The founding event of the Last Stand
 
 ## god_of_forge_and_arcana [character]
 - originated_from → the_originals [lore] — Fragment of A or C
@@ -72,6 +97,19 @@
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
+
+## kythoria [location]
+- contained_in → aetris [location] — Kythoria is a continent on Aetris
+- shaped_by → the_frontier [location] — The western frontier is the active war zone
+- contains → skywatch [location] — One of the three capital cities
+- contains → emberforge [location] — One of the three capital cities
+- contains → weaveheart [location] — One of the three capital cities
+- contains → the_northeast_settlement_cluster [location] — The mint and mining heartland
+- contains → the_southeastern_port [location] — Major sea trade hub
+- contains → the_eastern_port [location] — Sea trade and fishing port
+- contains → the_frontier [location] — The contested western region
+- contains → the_arcane_reactive_crystal_cave [location] — Beneath the capitals
+- part_of → the_world_and_geography [lore] — Primary setting of the campaign
 
 ## kharzuls_blade [item]
 - carried_by ← balor_skallfang [character] — The unwilling bearer who serves as the blade's prison
@@ -118,6 +156,13 @@
 - connected_to → cosmology_and_the_planes [lore] — Shadow Elves claimed Shadowfell; Drow live in the Underdark
 - connected_to → balor_skallfang [character] — Balor is a tiefling, created by Project Genesis
 
+## skywatch [location]
+- part_of → the_last_stand [lore] — One of the three capital cities of the Last Stand
+- sister_city_to → emberforge [location] — The three capitals work together
+- sister_city_to → weaveheart [location] — The three capitals work together
+- located_in → kythoria [location] — Located in the temperate heartlands of Kythoria
+- fosters → the_adventurers_guild [organization] — Scouts and rangers guild headquartered here
+
 ## society_economy_and_culture [lore]
 - fueled_by ← monsters_and_ecology [lore] — Monster hunting and monster parts drive a growing economy
 - hosts ← adventuring_classes [lore] — Adventurers operate within society's guild system and culture
@@ -129,6 +174,25 @@
 - founded_upon → the_great_sacrifice [event] — Currency (precious metals) are fragments of B
 - advances → the_arcane_weave [lore] — Weaveheart's arcane research drives magical innovation
 - threatened_by → the_crimson_covenant [organization] — The Covenant operates in the shadows of this society
+
+## the_abominable_end [event]
+- caused → the_last_stand [lore] — The invasion forced the founding of the Last Stand
+- defeated_by → the_first_alliance [organization] — The First Alliance pushed back the invasion
+- orchestrated_by → the_gods_and_the_deception [lore] — The gods planned the invasion
+- part_of → the_world_and_geography [lore] — Defines the second era of Kythoria's history
+- connected_to → monsters_and_ecology [lore] — The monster invasion that defined this era
+
+## the_adventurers_guild [organization]
+- headquartered_in → weaveheart [location] — Guildhall in Weaveheart
+- operates_in → the_frontier [location] — Most active on the frontier
+- contracts → monsters_and_ecology [lore] — Manages monster-hunting contracts
+- connected_to → society_economy_and_culture [lore] — Primary controller of the monster hunting industry
+- connected_to → adventuring_classes [lore] — Adventurers of all classes operate through the guild
+
+## the_arcane_reactive_crystal_cave [location]
+- located_in → kythoria [location] — Beneath Skywatch and Weaveheart, beside Emberforge
+- contains → the_arcane_reactive_crystals [lore] — Massive formations of crystals
+- influences → society_economy_and_culture [lore] — Supercharges soil fertility of the forests above
 
 ## the_arcane_reactive_crystals [lore]
 - amplifies ← monsters_and_ecology [lore] — Crystals amplify B's influence on nearby monsters
@@ -148,6 +212,22 @@
 - connected_to → primal_nature_magic [lore] — Both draw from the same source
 - channeled_by → the_gods_and_the_deception [lore] — Gods act as conduits for the weave
 
+## the_circle_of_the_wild [organization]
+- church_of → god_of_nature_and_tempest [character] — The church of the God of Nature and Tempest
+- member_of → the_ecumenical_council [organization] — Part of the interfaith council
+- connected_to → primal_nature_magic [lore] — Connected to primal magic and nature attunement
+
+## the_council_accord [organization]
+- governs → the_last_stand [lore] — The three kings rule the capital cities
+- represents → skywatch [location] — King of Skywatch is part of the Accord
+- represents → emberforge [location] — King of Emberforge is part of the Accord
+- represents → weaveheart [location] — King of Weaveheart is part of the Accord
+
+## the_coven_of_the_spider [organization]
+- church_of → lolth_the_spider_queen [character] — The church of Lolth
+- member_of → the_ecumenical_council [organization] — Part of the interfaith council
+- connected_to → races_and_ancestries [lore] — Drow are the primary worshippers
+
 ## the_crimson_covenant [organization]
 - supplements → monsters_and_ecology [lore] — Creates experimental monsters (Crimson-touched)
 - threatens ← society_economy_and_culture [lore] — The Covenant operates in the shadows of this society
@@ -163,6 +243,21 @@
 - connected_to → the_gods_and_the_deception [lore] — Holds blackmail knowledge over the gods
 - connected_to → monsters_and_ecology [lore] — Researching Khar'zul, B's crystals, and the resurrection ritual within the monster army
 
+## the_eastern_port [location]
+- located_in → kythoria [location] — On the east coast of Kythoria
+- connected_to → society_economy_and_culture [lore] — Major sea trade hub
+
+## the_ecumenical_council [organization]
+- includes → the_order_of_the_dawn [organization] — Member church
+- includes → the_guild_of_the_spark [organization] — Member church
+- includes → the_circle_of_the_wild [organization] — Member church
+- includes → the_order_of_the_scales [organization] — Member church
+- includes → the_order_of_the_currency [organization] — Member church
+- includes → the_vigil_of_the_dusk [organization] — Member church
+- includes → the_coven_of_the_spider [organization] — Member church
+- includes → the_order_of_the_raven [organization] — Member church
+- mediated_by → god_of_peace_and_twilight [character] — The God of Peace mediates the pantheon
+
 ## the_first_alliance [organization]
 - fought → monsters_and_ecology [lore] — Defeated three of the Five Monster Generals, including Khar'zul
 - sealed → kharzuls_blade [item] — Devised the ritual that sealed Khar'zul within his own blade
@@ -171,6 +266,16 @@
 - connected_to → balor_skallfang [character] — The Skallfang Clan fought in the Alliance and were entrusted with the blade
 - connected_to → the_great_sacrifice [event] — The Alliance unknowingly wielded power from B's sacrifice
 - connected_to → society_economy_and_culture [lore] — Its legacy shapes modern military and political structures
+
+## the_four_barbarian_tribes [organization]
+- located_in → kythoria [location] — One tribe in each cardinal direction
+- fought_in → the_first_alliance [organization] — Contributed warriors to the Alliance
+- connected_to → adventuring_classes [lore] — Barbarians are most common among the four tribes
+
+## the_frontier [location]
+- part_of → kythoria [location] — The contested western region of Kythoria
+- connected_to → the_last_stand [lore] — The reconquering is most active here
+- connected_to → monsters_and_ecology [lore] — Marks the boundary between reclaimed and monster-held lands
 
 ## the_gods_and_the_deception [lore]
 - orchestrates → monsters_and_ecology [lore] — The gods planned the monster invasion to destroy mortalkind
@@ -181,6 +286,11 @@
 - channels → the_arcane_weave [lore] — Gods act as conduits for divine casters
 - hides → primal_nature_magic [lore] — Gods hide the truth about universal magic potential
 - threatened_by ← the_crimson_covenant [organization] — The Covenant holds blackmail knowledge over the gods
+
+## the_guild_of_the_spark [organization]
+- church_of → god_of_forge_and_arcana [character] — The church of the God of Forge and Arcana
+- member_of → the_ecumenical_council [organization] — Part of the interfaith council
+- connected_to → emberforge [location] — Strong ties to Emberforge's smithing traditions
 
 ## the_great_sacrifice [event]
 - counteracts ← monsters_and_ecology [lore] — B's lingering will (hoarding instinct) subverts the invasion from within
@@ -207,6 +317,29 @@
 - connected_to → the_first_alliance [organization] — The First Alliance defeated the monster generals, enabling the Last Stand
 - connected_to → balor_skallfang [character] — The Skallfang Clan fought in the First Alliance that defeated Khar'zul
 
+## the_northeast_settlement_cluster [location]
+- located_in → kythoria [location] — Northeast region of the continent
+- connected_to → society_economy_and_culture [lore] — Economic backbone, mint and mining
+- connected_to → the_thormvuld_family [organization] — The family originates from this region
+
+## the_order_of_the_currency [organization]
+- church_of → god_of_wealth_and_fortune [character] — The church of the God of Wealth and Fortune
+- member_of → the_ecumenical_council [organization] — Part of the interfaith council
+- connected_to → the_northeast_settlement_cluster [location] — Connected to the mint and trade
+
+## the_order_of_the_dawn [organization]
+- church_of → god_of_light_and_life [character] — The church of the God of Light and Life
+- member_of → the_ecumenical_council [organization] — Part of the interfaith council
+
+## the_order_of_the_raven [organization]
+- church_of → the_raven_queen [character] — The church of the Raven Queen
+- member_of → the_ecumenical_council [organization] — Part of the interfaith council
+- connected_to → races_and_ancestries [lore] — Shadow Elves are the primary worshippers
+
+## the_order_of_the_scales [organization]
+- church_of → god_of_wisdom_and_justice [character] — The church of the God of Wisdom and Justice
+- member_of → the_ecumenical_council [organization] — Part of the interfaith council
+
 ## the_originals [lore]
 - motivated → monsters_and_ecology [lore] — A and C planned the invasion; B sacrificed to stop it
 - underpins ← adventuring_classes [lore] — The Originals' essence underpins all class powers
@@ -216,11 +349,48 @@
 - essence_became → the_arcane_reactive_crystals [lore] — Condensed essence of B
 - essence_suffused → primal_nature_magic [lore] — B's scattered essence suffused nature with arcane energy
 
+## the_sealing_of_kharzul [event]
+- sealed → kharzuls_blade [item] — Khar'zul's essence was sealed within his own blade
+- performed_by → the_first_alliance [organization] — The Alliance's scholars devised the ritual
+- spawned → the_crimson_covenant [organization] — Dissident scholars became the Covenant
+- connected_to → monsters_and_ecology [lore] — Khar'zul was one of the Five Monster Generals
+
+## the_skallfang_clan [organization]
+- fought_in → the_first_alliance [organization] — Fought in the Alliance against the Five Generals
+- guards → kharzuls_blade [item] — Entrusted with the sealed blade for generations
+- raised → balor_skallfang [character] — Adopted and raised Balor
+- connected_to → the_last_stand [lore] — Northern monster hunters from the frontier
+
+## the_southeastern_port [location]
+- located_in → kythoria [location] — On the southeast coast of Kythoria
+- connected_to → society_economy_and_culture [lore] — Major sea trade hub
+
+## the_thormvuld_family [organization]
+- located_in → the_northeast_settlement_cluster [location] — Originates from this region
+- operates_in → emberforge [location] — Strong presence in Emberforge
+- connected_to → society_economy_and_culture [lore] — Premier magical item producers
+
 ## the_raven_queen [character]
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
 - connected_to → god_of_peace_and_twilight [character] — Shares an understanding of boundaries
+
+## weaveheart [location]
+- part_of → the_last_stand [lore] — One of the three capital cities of the Last Stand
+- sister_city_to → skywatch [location] — The three capitals work together
+- sister_city_to → emberforge [location] — The three capitals work together
+- located_in → kythoria [location] — Located in the temperate heartlands of Kythoria
+- fosters → the_adventurers_guild [organization] — Guild headquarters in Weaveheart
+- fosters → the_order_of_the_dawn [organization] — Main temple of the Order of the Dawn
+- fosters → the_ecumenical_council [organization] — Council meets in Weaveheart
+- connected_to → the_arcane_weave [lore] — Built at a ley line convergence
+- connected_to → society_economy_and_culture [lore] — Arcane and research heart of the Last Stand
+
+## the_vigil_of_the_dusk [organization]
+- church_of → god_of_peace_and_twilight [character] — The church of the God of Peace and Twilight
+- member_of → the_ecumenical_council [organization] — Part of the interfaith council
+- connected_to → the_order_of_the_raven [organization] — Shares an understanding of boundaries and transitions
 
 ## the_world_and_geography [lore]
 - shaped_by ← monsters_and_ecology [lore] — The invasion defined Kythoria's settlement patterns and reconquering

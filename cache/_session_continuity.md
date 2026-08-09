@@ -438,9 +438,18 @@ The following questions emerged from processing the Balor Skallfang backstory. T
 - `_master_relationships_map.md` — Added full sections for balor_skallfang and kharzuls_blade. Updated sections for monsters_and_ecology, the_crimson_covenant, the_last_stand, the_arcane_reactive_crystals, the_great_sacrifice, races_and_ancestries, the_gods_and_the_deception
 - `_session_continuity.md` — This file updated
 
-### Total Cache Files
-- **24 files** (23 existing + 2 new - 1 backup removed) across all entity types
-  - Note: The Crimson Covenant was moved from `lore/` to `organizations/` (file count unaffected — same file, new location)
+### Total Cache Files (After Mass Creation)
+- **52 entity files** across all types:
+  | Type | Count | Files |
+  |------|-------|-------|
+  | Characters | 9 | 8 gods + Balor Skallfang |
+  | Events | 4 | the_great_sacrifice, the_abominable_end, founding_of_the_last_stand, the_sealing_of_kharzul |
+  | Items | 1 | kharzuls_blade |
+  | Locations | 10 | aetris, kythoria, skywatch, emberforge, weaveheart, the_northeast_settlement_cluster, the_southeastern_port, the_eastern_port, the_frontier, the_arcane_reactive_crystal_cave |
+  | Organizations | 16 | the_crimson_covenant, the_first_alliance, the_order_of_the_dawn, the_guild_of_the_spark, the_circle_of_the_wild, the_order_of_the_scales, the_order_of_the_currency, the_vigil_of_the_dusk, the_coven_of_the_spider, the_order_of_the_raven, the_ecumenical_council, the_council_accord, the_adventurers_guild, the_thormvuld_family, the_skallfang_clan, the_four_barbarian_tribes |
+  | Lore | 12 | adventuring_classes, cosmology_and_the_planes, monsters_and_ecology, primal_nature_magic, races_and_ancestries, society_economy_and_culture, the_arcane_reactive_crystals, the_arcane_weave, the_gods_and_the_deception, the_last_stand, the_originals, the_world_and_geography |
+  - Plus cache meta-files: `_index.md` (52 entities listed), `_master_relationships_map.md`, `_session_continuity.md`, `todo_missing_entities.md`
+- **Total file system**: 56 `.md` files across the entire cache
 
 ---
 
