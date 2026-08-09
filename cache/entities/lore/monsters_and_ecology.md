@@ -274,6 +274,10 @@ This fragmentation has made the reconquering possible. The Last Stand forces exp
 
 The most closely guarded secret in all of Kythoria — known only to the gods, the Crimson Covenant, and a handful of mortal arcanists — is the theoretical possibility of **resurrecting Entity B**.
 
+### Discovery
+
+The Crimson Covenant did not stumble upon this secret recently. They have known about it for **far longer than the 400 years since the invasion began**. The knowledge was unearthed from **ancient Druidic scrolls** — records predating the mortal races — and through **communion with elder beings** that were created far before mortal species, entities that dwell in the outer planes and remember the time of the Originals.
+
 ### The Theory
 
 Because B's essence did not truly perish but scattered across the Material Plane, it is theoretically possible to **reassemble** it. The ritual would require gathering all the dispersed fragments:
@@ -283,26 +287,40 @@ Because B's essence did not truly perish but scattered across the Material Plane
 - **All magical items** — Every enchanted object, artifact, and magical focus
 - **Massive arcane energy** — Drawn from the Weave itself, potentially draining vast ley line convergences
 
-### The Result
+### The Ritual Mechanism
 
-If successfully performed, the ritual would **resurrect Entity B** — though in a slightly **weakened form**, as some of the arcane energy B scattered has been absorbed, spent, or lost to entropy over millennia.
+The ritual itself is a **complex runic system** carved into a **thick sheet of solid gold** using arcane-reactive crystals as the carving tools. When activated, it consumes **all arcane energy, currency metals, and magical items within a 3-mile radius**, converting them back into B's raw essence.
 
-Even weakened, a resurrected B would be **stronger than the gods** and fully capable of destroying them.
+The outcome is **not binary** — it scales directly with the quantity and quality of materials present at the ritual site:
+
+| Materials Available | Result |
+|-------------------|--------|
+| A few dozen gold coins, weak magical artifacts, minimal arcane energy | A **tiny crystal** of B's essence — indistinguishable from the crystals forming naturally across the Material Plane. No sentience, no power. |
+| Moderate amounts of currency, several magical items, concentrated arcane energy | A **larger crystal chunk** — possibly with faint sentience but no will. A curious artifact, nothing more. |
+| Significant wealth, many magical items (including powerful ones), dense arcane convergence | A **small version of B** — might be incorporeal or have very little corporeal presence. A fragment of consciousness, but not the full entity. |
+| Vast quantities of all materials, including the most powerful artifacts known | An **average to large-sized body** containing a **part of B's consciousness**. A significant being, but still incomplete. |
+| Nearly all currency metals, every magical item, all crystals, and the full arcane energy of a massive region | A **massive incorporeal version of B** — a god-like presence with immense power, but still not at full strength. |
+| **Everything** — Every scrap of B's scattered essence from across the Material Plane | **Entity B restored** — with powers **greater than the gods**, fully capable of destroying them and reshaping reality. |
+
+The ritual is **not exact** — the outcomes represent a spectrum. The Covenant's goal has always been to achieve the highest possible tier, but they would settle for any result that gives them a weapon against the gods.
 
 ### Who Knows
 
 - **The Gods** — Know of the ritual and fear it above all else. They are actively working to prevent it.
-- **The Crimson Covenant** — Knows of the ritual and **wants to perform it** to destroy the gods. This is their ultimate goal.
+- **The Crimson Covenant** — Knows of the ritual and **wants to perform it** to destroy the gods. This is their ultimate goal. They discovered it from ancient Druidic scrolls and communion with elder beings.
 - **Monster Army Leadership** — Some intelligent monsters know of the ritual and have begun researching how to achieve it, hoping to use a resurrected B against the gods.
 - **Mortal Arcanists** — A handful have independently discovered fragments of the truth and are racing to understand the full picture.
 
 ### Current Status
 
-The ritual is **not yet possible** to perform. Key requirements remain out of reach:
+The ritual is **not yet possible** to perform at any meaningful tier. Key requirements remain out of reach:
 - No one knows where all the currency metals are
 - Many crystals remain undiscovered or unharvested
 - The exact method of drawing sufficient arcane energy from the Weave has not been refined
 - The gods are actively destroying hoards to prevent accumulation
+- The Covenant lacks the materials to attempt even a mid-tier result
+
+However, the Covenant continues to gather resources, research locations of major hoards, and refine their understanding of the runic system. Every monster hoard left unguarded, every crystal vein left unmined, every magical artifact left in circulation is a potential component for the ritual.
 
 ## The Trio of Power
 
@@ -312,7 +330,7 @@ The revelation of B's lingering will and the resurrection ritual has created a *
 |---------|------|----------|------|
 | **The Gods** | Destroy mortalkind; prevent B's resurrection | Control over religion; command over religious orders; the monster army as a proxy | Mortals discovering the ritual; B being resurrected and destroying them |
 | **The Crimson Covenant** | Destroy the gods by resurrecting B | Blackmail knowledge about B and the ritual as leverage against the gods; members embedded in the monster army | The gods silencing them before they can complete their research |
-| **The Monster Army** | Destroy mortal races; potentially destroy the gods | Raw military power; the bulk of the invasion force; hosting CC researchers | Being used as pawns by the gods; the truth about the divine conspiracy |
+| **The Monster Army** | Destroy the gods, then destroy all mortal races; conquer every planar domain and rule all of existence | Raw military power; the bulk of the invasion force; hosting CC researchers | Being used as pawns by the gods; the truth about the divine conspiracy revealing their expendability |
 
 ### The Delicate Balance
 
@@ -320,7 +338,15 @@ Each faction holds something the others want or fear:
 
 - **Gods vs. Covenant**: The Covenant knows the truth about B and the ritual. If the gods move against them directly, the Covenant will reveal the divine conspiracy to the monsters — turning the army against its creators.
 - **Covenant vs. Monsters**: The Covenant works within the monster army, researching crystals and the ritual. The monsters benefit from this research and host them — but don't fully trust them either.
-- **Monsters vs. Gods**: The monsters serve the gods' plan unknowingly. But if they learn the truth — that they were manipulated, that their generals were not told why they invaded — they may turn on their creators.
+- **Monsters vs. Gods**: The monsters serve the gods' plan unknowingly. But if they learn the truth — that they were manipulated, that their generals were not told why they invaded — they would turn on their creators. However, they would not stop there.
+
+### The Monster Army's True Ambition
+
+If the monsters learned the full truth — that the gods orchestrated the invasion, used them as disposable weapons, and created them for a parricide scheme — **both the monsters and the mortal races** would turn against the gods and attempt to destroy them. But the monster army's goal extends beyond divine vengeance.
+
+The monsters would not ally with mortals after the gods fell. Their ultimate ambition, once freed from divine manipulation, would be to **destroy the mortal races as well** and assume control of **every planar domain**, conquering all of existence. The monster army sees itself as the rightful inheritors of creation — stronger, more enduring, and deserving of dominion over gods and mortals alike.
+
+This hidden ambition makes the triad even more volatile. The Crimson Covenant believes they could control a resurrected B and use it against the gods, but they may not have fully considered what the monsters would do in the chaos that follows.
 
 This triad of tension — echoing Kythoria's recurring theme of **threes** — is the hidden engine driving the world's politics.
 
@@ -387,10 +413,10 @@ The following questions remain open for future development:
 5. ⏳ **Monster Economy Details** — Specific guilds, merchants, and industries focused on monster parts
 6. ⏳ **Crystal-Corrupted Apex** — What happens when a dragon or similarly powerful creature becomes crystal-corrupted?
 7. ⏳ **Monster Categories by Plane** — Left intentionally open to allow flexible encounter design
-8. ⏳ **Ritual Requirements** — The exact method and requirements for the B resurrection ritual have not been fully defined
+8. ✅ **Ritual Requirements** — Defined: scales with materials from tiny crystal to full Entity B restoration. Detailed in "The Resurrection Ritual" section above.
 9. ⏳ **Mortal Discoverers** — Which specific mortal arcanists or groups have independently discovered parts of the truth about B and the ritual?
-10. ⏳ **The Blackmail Threshold** — How far can the Crimson Covenant push the gods before the gods decide the risk of exposure is worth acting?
-11. ⏳ **Monster Army's Breaking Point** — If the monsters learn the truth about the divine conspiracy, would they unite against the gods or fragment further?
+10. ✅ **The Blackmail Threshold** — Defined: backed by a contingency artifact that broadcasts truth to all mortals if not reset daily. Detailed in Crimson Covenant file.
+11. ✅ **Monster Army's Breaking Point** — Defined: would turn on gods AND mortals, seeking to conquer all planar domains. Detailed above in "The Monster Army's True Ambition."
 
 ## Resolved Questions
 

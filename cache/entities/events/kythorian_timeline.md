@@ -71,6 +71,9 @@ The monster army consolidated under Five Major Generals: Khar'zul (The Flesh Tha
 ### During the Abominable End — Crimson Covenant Early Experiments
 Descended from dissident First Alliance scholars, the Covenant conducted experiments grafting demonic tissue onto living subjects. Elven subjects became Drow and Shadow Elves. Human subjects became Tieflings.
 
+### During the Abominable End — The Resurrection Ritual Discovered
+Through the study of **ancient Druidic scrolls** — records predating the mortal races — and **communion with elder beings** dwelling in the outer planes who remember the time of the Originals, the Crimson Covenant discovered the theoretical possibility of resurrecting Entity B. They learned of the ritual's requirements: a complex runic system carved into solid gold using arcane-reactive crystals, consuming all arcane energy, currency metals, and magical items within a 3-mile radius. The outcome scales with the quality and quantity of materials provided — from a tiny inert crystal to a fully restored Entity B stronger than the gods.
+
 ### Following the Early Experiments — Project Genesis Begins
 Using fragments of Khar'zul's sealed blade, the Covenant initiated a multi-generational effort to create a mortal vessel capable of containing Khar'zul's essence. Humans perished, elves lost their minds, dwarves rejected the corruption. The Covenant switched to tracking specific bloodlines.
 
@@ -160,7 +163,7 @@ Balor carries the blade with him at all times. The whispers have grown louder. T
 |---------|------|----------|------|
 | **The Gods** | Destroy mortalkind; prevent B's resurrection | Control over religion; religious orders; the monster army as proxy | Mortals discovering B and the ritual; B being resurrected |
 | **The Crimson Covenant** | Destroy the gods by resurrecting B in weakened form | Blackmail (divine conspiracy knowledge); members embedded in monster army | Being silenced before completing research |
-| **The Monster Army** | Destroy mortal races; potentially destroy the gods | Raw military power; ~1/3 of the continent held | Being used as pawns; learning the truth about the divine conspiracy |
+| **The Monster Army** | Destroy the gods, then destroy all mortal races; conquer every planar domain and rule all of existence | Raw military power; ~1/3 of the continent held | Being used as pawns; learning the truth about the divine conspiracy revealing their expendability |
 
 ### Current Battlefield State
 

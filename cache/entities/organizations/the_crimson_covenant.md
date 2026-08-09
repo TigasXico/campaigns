@@ -24,6 +24,8 @@ secrets:
     access: gm-only
   - text: "The demonic tissue used in the experiments came from a source that has not yet been revealed."
     access: gm-only
+  - text: "The Covenant's blackmail is backed by a contingency artifact that must be reset daily by all higher members' magical signatures. If not reset, it broadcasts the truth about the gods — the Originals, Entity B, the invasion conspiracy, and how to bring the gods down — to every mortal being in the world. The gods have been searching for this artifact for centuries without success."
+    access: gm-only
 created: 2026-08-08
 updated: 2026-08-09
 ---
@@ -187,16 +189,26 @@ The Covenant holds this knowledge as **blackmail** against the gods:
 
 > *"If you move against us — if you try to silence us, destroy our research, or expose our operatives — we will reveal everything to the monster army. We will tell them about B, about the ritual, about your role in the invasion. We will turn the horde against its creators."*
 
-This threat keeps the gods at bay. However, the balance is delicate. The gods have already begun hunting Covenant operatives through their religious orders, and the Covenant knows it is only a matter of time before the standoff escalates.
+#### The Contingency Artifact
 
-### The Delicate Balance
+The Covenant does not rely on verbal threats alone. They have created a **magical artifact of immense power** — a device that must be **reset daily** by the combined magical signatures of all higher-ranking members (the Inner Circle and Apostles). If the reset does not occur — because the members have been killed, captured, or otherwise prevented — the artifact triggers a **worldwide message** that **every mortal being can hear**, regardless of distance, barriers, or wards.
 
-The Crimson Covenant exists at the center of a three-way standoff:
-- **Vs. The Gods**: Wants to destroy them; holds blackmail leverage, but the gods are actively hunting them
-- **With the Monster Army**: Researches for them and shares knowledge, but neither side fully trusts the other
-- **Vs. The Mortal Races**: Their experiments have caused immense suffering; would be universally condemned
+The message reveals:
+- The truth about the **Originals** — A, B, and C
+- That the **gods orchestrated the monster invasion** and want all mortal races dead
+- The existence of **Entity B** and the **resurrection ritual**
+- That the gods **can be brought to their knees** — by ceasing worship and instead **worshipping Entity B**, and by performing the ritual to resurrect it
 
-The Covenant walks a knife's edge — pursuing the destruction of gods while hiding from mortals, negotiating with monsters, and fending off divine assassins.
+The **gods have been searching for this artifact** ever since they learned of its existence. After centuries of searching, they have had little success — the Covenant hid it well, and its exact nature and location are known only to the Inner Circle.
+
+#### The Delicate Balance
+
+The standoff is a careful dance. Neither side can push too hard:
+
+- **The gods** will not hesitate to **eliminate Covenant members directly** if the Covenant's actions hinder their plans too severely. But they cannot act openly — doing so would risk exposing their fear of the truth being revealed.
+- **The Covenant** does not actually want the world to hear the broadcast either. If the truth were revealed indiscriminately, they would **lose their upper hand** against the gods. The power vacuum following the gods' downfall would be chaotic, and the Covenant wants to be the ones **controlling the transition** — not bystanders watching it unfold.
+
+> ⚠️ **Future refinement needed:** This balance should be revisited with the **monster army's POV** integrated. The monsters are the third point of the power triad, and their ambitions complicate the standoff significantly.
 
 ## Secrets
 
