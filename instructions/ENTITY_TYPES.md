@@ -14,6 +14,7 @@ Defines all entity categories used in the lore cache and their required/optional
 | **Event** | `cache/entities/events/` | Battles, festivals, cataclysms, historical milestones |
 | **Item** | `cache/entities/items/` | Artifacts, magic items, relics, legendary weapons |
 | **Lore/Concept** | `cache/entities/lore/` | Magic systems, cultural practices, prophecies, laws, philosophies |
+| **Campaign Note** | `cache/entities/campaign_notes/` | GM-facing design decisions, worldbuilding rationale, meta-lore, session continuity |
 
 ---
 
@@ -24,7 +25,7 @@ Every entity file (`cache/entities/<type>/<entity_id>.md`) MUST contain the foll
 ```yaml
 ---
 id: entity_id_in_snake_case
-type: character|location|organization|event|item|lore
+type: character|location|organization|event|item|lore|campaign_note
 name: "Display Name"
 status: draft|active|revised|archived
 tags:
@@ -88,6 +89,9 @@ After the frontmatter, the body contains **narrative content** in plain Markdown
 
 ### Lore/Concept
 `## Overview` · `## Principles` · `## Practice` · `## Significance` · `## Variations` · `## Secrets`
+
+### Campaign Note
+`## Overview` · `## Design Rationale` · `## Key Decisions` · `## Implications` · `## Open Questions`
 
 ---
 

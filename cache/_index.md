@@ -53,3 +53,8 @@
 | the_thormvuld_family | organization | The Thormvuld Family | draft | 2026-08-09 |
 | the_vigil_of_the_dusk | organization | The Vigil of the Dusk | draft | 2026-08-09 |
 | the_world_and_geography | lore | The World & Geography | draft | 2026-08-08 |
+| magic_and_classes_design | campaign_note | Magic & Classes Design Decisions | active | 2026-08-09 |
+| monsters_and_invasion_design | campaign_note | Monsters & Invasion Design Decisions | active | 2026-08-09 |
+| races_and_ancestries_design | campaign_note | Races & Ancestries Design Decisions | active | 2026-08-09 |
+| society_and_culture_design | campaign_note | Society & Culture Design Decisions | active | 2026-08-09 |
+| world_and_geography_design | campaign_note | World & Geography Design Decisions | active | 2026-08-09 |
