@@ -191,8 +191,8 @@ These gaps were identified during the consistency audit and are now tracked for 
 
 **How to maintain:**
 1. When creating a new entity with a timeframe (event, location founding, character backstory, historical occurrence), open `kythorian_timeline.md`
-2. Find the correct era section (Cosmogonic Era, Era of Foundation, The Abominable End, The Rise of the Mortals, The Hidden War, or Balor's Story)
-3. Add the event in chronological order within that era
+2. Find the correct chronological position in the event list
+3. Insert the event in order by timeframe, maintaining the ### heading format
 4. Include: Timeframe, Description, and related entity references
 5. If a new era is needed, add it at the appropriate chronological position
 6. Update the `updated` field in the file's frontmatter
@@ -219,3 +219,4 @@ The next instance could:
 - `cache/entities/items/kharzuls_blade.md` — The living prison item
 - `cache/entities/lore/the_crimson_covenant.md` — Full rewrite with Project Genesis
 - `cache/entities/lore/the_last_stand.md` — First Alliance expansion
+
