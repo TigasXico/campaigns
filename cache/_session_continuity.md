@@ -203,7 +203,7 @@
 - **Strength-based natural hierarchy** — stronger monsters dominate weaker ones, leaders fight to the death for control of merged groups
 - Sometimes groups **merge peacefully** with 2-3 co-leaders (threes theme)
 - **Five Major Generals** emerged by the time of the Last Stand (~200 years ago)
-- **Khar'zul (The Flesh That Remembers)** — A balor from the Nine Hells. **DEFEATED** by the First Alliance. Sealed within his own sword, now carried by Balor Skallfang. Full story processed — see `balor_skallfang.md` and `kharzuls_blade.md`.
+- **Khar'zul (The Flesh That Remembers)** — A balor from the Abyss. **DEFEATED** by the First Alliance. Sealed within his own sword, now carried by Balor Skallfang. Full story processed — see `balor_skallfang.md` and `kharzuls_blade.md`.
 - **Three of the Five Generals** were defeated by the First Alliance. The other two retreated and remain in hiding or at unknown locations.
 - The other four generals are left undefined for future development
 
@@ -342,7 +342,7 @@
 - **~400 years ago**: Monster invasion began at continent fringes
 - **~200 years ago**: The Last Stand founded; three capitals established; magical barrier created; reconquering began
 - **Present**: South & east recovered; north & west still contested (~1/3 of continent unrecovered)
-- **First Alliance**: Formed before the Last Stand. Defeated 3 of the 5 Monster Generals (including Khar'zul). The other 2 retreated.
+- **First Alliance**: Formed after the three capitals were established, as the army of the Last Stand. Defeated 3 of the 5 Monster Generals (including Khar'zul). The other 2 retreated. Their victory marked the beginning of The Rise of the Mortals.
 
 ### Other Decisions
 - Lifespans: Standard 5e
@@ -461,14 +461,14 @@ The following questions emerged from processing the Balor Skallfang backstory. T
 1. **First Alliance organization created**: Created `cache/entities/organizations/the_first_alliance.md` — the historic military alliance that defeated three of the Five Monster Generals. Added to `_index.md` and `_master_relationships_map.md` (forward + inverse references across 8 entity sections). Also fixed lingering "Last Alliance" → "First Alliance" in `monsters_and_ecology.md` section header.
 2. **Crimson Covenant moved to organizations/**: The Covenant was stored as `type: lore` in `cache/entities/lore/` but is an organization (has hierarchy, membership, goals, headquarters). Created `cache/entities/organizations/the_crimson_covenant.md` with proper Organization section headings (Structure, Membership, Headquarters, Goals, History, Current Activity). Deleted old lore file. Updated `_index.md` type. Updated all references in `_master_relationships_map.md` from `[lore]` to `[organization]`.
 3. **Khar'zul's origin**: Corrected from "Nine Hells" to "Abyss" (balors are demons, not devils) in `monsters_and_ecology.md`
-2. **Gods' knowledge secret**: Updated `the_gods_and_the_deception.md` secrets tag — they didn't know about B's will at first, but have since discovered it
-3. **"Last Alliance" → "First Alliance"**: Corrected in `balor_skallfang.md`
-4. **Barbarian "No magic" → "No spells"**: Corrected in `adventuring_classes.md` table (all creatures contain arcane energy, but barbarians don't cast spells)
-5. **Backup removed**: Deleted `society_economy_and_culture_backup.md`
-6. **"Khar'zul's mother" → "Balor's mother"**: Corrected in `balor_skallfang.md` open questions
-7. **First Alliance timeline clarified**: Updated `the_last_stand.md` — the First Alliance was the army of the Last Stand, formed after the capitals were established, and drove the reconquering. Their victory marked the beginning of The Rise of the Mortals.
-8. **Crystal cave location**: Updated `society_economy_and_culture.md` — the massive cave lies beneath Skywatch and Weaveheart, extending to the side of Emberforge, covering the entire area where the forest grows on top
-9. **Missing relationships added**: `the_originals → primal_nature_magic` (essence suffused nature) and `the_great_sacrifice → the_world_and_geography` (precious metals shaped settlement/economy) added to `_master_relationships_map.md`
+4. **Gods' knowledge secret**: Updated `the_gods_and_the_deception.md` secrets tag — they didn't know about B's will at first, but have since discovered it
+5. **"Last Alliance" → "First Alliance"**: Corrected in `balor_skallfang.md`
+6. **Barbarian "No magic" → "No spells"**: Corrected in `adventuring_classes.md` table (all creatures contain arcane energy, but barbarians don't cast spells)
+7. **Backup removed**: Deleted `society_economy_and_culture_backup.md`
+8. **"Khar'zul's mother" → "Balor's mother"**: Corrected in `balor_skallfang.md` open questions
+9. **First Alliance timeline clarified**: Updated `the_last_stand.md` — the First Alliance was the army of the Last Stand, formed after the capitals were established, and drove the reconquering. Their victory marked the beginning of The Rise of the Mortals.
+10. **Crystal cave location**: Updated `society_economy_and_culture.md` — the massive cave lies beneath Skywatch and Weaveheart, extending to the side of Emberforge, covering the entire area where the forest grows on top
+11. **Missing relationships added**: `the_originals → primal_nature_magic` (essence suffused nature) and `the_great_sacrifice → the_world_and_geography` (precious metals shaped settlement/economy) added to `_master_relationships_map.md`
 
 ### Newly Identified Gaps (Added Tracking)
 

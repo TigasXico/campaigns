@@ -37,6 +37,14 @@ Created to stabilize the Material Plane. A triad of opposing forces:
 - Ethereal: Permeability, Emotionlessness
 Their balanced opposition makes the Material Plane possible. The triad echoes the three Originals.
 
+### The Anchors — Dual Role
+
+The Feywild and Shadowfell serve a critical structural function: they are **Anchor Planes** that stabilize the Material Plane. Their existence provides the metaphysical foundation upon which the Material Plane rests, preventing cosmic drift and maintaining the structural integrity of reality.
+
+However, the **function of the plane** and the **actions of its inhabitants** are independent. The Feywild and Shadowfell stabilize the Material Plane as a matter of cosmic physics — but the entities within those realms (fey, shadow creatures, and their leaders) can act freely. A fey lord can invade the Material Plane without disrupting the stability the Feywild provides. A shadow creature can attack a settlement while the Shadowfell continues to anchor reality.
+
+This distinction is important to the history of the monster invasion: the planar pact with the Feywild and Shadowfell supplied monsters for the invasion, but the planes themselves continued to stabilize the Material Plane throughout. The stability was never at risk — only the mortals living on it.
+
 ### Astral Plane
 The connective fabric tying all planes together. Allows planes to influence each other — the Anchors stabilize the Material, moral concepts flow from the Outer Planes, planar travel is possible, and souls pass through to the afterlife.
 
