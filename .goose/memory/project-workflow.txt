@@ -1,0 +1,15 @@
+# # WA WorldAnvil abbreviationcache structure file locations
+
+WA = WorldAnvil. Always use this abbreviation when referring to WorldAnvil in this project.The cache is the single source of truth. Located at cache/. Key files: _index.md (entity registry table), _master_relationships_map.md (bidirectional relationship graph with →/←/↔ symbols). Entity files go in cache/entities/<type>/<entity_id>.md. Generated BBCode articles go in articles/output/<entity_id>.bbcode.# # 
+
+BBCode WA articles subscriber groups secrets
+
+entities cache schemas# 
+
+workflow process WA Lore KeeperWA articles use BBCode format. Cross-article links: [article:entity_id]Display Name[/article]. Secret content: [subscribergroup:group_name]content[/subscribergroup]. Subscriber groups: gm-only (DM secrets), all-party (shared party knowledge), player-character-N (per-character secrets).
+Entity types available in the lore cache: character, location, organization, event, item, lore. Each entity file is stored at cache/entities/<type>/<entity_id>.md with YAML frontmatter (id, type, name, status, tags, related, secrets, created, updated) and markdown body sections.
+
+
+
+The WA Lore Keeper workflow has 5 steps: (1) Record voice note, (2) Transcribe via Whisper to clipboard, (3) Goose processes transcription & summarizes needed changes, (4) Goose updates local cache (entities, relationships, index), (5) Goose generates BBCode articles for WA with secrets/subscriber groups.
+

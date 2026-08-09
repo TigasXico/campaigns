@@ -1,0 +1,6 @@
+TODO: Fix mcp-read-pdf execution error
+- Explicit: Resolve ModuleNotFoundError for 'mcp.server.fastmcp' in mcp-read-pdf.exe
+- Implicit: Ensure mcp package with fastmcp module is available in uv cache environment
+- Verify extension compatibility with current mcp version
+
+STATUS: Pip installs in uv cache failed to include fastmcp module. Next step: Reinstall mcp-read-pdf extension to force dependency bundle.
