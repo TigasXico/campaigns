@@ -48,6 +48,68 @@ This document defines the canonical 5-step workflow for capturing, processing, a
 
 ---
 
+## ⚡ Cost Optimization Protocol (MANDATORY)
+
+> **Context is money.** Each turn costs $0.08-0.12. Every unnecessary KB of context adds cost.
+> Follow these rules strictly to keep sessions affordable.
+
+### R1 — Context Budget Tiers
+Before starting any task, determine which tier of files you need and load ONLY those:
+
+| Tier | When to Load | Max Target |
+|------|-------------|------------|
+| **T0 — Always** | `_session_continuity.md` (pruned), `WORKFLOW.md`, `CACHE_FORMAT.md` | ~20KB |
+| **T1 — Primary** | Entity files DIRECTLY related to the current task | ~30KB |
+| **T2 — Reference** | Cross-domain files — only if the task spans multiple categories | ~40KB |
+| **T3 — Rare** | `_master_relationships_map.md` — only for relationship audits | ~31KB |
+
+**Examples:**
+- Processing a monster lore update → Load only `monsters_and_ecology.md`
+- Creating a new location → Load only that location type's templates
+- Full consistency audit → Load T0 + T2 + T3
+
+### R2 — Prefer `edit` Over `write`
+- For small changes to existing files, always use `edit` (find/replace) instead of `write` (overwrite)
+- `edit` changes only the affected tokens; `write` re-processes the entire file
+- Batch multiple edits into one tool call when possible
+
+### R3 — Delegate Expensive Sub-Tasks
+If a task would require loading 3+ large entity files (>90KB total), split the work:
+
+```
+You (orchestrator) — Loads only T0 (~20KB)
+ ├─ Sub-agent A → Loads & processes economy files
+ ├─ Sub-agent B → Loads & processes monster files
+ └─ You → Synthesize results
+```
+
+Each sub-agent has a small, focused context. Use `delegate(async: true)` for parallel work, then `load(taskId)` to collect results. **Never load 3+ large files into one context.**
+
+### R4 — Turn Budget Awareness
+- The `<turn-budget>` in context tells you how many turns remain
+- Early in budget (lots left) → normal work
+- Middle budget → batch operations, reduce exploration
+- Low budget → make reasonable assumptions, skip optional work, finish
+
+### R5 — File Reading Discipline
+- Never re-read a file already in your current context
+- When working with `_session_continuity.md`, extract what you need in one pass
+- Prefer `execute_typescript` with batched read/write operations over separate tool calls
+
+### R6 — Session Compaction
+- If `_session_continuity.md` grows past **12KB**, prune it:
+  - Remove open questions that have been ✅ resolved for more than 2 sessions
+  - Shorten question descriptions to 1 line each
+  - Archive detailed session logs to `cache/archived/`
+- Mark resolved questions with ✅ and keep the last 3 sessions of deltas only
+
+### R7 — Batch Tool Operations
+- ALWAYS batch multiple tool operations into ONE `execute_typescript` call
+- WRONG: Separate `shell` calls for read, then edit
+- RIGHT: One `execute_typescript` with an async `run()` that reads, transforms, and writes
+
+---
+
 ## Version Control & Commit Protocol
 
 > **Mandatory**: Every Goose work session must end with a commit summary. Do not make changes silently.

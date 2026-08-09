@@ -118,7 +118,7 @@ Drawbacks scale with power — whispers intensify, Khar'zul offers greater tempt
 
 ## Open Questions
 
-1. ⏳ **Why did the eye form?** — Is it Khar'zul's consciousness manifesting, the blade developing its own awareness, or something else?
-2. ⏳ **Where was the blade sealed and guarded during the years after Khar'zul's defeat?** — It was entrusted to the Skallfang Clan, but exact details of its journey to Hrothgar are unclear.
-3. ⏳ **Did the blade start following Balor and his mother rather than being carried?** — This may explain how the infant and blade were found together despite the mother's disappearance.
-4. ⏳ **What are the exact requirements for the Rite of Ash?** — Currently known as a prayer in Old Abyssal, but its full parameters are undefined.
+1. ✅ **Why did the eye form?** — **Resolved.** Khar'zul's essence is evolving within the prison. The eye is his consciousness reaching outward — a symptom of the chrysalis transformation (see Secrets). The blade is no longer a prison; it is becoming Khar'zul's new body.
+2. ✅ **Where was the blade hidden?** — **Resolved.** First century: the **Whispering Glacier** in the Frostmaw — a vault carved into ancient ice where the cold suppressed the blade's influence. Second century: moved to **Fanghold's Vault**, a sealed chamber deep within the Skallfang Clan's mountain fortress. Hrothgar, as the designated Keeper of the Oath, was its final guardian.
+3. ✅ **Did the blade follow Balor?** — **Resolved.** Yes. From the moment Balor was born, the blade's eye turned toward him. Seraphina discovered that she could not leave the blade behind — it would follow the baby. This was the first sign that the blade had chosen its vessel.
+4. ⏳ **What are the exact requirements for the Rite of Ash?** — Known as a prayer in Old Abyssal spoken over the blade while meditating. Full parameters (duration, cost, failure conditions) remain undefined for campaign flexibility.

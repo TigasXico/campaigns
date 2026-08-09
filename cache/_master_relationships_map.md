@@ -1,4 +1,9 @@
 # Master Relationships Map
+> ⚠️ **Tier 3** — Load only for relationship audits.
+> Files restructured 2026-08-09: `society_economy_and_culture` split → `society`, `economy`, `culture_and_society`.
+> `adventuring_classes` split → `adventuring_classes` + `class_training_and_culture`.
+> `monsters_and_ecology` split → `monsters_and_ecology` + `the_divine_conspiracy`.
+> See individual file frontmatter `related` field for entity-level relationships.
 
 ## adventuring_classes [lore]
 - hunts → monsters_and_ecology [lore] — Adventurers hunt monsters as their primary occupation
@@ -407,6 +412,28 @@
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
+
+## seraphina_vex [character]
+- mother_of → balor_skallfang [character] — Biological mother of Balor Skallfang
+- betrayed → the_crimson_covenant [organization] — Betrayed the Covenant to save her son
+- fled_with → kharzuls_blade [item] — Escaped with Khar'zul's sealed blade
+- hunted_by → the_crimson_covenant [organization] — Pursued and killed by Covenant hunters
+- died_in → the_frostmaw [location] — Fell into a glacial crevasse in the Frostmaw mountains
+- left_behind → the_medallion_of_vex [item] — Her Apostle medallion, left with Balor as an infant
+
+## the_frostmaw [location]
+- homeland_of → the_skallfang_clan [organization] — The Skallfang Clan's ancestral territory
+- contains → fanghold_settlement [location] — The clan's main fortress settlement
+- located_in → kythoria [location] — Northernmost region of the continent
+- connected_to → the_frontier [location] — Lies beyond the Western Frontier
+- guarded → kharzuls_blade [item] — The blade was hidden here for two centuries
+- connected_to → monsters_and_ecology [lore] — Home to the most dangerous northern monsters
+
+## the_medallion_of_vex [item]
+- carried_by → balor_skallfang [character] — Carried in Balor's leather satchel
+- belonged_to → seraphina_vex [character] — Seraphina's personal Apostle badge
+- key_to → the_crimson_covenant [organization] — Master key to Covenant vaults and archives
+- connected_to → balor_skallfang [character] — Key to learning the truth about his origins
 
 ## weaveheart [location]
 - part_of → the_last_stand [lore] — One of the three capital cities of the Last Stand

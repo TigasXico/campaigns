@@ -6,170 +6,172 @@ status: draft
 tags:
   - timeline, history, chronology
 related:
-  - the_originals: The Originals created all that exists
+  - the_originals: Originals created all existence
   - the_great_sacrifice: B's sacrifice reshaped reality
-  - the_gods_and_the_deception: The gods' actions span the timeline
-  - the_abominable_end: The monster invasion defines an era
-  - founding_of_the_last_stand: The turn of the eras
-  - the_sealing_of_kharzul: A pivotal event in the war
-  - monsters_and_ecology: Monsters remain a threat in the present
-  - the_crimson_covenant: The Covenant's schemes span centuries
-  - balor_skallfang: Balor's story is the present-day culmination
-  - the_world_and_geography: Geography shapes where events unfold
-  - society_economy_and_culture: Current society emerged from these events
+  - the_gods_and_the_deception: Gods' actions span the timeline
+  - the_abominable_end: The monster invasion era
+  - founding_of_the_last_stand: Turn of the eras
+  - the_sealing_of_kharzul: Pivotal war event
+  - monsters_and_ecology: Monsters remain a threat
+  - the_crimson_covenant: Schemes spanning centuries
+  - balor_skallfang: Present-day culmination
+  - society: Current society emerged from these events
+  - economy: Economy shaped by historical events
 created: 2026-08-09
 updated: 2026-08-09
 ---
 
-> **Note on Dating:** A precise year-zero system has not yet been established. All dates are given as relative timeframes. "Present" refers to the campaign's start.
-
-## Overview
-
-This timeline compiles every known event in Kythorian history, from the primordial origins of existence to the present day. It draws from all established lore files across the WA Lore Keeper cache. Events are organized chronologically.
-
----
+> All dates relative. "Present" = campaign start.
 
 ### Before Time — The Originals
-The three Originals — referred to only as **A**, **B**, and **C** — existed before the concept of time. They are so primordial that they did not have names; they created the very concept of naming. Their nature and origin are unknown.
+A, B, C existed before time. No names, no known origin.
 
 ### Before Recorded History — Creation of the Planes
-The Originals created all planes through a series of experiments in search of the perfect framework for mortal consciousness: Inner Planes (Elemental) first, then Outer Planes, then the Three Anchors (Ethereal, Feywild, Shadowfell), the Astral Plane, and finally the Material Plane (Aetris/Kythoria) — the final successful experiment.
+Originals created Inner Planes → Outer → Anchor (Ethereal, Feywild, Shadowfell) → Astral → Material (Aetris/Kythoria).
 
-### Before Recorded History — The Mortal Races Created
-The Originals created the mortal races and brought them to live on the Material Plane. An accidental byproduct emerged: **free will**. A and C found this unacceptable.
+### Before Recorded History — Mortal Races Created
+Originals created mortal races on Material Plane. Accidental byproduct: **free will**. A and C found this unacceptable.
 
 ### Before Recorded History — The Great Sacrifice
-B foresaw that A and C intended to destroy the mortal races. B sacrificed itself, its essence scattering across all planes. This created: the Arcane Weave, ley lines, precious metals and gemstones, arcane energy in nature, latent arcane potential in all mortals, and B's lingering subconscious will.
+B foresaw A and C's intent to destroy mortals. B sacrificed itself, essence scattering across planes, creating: the Weave, ley lines, precious metals/gemstones, magic in nature, latent mortal arcane potential, and B's lingering subconscious will.
 
-### After the Great Sacrifice — A and C Subdivide into Gods
-Seeing B's sacrifice as a betrayal, A and C subdivided into ten lesser celestial beings — the gods — to control mortals through religion, harvest faith, create division, and act from the shadows.
+### After the Great Sacrifice — A and C Subdivide into 10 Gods
+A and C subdivided into ten gods to control through religion, harvest faith, create division, act from shadows.
 
-### After the Gods Formed — The Public Creation Myth (Fabricated)
-The gods fabricated a false creation story presenting themselves as independent creators, omitting the Originals entirely: Kaelthor → Aurelius → Vesper → Aloria → Tyra → Raven Queen → Thalkis → Crassian → Vorn → Lolth.
+### After the Gods Formed — Public Creation Myth Fabricated
+False creation story: Kaelthor → Aurelius → Vesper → Aloria → Tyra → Raven Queen → Thalkis → Crassian → Vorn → Lolth.
 
-### After the Gods Formed — The Race Deception
-Each god falsely claims to have created a specific mortal race. In truth, no god created any race.
+### After the Gods Formed — Race Deception
+Each god falsely claims to have created a specific race. No god created any race.
 
-### After the Gods Formed — The Churches Established
-The gods established their churches and began harvesting faith, discovering it made them stronger.
+### After the Gods Formed — Churches Established
+Gods established churches, began harvesting faith (makes them stronger).
 
-### Before ~400 Years Ago — Pre-Invasion Kingdoms
-The mortal races lived in distinct ancestral regions. Different races co-existed peacefully. Great kingdoms flourished. The royal mint operated in the northeast, martial orders and monastic traditions existed, and the pre-invasion capital stood in the center of the continent. Approximately 70% of written records from this era were lost during the Abominable End.
+### Before ~400 YA — Pre-Invasion Kingdoms
+Races in distinct ancestral regions. Great kingdoms flourished. Royal mint in NE, martial orders, monastic traditions. ~70% of written records lost during invasion.
 
-### ~400 Years Ago — The Planar Pact
-The gods struck deals with the Abyss, Nine Hells, Shadowfell, and Feywild, each plane negotiating its own price (souls, territory, power) to supply an invasion force. The monster army was never told why they were invading.
+### ~400 YA — The Planar Pact
+Gods struck deals with Abyss, Nine Hells, Shadowfell, Feywild. Prices: souls, territory, power. Monster army never told why invading.
 
-### ~400 Years Ago — The Planar Breaches Opened
-The gods opened planar breaches along the entire coast of Kythoria. From these tears in reality, the monster hordes poured forth.
+### ~400 YA — Planar Breaches Opened
+Breaches along Kythoria's coast. Monster hordes poured forth.
 
-### ~400 Years Ago — The Abominable End Begins
-An endless tide of monsters pushed inward from the coasts. For two centuries, civilization crumbled as the mortal races were steadily pushed back.
+### ~400 YA — The Abominable End Begins
+Two centuries of civilization crumbling.
 
 ### Early–Mid Abominable End — The Five Generals Emerge
-The monster army consolidated under Five Major Generals: Khar'zul (The Flesh That Remembers) — a balor from the Abyss — plus four others (two later defeated, two retreated and in hiding).
+Five Major Generals: Khar'zul (balor) + four others (2 defeated, 2 retreated/hiding).
 
-### During the Abominable End — Crimson Covenant Early Experiments
-Descended from dissident First Alliance scholars, the Covenant conducted experiments grafting demonic tissue onto living subjects. Elven subjects became Drow and Shadow Elves. Human subjects became Tieflings.
+### During Abominable End — Covenant Early Experiments
+Dissident scholars grafted demonic tissue onto subjects. Drow and Shadow Elves (elf subjects), Tieflings (human subjects).
 
-### During the Abominable End — The Resurrection Ritual Discovered
-Through the study of **ancient Druidic scrolls** — records predating the mortal races — and **communion with elder beings** dwelling in the outer planes who remember the time of the Originals, the Crimson Covenant discovered the theoretical possibility of resurrecting Entity B. They learned of the ritual's requirements: a complex runic system carved into solid gold using arcane-reactive crystals, consuming all arcane energy, currency metals, and magical items within a 3-mile radius. The outcome scales with the quality and quantity of materials provided — from a tiny inert crystal to a fully restored Entity B stronger than the gods.
+### During Abominable End — Resurrection Ritual Discovered
+Covenant discovered ritual through ancient Druidic scrolls and communion with elder beings. Requirements: runic system carved in gold using arcane-reactive crystals, consuming all arcane energy/metals/items within 3-mile radius. Outcome scales with materials provided.
 
-### Following the Early Experiments — Project Genesis Begins
-Using fragments of Khar'zul's sealed blade, the Covenant initiated a multi-generational effort to create a mortal vessel capable of containing Khar'zul's essence. Humans perished, elves lost their minds, dwarves rejected the corruption. The Covenant switched to tracking specific bloodlines.
+### Following Early Experiments — Project Genesis Begins
+Multi-generational effort to create Khar'zul vessel. Humans perished, elves lost minds, dwarves rejected corruption. Covenant switched to bloodline tracking.
 
-### ~200 Years Ago — The Mortal Races Pushed to the Brink
-After two centuries of relentless assault, the mortal races were pushed to the center-southeast of Kythoria. With nowhere left to retreat, they prepared to make their final stand.
+### ~200 YA — Mortal Races Pushed to Brink
+Two centuries of assault pushed races to center-southeast. Final stand prepared.
 
-### ~200 Years Ago — The Abominable End Ends / The Rise of the Mortals Begins
-The mortal races made their stand. **The Abominable End** concluded. **The Rise of the Mortals** began.
+### ~200 YA — Abominable End Ends / Rise of the Mortals Begins
 
-### ~200 Years Ago — Formation of the First Alliance
-Before the Last Stand capitals were built, the kings and leaders of the surviving races came together. They forged the First Alliance — an unprecedented military coalition uniting kings, archmages, high priests, monster hunters, and knightly orders. Their first decision: establish fortified cities and develop an arcane barrier.
+### ~200 YA — Formation of the First Alliance
+Kings, archmages, high priests, monster hunters, knightly orders united. First decision: fortified cities + arcane barrier.
 
-### ~200 Years Ago — Founding of the Last Stand
-Three capital cities were established: Skywatch (the Lookout), Emberforge (the Forge), and Weaveheart (the Nexus).
+### ~200 YA — Founding of the Last Stand
+Three capitals: Skywatch, Emberforge, Weaveheart.
 
-### ~200 Years Ago — The Arcane Barrier
-The **Thormvuld family** led the research to create a stable magical barrier, first developed in Weaveheart at the ley line convergence, then expanded to protect all three capitals. It has held for two centuries.
+### ~200 YA — The Arcane Barrier
+Thormvuld family led barrier research. First developed in Weaveheart at ley line convergence, then expanded to all three capitals.
 
-### After the Last Stand Founding — The War Against the Five Generals
-The First Alliance waged a war lasting years. Three generals were defeated (including Khar'zul). Two generals retreated and have not been seen since. The remaining monster forces fractured but did not surrender.
+### After Last Stand — War Against the Five Generals
+Years-long war. Three generals defeated (including Khar'zul). Two retreated, unseen since. Monster forces fractured.
 
-### ~200 Years Ago — The Sealing of Khar'zul
-After Khar'zul's physical form was destroyed, his essence endured. The Alliance discovered that his own sword — which had absorbed his blood, victories, and hatred — was the only vessel capable of containing him. The greatest sealing ritual ever performed bound Khar'zul's essence within the blade. The blade was entrusted to the **Skallfang Clan**.
+### ~200 YA — Sealing of Khar'zul
+Physical form destroyed, essence endured. His own sword (absorbed his blood/victories/hatred) was the only vessel. Greatest sealing ritual bound Khar'zul within the blade. Entrusted to **Skallfang Clan**.
 
-### Following the Sealing — Birth of the Crimson Covenant
-Some scholars who witnessed the sealing saw the prison as a chrysalis, not a punishment. Corrupted by Khar'zul's influence, they disappeared into the shadows with fragments of the sealing ritual and forbidden knowledge, eventually becoming the Crimson Covenant.
+### Following Sealing — Birth of the Crimson Covenant
+Witness scholars saw prison as chrysalis. Corrupted by Khar'zul's whispers, disappeared with sealing fragments and forbidden knowledge.
 
-### After the Sealing — The First Alliance Disbands
-The Alliance was never formally dissolved — it simply faded as the immediate crisis passed. The three capitals' governments assumed independent authority over the reconquering effort.
+### After Sealing — First Alliance Disbands
+Never formally dissolved — faded as crisis passed. Three capitals assumed independent authority.
 
-### After the Sealing — The Reconquering Begins
-The mortal races pushed outward from the Last Stand. The south and east were recovered more easily and are now fully reclaimed. The north and west remain heavily contested — approximately one-third of the continent remains under monster control.
+### After Sealing — The Blade's First Vault
+Skallfang Clan returned to the Frostmaw with the sealed blade. First century: hidden in the **Whispering Glacier** — a vault carved into ancient ice, where extreme cold suppressed the blade's influence. Keeper: Chieftain Bjorn Skallfang.
 
-### For 200 Years Following the Sealing — The Skallfang Clan's Burden
-The Skallfang Clan guarded the blade in their northern homeland. Over centuries, the blade transformed: steel gave way to living flesh, an eye opened within it. Khar'zul was evolving, not merely contained.
+### ~150 YA — The Blade Moved to Fanghold
+As the blade began to transform (steel showing first organic veins), the clan moved it from the glacier to **Fanghold's Vault** — a sealed chamber within the mountain fortress, where it could be monitored constantly.
 
-### After the Reconquering Began — Crassian's Dust Circle Established
-The overland trade circuit was completed. A massive dust cloud from trade caravans covered the land and skies for days, giving it the name **Crassian's Dust Circle**, after the god of wealth and fortune.
+### ~50 YA — The Eye First Appeared
+The blade's single yellow eye opened for the first time. **Skalda Frost-Beard**, the Keeper at the time, documented this as the moment the blade ceased to be a weapon and became Khar'zul's living prison-chrysalis.
 
-### After the Reconquering Began — Drakh Ix'thar Founded
-The continent-wide adventurers' guild was established, headquartered in the old capital at the center of the continent. Named **Drakh Ix'thar** ("The Great Dragon Hunt" in Draconic). Its members are called **Ix'thari**. Ranks to be defined.
+### After Sealing — Reconquering Begins
+South/east recovered easily. North/west contested. ~1/3 continent still monster-held.
 
-### After the Reconquering Began — The Ecumenical Council Formed
-The seven recognized churches established the Ecumenical Council. The three banned churches (Lolth, Raven Queen, Vorn) operate outside it.
+### 200 Years Following Sealing — Skallfang Clan's Burden
+Guarded the blade. Over centuries, blade transformed: steel → living flesh, eye opened within. Khar'zul evolving.
 
-### After the Reconquering Began — Manufactured Divine Conflict Instituted
-The gods manufactured an elaborate pantheon conflict to deepen faith. Lolth, the Raven Queen, and Vorn were publicly scapegoated for the monster invasion. Their churches were banned.
+### After Reconquering — Crassian's Dust Circle
+Overland trade circuit completed. Dust cloud from caravans gave it the name.
 
-### After the Reconquering Began — The Calendar Standardized
-The 10-month, 200-day calendar was formalized, with months named after the gods and festivals established on specific days.
+### After Reconquering — Drakh Ix'thar Founded
+Continent-wide adventurers' guild. HQ in old capital. Members: Ix'thari.
 
-### At Some Point During the Rise of the Mortals — B's Lingering Will Discovered
-The gods discovered that B's lingering will had been driving monsters to hoard magical items and currency metals instead of pursuing genocide. They issued The New Directive: religious orders must hunt down and destroy hoarding monster nests, large accumulations of magic items and currency, and Crimson Covenant operatives.
+### After Reconquering — Ecumenical Council Formed
+Seven recognized churches. Three banned (Lolth, Raven Queen, Vorn) operate outside.
+
+### After Reconquering — Manufactured Divine Conflict Instituted
+Gods created pantheon conflict. Lolth, Raven Queen, Vorn scapegoated for invasion. Their churches banned.
+
+### After Reconquering — Calendar Standardized
+10-month, 200-day calendar. Months named after gods.
+
+### During Rise of Mortals — B's Lingering Will Discovered
+Gods discovered hoarding instinct subverting monsters from genocide. Issued New Directive: destroy hoarding nests, large magic/currency accumulations, Covenant operatives.
 
 ### Recently (Campaign Start) — Arcane-Reactive Crystals Discovered
-Condensed fragments of B's essence that formed over millennia were recently discovered. They have no known name. No scholarly consensus exists on their nature or origin. A massive cave of these crystals lies beneath Skywatch and Weaveheart, extending toward Emberforge.
+Condensed B's essence fragments. Massive cave beneath Skywatch and Weaveheart, extending toward Emberforge.
 
-### Ongoing — The Gods Hunt Mortal Researchers
-Mortal arcanists studying the sealed planar breach sites are uncovering evidence of artificial creation and deliberate closure. The gods are dispatching paladins and clerics to silence them.
+### Ongoing — Gods Hunt Mortal Researchers
+Arcanists studying seal sites uncovering truth. Gods dispatching paladins/clerics to silence them.
 
-### Ongoing — The Blackmail Standoff
-The Crimson Covenant holds blackmail knowledge over the gods: if the gods move against them, they will reveal the divine conspiracy to the monster army. The standoff could escalate at any moment.
+### Ongoing — Blackmail Standoff
+Covenant holds blackmail: if gods move against them, they reveal divine conspiracy to monster army.
 
-### ~20 Years Before Present — Project Genesis Culmination (Balor's Birth)
-After centuries of experimentation, the Covenant found their perfect subject: a young tiefling woman whose blood carried every trait necessary. From that ritual, Balor Skallfang was born — the culmination of centuries of design.
+### ~20 YA — Project Genesis Culmination (Balor's Birth)
+Perfect subject found (young tiefling woman). Balor Skallfang born.
 
-### ~20 Years Before Present — Balor's Mother Betrays the Covenant
-On the night of Balor's birth, his mother fled with both the newborn child and Khar'zul's sealed blade, disappearing into the northern wilderness. Her name and fate remain unknown.
+### ~20 YA — Balor's Mother Betrays the Covenant
+**Seraphina Vex** — former Covenant Apostle — fled with newborn Balor and Khar'zul's blade into the northern wilderness. She had planned the escape for months, killed three Inquisitors, and vanished with the Covenant's most prized possessions.
 
-### ~20 Years Before Present — Hrothgar Finds Balor
-Hrothgar Skallfang, guardian of the blade and clan leader, found the infant Balor beside the blade. He raised the boy as his own, training him as a monster hunter.
+### ~20 YA — Seraphina Leaves Balor with Skallfang Clan
+After three weeks of flight, exhausted and hunted, Seraphina left the infant Balor beside a trail known to Hrothgar Skallfang, with the blade and her Apostle medallion. She disappeared into the wilderness to draw the Covenant's hunters away.
 
-### ~20 Years to Present — Balor's Childhood and Training
-Balor grew up in the Skallfang homeland — the northernmost territory of the continent, where the strongest monsters appear. He learned to hunt monsters, resist the blade's whispers, and perform the Rite of Ash.
+### ~17 YA — Seraphina Hunted and Killed
+A Covenant Apostle hunting party cornered Seraphina in the Frostmaw mountains. She wounded two and stepped into a glacial crevasse, ensuring her body would never be recovered. The Covenant never found the blade, the child, or her body.
 
-### Present Day (Campaign Start) — The Village Attack
-A fiend controlled by the Crimson Covenant attacked Balor's village. Balor grabbed Khar'zul's blade. The world went dark. When consciousness returned, the village was destroyed and the eye in the blade was fully open.
+### ~20 YA — Hrothgar Finds Balor
+Hrothgar Skallfang found infant beside blade. Raised him as a monster hunter.
 
-### Present Day (Campaign Start) — Balor's Present Situation
-Balor carries the blade with him at all times. The whispers have grown louder. The Crimson Covenant seeks him. Khar'zul continues to evolve within the blade.
+### ~20 YA to Present — Balor's Childhood & Training
+Grew up in northernmost Skallfang homeland. Learned to hunt monsters, resist blade's whispers, perform Rite of Ash.
 
-### Present Day (Campaign Start) — The Rise of the Mortals Continues
+### Present Day — Village Attack
+Covenant-controlled fiend attacked. Balor grabbed blade. World went dark. Village destroyed. Eye in blade fully open.
 
-### The Three-Way Standoff — Present State
+### Present Day — Balor's Situation
+Carries blade constantly. Whispers louder. Covenant seeks him. Khar'zul evolves within.
 
-| Faction | Goal | Leverage | Fear |
-|---------|------|----------|------|
-| **The Gods** | Destroy mortalkind; prevent B's resurrection | Control over religion; religious orders; the monster army as proxy | Mortals discovering B and the ritual; B being resurrected |
-| **The Crimson Covenant** | Destroy the gods by resurrecting B in weakened form | Blackmail (divine conspiracy knowledge); members embedded in monster army | Being silenced before completing research |
-| **The Monster Army** | Destroy the gods, then destroy all mortal races; conquer every planar domain and rule all of existence | Raw military power; ~1/3 of the continent held | Being used as pawns; learning the truth about the divine conspiracy revealing their expendability |
+### Present Day — Rise of the Mortals Continues
 
-### Current Battlefield State
+### Three-Way Standoff — Present
+- **Gods**: Destroy mortalkind, prevent B's resurrection. Leverage: religion, monster army as proxy.
+- **Covenant**: Destroy gods by resurrecting B. Leverage: blackmail (conspiracy knowledge), embedded agents.
+- **Monster Army**: Destroy gods and mortals, conquer all. Leverage: military power, ~1/3 continent held.
 
-| Region | Status |
-|--------|--------|
-| **South and East** | Fully reclaimed and resettled |
-| **North** | Largely monster-held; stronghold for remaining horde |
-| **West** | Actively contested — Last Stand forces push forward year by year |
-| **Approximate total** | ~1/3 of the continent remains under monster control |
+### Current Battlefield
+- **South/East**: Fully reclaimed
+- **North**: Largely monster-held (stronghold)
+- **West**: Actively contested
+- **~1/3 continent**: Under monster control

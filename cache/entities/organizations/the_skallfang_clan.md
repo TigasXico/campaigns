@@ -40,9 +40,35 @@ The Skallfang ancestors fought in the First Alliance that brought an end to Khar
 
 For generations, the clan kept the blade hidden, performing rituals to contain its influence. The blade slowly transformed — steel becoming living flesh, a single enormous eye opening within it. The clan adapted, learning to manage the danger they guarded.
 
+## Hrothgar's Safe Room
+
+Hrothgar's lodge contained a hidden chamber that Balor never knew existed until after his adoptive father's death. Accessed through a trapdoor beneath Hrothgar's bed, the room was a **failsafe** — designed to contain the blade's influence if it ever grew too powerful to manage.
+
+**Features:**
+- **The room**: Entirely carved from the mountain's living stone. No seams, no gaps — a single hollowed chamber.
+- **Glyphs**: The walls are covered in **binding glyphs** carved in Old Abyssal — a sealing ritual adapted from Skallfang Clan traditions. The glyphs form a containment circle designed to suppress the blade's whispers and prevent Khar'zul's influence from spreading beyond the room.
+- **Talismans**: Dozens of hand-made charms hang from the ceiling on sinew cords — monster-bone talismans, each inscribed with a fragment of the **Rite of Ash**. When the Rite is spoken in the room, the talismans resonate, amplifying the prayer's effect.
+- **Purpose**: Hrothgar designed the room as a last resort. If the blade ever became too dangerous, he could seal himself inside with it, containing the corruption until it passed — or until he died trying. He never told Balor about it.
+- **Contents**: After Hrothgar's death, Balor discovered the room contained additional research notes the old hunter had never included in his journal — including a partial translation of the Infernal micro-text on Seraphina's medallion.
+
+The room survived the fiend attack intact. The stone walls and binding glyphs held against the destruction that leveled the rest of the lodge.
+
 ## The Rite of Ash
 
 A ritual developed by the clan to quiet the blade's whispers. A prayer spoken in Old Abyssal, the Rite of Ash helps Balor resist Khar'zul's influence and maintain control over the living prison he carries.
+
+> *"Sleep, Khar'zul. Your prison remains. I carry your burden, but not your chains. Rest... until I call upon your strength."*
+
+The full ritual involves tracing specific glyphs in the air while speaking the prayer, accompanied by focused meditation. In Hrothgar's safe room, the talismans amplify the effect, making the Rite significantly more effective.
+
+## Keepers of the Oath
+
+The Keepers of the Oath are a specific lineage within the Skallfang Clan, chosen to serve as the blade's direct guardians. Each Keeper serves for life, and the role passes either by inheritance or by proving worth in the **Trial of the Fang**.
+
+Known Keepers:
+- **Hrothgar Skallfang** (deceased) — The most recent Keeper. Raised Balor and spent decades studying the blade's behavior.
+- **Skalda Frost-Beard** — Hrothgar's predecessor, who was the first to document the blade's transformation from steel to flesh. She died of old age.
+- **Chieftain Bjorn Skallfang** — Ancestor from the First Alliance era. The first Keeper, who carried the blade north after the sealing.
 
 ## Current Status
 
