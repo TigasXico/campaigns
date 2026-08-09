@@ -1,17 +1,19 @@
 ---
 id: the_adventurers_guild
 type: organization
-name: "The Adventurers' Guild"
+name: "Drakh Ix'thar — The Adventurers' Guild"
 status: draft
 tags:
-  - organization, guild, adventurers, contracts, frontier
+  - organization, guild, adventurers, contracts, frontier, draconic
 related:
   - society_economy_and_culture: The primary controller of the monster hunting industry
   - adventuring_classes: Adventurers of all classes operate through this guild
   - the_frontier: The guild is essential for frontier survival and expansion
-  - weaveheart: The guild is headquartered in Weaveheart
+  - the_world_and_geography: Headquarters in the old capital at the center of the continent
+  - kythorian_timeline: Founded after the reconquering began
+  - monsters_and_ecology: Monster hunting is the guild's primary industry
 secrets:
-  - text: "The Adventurers' Guildhall in Weaveheart is secretly monitored by agents of the Crimson Covenant, who track parties that discover too much about the frontier ruins and the truth about B."
+  - text: "The Drakh Ix'thar headquarters in the old capital is secretly monitored by agents of the Crimson Covenant, who track parties that discover too much about the frontier ruins and the truth about B."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09
@@ -19,22 +21,23 @@ updated: 2026-08-09
 
 ## Overview
 
-The Adventurers' Guild is a continent-wide organization that manages monster-hunting contracts, ruin delving, and frontier exploration. It is headquartered in Weaveheart with chapter houses in every major settlement and many minor ones. Its members serve as the primary line of defense beyond the walls — clearing threats the military cannot be spared for.
+**Drakh Ix'thar** — "The Great Dragon Hunt" in Draconic — is a continent-wide organization that manages monster-hunting contracts, ruin delving, and frontier exploration. Its members are called **Ix'thari** (singular: Ix'thari), and dragons are considered the ultimate prey and prize by the guild.
+
+The guild is headquartered in the **old capital** at the center of the continent — the ancient seat of the pre-invasion kingdom. It has chapter houses in every major settlement and many minor ones. Its members serve as the primary line of defense beyond the walls, clearing threats the military cannot be spared for.
 
 ## Structure
 
-The guild organizes, coordinates, and supports all adventuring activity across the recovered territories. It serves as contract broker, licensing authority, information network, and support system for its members.
+The guild organizes, coordinates, and supports all adventuring activity across the recovered territories. It serves as:
+- **Contract broker** — connecting parties with settlements needing monster extermination, ruin clearance, or frontier scouting
+- **Licensing & certification** — ensuring minimum competence and accountability; a licensed party is recognized anywhere
+- **Information network** — sharing intelligence about frontier conditions, monster movements, and dangerous sites
+- **Support system** — providing healing, equipment repair, safe lodging, and resupply to members in the field
 
 ## Membership
 
-The guild does not restrict membership by class — adventurers of all types are welcome. Members advance through ranks based on successful contracts and contribution to the reconquering:
+The guild does not restrict membership by class — adventurers of all types are welcome. Members advance through ranks to be defined in Draconic, named after legendary beasts spanning from weakest to strongest. The highest rank is **Drah Ix'thari** (Dragon Hunter), recognizing those who have proven themselves against the most fearsome beasts in Kythoria.
 
-| Rank | Title | Requirements |
-|------|-------|-------------|
-| Bronze | Novice | Complete 5 contracts |
-| Silver | Veteran | Complete 20 contracts, including at least one major hazard |
-| Gold | Elite | Complete 50 contracts, significant contribution to the reconquering |
-| Mithral | Legend | Exceptional service — slaying a major threat, discovering a game-changing relic, or similar |
+Higher ranks unlock access to more dangerous contracts, restricted zones, and greater guild resources.
 
 ## Goals
 
@@ -54,8 +57,13 @@ The guild is vital to the reconquering economy:
 
 ## Headquarters
 
-The guild is headquartered in **Weaveheart**, with chapter houses in every major settlement throughout the recovered territories.
+The guild is headquartered in the **old capital** at the center of the continent — the ancient seat of the pre-invasion kingdom that once ruled all of Kythoria. From this central location, the guild coordinates operations across the entire continent. Chapter houses exist in every major settlement throughout the recovered territories, ensuring that Ix'thari always have a place to rest, resupply, and receive contracts wherever their hunts take them.
 
-## Open Questions
+## Name Origin
 
-- The guild's proper name is **[Name TBD]** — its members are known by a nickname that has not yet been defined.
+"Drakh Ix'thar" translates from Draconic as:
+- **Drakh** — Dragon (the ultimate prey)
+- **Ix** — Hunt / Claw
+- **Thar** — Great / Grand
+
+Together: **"The Great Dragon Hunt"** — a name that declares the guild's purpose and ambition. The draconic language was chosen to invoke the ancient, powerful, and predatory nature of the guild's work.

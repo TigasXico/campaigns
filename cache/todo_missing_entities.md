@@ -76,3 +76,19 @@ All files below have been created in this session. The locations folder went fro
 | ⏳ | The AdHoc Council of Evil Orgs | Tied to PC backstories, needs definition |
 | ⏳ | The Leather Pouch Contents (item) | Open question in Balor's file |
 | ⏳ | Arcane-Reactive Crystals (item) | Better as resource/lore item later |
+
+---
+
+## 🗓️ Timeline Management Reminder
+
+The master timeline file has been created at:
+**`cache/entities/events/kythorian_timeline.md`**
+
+**Whenever a new entity is created that has an associated time or date, it MUST be added to this timeline file.** This includes:
+- New events (backstories, campaign events, historical occurrences)
+- New character backstory events
+- New faction lore with timeframes
+- New item creation or discovery events
+- Any entity with a defined date, era, or chronological position
+
+Update the timeline file's `updated` field and `related` frontmatter accordingly.

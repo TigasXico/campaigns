@@ -56,8 +56,8 @@
 - sister_city_to → weaveheart [location] — The three capitals work together
 - located_in → kythoria [location] — Located in the temperate heartlands of Kythoria
 - fosters → the_guild_of_the_spark [organization] — Strong ties to the church of Forge and Arcana
-- fosters → the_adventurers_guild [organization] — Prototype weapons tested here
 - connected_to → society_economy_and_culture [lore] — Industrial heart of the mortal races
+- connected_to → the_adventurers_guild [organization] — Prototype weapons tested here
 
 ## founding_of_the_last_stand [event]
 - created → skywatch [location] — One of the capitals founded in this event
@@ -88,7 +88,6 @@
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
-- connected_to → the_raven_queen [character] — Shares an understanding of boundaries
 
 ## crassian [character]
 - originated_from → the_originals [lore] — Fragment of A or C
@@ -99,6 +98,21 @@
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
+
+## kythorian_timeline [event]
+- compiles → the_great_sacrifice [event] — Includes the Great Sacrifice
+- compiles → the_abominable_end [event] — Includes the Abominable End
+- compiles → founding_of_the_last_stand [event] — Includes the founding of the Last Stand
+- compiles → the_sealing_of_kharzul [event] — Includes the sealing of Khar'zul
+- connects_to → the_originals [lore] — Traces events from the Originals to present
+- connects_to → the_gods_and_the_deception [lore] — Tracks the divine conspiracy timeline
+- connects_to → monsters_and_ecology [lore] — Chronicles the monster invasion and aftermath
+- connects_to → the_world_and_geography [lore] — Maps events to eras of Kythoria
+- connects_to → the_crimson_covenant [organization] — Tracks the Covenant's history
+- connects_to → the_first_alliance [organization] — Records the Alliance's war and disbandment
+- connects_to → balor_skallfang [character] — Captures backstory events
+- connects_to → society_economy_and_culture [lore] — Tracks societal development events
+- connects_to → the_adventurers_guild [organization] — Records the guild's founding
 
 ## kythoria [location]
 - contained_in → aetris [location] — Kythoria is a continent on Aetris
@@ -178,7 +192,6 @@
 - sister_city_to → emberforge [location] — The three capitals work together
 - sister_city_to → weaveheart [location] — The three capitals work together
 - located_in → kythoria [location] — Located in the temperate heartlands of Kythoria
-- fosters → the_adventurers_guild [organization] — Scouts and rangers guild headquartered here
 
 ## society_economy_and_culture [lore]
 - fueled_by ← monsters_and_ecology [lore] — Monster hunting and monster parts drive a growing economy
@@ -200,11 +213,12 @@
 - connected_to → monsters_and_ecology [lore] — The monster invasion that defined this era
 
 ## the_adventurers_guild [organization]
-- headquartered_in → weaveheart [location] — Guildhall in Weaveheart
+- headquartered_in → the_world_and_geography [lore] — HQ in the old capital at the center of the continent
 - operates_in → the_frontier [location] — Most active on the frontier
 - contracts → monsters_and_ecology [lore] — Manages monster-hunting contracts
 - connected_to → society_economy_and_culture [lore] — Primary controller of the monster hunting industry
 - connected_to → adventuring_classes [lore] — Adventurers of all classes operate through the guild
+- connected_to → kythorian_timeline [event] — Founded after the reconquering began
 
 ## the_arcane_reactive_crystal_cave [location]
 - located_in → kythoria [location] — Beneath Skywatch and Weaveheart, beside Emberforge
@@ -393,14 +407,12 @@
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
-- connected_to → vesper [character] — Shares an understanding of boundaries
 
 ## weaveheart [location]
 - part_of → the_last_stand [lore] — One of the three capital cities of the Last Stand
 - sister_city_to → skywatch [location] — The three capitals work together
 - sister_city_to → emberforge [location] — The three capitals work together
 - located_in → kythoria [location] — Located in the temperate heartlands of Kythoria
-- fosters → the_adventurers_guild [organization] — Guild headquarters in Weaveheart
 - fosters → the_order_of_the_dawn [organization] — Main temple of the Order of the Dawn
 - fosters → the_ecumenical_council [organization] — Council meets in Weaveheart
 - connected_to → the_arcane_weave [lore] — Built at a ley line convergence
@@ -409,7 +421,6 @@
 ## the_vigil_of_the_dusk [organization]
 - church_of → vesper [character] — The church of the Vesper
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
-- connected_to → the_order_of_the_raven [organization] — Shares an understanding of boundaries and transitions
 
 ## the_world_and_geography [lore]
 - shaped_by ← monsters_and_ecology [lore] — The invasion defined Kythoria's settlement patterns and reconquering

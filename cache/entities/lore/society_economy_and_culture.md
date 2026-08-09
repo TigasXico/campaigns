@@ -10,7 +10,7 @@
 - text: "The gods' manufactured divine conflict is deliberately fanned by the churches to deepen faith and devotion. Many priests are unknowingly perpetuating a lie."    access: gm-only  
 - text: "The three kings of the Council Accord do not always agree. Behind closed doors, territorial disputes, resource allocation, and military strategy cause frequent friction. The system holds only because the monster threat is so overwhelming that no king dares to fracture the alliance."    access: gm-only  
 - text: "The Church of Light and Life is by far the most politically powerful institution, and its priests are the only ones who come close to understanding how much the gods are hiding."    access: gm-only  
-- text: "The Adventurers' Guildhall in Weaveheart is secretly monitored by agents of the Crimson Covenant, who track parties that discover too much about the frontier ruins."    access: gm-onlycreated: 2026-08-08updated: 2026-08-08---
+- text: "The Drakh Ix'thar headquarters in the old capital is secretly monitored by agents of the Crimson Covenant, who track parties that discover too much about the frontier ruins and the truth about B."    access: gm-onlycreated: 2026-08-08updated: 2026-08-08---
 ## OverviewThe society, economy, and culture of the mortal races are defined by a single overarching reality: **survival through unity**. Two centuries after the founding of the Last Stand, the mortal races have built a civilization unlike any before it — one born of necessity, shaped by shared struggle, and defined by the ongoing reconquering of their ancestral lands from the monster hordes.Three capital cities — Skywatch, Emberforge, and Weaveheart — form the political, economic, and cultural heart of this civilization. The recovered territories to the south and east provide resources, trade, and farmland. The western frontier is where the war for survival continues. And across it all, the presence of the divine pantheon — and the truth the gods hide — casts a long shadow.---
 ## Governance & Political Structure
 > **Note:** The political structure of the mortal races is still young and settling. The reconquering has happened in phases over the past ~200 years — some territories have been held for generations, others reclaimed within living memory. As a result, governance varies widely between settlements and regions. What follows is the framework at the highest level, with local details left for when specific settlements are developed.
@@ -145,7 +145,7 @@
 #
 ## The Eastern Sea RouteA series of ports along the eastern coast, connecting the southern ports to the heartlands. Ships carry goods north and south, stopping at waypoint towns. Safer than land travel and handles the bulk of bulk trade.#
 #
-## The Great Circuit — [Name TBD]An overland trade circuit connecting all major settlements — the three capitals, the northeast settlement cluster, the southeastern port, and the eastern port. *(The exact route and name to be defined when settlements and roads are mapped.)*#
+## Crassian's Dust CircleAn overland trade circuit connecting all major settlements — the three capitals, the northeast settlement cluster, the southeastern port, and the eastern port. The circuit was named after the great cloud of dust that arose when it was completed, as large trade caravans from across the recovered territories began using it all at once, covering the land and skies for days.#
 #
 ## The Frontier RoadA dangerous, partially reclaimed road extending west from the heartlands into contested territory. Used by military supply convoys and frontier settlers, always under heavy guard.
 #
@@ -436,37 +436,13 @@ A solemn observance on the last day of the year (Shadowrest of the 2nd week of L
 - Respects adventurers as a necessary and heroic class — they do the work that keeps the monsters at bay and recover the treasures that fuel the economy---
 ## Adventurers in SocietyAdventurers are not mercenaries for hire — they are **guardians, cleansers, and reclaimers**. Their role in society is akin to an external police force: they handle the threats that lie beyond the walls, clear the ruins that soldiers cannot be spared for, and recover the artifacts and treasures that fuel the economy. The profession carries immense honor and respect.
 #
-## The Adventurers' Guild — [Name TBD]A continent-wide guild headquartered in Weaveheart, with chapter houses in every major settlement and many minor ones. The guild organizes, coordinates, and supports all adventuring activity across the reconquered territories. Its members are collectively known as **[Nickname TBD]** .**Role of the Guild:**
+## The Adventurers' Guild — Drakh Ix'tharA continent-wide guild headquartered in the old capital at the center of the continent, with chapter houses in every major settlement and many minor ones. The guild organizes, coordinates, and supports all adventuring activity across the reconquered territories. Its members are collectively known as **Ix'thari** (singular: Ix'thari).**Role of the Guild:**
 - **Contract broker** — connects parties with settlements needing monster extermination, ruin clearance, or frontier scouting
 - **Licensing & certification** — ensures minimum competence and accountability; a licensed party is recognized anywhere
 - **Information network** — shares intelligence about frontier conditions, monster movements, and dangerous sites
 - **Support system** — provides healing, equipment repair, safe lodging, and resupply to members in the field
 #
-## Guild RanksAdventurers advance through recognized ranks based on successful contracts and demonstrable contribution to the reconquering:
-| Rank 
-| Title 
-| Requirements 
-|
-|------
-|-------
-|-------------
-|
-| Bronze 
-| Novice 
-| Complete 5 contracts 
-|
-| Silver 
-| Veteran 
-| Complete 20 contracts, including at least one major hazard 
-|
-| Gold 
-| Elite 
-| Complete 50 contracts, significant contribution to the reconquering 
-|
-| Mithral 
-| Legend 
-| Exceptional service — slaying a major threat, discovering a game-changing relic, or similar 
-|Higher ranks unlock access to more dangerous contracts, restricted zones, and greater guild resources.
+## Guild RanksAdventurers advance through recognized ranks based on successful contracts and demonstrable contribution to the reconquering. Ranks are to be defined in Draconic, named after legendary beasts spanning from weakest to strongest, with the highest rank being **Drah Ix'thari** (Dragon Hunter).
 #
 ## Economic RoleAdventurers are vital to the reconquering economy:
 - **Clearing monster nests** — making land safe for settlement and resource extraction
@@ -477,8 +453,8 @@ A solemn observance on the last day of the year (Shadowrest of the 2nd week of L
 1. ⏳ **Pantheon review (count & domains)** — Consider expanding from 8 to 10 gods. If 10 gods are established, the calendar could shift to a 10-day week (one weekday per god), completing the cycle neatly per month. This requires reviewing all gods, their domains, and potentially adding 2 new gods or splitting existing domains. *(Cross-reference with `the_gods_and_the_deception` lore file.)*
 2. ⏳ **Festival articles** — Create dedicated cache pages (entity files) and full WA articles for each of the 8 festivals. To be done later.
 3. ⏳ **Divine conflict map** — Which gods are allied/fighting which in the manufactured pantheon conflict. To be defined.
-4. ⏳ **Adventurers' guild name & member nickname** — The continent-wide guild needs a name, and its members a collective nickname. To be decided.
-5. ⏳ **The Great Circuit name** — The overland trade circuit connecting the major settlements needs a name. To be decided.
+4. ✅ **Adventurers' guild name & member nickname** — **Drakh Ix'thar** (The Great Dragon Hunt). Members: **Ix'thari**. HQ moved from Weaveheart to the old capital in the center of the continent. Ranks to be defined in Draconic.
+5. ✅ **The Great Circuit name** — Now **Crassian's Dust Circle**, named after the dust cloud that covered the land and skies upon its completion.
 6. ⏳ **Northeast settlement cluster** — The major settlement + 3 minor settlements + 2 export towns that form the mint and mining heart of the continent need names and development.
 7. ⏳ **Southeastern port & eastern port** — The two main sea trade hubs need names and development.
 8. ✅ **Calendar month names** — 10 months named after the gods; weekdays named after domains.

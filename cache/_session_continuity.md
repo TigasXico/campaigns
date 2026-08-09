@@ -86,6 +86,8 @@ These gaps were identified during the consistency audit and are now tracked for 
 | 3 | ⏳ | **The blackout** — What happened after Balor grabbed the blade? Did he destroy the village? | `balor_skallfang.md` |
 | 4 | ⏳ | **Leather pouch contents** — Medallion symbol? Ruins marked on the map? | `balor_skallfang.md` |
 | 5 | ⏳ | **Why did the eye form?** — Khar'zul's consciousness, blade awareness, or something else? | `kharzuls_blade.md` |
+| — | ✅ | **Adventurers' Guild name:** Drakh Ix'thar. Members: Ix'thari. Ranks to be defined in Draconic. HQ: old capital in center of continent. | `session_continuity.md` |
+| — | ✅ | **Crassian's Dust Circle:** The Great Circuit renamed. Named after dust cloud from trade caravans upon completion. | `session_continuity.md` |
 | 6 | ⏳ | **Blade's journey** — Exact path from sealing through Skallfang Clan to Hrothgar | `kharzuls_blade.md` |
 | 7 | ⏳ | **Heroes of the First Alliance** — Who were the warriors at Khar'zul's sealing? | `balor_skallfang.md` |
 | 8 | ⏳ | **Skallfang homeland** — Needs naming and detailed geography | `balor_skallfang.md` |
@@ -103,7 +105,7 @@ These gaps were identified during the consistency audit and are now tracked for 
 |---|--------|----------|-------------|
 | 13 | ✅ | **Name the 8 gods** — Aloria, Thalkis, Kaelthor, Aurelius, Crassian, Vesper, Lolth, Raven Queen | `the_gods_and_the_deception.md` |
 | 14 | ✅ | **Which god claims which race?** — See races_and_ancestries.md deception table | `races_and_ancestries.md` |
-| 15 | ⏳ | **God of Peace & Twilight + Raven Queen domain boundary** — Both deal with death/transitions | `session_continuity.md` |
+| 15 | ⏳ *(Deferred)* | **Vesper/Raven Queen boundary** — Deferred until full manufactured divine conflict review | `session_continuity.md` |
 | 16 | ✅ | **Manufactured divine conflict map** — Lolth, Raven Queen & Vorn publicly blamed; 7 recognized churches. Half-Orcs distrusted despite fighting in First Alliance. Vorn worship is secret. | `the_gods_and_the_deception.md`, `races_and_ancestries.md` |
 | 17 | ✅ | **Pantheon review — 10 gods** (8 originals + Vorn & Tyra) — Calendar implications | `society_economy_and_culture.md` |
 | 18 | ⏳ | **The Originals' true names** — A, B, C — lost or deliberately erased | `the_originals.md` |
@@ -170,14 +172,33 @@ These gaps were identified during the consistency audit and are now tracked for 
 - **F (Covenant)** — 2 open (#44-45)
 
 ### Quick Wins to Pick Up First
-1. **Name the Adventurers' Guild** (#31) and member nickname (#32)
-2. **Name trade routes** — The Great Circuit (#33)
-3. **Name settlements** — NE cluster (#34), SE port (#35), E port (#36), Skallfang homeland (#8)
-4. **Define why Drow/Shadow Elves revere their gods** (#11-12)
-5. **Define the Skallfang homeland** (#8)
+1. ✅ **Name the Adventurers' Guild** — Drakh Ix'thar, members Ix'thari. Ranks to be defined in Draconic. HQ in old capital (center of continent).
+2. ✅ **Name trade routes** — The Great Circuit → **Crassian's Dust Circle**
+3. **Name settlements** — NE cluster (#34), SE port (#35), E port (#36), Skallfang homeland (#8) — *(Deferred)*
+4. **Define why Drow/Shadow Elves revere their gods** (#11-12) — *(Deferred pending player Drow lore review)*
+5. **Define the Skallfang homeland** (#8) — *(Deferred)*
 
 ### Last Change Before Commit
 - Renamed god **Veridius → Aurelius** globally across all 8 affected files + deity file rename
+
+---
+
+## 📜 Timeline Management
+
+> The file `cache/entities/events/kythorian_timeline.md` is the **master timeline** for all events in Kythoria.
+> **Any future event or entity that has an associated time or date MUST be added to this file.**
+> This includes new campaign events, backstory events, historical events, or any event with a defined timeframe.
+
+**How to maintain:**
+1. When creating a new entity with a timeframe (event, location founding, character backstory, historical occurrence), open `kythorian_timeline.md`
+2. Find the correct era section (Cosmogonic Era, Era of Foundation, The Abominable End, The Rise of the Mortals, The Hidden War, or Balor's Story)
+3. Add the event in chronological order within that era
+4. Include: Timeframe, Description, and related entity references
+5. If a new era is needed, add it at the appropriate chronological position
+6. Update the `updated` field in the file's frontmatter
+7. Add the entity to the `related` field in the timeline file's frontmatter
+
+---
 
 ## ⏭️ Next Session — Potential Next Steps
 
