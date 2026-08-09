@@ -11,5 +11,11 @@ Entity types available in the lore cache: character, location, organization, eve
 
 
 
-The WA Lore Keeper workflow has 5 steps: (1) Record voice note, (2) Transcribe via Whisper to clipboard, (3) Goose processes transcription & summarizes needed changes, (4) Goose updates local cache (entities, relationships, index), (5) Goose generates BBCode articles for WA with secrets/subscriber groups.
+The WA Lore Keeper workflow has 6 steps: (1) Record voice note, (2) Transcribe via Whisper to clipboard, (3) Goose processes transcription & summarizes needed changes, (4) Goose updates local cache (entities, relationships, index), (5) Goose generates BBCode articles for WA with secrets/subscriber groups, (6) Goose presents a commit summary with file changes and content details, suggests a commit message, and waits for user approval before committing and pushing.
+
+## Critical Commit Protocol
+- After EVERY session of changes, Goose MUST present a changes summary listing each file modified/created with what changed in each.
+- Goose MUST suggest a descriptive commit message in conventional format (feat|fix|docs(scope): description).
+- Goose MUST wait for explicit user approval before running `git add`, `git commit`, or `git push`.
+- Always update cache/_session_continuity.md with the session's file manifest before finishing.
 

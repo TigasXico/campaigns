@@ -48,13 +48,84 @@ This document defines the canonical 5-step workflow for capturing, processing, a
 
 ---
 
+## Version Control & Commit Protocol
+
+> **Mandatory**: Every Goose work session must end with a commit summary. Do not make changes silently.
+
+### Step 6 — Suggest Commit
+
+After every session of updates (cache changes, article generation, or any file modifications), Goose **must**:
+
+#### 6.1 — Summarize Changes
+Present the user with a clear summary of everything that was done:
+
+```
+## Changes Summary
+
+### Files Modified
+- `cache/entities/characters/balor_skallfang.md` — Updated backstory section, added new personality trait
+- `cache/_session_continuity.md` — Marked "Gods & Religion" as ✅ complete
+- `cache/_master_relationships_map.md` — Added relationship: Balor ↔ Raven Queen (↔ allies)
+
+### Files Created
+- `cache/entities/events/the_great_war.md` — New entity: Great War (historical event)
+- `articles/output/the_great_war.bbcode` — Generated WA article
+
+### Content Details
+For each file, briefly note:
+- **What changed** (added, modified, deleted sections)
+- **Key content decisions** made
+- **Any open questions** left in the file
+```
+
+#### 6.2 — Suggest a Commit Message
+Propose a descriptive commit message in conventional format:
+
+```
+type(scope): brief description
+
+- Bullet list of specific changes
+- Links to any related entities
+```
+
+**Examples:**
+```
+feat(lore): add Balor Skallfang character and Raven Queen relationship
+
+- Created cache/entities/characters/balor_skallfang.md with full backstory
+- Updated cache/_master_relationships_map.md with Balor ↔ Raven Queen (allies)
+- Added campaign events section to both character files
+- Generated articles/output/balor_skallfang.bbcode
+
+feat(articles): publish BBCode articles for the divine pantheon
+
+- Generated articles for all 6 gods (forge, light, nature, peace, wealth, wisdom)
+- Each article includes subscriber-gated secret sections
+- Updated cache/_session_continuity.md with progress
+```
+
+#### 6.3 — Wait for Approval
+**Do not commit or push automatically.** Present the summary and commit message to the user and wait for explicit approval (e.g., "Approved", "Go ahead", "Commit it"). Only after receiving approval should you:
+
+```bash
+git add .
+git commit -m "<suggested message>"
+git push
+```
+
+#### 6.4 — Cross-Session Continuity
+- Always update `cache/_session_continuity.md` with the session's file manifest before finishing.
+- If the user rejects the commit or asks for changes, iterate on the summary and re-present.
+
+---
+
 ## Roles & Responsibilities
 
 | Role | Handles |
 |------|---------|
-| **User** | Records voice notes, pastes transcriptions, confirms changes, posts articles to WA |
+| **User** | Records voice notes, pastes transcriptions, confirms changes, posts articles to WA, **approves commits** |
 | **Recorder App** | Records audio, shows volume meter, transcribes via Whisper, copies to clipboard |
-| **Goose** | Processes transcriptions, manages cache, generates BBCode articles |
+| **Goose** | Processes transcriptions, manages cache, generates BBCode articles, **suggests commits and waits for approval** |
 
 ---
 
