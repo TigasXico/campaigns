@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, church, religion, wisdom, justice, law
 related:
-  - god_of_wisdom_and_justice: The church of this god
+  - aurelius: The church of this god
   - society_economy_and_culture: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
 secrets:
@@ -18,7 +18,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The Order of the Scales is the church of the **God of Wisdom and Justice** — representing truth, learning, law, and fair judgment. Its temples double as libraries, courts, and academies where knowledge is preserved and justice is dispensed.
+The Order of the Scales is the church of **Aurelius** — the god of wisdom and justice, representing truth, learning, law, and fair judgment. Its temples double as libraries, courts, and academies where knowledge is preserved and justice is dispensed.
 
 ## Structure
 

@@ -40,13 +40,15 @@
 - connected_to → the_gods_and_the_deception [lore] — Gods claimed Outer Planes after subdividing
 - connected_to → the_arcane_reactive_crystals [lore] — Crystals form only on the Material Plane
 - contains → lolth_the_spider_queen [character] — Claims domain in the Outer Planes
+- contains → vorn [character] — Claims domain in the Outer Planes
+- contains → tyra [character] — Claims domain in the Outer Planes
 - contains → the_raven_queen [character] — Claims domain in the Outer Planes
-- contains → god_of_wisdom_and_justice [character] — Claims domain in the Outer Planes
-- contains → god_of_nature_and_tempest [character] — Claims domain in the Outer Planes
-- contains → god_of_light_and_life [character] — Claims domain in the Outer Planes
-- contains → god_of_forge_and_arcana [character] — Claims domain in the Outer Planes
-- contains → god_of_peace_and_twilight [character] — Claims domain in the Outer Planes
-- contains → god_of_wealth_and_fortune [character] — Claims domain in the Outer Planes
+- contains → aurelius [character] — Claims domain in the Outer Planes
+- contains → kaelthor [character] — Claims domain in the Outer Planes
+- contains → aloria [character] — Claims domain in the Outer Planes
+- contains → thalkis [character] — Claims domain in the Outer Planes
+- contains → vesper [character] — Claims domain in the Outer Planes
+- contains → crassian [character] — Claims domain in the Outer Planes
 
 ## emberforge [location]
 - part_of → the_last_stand [lore] — One of the three capital cities of the Last Stand
@@ -65,35 +67,35 @@
 - began → the_first_alliance [organization] — The First Alliance formed after the capitals were established
 - part_of → the_last_stand [lore] — The founding event of the Last Stand
 
-## god_of_forge_and_arcana [character]
+## thalkis [character]
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
 - connected_to → the_arcane_weave [lore] — Has unique insight into the weave
 
-## god_of_light_and_life [character]
+## aloria [character]
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
 
-## god_of_nature_and_tempest [character]
+## kaelthor [character]
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
 - connected_to → primal_nature_magic [lore] — Primal magic is part of this god's domain
 
-## god_of_peace_and_twilight [character]
+## vesper [character]
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
 - connected_to → the_raven_queen [character] — Shares an understanding of boundaries
 
-## god_of_wealth_and_fortune [character]
+## crassian [character]
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
 
-## god_of_wisdom_and_justice [character]
+## aurelius [character]
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
@@ -123,6 +125,21 @@
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
+
+
+
+## vorn [character]
+- originated_from → the_originals [lore] — Fragment of A or C
+- connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
+- resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
+- rival_of → lolth_the_spider_queen [character] — Rivals over the domain of war
+
+
+## tyra [character]
+- originated_from → the_originals [lore] — Fragment of A or C
+- connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
+- resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
+- rival_of → kaelthor [character] — Rivals over the domain of nature
 
 ## monsters_and_ecology [lore]
 - orchestrated_by → the_gods_and_the_deception [lore] — The gods planned the monster invasion to destroy mortalkind
@@ -213,7 +230,7 @@
 - channeled_by → the_gods_and_the_deception [lore] — Gods act as conduits for the weave
 
 ## the_circle_of_the_wild [organization]
-- church_of → god_of_nature_and_tempest [character] — The church of the God of Nature and Tempest
+- church_of → kaelthor [character] — The church of the Kaelthor
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
 - connected_to → primal_nature_magic [lore] — Connected to primal magic and nature attunement
 
@@ -254,9 +271,11 @@
 - includes → the_order_of_the_scales [organization] — Member church
 - includes → the_order_of_the_currency [organization] — Member church
 - includes → the_vigil_of_the_dusk [organization] — Member church
-- includes → the_coven_of_the_spider [organization] — Member church
-- includes → the_order_of_the_raven [organization] — Member church
-- mediated_by → god_of_peace_and_twilight [character] — The God of Peace mediates the pantheon
+- includes → the_pack_of_tyra [organization] — Member church
+- mediated_by → vesper [character] — The God of Peace mediates the pantheon
+- excludes → the_coven_of_the_spider [organization] — Banned — blamed for the monster invasion
+- excludes → the_order_of_the_raven [organization] — Banned — blamed for the monster invasion
+- excludes → the_iron_host [organization] — Banned — blamed for the monster invasion
 
 ## the_first_alliance [organization]
 - fought → monsters_and_ecology [lore] — Defeated three of the Five Monster Generals, including Khar'zul
@@ -288,7 +307,7 @@
 - threatened_by ← the_crimson_covenant [organization] — The Covenant holds blackmail knowledge over the gods
 
 ## the_guild_of_the_spark [organization]
-- church_of → god_of_forge_and_arcana [character] — The church of the God of Forge and Arcana
+- church_of → thalkis [character] — The church of the Thalkis
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
 - connected_to → emberforge [location] — Strong ties to Emberforge's smithing traditions
 
@@ -323,12 +342,12 @@
 - connected_to → the_thormvuld_family [organization] — The family originates from this region
 
 ## the_order_of_the_currency [organization]
-- church_of → god_of_wealth_and_fortune [character] — The church of the God of Wealth and Fortune
+- church_of → crassian [character] — The church of the Crassian
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
 - connected_to → the_northeast_settlement_cluster [location] — Connected to the mint and trade
 
 ## the_order_of_the_dawn [organization]
-- church_of → god_of_light_and_life [character] — The church of the God of Light and Life
+- church_of → aloria [character] — The church of the Aloria
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
 
 ## the_order_of_the_raven [organization]
@@ -337,7 +356,7 @@
 - connected_to → races_and_ancestries [lore] — Shadow Elves are the primary worshippers
 
 ## the_order_of_the_scales [organization]
-- church_of → god_of_wisdom_and_justice [character] — The church of the God of Wisdom and Justice
+- church_of → aurelius [character] — The church of the Aurelius
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
 
 ## the_originals [lore]
@@ -374,7 +393,7 @@
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
-- connected_to → god_of_peace_and_twilight [character] — Shares an understanding of boundaries
+- connected_to → vesper [character] — Shares an understanding of boundaries
 
 ## weaveheart [location]
 - part_of → the_last_stand [lore] — One of the three capital cities of the Last Stand
@@ -388,7 +407,7 @@
 - connected_to → society_economy_and_culture [lore] — Arcane and research heart of the Last Stand
 
 ## the_vigil_of_the_dusk [organization]
-- church_of → god_of_peace_and_twilight [character] — The church of the God of Peace and Twilight
+- church_of → vesper [character] — The church of the Vesper
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
 - connected_to → the_order_of_the_raven [organization] — Shares an understanding of boundaries and transitions
 

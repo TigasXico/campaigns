@@ -1,7 +1,7 @@
 ---
-id: god_of_peace_and_twilight
+id: vesper
 type: character
-name: "God of Peace and Twilight"
+name: "Vesper"
 status: draft
 tags:
   - deity, god, peace, twilight, boundaries, serenity
@@ -10,11 +10,8 @@ related:
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
   - the_raven_queen: Shares an understanding of boundaries and transitions
-secrets:
-  - text: "This god mediates the pantheon, preventing open war among the gods — a fact the others resent but tolerate."
-    access: gm-only
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-09
 
 ## Overview
 

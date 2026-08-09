@@ -8,12 +8,12 @@
 | cosmology_and_the_planes | lore | Cosmology & The Planes | draft | 2026-08-08 |
 | emberforge | location | Emberforge | draft | 2026-08-09 |
 | founding_of_the_last_stand | event | Founding of the Last Stand | draft | 2026-08-09 |
-| god_of_forge_and_arcana | character | God of Forge and Arcana | draft | 2026-08-08 |
-| god_of_light_and_life | character | God of Light and Life | draft | 2026-08-08 |
-| god_of_nature_and_tempest | character | God of Nature and Tempest | draft | 2026-08-08 |
-| god_of_peace_and_twilight | character | God of Peace and Twilight | draft | 2026-08-08 |
-| god_of_wealth_and_fortune | character | God of Wealth and Fortune | draft | 2026-08-08 |
-| god_of_wisdom_and_justice | character | God of Wisdom and Justice | draft | 2026-08-08 |
+| thalkis | character | Thalkis | draft | 2026-08-08 |
+| aloria | character | Aloria | draft | 2026-08-08 |
+| kaelthor | character | Kaelthor | draft | 2026-08-08 |
+| vesper | character | Vesper | draft | 2026-08-08 |
+| crassian | character | Crassian | draft | 2026-08-08 |
+| aurelius | character | Aurelius | draft | 2026-08-08 |
 | kharzuls_blade | item | Khar'zul's Blade (The Living Prison) | draft | 2026-08-09 |
 | kythoria | location | Kythoria | draft | 2026-08-09 |
 | lolth_the_spider_queen | character | Lolth (The Spider Queen) | draft | 2026-08-08 |
@@ -53,6 +53,8 @@
 | the_thormvuld_family | organization | The Thormvuld Family | draft | 2026-08-09 |
 | the_vigil_of_the_dusk | organization | The Vigil of the Dusk | draft | 2026-08-09 |
 | the_world_and_geography | lore | The World & Geography | draft | 2026-08-08 |
+| tyra | character | Tyra | draft | 2026-08-09 |
+| vorn | character | Vorn | draft | 2026-08-09 |
 | magic_and_classes_design | campaign_note | Magic & Classes Design Decisions | active | 2026-08-09 |
 | monsters_and_invasion_design | campaign_note | Monsters & Invasion Design Decisions | active | 2026-08-09 |
 | races_and_ancestries_design | campaign_note | Races & Ancestries Design Decisions | active | 2026-08-09 |

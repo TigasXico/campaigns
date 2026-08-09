@@ -7,47 +7,53 @@ tags:
   - organization, religion, governance, interfaith, council
 related:
   - society_economy_and_culture: Mediates between the major churches
+  - aloria: The deity of the Order of the Dawn
+  - thalkis: The deity of the Guild of the Spark
+  - kaelthor: The deity of the Circle of the Wild
+  - aurelius: The deity of the Order of the Scales
+  - crassian: The deity of the Order of the Currency
+  - vesper: The deity of the Vigil of the Dusk
+  - tyra: The deity of the Pack of Tyra
   - the_order_of_the_dawn: Member of the Council
   - the_guild_of_the_spark: Member of the Council
   - the_circle_of_the_wild: Member of the Council
   - the_order_of_the_scales: Member of the Council
   - the_order_of_the_currency: Member of the Council
   - the_vigil_of_the_dusk: Member of the Council
-  - the_coven_of_the_spider: Member of the Council
-  - the_order_of_the_raven: Member of the Council
-secrets:
-  - text: "The Ecumenical Council is the only body where representatives of all eight churches meet face to face. Behind closed doors, the manufactured divine conflict is acknowledged as theater by the highest-ranking clergy — though most priests still believe the rivalries are real."
-    access: gm-only
+
+
 created: 2026-08-09
 updated: 2026-08-09
 ---
 
 ## Overview
 
-The Ecumenical Council is the interfaith governing body that mediates disputes between the eight churches of the Last Stand and coordinates major religious festivals. It ensures that the pantheon's worship remains organized and that conflicts between faiths do not escalate into open violence.
+The Ecumenical Council is the interfaith governing body representing the seven recognized churches of the Last Stand. It mediates disputes between faiths, coordinates major religious festivals, and ensures that the pantheon's worship remains organized.
+
+Three churches — the Coven of the Spider (Lolth), the Order of the Raven (Raven Queen), and the Iron Host (Vorn) — are **banned** from operating openly within Last Stand territories. Their gods are publicly blamed for the monster invasion that nearly destroyed mortalkind. Their clergy operate in the shadows, beyond the reach of the Council's authority.
 
 ## Structure
 
-Each of the eight churches sends representatives to the Council. The Council has no fixed leadership — the chair rotates between churches on a regular schedule. Major decisions require consensus or a supermajority vote.
+Each of the seven recognized churches sends representatives to the Council. The Council has no fixed leadership — the chair rotates between churches on a regular schedule. Major decisions require consensus or a supermajority vote.
 
 ## Membership
 
-The Council includes representatives from:
-- **The Order of the Dawn** (God of Light and Life)
-- **The Guild of the Spark** (God of Forge and Arcana)
-- **The Circle of the Wild** (God of Nature and Tempest)
-- **The Order of the Scales** (God of Wisdom and Justice)
-- **The Order of the Currency** (God of Wealth and Fortune)
-- **The Vigil of the Dusk** (God of Peace and Twilight)
-- **The Coven of the Spider** (Lolth)
-- **The Order of the Raven** (The Raven Queen)
+The Council includes representatives from the seven recognized churches:
+- **The Order of the Dawn** (Aloria — Light & Life)
+- **The Guild of the Spark** (Thalkis — Forge & Arcana)
+- **The Circle of the Wild** (Kaelthor — Nature & Tempest)
+- **The Order of the Scales** (Aurelius — Wisdom & Justice)
+- **The Order of the Currency** (Crassian — Wealth & Fortune)
+- **The Vigil of the Dusk** (Vesper — Peace & Twilight)
+- **The Pack of Tyra** (Tyra — Hunt & Nature)
 
 ## Goals
 
 - Mediate interfaith disputes before they escalate
 - Coordinate major religious festivals and observances
 - Present a unified religious front to the mortal population
-- Maintain the manufactured divine conflict at manageable levels
+- Ensure theological disputes do not threaten civil stability
+- Maintain the official position that the three banned churches are complicit in the monster invasion
 
 ## Headquarters
 

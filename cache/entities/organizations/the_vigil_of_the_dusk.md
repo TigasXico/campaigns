@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, church, religion, peace, twilight, boundaries
 related:
-  - god_of_peace_and_twilight: The church of this god
+  - vesper: The church of this god
   - society_economy_and_culture: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
   - the_raven_queen: Shares an understanding of boundaries and transitions
@@ -19,7 +19,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The Vigil of the Dusk is the church of the **God of Peace and Twilight** — presiding over serenity, boundaries, transitions, and the liminal spaces between. Its clergy are diplomats, mediators, hospice workers, and guardians of sacred boundaries.
+The Vigil of the Dusk is the church of **Vesper** — the god of peace and twilight, presiding over serenity, boundaries, transitions, and the liminal spaces between. Its clergy are diplomats, mediators, hospice workers, and guardians of sacred boundaries.
 
 ## Structure
 

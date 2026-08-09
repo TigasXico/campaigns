@@ -1,7 +1,7 @@
 ---
-id: god_of_light_and_life
+id: aloria
 type: character
-name: "God of Light and Life"
+name: "Aloria"
 status: draft
 tags:
   - deity, god, light, life, healing, sun
@@ -9,11 +9,8 @@ related:
   - cosmology_and_the_planes: Claims domain in the Outer Planes
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
-secrets:
-  - text: "This god is the most beloved of mortals and the most useful tool of the pantheon. Their genuine love makes them the perfect face of the deception."
-    access: gm-only
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-09
 
 ## Overview
 

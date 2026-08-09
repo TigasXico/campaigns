@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, church, religion, light, life, healing
 related:
-  - god_of_light_and_life: The church of this god
+  - aloria: The church of this god
   - society_economy_and_culture: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
 secrets:
@@ -18,7 +18,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The Order of the Dawn is the church of the **God of Light and Life** — the most beloved and trusted deity of the pantheon. The Order tends to the sick, protects the vulnerable, and stands against the darkness of the monster threat.
+The Order of the Dawn is the church of **Aloria** — the goddess of light and life, the most beloved and trusted deity of the pantheon. The Order tends to the sick, protects the vulnerable, and stands against the darkness of the monster threat.
 
 ## Structure
 

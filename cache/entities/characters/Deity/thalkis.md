@@ -1,7 +1,7 @@
 ---
-id: god_of_forge_and_arcana
+id: thalkis
 type: character
-name: "God of Forge and Arcana"
+name: "Thalkis"
 status: draft
 tags:
   - deity, god, forge, arcana, creation, magic
@@ -10,11 +10,8 @@ related:
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
   - the_arcane_weave: Has unique insight into the weave
-secrets:
-  - text: "This god understands the weave better than any other deity, knowing B's sacrifice was greater than the other gods admit."
-    access: gm-only
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-09
 
 ## Overview
 

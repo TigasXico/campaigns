@@ -9,13 +9,8 @@ related:
   - cosmology_and_the_planes: Claims domain in the Outer Planes
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
-secrets:
-  - text: "Lolth knows she was once part of a greater primordial entity but values her independent existence."
-    access: gm-only
-  - text: "Her domain is a web-choked abyss in the Outer Planes where she traps the souls of devoted followers."
-    access: gm-only
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-09
 
 ## Overview
 

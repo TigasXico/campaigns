@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, church, religion, wealth, fortune, trade
 related:
-  - god_of_wealth_and_fortune: The church of this god
+  - crassian: The church of this god
   - society_economy_and_culture: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
   - the_northeast_settlement_cluster: Connected to the mint and trade heartlands
@@ -21,7 +21,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The Order of the Currency is the church of the **God of Wealth and Fortune** — presiding over trade, commerce, prosperity, luck, and fate. Its temples double as banks and marketplaces, and its clergy are traders, moneylenders, and advisors.
+The Order of the Currency is the church of **Crassian** — the god of wealth and fortune, presiding over trade, commerce, prosperity, luck, and fate. Its temples double as banks and marketplaces, and its clergy are traders, moneylenders, and advisors.
 
 ## Structure
 

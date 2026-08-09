@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, church, religion, nature, tempest, wilderness
 related:
-  - god_of_nature_and_tempest: The church of this god
+  - kaelthor: The church of this god
   - society_economy_and_culture: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
   - primal_nature_magic: Connected to primal magic and nature attunement
@@ -19,7 +19,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The Circle of the Wild is the church of the **God of Nature and Tempest** — embodying the untamed world, wilderness, storms, beasts, and raw natural forces. Its shrines are found in wild places rather than cities, and the world itself is considered the only true temple.
+The Circle of the Wild is the church of **Kaelthor** — the god of nature and tempest, embodying the untamed world, wilderness, storms, beasts, and raw natural forces. Its shrines are found in wild places rather than cities, and the world itself is considered the only true temple.
 
 ## Structure
 

@@ -1,7 +1,7 @@
 # Session Continuity — Lore Development
 
 > ⚠️ This file stores all cross-session context needed to pick up work after a compaction.
-> Created: 2026-08-08 | Updated: 2026-08-09 02:36
+> Created: 2026-08-08 | Updated: 2026-08-09 06:35
 
 ---
 
@@ -11,8 +11,8 @@
 |----------|--------|-------|
 | Magic & The Weave | ✅ **Complete** | All files cached |
 | Cosmology & The Planes | ✅ **Complete** | All files cached |
-| Gods & Religion | ✅ **Complete** | All 8 gods cached |
-| Races & Ancestries | ✅ **Core complete** | Lore files written; some open questions deferred |
+| Gods & Religion | ✅ **Complete** | All 10 gods cached, named, with secrets scrubbed. Public creation myth & race deception map documented. Calendar with 10 months & 10-day week finalized. |
+| Races & Ancestries | ✅ **Complete** | Deception map (which god claims which race) finalized. Unclaimed races (Tieflings) noted. |
 | The World & Geography | ✅ **Core complete** | Aetris, Kythoria, regions, eras, civilization defined |
 | Society, Economy & Culture | ✅ **Complete** | Full lore file written, reviewed section-by-section, all design decisions finalized |
 | Adventuring Classes | ✅ **Complete** | All 12 classes defined, magic source mapping, cultural perception, training, and regional distribution |
@@ -71,6 +71,113 @@ These gaps were identified during the consistency audit and are now tracked for 
 8. ⏳ **Exact First Alliance timeline** — The First Alliance was the army of the Last Stand. When exactly did they defeat Khar'zul relative to the founding of the three capitals (~200 years ago)? Clarify.
 
 ---
+
+## 🗺️ Master Open Question Tracker
+
+> All 45 open questions from across the lore cache, organized by category. Status is tracked here and in individual entity files.
+> Status: ⏳ = Open, ✅ = Answered
+> Updated: 2026-08-09
+
+### A 🔴 Balor Skallfang — Character Mysteries
+| # | Status | Question | Source File |
+|---|--------|----------|-------------|
+| 1 | ⏳ | **Balor's mother** — Name? Fate? Did she flee to protect or escape? | `balor_skallfang.md` |
+| 2 | ⏳ | **The recurring dream** — Ashen field, red sky, winged figure. Whose memories? | `balor_skallfang.md` |
+| 3 | ⏳ | **The blackout** — What happened after Balor grabbed the blade? Did he destroy the village? | `balor_skallfang.md` |
+| 4 | ⏳ | **Leather pouch contents** — Medallion symbol? Ruins marked on the map? | `balor_skallfang.md` |
+| 5 | ⏳ | **Why did the eye form?** — Khar'zul's consciousness, blade awareness, or something else? | `kharzuls_blade.md` |
+| 6 | ⏳ | **Blade's journey** — Exact path from sealing through Skallfang Clan to Hrothgar | `kharzuls_blade.md` |
+| 7 | ⏳ | **Heroes of the First Alliance** — Who were the warriors at Khar'zul's sealing? | `balor_skallfang.md` |
+| 8 | ⏳ | **Skallfang homeland** — Needs naming and detailed geography | `balor_skallfang.md` |
+| 9 | ⏳ | **Hrothgar's safe room** — Glyphs, talismans, purpose? | `balor_skallfang.md` |
+| 10 | ⏳ | **The fiend** — Nature, origin, purpose of Covenant-controlled attacker | `balor_skallfang.md` |
+
+### B 🟠 Worship Questions — Drow & Shadow Elves
+| # | Status | Question | Source File |
+|---|--------|----------|-------------|
+| 11 | ⏳ | **Why do Drow revere Lolth?** — She didn't create them, yet they worship her | `races_and_ancestries.md` |
+| 12 | ⏳ | **Why do Shadow Elves revere the Raven Queen?** — Same logic | `races_and_ancestries.md` |
+
+### C 🟡 Gods & Pantheon — Name Everything
+| # | Status | Question | Source File |
+|---|--------|----------|-------------|
+| 13 | ✅ | **Name the 8 gods** — Aloria, Thalkis, Kaelthor, Aurelius, Crassian, Vesper, Lolth, Raven Queen | `the_gods_and_the_deception.md` |
+| 14 | ✅ | **Which god claims which race?** — See races_and_ancestries.md deception table | `races_and_ancestries.md` |
+| 15 | ⏳ | **God of Peace & Twilight + Raven Queen domain boundary** — Both deal with death/transitions | `session_continuity.md` |
+| 16 | ✅ | **Manufactured divine conflict map** — Lolth, Raven Queen & Vorn publicly blamed; 7 recognized churches. Half-Orcs distrusted despite fighting in First Alliance. Vorn worship is secret. | `the_gods_and_the_deception.md`, `races_and_ancestries.md` |
+| 17 | ✅ | **Pantheon review — 10 gods** (8 originals + Vorn & Tyra) — Calendar implications | `society_economy_and_culture.md` |
+| 18 | ⏳ | **The Originals' true names** — A, B, C — lost or deliberately erased | `the_originals.md` |
+| 19 | ⏳ | **Festival articles** — Create dedicated cache pages for each of the 8 festivals | `society_economy_and_culture.md` |
+| 20 | ✅ | **Calendar month names** — 10 months named after gods; 10-day week; creation story order | `society_economy_and_culture.md` |
+
+### D 🟢 Monsters & Ecology — The Remaining Generals
+| # | Status | Question | Source File |
+|---|--------|----------|-------------|
+| 21 | ⏳ | **The Four Unnamed Generals** — 3 defeated + 2 retreated. Only Khar'zul named | `monsters_and_ecology.md` |
+| 22 | ⏳ | **Remaining Loyalist Command** — Who commands monster forces today? | `monsters_and_ecology.md` |
+| 23 | ⏳ | **Crystal-Corrupted Apex** — What happens to a dragon that becomes corrupted? | `monsters_and_ecology.md` |
+| 24 | ⏳ | **Resurrection Ritual requirements** — Exact method to resurrect B | `monsters_and_ecology.md` |
+| 25 | ⏳ | **Mortal Discoverers** — Which arcanists know parts of the truth? | `monsters_and_ecology.md` |
+| 26 | ⏳ | **The Blackmail Threshold** — How far can CC push the gods? | `monsters_and_ecology.md` |
+| 27 | ⏳ | **Monster Army's Breaking Point** — Would they turn on gods if they knew truth? | `monsters_and_ecology.md` |
+| 28 | ⏳ | **Detailed Monster Ecology** — Tainted zones, nesting grounds, adapted wildlife | `monsters_and_ecology.md` |
+| 29 | ⏳ | **Monster Economy Details** — Specific guilds, merchants, industries | `monsters_and_ecology.md` |
+| 30 | ⏳ | **Monster Categories by Plane** — Deliberately open for flexibility | `monsters_and_ecology.md` |
+
+### E 🔵 Society, Geography & Place Names
+| # | Status | Question | Source File |
+|---|--------|----------|-------------|
+| 31 | ⏳ | **Adventurers' Guild name** — Continent-wide guild needs a name | `society_economy_and_culture.md` |
+| 32 | ⏳ | **Guild member nickname** — What are members called? | `society_economy_and_culture.md` |
+| 33 | ⏳ | **The Great Circuit** — Overland trade route needs a name | `society_economy_and_culture.md` |
+| 34 | ⏳ | **Northeast settlement cluster** — 1 major + 3 minor + 2 export towns need names | `society_economy_and_culture.md` |
+| 35 | ⏳ | **Southeastern port** — Main sea trade hub needs a name | `society_economy_and_culture.md` |
+| 36 | ⏳ | **Eastern port** — Secondary port needs a name | `society_economy_and_culture.md` |
+| 37 | ⏳ | **Crystal cave entrances** — Which capital(s) have access points? | `session_continuity.md` |
+| 38 | ⏳ | **Crystal cave deeper exploration** — What lies deeper in the cave? | `the_arcane_reactive_crystal_cave.md` |
+| 39 | ⏳ | **Pre-invasion culture** — Era of Foundation remains undefined | `session_continuity.md` |
+| 40 | ⏳ | **Notable NPCs** — City leaders, guildmasters, high priests | `session_continuity.md` |
+| 41 | ⏳ | **The black market** — Could become an underworld faction | `session_continuity.md` |
+| 42 | ⏳ | **Specific guild detail write-ups** — Organization entities for major guilds | `session_continuity.md` |
+| 43 | ⏳ | **Exact First Alliance timeline** — When did they defeat Khar'zul relative to capitals? | `session_continuity.md` |
+
+### F 🟣 Crimson Covenant & Blade Details
+| # | Status | Question | Source File |
+|---|--------|----------|-------------|
+| 44 | ⏳ | **Larger evil council?** — Is CC part of a larger evil org tied to other PC backstories? | `session_continuity.md` |
+| 45 | ⏳ | **Rite of Ash exact requirements** — Prayer parameters in Old Abyssal undefined | `kharzuls_blade.md` |
+
+## 🔄 Instance Handoff — Current State (2026-08-09 19:59)
+
+> This file was last updated during a session that renamed Veridius → Aurelius across the entire cache.
+> Below is everything a new goose instance needs to pick up context immediately.
+
+### What's Been Completed
+- **10 gods named**: Aloria, Thalkis, Kaelthor, Aurelius (was Veridius), Crassian, Vesper, Lolth, Raven Queen, Vorn, Tyra
+- **Race Deception Map**: Which god falsely claims which race — 1-to-1 mapping, no overlap
+- **Calendar**: 10 months (god-named, creation-order), 10-day week (domain-named), festivals on day matching month order (4 work / 2 rest / 3 work / 1 rest pattern)
+- **Public Creation Myth**: False creation story documenting the "order of creation" the gods fabricated
+- **Manufactured Divine Conflict Map (Q16)**: Lolth, Raven Queen & Vorn publicly blamed for monster invasion. Their churches (Coven of the Spider, Order of the Raven, Iron Host) banned from Last Stand. Half-Orcs distrusted despite fighting in First Alliance. Vorn worship is secret. Only the 7 recognized churches (Aloria, Thalkis, Kaelthor, Aurelius, Crassian, Vesper, Tyra) sit on the Ecumenical Council.
+- **Character restructuring**: Characters moved to Deity/ (10 files), PC/ (balor_skallfang.md), NPC/ subfolders. Secrets column removed from all deity files.
+- **Ecumenical Council**: Reduced to 7 members; clergy do NOT know the divine conflict is fake (only gods know)
+
+### All Open Questions (45 tracked in Master Open Question Tracker above)
+- **A (Balor Skallfang)** — 10 open questions (#1-10)
+- **B (Worship)** — 2 open (#11-12): Why Drow revere Lolth, why Shadow Elves revere Raven Queen
+- **C (Gods)** — 4 open (#15: Vesper/Raven Queen boundary, #18: Originals' true names, #19: festival articles)
+- **D (Monsters)** — 10 open (#21-30)
+- **E (Society)** — 13 open (#31-43): Adventurers' Guild name & nickname, trade route names, settlement names, cave entrances, timeline
+- **F (Covenant)** — 2 open (#44-45)
+
+### Quick Wins to Pick Up First
+1. **Name the Adventurers' Guild** (#31) and member nickname (#32)
+2. **Name trade routes** — The Great Circuit (#33)
+3. **Name settlements** — NE cluster (#34), SE port (#35), E port (#36), Skallfang homeland (#8)
+4. **Define why Drow/Shadow Elves revere their gods** (#11-12)
+5. **Define the Skallfang homeland** (#8)
+
+### Last Change Before Commit
+- Renamed god **Veridius → Aurelius** globally across all 8 affected files + deity file rename
 
 ## ⏭️ Next Session — Potential Next Steps
 

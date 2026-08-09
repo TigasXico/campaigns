@@ -1,7 +1,7 @@
 ---
-id: god_of_wisdom_and_justice
+id: aurelius
 type: character
-name: "God of Wisdom and Justice"
+name: "Aurelius"
 status: draft
 tags:
   - deity, god, knowledge, order, wisdom, justice
@@ -9,11 +9,8 @@ related:
   - cosmology_and_the_planes: Claims domain in the Outer Planes
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
-secrets:
-  - text: "This god genuinely believes in justice, unaware his purpose is a remnant of the primordial desire to control mortals."
-    access: gm-only
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-09
 
 ## Overview
 

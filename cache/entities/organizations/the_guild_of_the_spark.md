@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, church, religion, forge, arcana, craft
 related:
-  - god_of_forge_and_arcana: The church of this god
+  - thalkis: The church of this god
   - society_economy_and_culture: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
   - emberforge: The Guild has strong ties to Emberforge's smithing traditions
@@ -19,7 +19,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The Guild of the Spark is the church of the **God of Forge and Arcana** — patron of artisans, smiths, inventors, and mages. Its temples are workshops, forges, and arcane libraries where craft and magic are studied as sacred pursuits.
+The Guild of the Spark is the church of **Thalkis** — the god of forge and arcana, patron of artisans, smiths, inventors, and mages. Its temples are workshops, forges, and arcane libraries where craft and magic are studied as sacred pursuits.
 
 ## Structure
 

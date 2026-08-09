@@ -1,7 +1,7 @@
 ---
-id: god_of_nature_and_tempest
+id: kaelthor
 type: character
-name: "God of Nature and Tempest"
+name: "Kaelthor"
 status: draft
 tags:
   - deity, god, nature, tempest, wilderness, storms
@@ -10,11 +10,8 @@ related:
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
   - primal_nature_magic: Primal magic is part of this god's domain
-secrets:
-  - text: "This god is the least involved in the divine deception. Their distance makes them an unpredictable wildcard."
-    access: gm-only
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-09
 
 ## Overview
 
