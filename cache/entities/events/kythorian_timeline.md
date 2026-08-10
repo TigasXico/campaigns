@@ -6,15 +6,15 @@ status: draft
 tags:
   - timeline, history, chronology
 related:
-  - the_originals: Originals created all existence
-  - the_great_sacrifice: B's sacrifice reshaped reality
-  - the_gods_and_the_deception: Gods' actions span the timeline
-  - the_abominable_end: The monster invasion era
-  - founding_of_the_last_stand: Turn of the eras
-  - the_sealing_of_kharzul: Pivotal war event
-  - monsters_and_ecology: Monsters remain a threat
-  - the_crimson_covenant: Schemes spanning centuries
-  - balor_skallfang: Present-day culmination
+  - the_originals: Traces events from the Originals to present
+  - the_great_sacrifice: Includes the Great Sacrifice
+  - the_gods_and_the_deception: Tracks the divine conspiracy timeline
+  - the_abominable_end: Includes the Abominable End
+  - founding_of_the_last_stand: Includes the founding of the Last Stand
+  - the_sealing_of_kharzul: Includes the sealing of Khar'zul
+  - monsters_and_ecology: Chronicles the monster invasion and aftermath
+  - the_crimson_covenant: Tracks the Covenant's history
+  - balor_skallfang: Captures backstory events
   - society: Current society emerged from these events
   - economy: Economy shaped by historical events
   - the_world_and_geography: Maps events to eras of Kythoria

@@ -11,10 +11,10 @@ related:
   - the_ecumenical_council: The Order of the Scales is a member church of the Ecumenical Council
   - the_gods_and_the_deception: Aegon channels divine power through Aurelius, but Paul's murder and his changing visions point toward the truth about the gods
   - the_arcane_weave: Aegon's visions are shifting from Aurelius to B's consciousness in the Weave; paladins draw power through their oath to a god who channels it
-  - the_originals: Aegon's later visions may originate from B's lingering consciousness in the Weave
+  - the_originals: Aegon's later visions may originate from B's lingering will in the Weave
   - the_great_sacrifice: B's scattered essence reaches out to those strong of conviction
   - class_training_and_culture: Paladins trained at church seminaries or Skywatch War College
-  - the_crimson_covenant: Framed for Paul's murder  -  the true killers acted on divine orders from Aurelius
+  - the_crimson_covenant: Framed for Paul's murder  -  the truth is the Order acted on Aurelius's command; the true killers acted on divine orders
   - paul: Raised by Paul after being orphaned
   - the_order_of_the_protectors: Knightly sub-chapter of the Scales; Aegon's order
   - the_high_septon: Swore his oath at the High Septon in the old capital

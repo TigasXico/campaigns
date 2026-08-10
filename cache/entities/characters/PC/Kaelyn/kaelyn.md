@@ -8,18 +8,18 @@ tags:
 related:
   - races_and_ancestries: Drow  -  created by Crimson Covenant experiments on elves ~500-600 years ago
   - the_coven_of_the_spider: Church of Lolth  -  Drow society is theocratic and matriarchal
-  - lolth_the_spider_queen: Lolth claims the Drow as her creations, though she did not create them
+  - lolth_the_spider_queen: Lolth claims the Drow as her creations; Kaelyn is a product of their theocracy, though Lolth did not create them
   - primal_nature_magic: Dragons are the pinnacle of arcane evolution on Kythoria
   - monsters_and_ecology: Blue dragons are native apex predators; their bodies carry concentrated B essence
   - the_arcane_reactive_crystals: The blue crystals in the Azure Boneyard are condensed essence of B
-  - the_arcane_weave: Kaelyn's crystal heart is a physical manifestation of B's essence bonded to living tissue
+  - the_arcane_weave: Her crystal heart overdraws B's essence when she uses too much magic; it is a physical manifestation of B's essence bonded to living tissue
   - the_originals: Kaelyn is B-touched  -  her crystal heart is a fragment of B's essence crystallized within her
   - the_great_sacrifice: The power that flows through Kaelyn traces back to B's sacrifice
   - the_gods_and_the_deception: A B-touched individual like Kaelyn threatens the gods' entire deception
   - the_crimson_covenant: Would consider her a B-touched artifact worth capturing; intensely interested in studying her crystal heart
   - the_underdark_forest: Kaelyn was exiled at age 11 after the Trial of Lolth; the Drow settlement is a perpetually shaded forest in south-west Kythoria under a massive Black Willow
-  - the_azure_boneyard: The cave where Kaelyn touched a blue dragon skeleton and awakened her powers
-  - solyn_velkyn: Kaelyn's twin sister; presumed dead in the cave-in, but actually alive (Kaelyn does not know)
+  - the_azure_boneyard: Gained her powers by touching a blue dragon skeleton there; the cave where Kaelyn touched a dragon skull and awakened her powers
+  - solyn_velkyn: Twin sister; rival in the Trial of Lolth, savior in the cave-in; presumed dead but actually alive (Kaelyn does not know)
   - lyndale_velkyn: Kaelyn's mother, High Matron of the Drow community; presumed dead in the fire, but actually alive (Kaelyn does not know)
   - seraphina_vex: Seraphine (her tiefling nanny) may be connected to Seraphina Vex; taught Kaelyn to question Lolth's faith, killed by Solyn during the Trial of Lolth
   - aurora_asteria: Fellow B-touched individual  -  Aurora perceives B through the stars, Kaelyn carries B physically

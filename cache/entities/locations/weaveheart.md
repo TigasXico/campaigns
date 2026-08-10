@@ -11,7 +11,7 @@ related:
   - emberforge: Sister city, handles forging and industry
   - kythoria: Located in the temperate heartlands of Kythoria
   - the_arcane_weave: Built at a ley line convergence, heart of arcane study
-  - society_economy_and_culture: Weaveheart's governance and culture detailed here
+  - society_economy_and_culture: Arcane and research heart of the Last Stand; Weaveheart's governance and culture detailed here
   - the_order_of_the_dawn: Main temple of the Order of the Dawn
   - the_ecumenical_council: Council meets in Weaveheart
 secrets:

@@ -7,11 +7,11 @@ tags:
   - npc, deceased, order_of_the_protectors, order_of_the_scales, paladin, aegon_father_figure
 related:
   - aegon: Raised Aegon as his son and trained him as a paladin
-  - the_order_of_the_protectors: Was a member of this knightly chapter
-  - the_order_of_the_scales: Served the Scales as a priest and warrior; killed by their agents under Aurelius's command
+  - the_order_of_the_protectors: Was a senior member of this knightly chapter
+  - the_order_of_the_scales: Served the Scales as a priest and warrior; murdered by their agents under Aurelius's command
   - aurelius: Served Aurelius faithfully until his visions shifted to B  -  then was silenced
   - the_crimson_covenant: Framed for Paul's murder by the Order of the Scales
-  - the_arcane_weave: B's lingering will reached Paul through visions in his final years
+  - the_arcane_weave: B's lingering will spoke to Paul through visions before his death; reached him in his final years
   - the_great_sacrifice: Received visions from B's consciousness before his death
   - the_gods_and_the_deception: Discovered the truth and was silenced for it
 secrets:

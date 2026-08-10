@@ -8,10 +8,10 @@ tags:
 related:
   - society_economy_and_culture: The primary controller of the monster hunting industry
   - adventuring_classes: Adventurers of all classes operate through this guild
-  - the_frontier: The guild is essential for frontier survival and expansion
+  - the_frontier: Most active on the frontier; essential for frontier survival and expansion
   - the_world_and_geography: Headquarters in the old capital at the center of the continent
   - kythorian_timeline: Founded after the reconquering began
-  - monsters_and_ecology: Monster hunting is the guild's primary industry
+  - monsters_and_ecology: Manages monster-hunting contracts; monster hunting is the guild's primary industry
 secrets:
   - text: "The Drakh Ix'thar headquarters in the old capital is secretly monitored by agents of the Crimson Covenant, who track parties that discover too much about the frontier ruins and the truth about B."
     access: gm-only

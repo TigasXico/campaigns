@@ -10,13 +10,13 @@ related:
   - solyn_velkyn: Twin sister of Kaelyn, raised in the Underdark
   - lyndale_velkyn: High Matron of the Underdark community, Matron Mother of House Velkyn
   - rages_and_ancestries: Drow are the primary inhabitants of the Underdark
-  - lolth_the_spider_queen: The Underdark's theocracy worships Lolth as their creator and patron
+  - lolth_the_spider_queen: The Drow worship Lolth as their creator (a lie); the Underdark's theocracy worships her as patron
   - the_coven_of_the_spider: The Drow church of Lolth governs religious life in the Underdark
   - the_crimson_covenant: The Drow were created by Covenant experiments ~500-600 years ago; the Underdark was founded by Drow who fled the Covenant's facilities
   - the_arcane_weave: The Black Willow grows upon a ley line convergence where B's essence flows close to the surface
   - the_arcane_reactive_crystals: A giant crystal cave exists at the roots of the Black Willow  -  condensed B's essence
   - the_originals: The Black Willow's unnatural growth was B's lingering consciousness responding to the Covenant's creation of the Drow
-  - the_azure_boneyard: Located in the mountains accessible via the Underdark Caves system
+  - the_azure_boneyard: The Underdark Caves connect to the mountains where the Azure Boneyard is located
   - kythoria: Sunken forest in south-west Kythoria
 secrets:
   - text: "The Black Willow's growth and its ability to cast perpetual shadow was an unintended byproduct of B's lingering consciousness responding to the Crimson Covenant's artificial creation of the Drow. The ley line convergence beneath the tree reacted to this unnatural act, causing the willow to grow massive and block the sun. Lolth later stepped in and claimed credit for the phenomenon, using it to bind the Drow to her worship."

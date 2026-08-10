@@ -6,7 +6,7 @@ status: draft
 tags:
   - location, settlement, economy, mint, mining
 related:
-  - society_economy_and_culture: The economic backbone of the continent
+  - society_economy_and_culture: Economic backbone, mint and mining; the economic backbone of the continent
   - kythoria: Located in the northeast of the continent
   - the_thormvuld_family: The Thormvulds originate from this region
 secrets:

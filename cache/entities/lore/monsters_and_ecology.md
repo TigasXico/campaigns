@@ -8,8 +8,8 @@ tags:
 related:
   - the_arcane_weave: B's remnants carry a subconscious desire to become whole again
   - the_arcane_reactive_crystals: Crystals amplify B's influence on nearby monsters
-  - the_world_and_geography: The invasion shaped settlement and reconquering
-  - the_last_stand: The Last Stand founded in response to invasion
+  - the_world_and_geography: The invasion defined Kythoria's settlement patterns and reconquering
+  - the_last_stand: The Last Stand was founded in direct response to the invasion
   - the_crimson_covenant: Creates experimental monsters (Crimson-touched)
   - adventuring_classes: Adventurers hunt monsters as primary occupation
   - monster_economy: Economy and ecology derived from monsters

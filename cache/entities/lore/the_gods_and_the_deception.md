@@ -12,8 +12,8 @@ tags:
 related:
   - the_originals: The gods are fragments of A and C; A and C subdivided into gods after B's sacrifice
   - the_great_sacrifice: The gods formed after B's sacrifice
-  - the_arcane_weave: Gods act as conduits for the weave
-  - primal_nature_magic: The gods hide the truth that all mortals can use magic
+  - the_arcane_weave: Gods act as conduits for divine casters channeling the weave
+  - primal_nature_magic: The gods hide the truth about universal magic potential; all mortals can use magic
   - monsters_and_ecology: The gods planned the monster invasion to destroy mortalkind
 secrets:
   - text: "The gods were once part of the primordial entities A and C, who still want to destroy mortal races."

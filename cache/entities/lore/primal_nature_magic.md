@@ -10,8 +10,8 @@ tags:
   - secret
 related:
   - the_great_sacrifice: Nature magic arose from residual arcane energy absorbed by the natural world
-  - the_arcane_weave: Both arcane and primal magic draw from the same source  -  B's sacrifice
-  - the_gods_and_the_deception: The gods hide the truth that all mortals can use magic
+  - the_arcane_weave: Same source, different path both draw from B's sacrifice
+  - the_gods_and_the_deception: The gods suppress the universal truth that all mortals can use magic
 secrets:
   - text: "All mortals have latent arcane potential. The capacity to cast magic is not a special gift  -  it is universal. The gods deliberately suppress this knowledge."
     access: gm-only

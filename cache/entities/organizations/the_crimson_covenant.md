@@ -6,9 +6,9 @@ status: draft
 tags:
   - organization, evil, experiments, demonic, secrets, crimson_covenant, ritual
 related:
-  - races_and_ancestries: Created Drow, Shadow Elves, and Tieflings
-  - lolth_the_spider_queen: Drow revere Lolth
-  - the_raven_queen: Shadow Elves revere Raven Queen
+  - races_and_ancestries: Experiments created Drow, Shadow Elves, and Tieflings
+  - lolth_the_spider_queen: Drow revere Lolth, though she did not create them
+  - the_raven_queen: Shadow Elves revere the Raven Queen, though she did not create them
   - the_last_stand: Originated from dissident scholars of the First Alliance; operates in shadows
   - monsters_and_ecology: Researches B's crystals, Khar'zul's essence, and the resurrection ritual within the monster army
   - the_gods_and_the_deception: Holds blackmail knowledge over gods

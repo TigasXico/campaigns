@@ -6,13 +6,13 @@ status: active
 tags:
   - organization, military, alliance, historical, last_stand, reconquering
 related:
-  - the_last_stand: The First Alliance was the army of the Last Stand itself
-  - monsters_and_ecology: The Alliance defeated three of the Five Monster Generals
-  - kharzuls_blade: The Alliance sealed Khar'zul within his own blade after his defeat
+  - the_last_stand: The Alliance's victory enabled the reconquering
+  - monsters_and_ecology: Defeated three of the Five Monster Generals, including Khar'zul
+  - kharzuls_blade: Devised the ritual that sealed Khar'zul within his own blade after his defeat
   - the_crimson_covenant: Dissident scholars of the Alliance became the Crimson Covenant
   - balor_skallfang: The Skallfang Clan fought in the Alliance and were entrusted with the blade
   - society_economy_and_culture: Its legacy shapes modern military and political structures
-  - the_great_sacrifice: The Alliance unknowingly fought with power originating from B's sacrifice
+  - the_great_sacrifice: The Alliance unknowingly wielded power from B's sacrifice
 secrets:
   - text: "The First Alliance was formed by mortal leaders who had no idea they were fighting a war orchestrated by the gods themselves. Had they known the divine conspiracy, the alliance may never have formed."
     access: gm-only

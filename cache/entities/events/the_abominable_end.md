@@ -6,10 +6,10 @@ status: draft
 tags:
   - event, invasion, cataclysm, monster, history
 related:
-  - monsters_and_ecology: The invasion was orchestrated by the gods through planar breaches
+  - monsters_and_ecology: The monster invasion that defined this era
   - the_world_and_geography: This event defines the second era of Kythoria's history
-  - the_last_stand: The Last Stand was founded in response to this event
-  - the_gods_and_the_deception: The gods orchestrated this invasion to destroy mortalkind
+  - the_last_stand: The invasion forced the founding of the Last Stand
+  - the_gods_and_the_deception: The gods planned this invasion to destroy mortalkind
   - the_first_alliance: The First Alliance pushed back the invasion
 secrets:
   - text: "The monsters were not a natural disaster. The gods opened planar breaches along the entire coast of Kythoria, striking deals with the Abyss, Nine Hells, Shadowfell, and Feywild to supply the invasion force. The monster army was never told why they were invading  -  only to destroy all mortal races."

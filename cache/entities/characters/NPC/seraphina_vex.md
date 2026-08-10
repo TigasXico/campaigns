@@ -6,10 +6,10 @@ status: draft
 tags:
   - npc, crimson_covenant, balors_mother, tiefling, victim, deceased
 related:
-  - balor_skallfang: Mother of Balor Skallfang; sacrificed everything to save him
+  - balor_skallfang: Biological mother of Balor Skallfang; sacrificed everything to save him
   - kharzuls_blade: Escaped with Khar'zul's sealed blade; fled with the blade when she escaped the Covenant
   - the_crimson_covenant: Victim of Project Genesis who escaped with Balor and the blade; pursued and killed by Covenant hunters
-  - the_medallion_of_vex: Her medallion, now in Balor's possession
+  - the_medallion_of_vex: Her family heirloom medallion, left with Balor as an infant; now in Balor's possession
   - the_frostmaw: Fell into a glacial crevasse in the Frostmaw mountains
 secrets:
   - text: "Seraphina Vex was never a willing Apostle of the Crimson Covenant. She and her entire family were captured by the Covenant when she was a child. The 'Apostle' identity was a cover story fabricated by the Covenant after her betrayal  -  the truth is that every generation of her bloodline was bred and experimented on for decades."

@@ -6,13 +6,13 @@ status: draft
 tags:
   - pc, player_character, elf, druid, circle_of_stars, constellations, celestial, twin_brother, b-touched, hidden_constellations, verdant_reaches, elarwyn
 related:
-  - primal_nature_magic: Druids draw absorbed arcane energy from nature  -  Aurora's Circle of the Stars magic is a rare expression of this
+  - primal_nature_magic: Her druidic magic draws from nature's absorbed arcane energy  -  Aurora's Circle of the Stars magic is a rare expression of this
   - the_arcane_weave: All magic, including druidic, draws from B's essence  -  Aurora's hidden constellations are patterns of B's lingering consciousness
   - the_originals: Aurora perceives B's scattered essence as hidden constellations in the night sky; celestial patterns of B's scattered essence
-  - the_great_sacrifice: B's sacrifice scattered its essence across all planes; Aurora perceives its patterns in the night sky
+  - the_great_sacrifice: Her celestial visions are projections of B's lingering will; Aurora perceives its patterns in the night sky
   - the_verdant_reaches: The ancient forest where Elarwyn  -  Aurora's hidden home  -  is located, protected by a magical barrier
-  - cosmology_and_the_planes: The stars are part of the cosmos created by the Originals; hidden patterns reveal truths about B's sacrifice
-  - the_gods_and_the_deception: The gods fear B-touched individuals like Aurora, who can perceive B's lingering will directly
+  - cosmology_and_the_planes: The hidden constellations map onto the Material Plane's night sky; hidden patterns reveal truths about B's sacrifice
+  - the_gods_and_the_deception: As a B-touched individual, she is a threat to the gods' deception; the gods fear B-touched individuals like Aurora, who can perceive B's lingering will directly
   - the_crimson_covenant: Her twin brother Polaris was captured by the Covenant and experimented on; they experiment on B-touched individuals
   - kaelyn: Polaris may have been experimented into a Drow  -  potential tie to the Underdark
   - zan_vaelis_zandorian: Polaris may have been experimented into a Shadow Elf  -  potential tie to Shadowfell

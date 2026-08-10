@@ -7,14 +7,14 @@ tags:
   - pc, player_character, tiefling, barbarian, skullfang_clan, kharzul, blade_bearer, crimson_covenant
 related:
   - monsters_and_ecology: Carries Khar'zul, a former balor general of the monster army, sealed within his sword
-  - the_crimson_covenant: Created through Project Genesis; ultimate target
+  - the_crimson_covenant: Balor is the culmination of Project Genesis; ultimate target
   - the_great_sacrifice: Khar'zul's essence connects to B's lingering will
   - the_arcane_reactive_crystals: Blade may resonate with crystals
-  - races_and_ancestries: Tiefling, created by Covenant experiments
+  - races_and_ancestries: Balor is a tiefling, a race created by Covenant experiments
   - seraphina_vex: Biological mother; victim of the Covenant who fled with him
   - the_medallion_of_vex: Heirloom medallion Seraphina left with him as an infant
   - the_frostmaw: The Skallfang Clan's ancestral homeland where Balor was raised
-  - the_first_alliance: The Skallfang Clan fought in the Alliance against Khar'zul
+  - the_first_alliance: The Skallfang Clan fought in the Alliance against the Five Generals and were entrusted with the blade
   - kharzuls_blade: Unwilling bearer of the blade containing Khar'zul's essence
   - the_last_stand: The Skallfang Clan (his adoptive family) fought in the First Alliance
 secrets:

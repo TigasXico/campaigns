@@ -9,8 +9,8 @@ tags:
   - deities
 related:
   - the_great_sacrifice: Entity B's sacrifice created the arcane weave
-  - the_gods_and_the_deception: A and C subdivided into gods after B's sacrifice
-  - the_arcane_weave: The weave originates from B's sacrifice
+  - the_gods_and_the_deception: A and C became gods after B's sacrifice by subdividing
+  - the_arcane_weave: B's essence formed the weave; the weave originates from B's sacrifice
   - primal_nature_magic: B's scattered essence suffused nature with arcane energy
   - monsters_and_ecology: A and C planned the invasion; B sacrificed to stop it
   - the_arcane_reactive_crystals: Condensed essence of B

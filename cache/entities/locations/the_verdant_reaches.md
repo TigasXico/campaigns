@@ -7,7 +7,7 @@ tags:
   - location, forest, ancient_wood, elarwyn, hidden_refuge, druid, reclaimed_territory
 related:
   - kythoria: The Verdant Reaches are located in the south-eastern reclaimed territories of Kythoria
-  - aurora_asteria: Aurora was born in Elarwyn, a hidden community within the Verdant Reaches
+  - aurora_asteria: Aurora's birthplace and childhood home; born in Elarwyn, a hidden community within the Verdant Reaches
   - primal_nature_magic: The forest is saturated with primal arcane energy absorbed from B's sacrifice
   - the_arcane_weave: The forest may contain ley line convergences where the Weave is especially dense
   - the_circle_of_the_wild: Druids from the Circle of the Wild may have ties to or knowledge of the Verdant Reaches

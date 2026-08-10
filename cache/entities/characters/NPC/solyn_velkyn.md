@@ -7,7 +7,7 @@ tags:
   - npc, drow, lolth, house_velkyn, twin, kaelyn, underdark, high_priestess, presumed_dead
 related:
   - kaelyn: Twin sister  -  rival in childhood, adversary in the Trial of Lolth, savior in the cave-in
-  - lyndale_velkyn: Daughter of the High Matron
+  - lyndale_velkyn: Mother is the High Matron; daughter of Lyndale Velkyn
   - the_underdark_forest: Raised in House Velkyn within the Drow community
   - the_coven_of_the_spider: High Priestess of Lolth
   - lolth_the_spider_queen: Serves the Spider Queen

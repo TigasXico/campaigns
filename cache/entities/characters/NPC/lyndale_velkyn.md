@@ -6,10 +6,10 @@ status: draft
 tags:
   - npc, drow, lolth, house_velkyn, high_matron, kaelyn, underdark, presumed_dead
 related:
-  - kaelyn: Mother of Kaelyn  -  exiled her, imprisoned her, and was pushed into a fire during Kaelyn's escape
-  - solyn_velkyn: Mother of Solyn  -  Solyn now keeps her hidden in seclusion
-  - the_underdark_forest: Former High Matron and Matron Mother of House Velkyn
-  - the_coven_of_the_spider: Former supreme religious authority of the Drow community
+  - kaelyn: Mother of Kaelyn  -  exiled her, imprisoned her, tortured her, and was pushed into a fire during Kaelyn's escape
+  - solyn_velkyn: Mother of the twins  -  Solyn now keeps her hidden in seclusion
+  - the_underdark_forest: Former ruler of the Drow community; former High Matron and Matron Mother of House Velkyn
+  - the_coven_of_the_spider: Former High Matron; former supreme religious authority of the Drow community
   - lolth_the_spider_queen: Dedicated servant of Lolth
 secrets:
   - text: "Lyndale survived the fire, but she was horribly burned. Her face and body are scarred beyond recognition. Solyn rescued her from the caves and now keeps her hidden from the community, claiming she died in the disaster."

@@ -10,7 +10,7 @@ related:
   - skywatch: Sister city, handles scouting and intelligence
   - weaveheart: Sister city, arcane and research heart
   - kythoria: Located in the temperate heartlands of Kythoria
-  - society_economy_and_culture: Emberforge's governance and culture detailed here
+  - society_economy_and_culture: Industrial heart of the mortal races; Emberforge's governance and culture detailed here
   - the_adventurers_guild: Prototype weapons tested here
   - the_guild_of_the_spark: Strong ties to the church of Forge and Arcana
 secrets:

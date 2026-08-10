@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, clan, monster_hunters, northern, frontier
 related:
-  - the_first_alliance: The clan fought in the Alliance and were entrusted with Khar'zul's blade
+  - the_first_alliance: Fought in the Alliance against the Five Generals and were entrusted with Khar'zul's blade
   - kharzuls_blade: The clan has guarded the sealed blade for generations
   - balor_skallfang: Balor was adopted and raised by the clan
   - monsters_and_ecology: Monster hunters from the northern frontier

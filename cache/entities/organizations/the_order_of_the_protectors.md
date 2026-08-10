@@ -7,7 +7,7 @@ tags:
   - organization, knightly_order, paladins, aurelius, high_septon, old_capital
 related:
   - the_order_of_the_scales: Sibling order  -  mutually assisting chapters under Aurelius
-  - aurelius: Church of Aurelius  -  the god of wisdom and justice
+  - aurelius: Serves Aurelius, god of wisdom and justice; church of Aurelius
   - aegon: Aegon is a member of this order
   - paul: Paul was a senior member of this order
   - the_ecumenical_council: Represented indirectly through the Order of the Scales

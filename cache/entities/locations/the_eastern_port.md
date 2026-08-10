@@ -6,7 +6,7 @@ status: draft
 tags:
   - location, port, trade, sea
 related:
-  - society_economy_and_culture: Provides sea connections for trade
+  - society_economy_and_culture: Major sea trade hub; provides sea connections for trade
   - kythoria: Located on the east coast of Kythoria
   - the_southeastern_port: Sister port to the southeast
 secrets:
