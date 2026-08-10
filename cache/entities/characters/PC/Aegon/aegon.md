@@ -83,9 +83,9 @@ And Paul died.
 
 ### The Rogue Paragon
 
-An investigation was announced. The **Crimson Covenant** — a shadowy organization known for experimentation and violence — was blamed. Evidence was presented. The matter was declared resolved.
+An investigation was announced — the Order of the Scales would find who was responsible. But weeks passed, then months, and no answers came. The investigation stalled. No culprit was named. The matter faded from official attention, unresolved.
 
-Aegon did not pursue it further. Not because he believed the story, but because Paul's dying words consumed him. *"Do not trust the Order… Trust your oath and your visions."* He did not know what Paul meant. He did not know who killed him. He only knew that his father's final warning echoed louder than any official report.
+Aegon did not push for answers. Not because he was satisfied, but because Paul's dying words consumed him entirely. *"Do not trust the Order… Trust your oath and your visions."* He did not know what Paul meant. He did not know who killed him. He only knew that his father's final warning echoed louder than any unanswered question about the attacker's identity.
 
 Aegon began to watch the Order more closely. He started to question commands that felt wrong, that contradicted his oath or his conscience. Where he had once followed without hesitation, he now paused — measured — judged for himself. Sometimes he refused orders outright when his visions or his oath demanded otherwise.
 
@@ -122,14 +122,14 @@ The title came from both allies and enemies: **Aegon, The Rogue Paragon** — a 
 - **The Order of the Scales** — Parent organization. Aegon still serves but no longer follows blindly. Paul's words made him question their commands — sometimes refusing them when his oath or visions demand otherwise.
 - **The Order of the Protectors** — His knightly chapter. His brothers and sisters in arms. Some support his independence; others see it as dangerous defiance.
 - **Aurelius** — The god he swore his oath to. Aegon remains faithful, but his shifting visions raise questions he cannot yet answer.
-- **The Crimson Covenant** — The name attached to Paul's death in the official reports. Aegon has not investigated the claim.
+- **The Crimson Covenant** — An organization Aegon knows little about. The investigation into Paul's death has produced no named culprits, so the Covenant has never entered Aegon's considerations.
 
 ---
 
 ## Open Questions
 
 1. ⏳ **What exactly did Paul know?** His dying words suggest he discovered something about the Order. What was it?
-2. ⏳ **Who attacked Paul's chapel?** The official story blames the Crimson Covenant. Aegon has not investigated — he's been focused on understanding Paul's warning instead.
+2. ⏳ **Who attacked Paul's chapel?** The investigation has produced no results. Aegon has not pursued the question — he's been focused on understanding Paul's warning instead. (GM note: evidence planted by the Order of the Scales frames the Crimson Covenant, but this is a hidden truth to be discovered during the campaign.)
 3. ⏳ **The jealous/fanatic members** — How far will they go to claim Aegon's power?
 4. ⏳ **The old capital** — The High Septon is located there. What other secrets does it hold?
 5. ⏳ **B's influence on Aegon** — Will his visions grow clear enough to reveal the full truth about the Originals and the gods' deception?
