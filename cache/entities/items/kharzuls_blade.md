@@ -100,6 +100,8 @@ In the vision Balor saw when first touching the blade, the colossal balor figure
 > *"At last... You do not wield me... You carry me."*
 
 
+> **🛠️ TODO — Five Stages of Progression**: Define each of the 5 stages mechanically (full stat block/abilities), thematically (what each stage represents narratively in the bond between Khar'zul and Balor), and visually (how the blade's appearance and Balor's physical traits transform at each threshold). Current draft table below provides a starting framework — expand each entry into a dedicated subsection with mechanical, thematic, and visual paragraphs.
+
 ## Evolution (GM Reference)
 
 The blade's power grows with Balor, unlocking new features at certain thresholds:
