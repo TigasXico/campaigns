@@ -10,7 +10,7 @@ related:
   - culture_and_society: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
   - races_and_ancestries: Shadow Elves are the primary worshippers
-  - god_of_peace_and_twilight: Shares an understanding of boundaries and transitions
+  - vesper: Shares an understanding of boundaries and transitions
 secrets:
   - text: "The Raven Queen suspects the truth about the Originals and waits for the moment to reveal it. Her domain is a vast mausoleum in the Outer Planes where she records every passing soul."
     access: gm-only
