@@ -81,21 +81,19 @@ Paul's chapel — **the old home** — had been attacked by an unknown force. Ae
 
 And Paul died.
 
-### The Frame
+### The Rogue Paragon
 
-The official story spread quickly: evidence pointed to the **Crimson Covenant**. They were blamed for the attack — a shadowy organization known for experimentation and violence. It made sense to most.
+The official story spread quickly: the **Crimson Covenant** was responsible — a shadowy organization known for experimentation and violence. The evidence seemed clear. Most accepted it without question.
 
-But Paul had been receiving visions — not just from Aurelius anymore, but from something else. Something older. The truth was this: **Paul was killed by agents of the Order of the Scales, acting on divine command from Aurelius himself.** The Crimson Covenant was framed.
+But Paul's dying words planted a seed Aegon could not ignore. *"Do not trust the Order… Trust your oath and your visions."* Why would Paul say that? What did he know?
 
-Paul had discovered too much. The visions had shifted. Where once Aurelius spoke, now B's lingering consciousness — the scattered essence of an Original entity — was reaching through the Weave. Paul realized the gods were not what they claimed to be. He was silenced for it.
+Aegon began to watch the Order more closely. He started to question commands that felt wrong, that contradicted his oath or his conscience. Where he had once followed without hesitation, he now paused — measured — judged for himself. Sometimes he refused orders outright when his visions or his oath demanded otherwise.
 
-Aegon does not yet know this truth. But he suspects. Paul's warning echoes in his mind, and his own visions have begun to change — growing stronger, stranger, pulling him toward a truth the Order does not want him to find.
+This defiance did not go unnoticed. The High Council grew frustrated. Some called him a heretic. Others whispered that his status as a Paragon made him arrogant, uncontrollable. But they could not expel him — he was too powerful, too visibly favoured by Aurelius. Instead, they watched him with growing unease.
 
-### The Rogue Paragon Today
+And within Aegon, something else was changing. His visions — the same dreams that had guided him since childhood — began to shift. Where once Aurelius's voice was clear, a new whisper grew in its place. Older. Stranger. Pulling him toward a truth the Order did not want him to find.
 
-Aegon now defies the Order's commands when his conscience demands it. He is still a paladin of Aurelius — still bound by his oath — but he follows his own path. The Order does not expel him (he is too powerful, too visibly favoured), but tensions grow with each act of defiance.
-
-He has earned the title **"The Rogue Paragon"** — a name that speaks both to his unmatched skill and his refusal to be bound by the chain of command.
+The title came from both allies and enemies: **Aegon, The Rogue Paragon** — a paladin who could not be commanded, only trusted to follow his own path.
 
 ---
 
@@ -111,8 +109,8 @@ He has earned the title **"The Rogue Paragon"** — a name that speaks both to h
 
 ## Goals
 
-1. Discover the full truth behind Paul's murder
-2. Understand why his visions are changing
+1. Understand why Paul warned him against the Order — what did his dying words mean?
+2. Understand why his visions are changing and where they truly come from
 3. Uphold his oath — protect the innocent, defeat evil — even if it means defying the Order
 4. Navigate the growing hostility from those within the Order who fear or covet his power
 
@@ -120,17 +118,18 @@ He has earned the title **"The Rogue Paragon"** — a name that speaks both to h
 
 ## Relationships
 
-- **Paul (deceased)** — Father figure, mentor, and the man who revealed the truth. His dying words set Aegon on his current path.
-- **The Order of the Scales** — Parent organization. Aegon serves but does not trust. They may have been responsible for Paul's death.
-- **The Order of the Protectors** — His knightly chapter. His brothers and sisters in arms. Some support him; others fear him.
-- **Aurelius** — The god he swore his oath to. But if the visions come from elsewhere… what does that make his faith?
+- **Paul (deceased)** — Father figure, mentor, and the man whose dying words set Aegon on his current path. The official story blames the Crimson Covenant, but Paul's warning planted doubts Aegon cannot ignore.
+- **The Order of the Scales** — Parent organization. Aegon still serves but no longer follows blindly. Paul's words made him question their commands — sometimes refusing them when his oath or visions demand otherwise.
+- **The Order of the Protectors** — His knightly chapter. His brothers and sisters in arms. Some support his independence; others see it as dangerous defiance.
+- **Aurelius** — The god he swore his oath to. Aegon remains faithful, but his shifting visions raise questions he cannot yet answer.
+- **The Crimson Covenant** — Publicly blamed for Paul's murder. Aegon has no reason to doubt this — yet.
 
 ---
 
 ## Open Questions
 
-1. ⏳ **Who in the Order of the Scales carried out Paul's murder?** Individual agents or a faction within the High Council?
-2. ⏳ **Does anyone else in the Order know the truth about Paul?** Fellow conspirators? Sympathizers?
+1. ⏳ **What exactly did Paul know?** His dying words suggest he discovered something about the Order. What was it?
+2. ⏳ **Who attacked Paul's chapel?** The official story blames the Crimson Covenant, but Paul's warning casts doubt on everything.
 3. ⏳ **The jealous/fanatic members** — How far will they go to claim Aegon's power?
 4. ⏳ **The old capital** — The High Septon is located there. What other secrets does it hold?
 5. ⏳ **B's influence on Aegon** — Will his visions grow clear enough to reveal the full truth about the Originals and the gods' deception?
