@@ -45,7 +45,7 @@ When asked for expansion, present **3-5 distinct options** covering these types:
 
 ### The Audit Gate  -  Never Skip
 **MUST audit before:** Creating/modifying entities, generating/updating WA articles, adding secrets, updating timeline, answering open questions.
-**No audit needed for:** Routine maintenance (index/relationships updates), cost optimization tasks, commit summaries.
+**No audit needed for:** Running `scripts\sync-index.ps1` (fully automated), routine maintenance (index/relationships updates), cost optimization tasks, commit summaries.
 
 ---
 
@@ -68,7 +68,7 @@ When asked for expansion, present **3-5 distinct options** covering these types:
 
 ### Step 3  -  Cache Update
 - Create/update lore files in `cache/entities/`. Cache is the single source of truth (see `CACHE_FORMAT.md`).
-- Update `cache/_index.md` for new entities.
+- **Run `scripts\sync-index.ps1`** to automatically sync `cache/_index.md` with actual files on disk (handles new entities, removals, duplicates, and status/date changes).
 - Use `scripts\get-entity-relationships.ps1` to query entity relationships (replaces master map).
 
 ### Step 4  -  Article Generation
@@ -186,8 +186,10 @@ feat(lore): add Balor Skallfang character and Raven Queen relationship
 - Generated articles/output/balor_skallfang.bbcode
 ```
 
-#### 6.3  -  Wait for Approval
-**Do not commit or push automatically.** Present the summary and commit message to the user and wait for explicit approval ("Approved", "Go ahead", "Commit it"). Only after approval:
+#### 6.3  -  Sync Index & Wait for Approval
+1. **Run `scripts\sync-index.ps1`** to ensure `cache/_index.md` reflects all disk changes before staging.
+2. Present the summary and commit message to the user and wait for explicit approval ("Approved", "Go ahead", "Commit it").
+3. Only after approval:
 ```bash
 git add .
 git commit -m "<suggested message>"

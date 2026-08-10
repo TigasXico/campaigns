@@ -21,8 +21,13 @@ related:
   - the_first_alliance: Records the Alliance's war and disbandment
   - society: Tracks societal development events
   - the_adventurers_guild: Records the guild's founding
+  - odessa_merikh: Captures the Merikh family timeline and Valen's defection
+  - valen_healoris: Records his defection and the cabin attack
+  - eryx_merikh: Records his desertion and death
+  - satriya_merikh: Records her death
+  - the_venom_weavers: Records Odessa's training period
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 ---
 
 > All dates relative. "Present" = campaign start.
@@ -132,6 +137,21 @@ Gods created pantheon conflict. Lolth, Raven Queen, Vorn scapegoated for invasio
 
 ### After Reconquering  -  Calendar Standardized
 10-month, 200-day calendar. Months named after gods.
+
+### ~143 YA  -  Valen Healoris Defects to Monster Army
+Elven general Valen Healoris and his entire unit defect to the monster army voluntarily, for power and survival. Elven leadership suppresses knowledge of the defection. **Eryx Merikh** deserts with proof of the betrayal — and with evidence that elven leadership surrendered captives to the Crimson Covenant's experiments.
+
+### ~143 YA  -  Odessa Merikh Conceived
+Valen Healoris, during a raid on a human village, rapes a woman. The child conceived will become **Odessa Merikh** — though neither parent will ever know her name.
+
+### ~143 YA  -  Eryx and Satriya Go into Hiding
+Eryx Merikh and Satriya (Valen's former love, who chose Eryx) flee into remote woodlands. Satriya establishes a runic barrier around their cabin. Eryx sends a hidden cache of proof to a secure location.
+
+### ~78 YA  -  The Merikh Cabin Attack
+Valen Healoris, having tracked Eryx to his remote cabin, leads a strike team personally. They destroy the runic barrier, kill the family's protector beast, and torture Eryx and Satriya to death. Their 13-year-old adopted daughter **Odessa** hides in an alcove, hearing everything. Odessa is found three days later by **Rhael**, head of the Venom-Weavers, who takes her in.
+
+### ~78 YA to ~13 YA  -  Odessa Trains with the Venom-Weavers
+Odessa spends 65 years training in stealth, knife combat, and poison brewing, rising through the ranks of the Venom-Weavers. Her sole purpose: kill Valen Healoris.
 
 ### During Rise of Mortals  -  B's Lingering Will Discovered
 Gods discovered hoarding instinct subverting monsters from genocide. Issued New Directive: destroy hoarding nests, large magic/currency accumulations, Covenant operatives.

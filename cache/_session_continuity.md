@@ -1,7 +1,7 @@
 # Session Continuity -- Lore Development
 
 > Stores cross-session context needed to resume work after compaction.
-> Created: 2026-08-08 | Updated: 2026-08-10
+> Created: 2026-08-08 | Updated: 2026-08-11
 
 ---
 
@@ -19,6 +19,7 @@
 | Monsters & Ecology | Complete | Divine conspiracy, planar breaches, B's hoarding, hierarchy, Khar'zul, monster economy |
 | Khar'zul PC Backstory | Complete | Balor Skallfang, Khar'zul's blade, expanded Covenant, Project Genesis, First Alliance |
 | Cost Optimization | In Progress | Steps 1-3 complete, Steps 4-5 pending. See `cache/plan_cost_optimization.md` |
+| **Odessa Merikh PC Backstory** | **Complete** | Enhanced file written, NPCs created, org created, index synced |
 
 ---
 
@@ -110,6 +111,15 @@
 - [?] Second journal location
 - [?] Medallion's second purpose
 - [?] Other Vex bloodline descendants alive?
+
+### Odessa Merikh (6 open)
+- [?] **Where is Eryx's proof?** Hidden cache, guild intelligence, or lost?
+- [?] **Where exactly does Valen command?** Which monster-held territory?
+- [?] **What will Odessa do after Valen is dead?** She has no plan beyond the kill.
+- [?] **Will she learn the truth about her parentage?** And if so, how?
+- [?] **Who else in the elven military knew about the surrender to the Covenant?** Are there other survivors who could be implicated?
+- [?] **Will the Venom-Weavers support Odessa's final mission?** Or will they try to hold her back?
+- [?] **What became of Odessa's biological mother?** Alive, dead, captive, or lost? A source of closure or another wound?
 
 ---
 
