@@ -8,7 +8,7 @@ tags:
 related:
   - aurelius: The church of this god
   - the_order_of_the_protectors: Sibling order  -  mutually assisting knightly chapter under Aurelius
-  - society_economy_and_culture: One of the major churches of the Last Stand
+  - culture_and_society: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
   - paul: Ordered Paul's murder under Aurelius's command; framed the Crimson Covenant
   - aegon: Aegon serves the Scales through the Protectors, but with growing distrust

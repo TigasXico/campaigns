@@ -15,7 +15,7 @@ related:
   - monster_economy: Economy and ecology derived from monsters
   - the_divine_conspiracy: Hidden conspiracy behind the invasion
   - kharzuls_blade: Khar'zul's essence is sealed within the blade
-  - society_economy_and_culture: Monster hunting and monster parts drive a growing economy
+  - economy: Monster hunting and monster parts drive a growing economy
   - balor_skallfang: Khar'zul's blade is now borne by Balor Skallfang
   - cosmology_and_the_planes: Invasion monsters came from the Abyss, Nine Hells, Shadowfell, and Feywild
   - the_originals: A and C's fragments planned the invasion; B sacrificed to stop them

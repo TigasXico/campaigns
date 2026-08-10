@@ -11,7 +11,7 @@ related:
   - kharzuls_blade: Devised the ritual that sealed Khar'zul within his own blade after his defeat
   - the_crimson_covenant: Dissident scholars of the Alliance became the Crimson Covenant
   - balor_skallfang: The Skallfang Clan fought in the Alliance and were entrusted with the blade
-  - society_economy_and_culture: Its legacy shapes modern military and political structures
+  - society: Its legacy shapes modern military and political structures
   - the_great_sacrifice: The Alliance unknowingly wielded power from B's sacrifice
 secrets:
   - text: "The First Alliance was formed by mortal leaders who had no idea they were fighting a war orchestrated by the gods themselves. Had they known the divine conspiracy, the alliance may never have formed."

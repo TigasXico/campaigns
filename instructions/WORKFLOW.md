@@ -69,7 +69,7 @@ When asked for expansion, present **3-5 distinct options** covering these types:
 ### Step 3  -  Cache Update
 - Create/update lore files in `cache/entities/`. Cache is the single source of truth (see `CACHE_FORMAT.md`).
 - Update `cache/_index.md` for new entities.
-- Update `cache/_master_relationships_map.md` for new/changed relationships.
+- Use `scripts\get-entity-relationships.ps1` to query entity relationships (replaces master map).
 
 ### Step 4  -  Article Generation
 - Generate **WA-ready BBCode articles** (see `ARTICLE_FORMAT.md`).
@@ -95,7 +95,7 @@ Before starting, determine which tier of files you need and load ONLY those:
 | T0  -  Always | `_session_continuity.md` (pruned), `WORKFLOW.md`, `CACHE_FORMAT.md` | ~20KB |
 | T1  -  Primary | Entity files DIRECTLY related to the current task | ~30KB |
 | T2  -  Reference | Cross-domain files  -  only if task spans multiple categories | ~40KB |
-| T3  -  Rare | `_master_relationships_map.md`  -  only for relationship audits | ~31KB |
+| T3  -  Rare | `scripts\get-entity-relationships.ps1`  -  on-demand relationship queries | ~5KB |
 
 **Examples:** Processing monster lore -> load only `monsters_and_ecology.md`. Creating a location -> load only that type's templates. Full audit -> load T0 + T2 + T3.
 
@@ -182,7 +182,7 @@ type(scope): brief description
 ```
 feat(lore): add Balor Skallfang character and Raven Queen relationship
 - Created cache/entities/characters/balor_skallfang.md with full backstory
-- Updated cache/_master_relationships_map.md with new relationships
+- Updated entity file related: frontmatter with new relationships
 - Generated articles/output/balor_skallfang.bbcode
 ```
 

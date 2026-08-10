@@ -9,7 +9,7 @@ related:
   - the_last_stand: The reconquering is most active here
   - kythoria: The contested western region of Kythoria
   - monsters_and_ecology: The frontier marks the boundary between reclaimed and monster-held lands
-  - society_economy_and_culture: Frontier settlements face unique challenges
+  - culture_and_society: Frontier settlements face unique challenges
 secrets:
   - text: "The planar breaches were sealed just beyond the frontier line, in what is still monster-held territory. The sealed sites are hidden somewhere in the contested zone, and mortal arcanists have begun searching for them."
     access: gm-only

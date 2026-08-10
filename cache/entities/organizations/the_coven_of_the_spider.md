@@ -7,7 +7,7 @@ tags:
   - organization, church, religion, trickery, war, drow, lolth
 related:
   - lolth_the_spider_queen: The church of this goddess
-  - society_economy_and_culture: One of the major churches of the Last Stand
+  - culture_and_society: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
   - races_and_ancestries: Drow are the primary worshippers
 secrets:

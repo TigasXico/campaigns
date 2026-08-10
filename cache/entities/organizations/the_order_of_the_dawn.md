@@ -7,7 +7,7 @@ tags:
   - organization, church, religion, light, life, healing
 related:
   - aloria: The church of this god
-  - society_economy_and_culture: One of the major churches of the Last Stand
+  - culture_and_society: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
 secrets:
   - text: "The Order of the Dawn is by far the most politically powerful institution in the Last Stand. Its priests are the only ones who come close to understanding how much the gods are hiding. A handful of high-ranking Dawn priests suspect the truth about the divine deception."

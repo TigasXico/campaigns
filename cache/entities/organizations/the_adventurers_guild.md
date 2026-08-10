@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, guild, adventurers, contracts, frontier, draconic
 related:
-  - society_economy_and_culture: The primary controller of the monster hunting industry
+  - economy: The primary controller of the monster hunting industry
   - adventuring_classes: Adventurers of all classes operate through this guild
   - the_frontier: Most active on the frontier; essential for frontier survival and expansion
   - the_world_and_geography: Headquarters in the old capital at the center of the continent

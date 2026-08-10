@@ -6,7 +6,7 @@ status: active
 tags:
   - campaign_note, design_decision, society, economy, culture, governance, religion
 related:
-  - society_economy_and_culture: Core decisions that shaped this lore file
+  - society: Core decisions that shaped this lore file
   - the_council_accord: The Three Kings governance model
   - the_ecumenical_council: Interfaith governing body
   - the_adventurers_guild: Guild structure and ranks

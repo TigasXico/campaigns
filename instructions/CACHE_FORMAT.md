@@ -120,7 +120,9 @@ When generating articles, wrap secret sections in BBCode subscriber-group tags.
 
 ## Relationship Documentation
 
-Relationships between entities are tracked in `cache/_master_relationships_map.md`. Each relationship entry should:
+Relationships between entities are tracked in each entity file's `related:` frontmatter.
+Query relationships on-demand: `scripts\get-entity-relationships.ps1`.
+Each relationship entry should:
 
 - Be concise (1 line per relationship)
 - Use `entity_a -> entity_b (relationship_type)` format

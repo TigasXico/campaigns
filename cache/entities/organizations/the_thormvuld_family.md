@@ -8,7 +8,7 @@ tags:
 related:
   - emberforge: The family has strong ties to Emberforge's forges
   - the_northeast_settlement_cluster: The family originates from this region
-  - society_economy_and_culture: The most prominent magical item producers on the continent
+  - economy: The most prominent magical item producers on the continent
   - the_guild_of_the_spark: Connected to the church of Forge and Arcana
 secrets:
   - text: "The Thormvulds have accumulated more arcane knowledge over generations than any other mortal family. Their private archives may contain fragments of truth about B, the Weave, and the nature of magic that even the gods would prefer stayed hidden."

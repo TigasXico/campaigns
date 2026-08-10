@@ -19,7 +19,7 @@ related:
   - economy: Economy shaped by historical events
   - the_world_and_geography: Maps events to eras of Kythoria
   - the_first_alliance: Records the Alliance's war and disbandment
-  - society_economy_and_culture: Tracks societal development events
+  - society: Tracks societal development events
   - the_adventurers_guild: Records the guild's founding
 created: 2026-08-09
 updated: 2026-08-09

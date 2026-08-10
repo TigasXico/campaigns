@@ -7,7 +7,7 @@ tags:
   - organization, church, religion, nature, tempest, wilderness
 related:
   - kaelthor: The church of the Kaelthor
-  - society_economy_and_culture: One of the major churches of the Last Stand
+  - culture_and_society: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
   - primal_nature_magic: Connected to primal magic and nature attunement
 secrets:

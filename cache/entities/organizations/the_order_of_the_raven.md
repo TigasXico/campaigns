@@ -7,7 +7,7 @@ tags:
   - organization, church, religion, death, grave, shadow_elf
 related:
   - the_raven_queen: The church of this goddess
-  - society_economy_and_culture: One of the major churches of the Last Stand
+  - culture_and_society: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
   - races_and_ancestries: Shadow Elves are the primary worshippers
   - god_of_peace_and_twilight: Shares an understanding of boundaries and transitions

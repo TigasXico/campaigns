@@ -7,7 +7,7 @@ tags:
   - organization, church, religion, wealth, fortune, trade
 related:
   - crassian: The church of this god
-  - society_economy_and_culture: One of the major churches of the Last Stand
+  - culture_and_society: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
   - the_northeast_settlement_cluster: Connected to the mint and trade heartlands
 secrets:

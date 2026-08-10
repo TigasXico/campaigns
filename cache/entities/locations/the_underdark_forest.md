@@ -9,7 +9,7 @@ related:
   - kaelyn: Birthplace of Kaelyn Velkyn; the Drow community here is House Velkyn
   - solyn_velkyn: Twin sister of Kaelyn, raised in the Underdark
   - lyndale_velkyn: High Matron of the Underdark community, Matron Mother of House Velkyn
-  - rages_and_ancestries: Drow are the primary inhabitants of the Underdark
+  - races_and_ancestries: Drow are the primary inhabitants of the Underdark
   - lolth_the_spider_queen: The Drow worship Lolth as their creator (a lie); the Underdark's theocracy worships her as patron
   - the_coven_of_the_spider: The Drow church of Lolth governs religious life in the Underdark
   - the_crimson_covenant: The Drow were created by Covenant experiments ~500-600 years ago; the Underdark was founded by Drow who fled the Covenant's facilities

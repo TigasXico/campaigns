@@ -12,7 +12,7 @@ related:
   - the_great_sacrifice: B's scattered essence sustains all life on Aetris and is the ultimate source of all class powers
   - races_and_ancestries: All races produce adventurers of all classes
   - primal_nature_magic: Druids and rangers draw power from nature's absorbed arcane energy
-  - society_economy_and_culture: Adventurers operate within society's guild system and culture
+  - society: Adventurers operate within society's guild system and culture
   - the_last_stand: The three capitals are centers of class training and tradition
   - the_gods_and_the_deception: Clerics and paladins receive power through the gods as conduits
   - the_arcane_weave: All arcane and pact-based classes ultimately draw from the Weave

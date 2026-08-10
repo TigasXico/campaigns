@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, religion, governance, interfaith, council
 related:
-  - society_economy_and_culture: Mediates between the major churches
+  - culture_and_society: Mediates between the major churches
   - aloria: The deity of the Order of the Dawn
   - thalkis: The deity of the Guild of the Spark
   - kaelthor: The deity of the Circle of the Wild

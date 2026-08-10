@@ -10,7 +10,7 @@ related:
   - emberforge: Sister city, handles forging and industry
   - weaveheart: Sister city, arcane and research heart
   - kythoria: Located in the temperate heartlands of Kythoria
-  - society_economy_and_culture: Skywatch's governance and culture detailed here
+  - culture_and_society: Skywatch's governance and culture detailed here
 secrets:
   - text: "Skywatch's Council of Eyes maintains records of monster movements dating back two centuries. These records contain patterns that, if analyzed correctly, could reveal the gods' manipulation of the invasion."
     access: gm-only

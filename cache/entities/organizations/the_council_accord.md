@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, government, council, governance, last_stand
 related:
-  - society_economy_and_culture: The closest thing to a central authority in mortal civilization
+  - society: The closest thing to a central authority in mortal civilization
   - skywatch: King of Skywatch is part of the Accord; one of the three kingdoms represented
   - emberforge: King of Emberforge is part of the Accord; one of the three kingdoms represented
   - weaveheart: King of Weaveheart is part of the Accord; one of the three kingdoms represented
