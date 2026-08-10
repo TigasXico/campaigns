@@ -28,7 +28,7 @@ updated: 2026-08-08
 
 The world is called **Aetris** — an ancient name that evokes echoes of a time before time, whispered in the root of words for "ancient" and for "triad" or "three." It is a fitting name, for the number three recurs throughout the world's deepest truths: three Originals, three capital cities, three stabilizing planes (the Anchors), and the threefold nature of magic itself.
 
-The campaign takes place primarily on the continent of **Kythoria**, a vast landmass of diverse climates and terrains, stretching from frozen northern reaches to subtropical southern shores.
+The world of Aetris comprises **three known continents**. The campaign takes place primarily on **Kythoria** — a vast landmass of diverse climates and terrains, stretching from frozen northern reaches to subtropical southern shores. The other two continents exist but remain distant and scarcely known to the peoples of Kythoria; their details are left deliberately undefined for now.
 
 ---
 

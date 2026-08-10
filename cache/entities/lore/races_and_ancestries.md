@@ -8,16 +8,17 @@ tags:
 related:
   - the_originals: All mortal races were created by the Originals
   - the_gods_and_the_deception: Gods falsely claim to have created specific races
-  - the_crimson_covenant: Experiments produced Drow, Shadow Elves, and Tieflings
+  - the_crimson_covenant: Experiments produced Drow, Shadow Elves, and Tieflings ~500-600 years ago
   - the_last_stand: All races united at the Last Stand to survive the monster invasion
-  - cosmology_and_the_planes: Shadow Elves claimed Shadowfell; Drow live in the Underdark
+  - cosmology_and_the_planes: Shadow Elves claimed Shadowfell; Drow communities exist in various dark regions
+  - the_underdark_forest: A sunken forest in south-west Kythoria known as the Underdark — home to a Drow theocracy
 secrets:
   - text: "The gods did NOT create any mortal race. All races were created by the Originals and brought to the Material Plane. The gods' claims of creation are a calculated deception to maintain control over mortals through worship."
     access: gm-only
-  - text: "Drow, Shadow Elves, and Tieflings were not created by the Originals either — they are the result of Crimson Covenant experiments grafting demonic tissue onto elves and humans."
+  - text: "Drow, Shadow Elves, and Tieflings were not created by the Originals either — they are the result of Crimson Covenant experiments grafting demonic tissue onto elves and humans, conducted approximately 500-600 years ago."
     access: gm-only
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Overview
@@ -50,11 +51,17 @@ All standard mortal races were created by the Originals — A, B, and C — duri
 
 ## The Crimson Covenant Experiments
 
-Three races were NOT created by the Originals. They are the result of experiments conducted by a shadowy organization known as the Crimson Covenant:
+Three races were NOT created by the Originals. They are the result of experiments conducted by a shadowy organization known as the Crimson Covenant, approximately **500-600 years ago**:
 
-- **Drow & Shadow Elves**: The Covenant grafted demonic tissue onto elven subjects. The survivors became Drow (gaining sunlight sensitivity) and Shadow Elves. Drow fled to the **Underdark** beneath the continent. Shadow Elves escaped to the **Shadowfell** and claimed it as their domain.
+- **Drow & Shadow Elves**: The Covenant grafted demonic tissue onto elven subjects. The survivors became Drow (gaining sunlight sensitivity) and Shadow Elves. Drow fled to the **Underdark** — a perpetually shaded region where they established their theocracy. Shadow Elves escaped to the **Shadowfell** and claimed it as their domain.
 - **Tieflings**: The Covenant later experimented on humans using the same demonic tissue grafts. Survivors became Tieflings, who scattered and integrated among the other races.
 - The Covenant experimented on elves first, then moved to humans.
+
+### The Underdark and the Drow
+
+The **Underdark** is a sunken forest in the **south-west of Kythoria**, named for its defining feature: sunlight never reaches the forest floor. A colossal **Black Willow** at the forest's center, growing upon a ley line convergence, casts an eternal shadow over the entire region. Drow communities built their society among the roots of this great tree, organized around the theocratic worship of Lolth.
+
+Beneath the forest lie the **Underdark Caves** — a network of tunnels used for trials, punishment, and imprisonment. No Drow live in these caves; they dwell in the forest above. The caves are not a deep subterranean empire, but a functional tunnel system beneath the Drow homeland.
 
 ## Half-Races
 
@@ -104,7 +111,7 @@ The public blame placed on Lolth, the Raven Queen, and Vorn for the monster inva
 
 ### Drow (Claimed by Lolth)
 
-Drow never participated in the First Alliance or helped found the Last Stand. They lived in the Underdark during the invasion and emerged only after the worst had passed. Today, Drow are viewed with deep suspicion in Last Stand territories. The few who walk the surface face hostility, discrimination, and constant scrutiny. Most Drow remain in the Underdark, where the Coven of the Spider rules openly.
+Drow never participated in the First Alliance or helped found the Last Stand. They held their ground in the Underdark against the monster invasion — exceptional warriors who repelled the hordes through combat skill, though they suffered a long, grinding siege as the surrounding territories fell. They emerged only after the worst had passed. Today, Drow are viewed with deep suspicion in Last Stand territories. The few who walk the surface face hostility, discrimination, and constant scrutiny. Most Drow remain in the Underdark, where the Coven of the Spider rules openly.
 
 ### Shadow Elves (Claimed by the Raven Queen)
 

@@ -8,6 +8,12 @@
 | aurelius | character | Aurelius | draft | 2026-08-08 |
 | aurora_asteria | character | Aurora Asteria | draft | 2026-08-10 |
 | aegon | character | Aegon, The Rogue Paragon | draft | 2026-08-10 |
+| aurora_asteria | character | Aurora Asteria | draft | 2026-08-10 |
+| the_azure_boneyard | location | The Azure Boneyard | draft | 2026-08-10 |
+| kaelyn | character | Kaelyn | draft | 2026-08-10 |
+| lyndale_velkyn | character | Lyndale Velkyn | draft | 2026-08-10 |
+| solyn_velkyn | character | Solyn Velkyn | draft | 2026-08-10 |
+| the_underdark_forest | location | The Underdark | draft | 2026-08-10 |
 | balor_skallfang | character | Balor Skallfang (The Tainted) | draft | 2026-08-09 |
 | bardolemeu_romeo | character | Bardolemeu Romeo | draft | 2026-08-10 |
 | class_training_and_culture | lore | Class Training & Culture | draft | 2026-08-09 |

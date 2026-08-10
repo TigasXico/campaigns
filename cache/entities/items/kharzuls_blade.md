@@ -65,9 +65,9 @@ Some who had stood upon that battlefield witnessed something they could not igno
 
 These dissidents disappeared into the shadows, carrying fragments of the sealing ritual, ancient records, forbidden knowledge, and relics recovered from the battlefield. Over centuries, they became known by another name: **The Crimson Covenant**.
 
----
+> **🛠️ TODO — Blade's Journey**: The geographical path of Khar'zul's blade between the sealing (~200 YA), Project Genesis, Balor's birth (~20 YA), and how it ended up in the Skallfang Clan's/Hrothgar's possession needs to be defined. This will be resolved after reviewing the general timeline of the invasion, the Founding of the First Alliance, the Founding of the Last Stand, and the Sealing of Khar'zul. See: `kythorian_timeline.md`, `the_sealing_of_kharzul.md`, `the_skallfang_clan.md`, `the_first_alliance.md`.
 
-## Status at Campaign Start
+---
 
 The blade is in Balor's possession. It:
 - Is **growing in power** alongside Balor, unlocking new abilities as he grows
@@ -110,7 +110,7 @@ The blade's power grows with Balor, unlocking new features at certain thresholds
 | 2 | Smoldering Heart | Becomes magical, +1d4 fire damage, advantage on Intimidation/Insight/Religion, Infernal Vitality (1d6+PB HP on kill, 1/short rest). Drawback: scent of blood intoxicates |
 | 3 | Burning Will | Fire damage increases to 1d6, +2 Strength checks, Temp HP on fire damage |
 | 4 | Flesh and Steel | Fire damage 1d8, advantage vs Charmed/Frightened, Hellbreaker (cone of infernal fire) |
-| 5 | The Flesh That Remembers | Ultimate feature: Avatar of the Living Prison — cloak of crimson flame, enhanced melee, empowered infernal abilities |
+| 5 | The Flesh That Remembers | **Avatar of the Living Prison** — Khar'zul takes complete control of Balor's body. Balor's consciousness is displaced, experiencing visions of Khar'zul's realm while the balor general uses his vessel freely. Physical manifestation: cloak of crimson flame, demonic transformation of Balor's features, blade fully integrates with Balor's arm. Enhanced melee (advantage on all attacks), empowered infernal abilities (Hellbreaker deals maximum damage, advantage on all saves, resistance to all damage), Khar'zul's whispers become commands that override Balor's will. Duration limited until Khar'zul's influence recedes or Balor's body can no longer sustain the possession. **First triggered involuntarily at Level 1 during the blackout.** Can Balor ever learn to trigger or resist this state? |
 
 Drawbacks scale with power — whispers intensify, Khar'zul offers greater temptations requiring Wisdom saving throws to resist.
 
@@ -119,6 +119,6 @@ Drawbacks scale with power — whispers intensify, Khar'zul offers greater tempt
 ## Open Questions
 
 1. ✅ **Why did the eye form?** — **Resolved.** Khar'zul's essence is evolving within the prison. The eye is his consciousness reaching outward — a symptom of the chrysalis transformation (see Secrets). The blade is no longer a prison; it is becoming Khar'zul's new body.
-2. ✅ **Where was the blade hidden?** — **Resolved.** First century: the **Whispering Glacier** in the Frostmaw — a vault carved into ancient ice where the cold suppressed the blade's influence. Second century: moved to **Fanghold's Vault**, a sealed chamber deep within the Skallfang Clan's mountain fortress. Hrothgar, as the designated Keeper of the Oath, was its final guardian.
+2. ✅ **Where was the blade hidden?** — **Resolved.** Initially hidden in the **Whispering Glacier** in the Frostmaw and later moved to **Fanghold's Vault**. 🛠️ **TODO**: The full journey from the Skallfang Clan to the Covenant's possession and back to Hrothgar needs to be resolved after reviewing the timeline.
 3. ✅ **Did the blade follow Balor?** — **Resolved.** Yes. From the moment Balor was born, the blade's eye turned toward him. Seraphina discovered that she could not leave the blade behind — it would follow the baby. This was the first sign that the blade had chosen its vessel.
 4. ⏳ **What are the exact requirements for the Rite of Ash?** — Known as a prayer in Old Abyssal spoken over the blade while meditating. Full parameters (duration, cost, failure conditions) remain undefined for campaign flexibility.

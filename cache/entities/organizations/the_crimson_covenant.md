@@ -15,6 +15,7 @@ related:
   - the_arcane_reactive_crystals: Studies crystals' connection to B
   - paul: Framed for Paul's murder — the Order of the Scales killed him under Aurelius's command
   - aegon: Aegon's father figure was killed and framed on the Covenant; the truth is the opposite
+  - seraphina_vex: Victim of Project Genesis who escaped with Balor and the blade
 secrets:
   - text: "Ultimate goal: resurrect Entity B in weakened form to destroy the gods. Knows about the resurrection ritual."
     access: gm-only
@@ -25,6 +26,9 @@ secrets:
   - text: "Connected to at least one PC backstory (Balor Skallfang)."
     access: gm-only
   - text: "Source of demonic tissue used in experiments remains unrevealed."
+    access: gm-only
+  - text: "The Covenant fabricated the 'Apostle' backstory for Seraphina Vex after her escape. She was never an Apostle — she was a prisoner who escaped. The lie was designed to cover their shame at losing both the blade and the vessel."
+    access: gm-only
     access: gm-only
   - text: "The Crimson Covenant was framed for Paul's murder by the Order of the Scales, acting on Aurelius's command. The Covenant would never have killed Paul — as a B-touched visionary, he would have been a valuable asset to their cause. The frame is a deliberate deception by the gods to turn potential allies against the Covenant."
     access: gm-only
@@ -79,6 +83,8 @@ When the Alliance hid the blade and sealed all knowledge, these dissidents disap
 
 The Covenant does not worship Khar'zul. They study him and believe they can harness his power. Two possible futures: **Chaos** (uncontrolled return) or **Ascension** (controlled rebirth in a mortal vessel). They exist to ensure the second.
 
+> **🛠️ TODO — Blade Acquisition**: The Covenant had Khar'zul's blade in their possession for Project Genesis experiments. How they acquired it from the Skallfang Clan needs to be defined after reviewing the general timeline.
+
 ### Project Genesis
 
 Centuries-spanning objective: create a **mortal vessel** capable of containing Khar'zul's essence — to bind him to a controlled host who could wield his power.
@@ -93,9 +99,11 @@ Using fragments of living flesh from Khar'zul's sealed blade:
 - **Shadow Elves** — Transformation attuned them to Shadowfell where they fled
 - **Tieflings** — Human subjects showing greatest resistance, survived longest. Scattered across the world.
 
-**The Perfect Vessel**: Centuries of failure revealed no random subject could survive the ritual. The Covenant tracked entire family trees across generations, searching for the one individual whose blood carried every necessary trait. They found her — a young tiefling woman. From that ritual, **Balor Skallfang** was born.
+**The Perfect Vessel**: Centuries of failure revealed no random subject could survive the ritual. The Covenant tracked entire family trees across generations, searching for the one individual whose blood carried every necessary trait. They found the bloodline in the **Vex family** — distant descendants of early Project Genesis survivors. The Covenant captured the entire family when Seraphina Vex was a child and subjected them to years of experimentation. One by one, her family died. Only Seraphina survived — her blood carrying the exact genetic markers needed. From her, **Balor Skallfang** was born — the culmination of centuries of suffering.
 
-**The Betrayal**: Balor's mother fled with both the newborn and the sealed blade, disappearing into the northern wilderness. Centuries of planning vanished in one night. The Covenant has searched for them ever since.
+**The Theft**: After Balor's birth, Seraphina Vex — who had spent years studying the facility where she was held — killed three guards, retrieved Khar'zul's blade from the Covenant's vault, and fled into the northern wilderness with her newborn son. Centuries of planning vanished in one night. The Covenant has searched for them ever since, spreading the false narrative that Seraphina was a treacherous Apostle rather than a prisoner who escaped.
+
+**The Cover Story**: The Covenant fabricated the "Apostle" backstory for Seraphina after her escape — a convenient lie to explain how a single woman could have infiltrated their most secure vault and stolen their greatest prize. In truth, Seraphina was never an Apostle. She was a prisoner who learned everything she needed by watching, listening, and surviving.
 
 ## Current Activity
 

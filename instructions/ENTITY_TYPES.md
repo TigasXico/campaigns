@@ -4,6 +4,19 @@ Defines all entity categories used in the lore cache and their required/optional
 
 ---
 
+## 🚨 Before You Create or Modify an Entity
+
+Every change to the lore cache must pass the **Narrative Auditor Gate** (defined in `WORKFLOW.md`):
+
+1. **A1 — Audit for Contradictions** — check timeline, geography, factions, power levels, themes
+2. **A2 — Identify Narrative Gaps** — flag thin details, missing motivations, unexplored consequences
+3. **A3 — Synthesize Connections** — link to existing entities, open questions, core themes
+4. **A4 — Offer Creative Variants** — present 3–5 options when expanding lore; never default to a single path
+
+Present all audit results to the user before making changes.
+
+---
+
 ## Entity Categories
 
 | Category | Folder | Description |

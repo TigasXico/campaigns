@@ -10,7 +10,7 @@ related:
   - balor_skallfang: Carried in the leather pouch Hrothgar left for Balor
   - the_crimson_covenant: Marks the bearer as a high-ranking Apostle
 secrets:
-  - text: "The medallion is not only an Apostle's badge of office — it is a master-key that can bypass most Covenant wards, locks, and traps designed for rank 3 (Seeker) and above. Only 12 such medallions exist."
+  - text: "The medallion is a master-key that can bypass most Covenant wards, locks, and traps designed for high-ranking access. Though Seraphina was never an Apostle, the medallion somehow grants the same access privileges — suggesting she either stole it from a real Apostle, modified it, or the Covenant's security protocols recognize the Vex bloodline as equivalent to the highest ranks."
     access: gm-only
   - text: "The medallion contains a hidden compartment accessible only by pressing the crescent moon's tip while speaking Seraphina's name in Infernal. Inside: a tiny parchment with a location written in blood."
     access: gm-only
@@ -22,7 +22,7 @@ updated: 2026-08-09
 
 ## Overview
 
-A silver medallion depicting a crescent moon embracing a crimson gemstone at its center — the **Seal of the Crimson Covenant's Apostle rank**, once worn by **Seraphina Vex**. It was left tucked into Balor's infant wrappings when Seraphina abandoned him in the frozen north, a silent legacy she hoped he would one day understand.
+A silver medallion depicting a crescent moon embracing a crimson gemstone at its center — the **Medallion of Vex**, the only heirloom the Vex family possessed that survived the Crimson Covenant's capture. It was left tucked into Balor's infant wrappings when Seraphina abandoned him in the frozen north, a silent legacy she hoped he would one day understand.
 
 Hrothgar found the medallion and recognized it as significant, though he never learned its true purpose. He stored it in the leather satchel alongside the journal, the map, and his own notes, uncertain of its meaning but unwilling to discard something his adopted son might need.
 
@@ -38,14 +38,16 @@ It hangs from a broken silver chain, suggesting it was torn from its wearer in h
 
 ## Purpose
 
-### Primary — Apostle's Badge
-The medallion identifies its bearer as a member of the **Apostles** — the 12 highest-ranking operatives of the Crimson Covenant below the Inner Circle. It grants the bearer authority over Cardinals, Inquisitors, Seekers, and all lower ranks.
+### Primary — Vex Family Heirloom
+The medallion is the only surviving artifact of the Vex family — the bloodline that produced the perfect vessel for Project Genesis. Seraphina's parents gave it to her when she was a child, before the Covenant took them. She kept it hidden throughout her years of captivity, and it was the one possession she carried when she escaped.
 
-### Secondary — Master Key
-The medallion can bypass Covenant security measures designed for rank 3 (Seeker) and above:
-- Opens Covenant vaults, archives, and safehouses keyed to Apostle access
+### Secondary — Covenant Master Key
+How Seraphina discovered the medallion's power is unclear — but during her years of captivity, she learned that the medallion could bypass Covenant security measures:
+- Opens Covenant vaults, archives, and safehouses keyed to high-ranking access
 - Suppresses alarm wards and detection magic keyed to Covenant frequencies
 - Marks the bearer as friendly to Covenant-bound demons and guardians
+
+The Covenant's own security protocols recognize the medallion as belonging to the rank of "Apostle" — but this was a designation the Covenant later created in their fabricated backstory, not a rank Seraphina ever actually held. The medallion's access was likely programmed for a high-ranking Covenant researcher or implanted by Seraphina herself using knowledge she acquired.
 
 ### Tertiary — Hidden Compartment
 The medallion contains a secret compartment accessible by pressing the tip of the crescent moon while speaking **"Seraphina"** in Infernal. Inside: a single tiny parchment bearing coordinates in Old Abyssal script — a location Seraphina wished only her son to find.

@@ -49,8 +49,8 @@ Khar'zul was contained. The blade was entrusted to the **Skallfang Clan** — wa
 
 The sealing had two major consequences:
 
-1. **The Skallfang Clan's Burden**: The clan guarded the blade for generations. Over centuries, the blade began to transform — steel gave way to living flesh, and an eye opened within it. Khar'zul was not just contained but evolving.
+1. **The Skallfang Clan's Burden**: The clan guarded the blade for generations. Over centuries, the blade began to transform — steel gave way to living flesh, and an eye opened within it. Khar'zul was not just contained but evolving. 🛠️ **TODO**: How the blade passed from Skallfang Clan to the Crimson Covenant needs to be defined after timeline review.
 
 2. **The Crimson Covenant**: Some scholars who witnessed the sealing saw the truth — the ritual had not destroyed Khar'zul but preserved him. They saw the prison as a chrysalis. These dissidents fled with fragments of the ritual and forbidden knowledge, eventually becoming the Crimson Covenant. 
 
-Centuries later, through Project Genesis, the Covenant created **Balor Skallfang** — a tiefling bred to be the perfect vessel for Khar'zul's essence. The blade now lives with Balor, and the sealing's legacy continues to unfold.
+Centuries later, through Project Genesis, the Covenant created **Balor Skallfang** — a tiefling bred to be the perfect vessel for Khar'zul's essence. The blade now lives with Balor, and the sealing's legacy continues to unfold. Khar'zul has already demonstrated that the prison can be breached — through the **Avatar of the Living Prison** state, triggered for the first time during the blackout at the Skallfang village.

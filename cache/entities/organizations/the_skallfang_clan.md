@@ -15,6 +15,8 @@ secrets:
     access: gm-only
   - text: "The clan elders know more about Khar'zul than they have told Balor. Hrothgar, in particular, may have passed on information that Balor has yet to fully understand."
     access: gm-only
+  - text: "🛠️ TODO — Blade Theft": How and when the Skallfang Clan lost possession of Khar'zul's blade to the Crimson Covenant needs to be defined after reviewing the general timeline."
+    access: gm-only
 created: 2026-08-09
 updated: 2026-08-09
 ---
@@ -40,18 +42,24 @@ The Skallfang ancestors fought in the First Alliance that brought an end to Khar
 
 For generations, the clan kept the blade hidden, performing rituals to contain its influence. The blade slowly transformed — steel becoming living flesh, a single enormous eye opening within it. The clan adapted, learning to manage the danger they guarded.
 
-## Hrothgar's Safe Room
+> **🛠️ TODO — Blade Theft**: How and when the Skallfang Clan lost possession of Khar'zul's blade to the Crimson Covenant needs to be defined after reviewing the general timeline (invasion, First Alliance, Last Stand, Sealing). This will determine whether the blade was stolen, taken in battle, given willingly, or recovered another way.
 
-Hrothgar's lodge contained a hidden chamber that Balor never knew existed until after his adoptive father's death. Accessed through a trapdoor beneath Hrothgar's bed, the room was a **failsafe** — designed to contain the blade's influence if it ever grew too powerful to manage.
+## Hrothgar's Vault
 
-**Features:**
-- **The room**: Entirely carved from the mountain's living stone. No seams, no gaps — a single hollowed chamber.
-- **Glyphs**: The walls are covered in **binding glyphs** carved in Old Abyssal — a sealing ritual adapted from Skallfang Clan traditions. The glyphs form a containment circle designed to suppress the blade's whispers and prevent Khar'zul's influence from spreading beyond the room.
-- **Talismans**: Dozens of hand-made charms hang from the ceiling on sinew cords — monster-bone talismans, each inscribed with a fragment of the **Rite of Ash**. When the Rite is spoken in the room, the talismans resonate, amplifying the prayer's effect.
-- **Purpose**: Hrothgar designed the room as a last resort. If the blade ever became too dangerous, he could seal himself inside with it, containing the corruption until it passed — or until he died trying. He never told Balor about it.
-- **Contents**: After Hrothgar's death, Balor discovered the room contained additional research notes the old hunter had never included in his journal — including a partial translation of the Infernal micro-text on Seraphina's medallion.
+> **PLAYER NOTE**: The exact appearance, layout, and contents of Hrothgar's personal vault are left intentionally undefined so that the players can provide their own vision for how this space looks and feels. What follows is a minimal framework for the vault's purpose and known contents.
 
-The room survived the fiend attack intact. The stone walls and binding glyphs held against the destruction that leveled the rest of the lodge.
+Hrothgar's lodge contained a hidden vault that Balor never knew existed until after his adoptive father's death. Accessed through a trapdoor beneath Hrothgar's bed, the vault was a **failsafe** — designed to contain the blade's influence if it ever grew too powerful to manage, and to safeguard knowledge that Hrothgar deemed too dangerous to carry in his journal.
+
+**Known Purpose:**
+- A containment chamber designed to suppress the blade's whispers using binding wards and protective rituals
+- A repository for Hrothgar's most sensitive research — the knowledge he could not risk carrying on his person
+- A last-resort sanctuary: if the blade ever became too dangerous, Hrothgar could seal himself inside with it
+
+**Confirmed Contents (post-Hrothgar):**
+- Additional research notes not included in Hrothgar's journal, including a partial translation of the Infernal micro-text on the Medallion of Vex
+- 🛠️ **TODO — Vault Records**: Contents of the vault and any historical records about the blade's journey should be defined after the timeline review.
+
+**The vault survived the fiend attack** — its stone walls and wards held against the destruction that leveled the rest of the lodge.
 
 ## The Rite of Ash
 

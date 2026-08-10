@@ -72,7 +72,36 @@ If a file exceeds 12KB, split it. Common patterns:
 
 ---
 
-## Secrets & Subscriber Gating
+---
+
+## 🧐 Audit Checklist (Mandatory Per-Entity Review)
+
+Every entity file must pass the following checks before creation or modification:
+
+### 📌 Canon Check
+- [ ] Does this entity respect the timeline? (events before ~200 YA, ~200 YA founding, ~20 YA to present)
+- [ ] Does geographic placement match the known map? (three capitals east, frontier west, north monster-held)
+- [ ] Does this respect the divine conspiracy? (gods hide the truth, Originals are secret, invasion was orchestrated)
+- [ ] Does this respect the core themes? (survival through unity, divine deception, hoarding instinct, three-way standoff)
+
+### 🔗 Connection Check
+- [ ] Does the `related` field link to at least 2–3 existing entities?
+- [ ] Does this answer or create any open question tracked in `_session_continuity.md`?
+- [ ] Does this create a new open question that should be tracked?
+
+### ✍️ Style Check
+- [ ] File under 12KB? (mandatory)
+- [ ] Overview under 100 words? (mandatory)
+- [ ] Uses concise bullet points over prose paragraphs?
+- [ ] Frontmatter complete (id, type, name, status, created, updated)?
+- [ ] Secrets properly gated with `subscribergroup` in BBCode articles?
+
+### 🚫 Prohibited Content
+- **No autonomous lore generation.** Every piece of new lore must originate from user input.
+- **No unapproved narrative commitments.** Never write lore that commits the user to a specific plot direction without presenting alternatives first.
+- **No silent fixes.** If you spot a potential inconsistency, flag it to the user before correcting it.
+
+---
 
 Secrets are hidden sections that should only be visible to specific WorldAnvil subscriber groups (e.g., "GM Only", "Tier 2").
 

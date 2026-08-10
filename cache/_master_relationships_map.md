@@ -309,7 +309,7 @@
 - created → races_and_ancestries [lore] — Experiments created Drow, Shadow Elves, and Tieflings
 - created → balor_skallfang [character] — Project Genesis created Balor as the perfect vessel
 - hunts → balor_skallfang [character] — Seeks to recover Balor and the blade
-- studies → kharzuls_blade [item] — Studies the blade's power and Khar'zul's essence
+- 🛠️ **TODO — Blade Acquisition**: How the Crimson Covenant came into possession of Khar'zul's blade needs to be defined after the timeline review.
 - spawned_from ← the_first_alliance [organization] — The Covenant's founders were dissident scholars of the First Alliance
 - connected_to → lolth_the_spider_queen [character] — Drow revere Lolth, though she did not create them
 - connected_to → the_raven_queen [character] — Shadow Elves revere the Raven Queen, though she did not create them
@@ -451,7 +451,7 @@
 
 ## the_skallfang_clan [organization]
 - fought_in → the_first_alliance [organization] — Fought in the Alliance against the Five Generals
-- guards → kharzuls_blade [item] — Entrusted with the sealed blade for generations
+- guarded → kharzuls_blade [item] — Entrusted with the sealed blade for generations; 🛠️ **TODO** — How and when the clan lost the blade to the Covenant needs to be defined.
 - raised → balor_skallfang [character] — Adopted and raised Balor
 - connected_to → the_last_stand [lore] — Northern monster hunters from the frontier
 
@@ -471,11 +471,11 @@
 
 ## seraphina_vex [character]
 - mother_of → balor_skallfang [character] — Biological mother of Balor Skallfang
-- betrayed → the_crimson_covenant [organization] — Betrayed the Covenant to save her son
+- escaped_from → the_crimson_covenant [organization] — Escaped the Covenant with her newborn son and the blade; was never a willing member
 - fled_with → kharzuls_blade [item] — Escaped with Khar'zul's sealed blade
 - hunted_by → the_crimson_covenant [organization] — Pursued and killed by Covenant hunters
 - died_in → the_frostmaw [location] — Fell into a glacial crevasse in the Frostmaw mountains
-- left_behind → the_medallion_of_vex [item] — Her Apostle medallion, left with Balor as an infant
+- left_behind → the_medallion_of_vex [item] — Her family heirloom medallion, left with Balor as an infant
 
 ## the_frostmaw [location]
 - homeland_of → the_skallfang_clan [organization] — The Skallfang Clan's ancestral territory
@@ -487,7 +487,7 @@
 
 ## the_medallion_of_vex [item]
 - carried_by → balor_skallfang [character] — Carried in Balor's leather satchel
-- belonged_to → seraphina_vex [character] — Seraphina's personal Apostle badge
+- belonged_to → seraphina_vex [character] — Seraphina's family heirloom; the only surviving artifact of the Vex bloodline
 - key_to → the_crimson_covenant [organization] — Master key to Covenant vaults and archives
 - connected_to → balor_skallfang [character] — Key to learning the truth about his origins
 
@@ -520,3 +520,51 @@
 - part_of → cosmology_and_the_planes [lore]
 - connected_to → the_arcane_weave [lore]
 - sustained_by → the_great_sacrifice [event]
+
+## kaelyn [character]
+- member_of → the_underdark_forest [location] — Born and raised in House Velkyn within the Drow community
+- exiled_from → the_underdark_forest [location] — Exiled at age 11 after the Trial of Lolth
+- connected_to → the_azure_boneyard [location] — Gained her powers by touching a blue dragon skeleton there
+- connected_to → the_arcane_reactive_crystals [lore] — The blue crystals in the Azure Boneyard are condensed essence of B
+- connected_to → the_originals [lore] — B-touched — her crystal heart is a fragment of B's essence
+- connected_to → the_great_sacrifice [event] — Her power traces back to B's sacrifice
+- connected_to → the_arcane_weave [lore] — Her crystal heart overdraws B's essence when she uses too much magic
+- connected_to → the_gods_and_the_deception [lore] — A B-touched individual threatens the gods' deception
+- connected_to → the_crimson_covenant [organization] — Would consider her a B-touched artifact worth capturing
+- connected_to → lolth_the_spider_queen [character] — Lolth claims the Drow; Kaelyn is a product of their theocracy
+- twin_of → solyn_velkyn [character] — Twin sister; rival in the Trial of Lolth, savior in the cave-in
+- daughter_of → lyndale_velkyn [character] — Mother is High Matron of the Drow community
+- connected_to → seraphina_vex [character] — Seraphine (her tiefling nanny) may be connected to Seraphina Vex
+- connected_to → aurora_asteria [character] — Fellow B-touched individual
+- connected_to → aegon [character] — Fellow B-touched individual
+
+## the_azure_boneyard [location]
+- located_in → kythoria [location] — Cave in the mountains near the Underdark, south-west Kythoria
+- connected_to → kaelyn [character] — Site of Kaelyn's transformation
+- connected_to → the_arcane_reactive_crystals [lore] — Walls lined with blue crystals (condensed B's essence)
+- connected_to → the_originals [lore] — The crystals are physical remnants of B's essence
+- connected_to → primal_nature_magic [lore] — The blue dragon was an apex arcane predator
+- connected_to → the_underdark_forest [location] — Accessible through the Underdark Caves system
+
+## the_underdark_forest [location]
+- located_in → kythoria [location] — Sunken forest in south-west Kythoria
+- connected_to → lolth_the_spider_queen [character] — The Drow worship Lolth as their creator (a lie)
+- connected_to → the_arcane_weave [lore] — The Black Willow grows upon a ley line convergence
+- connected_to → the_arcane_reactive_crystals [lore] — A giant crystal cave exists at the tree's roots
+- connected_to → the_crimson_covenant [organization] — The Drow were created by Covenant experiments
+- contains → kaelyn [character] — Kaelyn's birthplace
+- connected_to → the_azure_boneyard [location] — The Underdark Caves connect to the mountains
+
+## solyn_velkyn [character]
+- twin_of → kaelyn [character] — Twin sister; won the Trial of Lolth
+- daughter_of → lyndale_velkyn [character] — Mother is High Matron
+- member_of → the_coven_of_the_spider [organization] — High Priestess of Lolth
+- connected_to → the_underdark_forest [location] — Raised in House Velkyn
+- connected_to → lolth_the_spider_queen [character] — Serves the Spider Queen
+
+## lyndale_velkyn [character]
+- mother_of → kaelyn [character] — Exiled, imprisoned, and tortured Kaelyn
+- mother_of → solyn_velkyn [character] — Mother of the twins
+- member_of → the_coven_of_the_spider [organization] — Former High Matron
+- connected_to → the_underdark_forest [location] — Former ruler of the Drow community
+- connected_to → lolth_the_spider_queen [character] — Dedicated servant of Lolth

@@ -103,6 +103,8 @@ Skallfang Clan returned to the Frostmaw with the sealed blade. First century: hi
 ### ~150 YA — The Blade Moved to Fanghold
 As the blade began to transform (steel showing first organic veins), the clan moved it from the glacier to **Fanghold's Vault** — a sealed chamber within the mountain fortress, where it could be monitored constantly.
 
+> **🛠️ TODO — Blade Theft Timeline**: How and when Khar'zul's blade passed from the Skallfang Clan to the Crimson Covenant needs to be defined after reviewing the general timeline (invasion, First Alliance, Last Stand, Sealing).
+
 ### ~50 YA — The Eye First Appeared
 The blade's single yellow eye opened for the first time. **Skalda Frost-Beard**, the Keeper at the time, documented this as the moment the blade ceased to be a weapon and became Khar'zul's living prison-chrysalis.
 
