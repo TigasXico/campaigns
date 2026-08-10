@@ -35,6 +35,18 @@
 - connected_to → cosmology_and_the_planes [lore] — Planar entities can serve as warlock patrons
 - sourced_from → the_arcane_weave [lore] — All arcane and pact-based classes ultimately draw from the Weave
 
+## aurora_asteria [character]
+- member_of → the_verdant_reaches [location] — Born and raised in Elarwyn, a hidden community within this ancient forest
+- connected_to → the_verdant_reaches [location] — The ancient forest where Elarwyn is hidden
+- connected_to → the_originals [lore] — Perceives B's scattered essence as hidden constellations in the night sky
+- connected_to → the_great_sacrifice [event] — Her celestial visions are projections of B's lingering will
+- connected_to → the_arcane_weave [lore] — The hidden constellations are patterns of B's consciousness in the Weave
+- connected_to → primal_nature_magic [lore] — Her druidic magic draws from nature's absorbed arcane energy
+- connected_to → cosmology_and_the_planes [lore] — The hidden constellations map onto the Material Plane's night sky
+- connected_to → the_gods_and_the_deception [lore] — As a B-touched individual, she is a threat to the gods' deception
+- connected_to → the_crimson_covenant [organization] — Her brother Polaris was captured by the Covenant and experimented on
+- connected_to → the_circle_of_the_wild [organization] — Her druidic tradition is loosely connected to the broader druidic order
+
 ## balor_skallfang [character]
 - carries → kharzuls_blade [item] — Unwilling bearer of the blade containing Khar'zul's essence
 - hunted_by → the_crimson_covenant [organization] — The Covenant seeks to recover Balor as their ultimate vessel
@@ -488,6 +500,12 @@
 - fosters → the_ecumenical_council [organization] — Council meets in Weaveheart
 - connected_to → the_arcane_weave [lore] — Built at a ley line convergence
 - connected_to → society_economy_and_culture [lore] — Arcane and research heart of the Last Stand
+
+## the_verdant_reaches [location]
+- located_in → kythoria [location] — Ancient forest in the south-eastern reclaimed territories
+- connected_to → aurora_asteria [character] — Aurora's birthplace and childhood home; contains the hidden refuge Elarwyn
+- connected_to → primal_nature_magic [lore] — The forest is saturated with primal arcane energy from B's sacrifice
+- connected_to → the_arcane_weave [lore] — Contains ley line convergences where the Weave is especially dense
 
 ## the_vigil_of_the_dusk [organization]
 - church_of → vesper [character] — The church of the Vesper

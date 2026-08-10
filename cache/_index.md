@@ -42,6 +42,7 @@
 | the_frostmaw | location | The Frostmaw | draft | 2026-08-09 |
 | the_high_septon | location | The High Septon | draft | 2026-08-10 |
 | the_medallion_of_vex | item | The Medallion of Vex | draft | 2026-08-09 |
+| the_verdant_reaches | location | The Verdant Reaches | draft | 2026-08-10 |
 | sanzo | character | Sanzo | draft | 2026-08-10 |
 | seraphina_vex | character | Seraphina Vex | draft | 2026-08-09 |
 | the_arcane_reactive_crystal_cave | location | The Arcane-Reactive Crystal Cave | draft | 2026-08-09 |

@@ -128,7 +128,8 @@ The title came from both allies and enemies: **Aegon, The Rogue Paragon** — a 
 
 ## Open Questions
 
-1. ⏳ **What exactly did Paul know?** His dying words suggest he discovered something about the Order. What was it?
+1. ⏳ **Who was Aegon's biological father, and why did he abandon them?** His mother died in childbirth, and his father disappeared before Aegon was born — no name, no reason, no trace. Could this be a deliberate erasure? A secret that connects to the wider conspiracy? A bloodline the Order — or the gods — wanted hidden?
+2. ⏳ **What exactly did Paul know?** His dying words suggest he discovered something about the Order. What was it?
 2. ⏳ **Who attacked Paul's chapel?** The investigation has produced no results. Aegon has not pursued the question — he's been focused on understanding Paul's warning instead. (GM note: evidence planted by the Order of the Scales frames the Crimson Covenant, but this is a hidden truth to be discovered during the campaign.)
 3. ⏳ **The jealous/fanatic members** — How far will they go to claim Aegon's power?
 4. ⏳ **The old capital** — The High Septon is located there. What other secrets does it hold?
