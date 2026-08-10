@@ -1,6 +1,6 @@
-# # WA WorldAnvil abbreviationcache structure file locations
+﻿# # WA WorldAnvil abbreviationcache structure file locations
 
-WA = WorldAnvil. Always use this abbreviation when referring to WorldAnvil in this project.The cache is the single source of truth. Located at cache/. Key files: _index.md (entity registry table), _master_relationships_map.md (bidirectional relationship graph with →/←/↔ symbols). Entity files go in cache/entities/<type>/<entity_id>.md. Generated BBCode articles go in articles/output/<entity_id>.bbcode.# # 
+WA = WorldAnvil. Always use this abbreviation when referring to WorldAnvil in this project.The cache is the single source of truth. Located at cache/. Key files: _index.md (entity registry table), _master_relationships_map.md (bidirectional relationship graph with ->/<-/<-> symbols). Entity files go in cache/entities/<type>/<entity_id>.md. Generated BBCode articles go in articles/output/<entity_id>.bbcode.# # 
 
 BBCode WA articles subscriber groups secrets
 
@@ -21,8 +21,8 @@ The WA Lore Keeper workflow has 6 steps: (1) Record voice note, (2) Transcribe v
 
 ## Sub-Agent Delegate Protocol
 When delegating work to a sub-agent using the `delegate` tool:
-1. **Mandatory output file** — Instruct the sub-agent to write its final output to a text file (e.g. `subagent_output.txt`) in the working directory. This ensures output survives even if the task handle fails or is cleaned up.
-2. **Working directory** — Always set the `working_dir` parameter explicitly so the sub-agent knows where to write the output file.
-3. **Max turns** — Set `max_turns` to a reasonable limit to control costs (delegates can burn tokens fast).
-4. **After completion** — Load the output file from disk rather than relying solely on the task return value.
+1. **Mandatory output file**  -  Instruct the sub-agent to write its final output to a text file (e.g. `subagent_output.txt`) in the working directory. This ensures output survives even if the task handle fails or is cleaned up.
+2. **Working directory**  -  Always set the `working_dir` parameter explicitly so the sub-agent knows where to write the output file.
+3. **Max turns**  -  Set `max_turns` to a reasonable limit to control costs (delegates can burn tokens fast).
+4. **After completion**  -  Load the output file from disk rather than relying solely on the task return value.
 

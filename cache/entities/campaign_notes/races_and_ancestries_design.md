@@ -1,4 +1,4 @@
----
+﻿---
 id: races_and_ancestries_design
 type: campaign_note
 name: "Races & Ancestries Design Decisions"
@@ -36,7 +36,7 @@ Race origins tied to divine deception. Gods claim ownership over specific races 
 - Drow, Shadow Elves, Tieflings: Covenant experiments (demonic tissue grafts)
 
 ### Covenant Experiments
-Started on elves (Drow/Shadow Elves), moved to humans (Tieflings). Unintended byproducts of Project Genesis — not intentional race creation.
+Started on elves (Drow/Shadow Elves), moved to humans (Tieflings). Unintended byproducts of Project Genesis  -  not intentional race creation.
 
 ### Project Genesis
 Centuries-spanning experiment to create perfect vessel for Khar'zul. Tieflings showed greatest resistance. Culmination: Balor Skallfang. His mother was final subject; she betrayed Covenant, fled with baby and blade.
@@ -45,10 +45,10 @@ Centuries-spanning experiment to create perfect vessel for Khar'zul. Tieflings s
 Each god falsely claims to have created a specific race. Major source of divine control. Mapping deferred until gods have proper names.
 
 ### Why Drow Revere Lolth
-Lolth didn't create them — took interest after they fled to Underdark. Their traits aligned with her domains (cunning, hierarchy, ruthlessness).
+Lolth didn't create them  -  took interest after they fled to Underdark. Their traits aligned with her domains (cunning, hierarchy, ruthlessness).
 
 ### Why Shadow Elves Revere Raven Queen
-She didn't create them — took interest after they claimed Shadowfell. Their shadow attunement aligned with her domain.
+She didn't create them  -  took interest after they claimed Shadowfell. Their shadow attunement aligned with her domain.
 
 ---
 

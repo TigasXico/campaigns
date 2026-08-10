@@ -1,4 +1,4 @@
----
+﻿---
 id: society_and_culture_design
 type: campaign_note
 name: "Society & Culture Design Decisions"
@@ -10,7 +10,7 @@ related:
   - the_council_accord: The Three Kings governance model
   - the_ecumenical_council: Interfaith governing body
   - the_adventurers_guild: Guild structure and ranks
-  - the_great_sacrifice: Currency secret — precious metals are B fragments
+  - the_great_sacrifice: Currency secret  -  precious metals are B fragments
   - the_arcane_reactive_crystal_cave: Plot hook beneath the capitals
   - the_thormvuld_family: Premier magical item producers
 created: 2026-08-09
@@ -29,12 +29,12 @@ Mortal races pushed to brink by 400 years of monster invasion. Society is young 
 
 ## Key Decisions
 
-### Governance — Council Accord
+### Governance  -  Council Accord
 - Three Kings (one per capital), meet frequently; any king can invoke formal council
 - No single point of failure
 - Skywatch: King + Council of Eyes (meritocratic scouts/rangers)
 - Emberforge: King + Forgemaster's Circle (guild leaders, craft clans)
-- Weaveheart: King + Arcane Conclave (wizards/scholars — magocracy in practice)
+- Weaveheart: King + Arcane Conclave (wizards/scholars  -  magocracy in practice)
 - Power fluidity: frontier = strength-based; heartland = traditional
 
 ### Survival Code (Foundation Law)

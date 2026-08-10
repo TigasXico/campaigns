@@ -1,4 +1,4 @@
----
+﻿---
 id: the_verdant_reaches
 type: location
 name: "The Verdant Reaches"
@@ -17,7 +17,7 @@ updated: 2026-08-10
 
 ## Overview
 
-The **Verdant Reaches** is a vast, ancient forest located in the **south-eastern reclaimed territories** of Kythoria, far from major trade routes and population centers. It does not appear on common maps — not because it is unknown, but because it was never a population center before the monster invasion, and its deep interior remains unexplored by most.
+The **Verdant Reaches** is a vast, ancient forest located in the **south-eastern reclaimed territories** of Kythoria, far from major trade routes and population centers. It does not appear on common maps  -  not because it is unknown, but because it was never a population center before the monster invasion, and its deep interior remains unexplored by most.
 
 The forest is dense, old-growth, and saturated with primal arcane energy absorbed from B's sacrifice over millennia. Ancient trees tower so high that their crowns form a second canopy, and places exist within the Reaches where sunlight never touches the ground.
 
@@ -31,7 +31,7 @@ Elarwyn is Aurora Asteria's birthplace and childhood home.
 
 - **Protection**: The magical barrier remains active, concealing Elarwyn from discovery
 - **Access**: Only those who know the paths or are guided by someone from within can find Elarwyn
-- **Threat Level**: Low — the forest's remote location and the barrier have kept it safe through the Abominable End and the subsequent reconquering
+- **Threat Level**: Low  -  the forest's remote location and the barrier have kept it safe through the Abominable End and the subsequent reconquering
 - **Notable Residents**: Elowen Asteria (scholar), Theron Asteria (botanist/herbalist)
 
 ---
@@ -40,14 +40,14 @@ Elarwyn is Aurora Asteria's birthplace and childhood home.
 
 - **Location**: South-eastern Kythoria, reclaimed territory
 - **Terrain**: Ancient old-growth forest, rolling hills, hidden valleys, clear lakes, cave systems
-- **Climate**: Temperate — mild winters, warm summers, frequent mist and fog in the deeper sections
+- **Climate**: Temperate  -  mild winters, warm summers, frequent mist and fog in the deeper sections
 - **Notable Features**: Ley line convergences (undiscovered), cave with natural skylight (where Aurora first saw the hidden constellations)
 
 ---
 
 ## Flora & Fauna
 
-The Verdant Reaches contain flora and fauna native to Kythoria — both mundane and magically-infused. As an ancient forest saturated with B's essence, it may harbor:
+The Verdant Reaches contain flora and fauna native to Kythoria  -  both mundane and magically-infused. As an ancient forest saturated with B's essence, it may harbor:
 
 - **Magically-infused plants**: Flowers that glow under moonlight, trees whose bark shifts color with seasons
 - **Native magical beasts**: Creatures that evolved from natural animals absorbing arcane energy over centuries
@@ -57,7 +57,7 @@ The Verdant Reaches contain flora and fauna native to Kythoria — both mundane 
 
 ## GM Notes
 
-- The Verdant Reaches and Elarwyn are currently **undiscovered by outside powers**. No faction — not the gods' churches, not the Crimson Covenant, not the monster army — knows of the hidden community
+- The Verdant Reaches and Elarwyn are currently **undiscovered by outside powers**. No faction  -  not the gods' churches, not the Crimson Covenant, not the monster army  -  knows of the hidden community
 - This may change if Aurora's activities draw attention to her origin
 - The forest's ley line convergences and B-saturated environment make it a location of potential interest to the Covenant (for research) and the gods (for suppression)
-- The skylight cave where Aurora first saw the hidden constellations is a **natural ley line convergence** — a place where the Weave is thick enough for B's essence patterns to become visible
+- The skylight cave where Aurora first saw the hidden constellations is a **natural ley line convergence**  -  a place where the Weave is thick enough for B's essence patterns to become visible

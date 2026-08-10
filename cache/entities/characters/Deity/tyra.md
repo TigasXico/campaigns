@@ -1,4 +1,4 @@
----
+﻿---
 id: tyra
 type: character
 name: "Tyra"
@@ -13,10 +13,10 @@ related:
 created: 2026-08-09
 updated: 2026-08-09
 ---
-
+---
 ## Overview
 
-The patient predator — hunt, tracking, the balance of predator and prey, survival.
+The patient predator  -  hunt, tracking, the balance of predator and prey, survival.
 
 ## Domains
 - Hunt: Tracking, pursuit, the hunter's instinct, the kill

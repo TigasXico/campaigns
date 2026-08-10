@@ -1,4 +1,4 @@
----
+﻿---
 id: the_guild_of_the_spark
 type: organization
 name: "The Guild of the Spark"
@@ -19,7 +19,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The Guild of the Spark is the church of **Thalkis** — the god of forge and arcana, patron of artisans, smiths, inventors, and mages. Its temples are workshops, forges, and arcane libraries where craft and magic are studied as sacred pursuits.
+The Guild of the Spark is the church of **Thalkis**  -  the god of forge and arcana, patron of artisans, smiths, inventors, and mages. Its temples are workshops, forges, and arcane libraries where craft and magic are studied as sacred pursuits.
 
 ## Structure
 

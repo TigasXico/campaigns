@@ -1,4 +1,4 @@
----
+﻿---
 id: world_and_geography_design
 type: campaign_note
 name: "World & Geography Design Decisions"
@@ -38,7 +38,7 @@ Aetris (evokes ancient + triad theme). Kythoria (solid fantasy name). Geography 
 - Weaveheart (The Nexus): Ley line convergence, arcane research
 
 ### Climate & Regions
-Frozen North (monster stronghold) → Temperate Heartlands (capitals) → Subtropical South (recovered). Eastern Coast (trade). Western Frontier (active war).
+Frozen North (monster stronghold) -> Temperate Heartlands (capitals) -> Subtropical South (recovered). Eastern Coast (trade). Western Frontier (active war).
 
 ### Historical Eras
 - Era of Foundation: before 400 ya (open for later)

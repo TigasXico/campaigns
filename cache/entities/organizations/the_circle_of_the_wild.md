@@ -1,4 +1,4 @@
----
+﻿---
 id: the_circle_of_the_wild
 type: organization
 name: "The Circle of the Wild"
@@ -11,7 +11,7 @@ related:
   - the_ecumenical_council: Member of the interfaith governing body
   - primal_nature_magic: Connected to primal magic and nature attunement
 secrets:
-  - text: "The Circle of the Wild's god is the least involved in the divine deception. Their distance from the pantheon's scheming makes them an unpredictable wildcard — the other gods do not fully control what this church does."
+  - text: "The Circle of the Wild's god is the least involved in the divine deception. Their distance from the pantheon's scheming makes them an unpredictable wildcard  -  the other gods do not fully control what this church does."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09
@@ -19,7 +19,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The Circle of the Wild is the church of **Kaelthor** — the god of nature and tempest, embodying the untamed world, wilderness, storms, beasts, and raw natural forces. Its shrines are found in wild places rather than cities, and the world itself is considered the only true temple.
+The Circle of the Wild is the church of **Kaelthor**  -  the god of nature and tempest, embodying the untamed world, wilderness, storms, beasts, and raw natural forces. Its shrines are found in wild places rather than cities, and the world itself is considered the only true temple.
 
 ## Structure
 

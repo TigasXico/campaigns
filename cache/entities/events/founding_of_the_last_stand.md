@@ -1,4 +1,4 @@
----
+﻿---
 id: founding_of_the_last_stand
 type: event
 name: "Founding of the Last Stand"
@@ -13,7 +13,7 @@ related:
   - weaveheart: One of the three capital cities founded in this event
   - the_first_alliance: The First Alliance was formed after the capitals were established
 secrets:
-  - text: "The founders of the Last Stand chose the location deliberately — not just for its defensible terrain, but because the ley line convergence beneath what became Weaveheart offered the only viable location for a stable magical barrier large enough to protect a population."
+  - text: "The founders of the Last Stand chose the location deliberately  -  not just for its defensible terrain, but because the ley line convergence beneath what became Weaveheart offered the only viable location for a stable magical barrier large enough to protect a population."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09
@@ -21,7 +21,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The founding of the Last Stand marks the turning point of mortal civilization. Approximately 200 years ago, the surviving mortal races — pushed to the brink of extinction by The Abominable End — made their final stand near the center-southeast of the continent and established three capital cities: Skywatch, Emberforge, and Weaveheart.
+The founding of the Last Stand marks the turning point of mortal civilization. Approximately 200 years ago, the surviving mortal races  -  pushed to the brink of extinction by The Abominable End  -  made their final stand near the center-southeast of the continent and established three capital cities: Skywatch, Emberforge, and Weaveheart.
 
 ## Date
 
@@ -45,7 +45,7 @@ A stable, reliable magical barrier was developed in Weaveheart, powered by the u
 
 ## Outcome
 
-The founding of the Last Stand marked the end of **The Abominable End** and the beginning of **The Rise of the Mortals** era. From this safe haven, the mortal races formed the **First Alliance** — the army of the Last Stand — and began the reconquering of their lost territories.
+The founding of the Last Stand marked the end of **The Abominable End** and the beginning of **The Rise of the Mortals** era. From this safe haven, the mortal races formed the **First Alliance**  -  the army of the Last Stand  -  and began the reconquering of their lost territories.
 
 ## Aftermath
 

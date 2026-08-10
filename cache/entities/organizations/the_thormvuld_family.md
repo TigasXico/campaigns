@@ -1,4 +1,4 @@
----
+﻿---
 id: the_thormvuld_family
 type: organization
 name: "The Thormvuld Family"
@@ -27,7 +27,7 @@ The family is organized around its master crafters and enchanters, with knowledg
 
 ## Membership
 
-The Thormvulds are a bloodline — membership is primarily by birth, though exceptional apprentices have been adopted into the family over the generations. Key members include:
+The Thormvulds are a bloodline  -  membership is primarily by birth, though exceptional apprentices have been adopted into the family over the generations. Key members include:
 
 - **Family Elders**: The oldest and most skilled members who oversee major projects
 - **Master Enchanters**: Those who have mastered the art of magical item creation

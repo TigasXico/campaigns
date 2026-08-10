@@ -1,4 +1,4 @@
----
+﻿---
 id: the_coven_of_the_spider
 type: organization
 name: "The Coven of the Spider"
@@ -21,7 +21,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The Coven of the Spider is the church of **Lolth, the Spider Queen** — deity of trickery and war, patron of the drow. The Coven operates in shadows and whispers, its members serving as spies, assassins, and schemers who advance Lolth's agenda through cunning and manipulation.
+The Coven of the Spider is the church of **Lolth, the Spider Queen**  -  deity of trickery and war, patron of the drow. The Coven operates in shadows and whispers, its members serving as spies, assassins, and schemers who advance Lolth's agenda through cunning and manipulation.
 
 ## Structure
 

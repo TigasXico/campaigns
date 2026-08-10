@@ -1,4 +1,4 @@
----
+﻿---
 id: aloria
 type: character
 name: "Aloria"
@@ -11,10 +11,10 @@ related:
   - the_originals: Originated from A and C's subdivision
 created: 2026-08-08
 updated: 2026-08-09
-
+---
 ## Overview
 
-The benevolent face of the pantheon — healing, compassion, radiance, the life-giving sun.
+The benevolent face of the pantheon  -  healing, compassion, radiance, the life-giving sun.
 
 ## Domains
 - Light: The sun, truth, radiance, revelation

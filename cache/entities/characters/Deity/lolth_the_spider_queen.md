@@ -1,4 +1,4 @@
----
+﻿---
 id: lolth_the_spider_queen
 type: character
 name: "Lolth (The Spider Queen)"
@@ -11,7 +11,7 @@ related:
   - the_originals: Originated from A and C's subdivision
 created: 2026-08-08
 updated: 2026-08-09
-
+---
 ## Overview
 
 Lolth, the Spider Queen, is a deity of trickery and war. Patron of the drow.

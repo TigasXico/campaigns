@@ -1,4 +1,4 @@
----
+﻿---
 id: skywatch
 type: location
 name: "Skywatch"
@@ -28,7 +28,7 @@ Perched on elevated terrain near the center-southeast of Kythoria, Skywatch comm
 
 ## Government
 
-Skywatch is ruled by a **King** who governs with the counsel of the **Council of Eyes** — a body of the most accomplished scouts, rangers, and strategists. Leadership at the council level is meritocratic; seats are earned through proven service and expertise. Skywatch's rule is practical, direct, and focused on intelligence gathering, vigilance, and military readiness.
+Skywatch is ruled by a **King** who governs with the counsel of the **Council of Eyes**  -  a body of the most accomplished scouts, rangers, and strategists. Leadership at the council level is meritocratic; seats are earned through proven service and expertise. Skywatch's rule is practical, direct, and focused on intelligence gathering, vigilance, and military readiness.
 
 ## Notable Features
 

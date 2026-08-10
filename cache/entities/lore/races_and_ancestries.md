@@ -1,4 +1,4 @@
----
+﻿---
 id: races_and_ancestries
 type: lore
 name: "Races & Ancestries"
@@ -11,11 +11,11 @@ related:
   - the_crimson_covenant: Experiments produced Drow, Shadow Elves, and Tieflings ~500-600 years ago
   - the_last_stand: All races united at the Last Stand to survive the monster invasion
   - cosmology_and_the_planes: Shadow Elves claimed Shadowfell; Drow communities exist in various dark regions
-  - the_underdark_forest: A sunken forest in south-west Kythoria known as the Underdark — home to a Drow theocracy
+  - the_underdark_forest: A sunken forest in south-west Kythoria known as the Underdark  -  home to a Drow theocracy
 secrets:
   - text: "The gods did NOT create any mortal race. All races were created by the Originals and brought to the Material Plane. The gods' claims of creation are a calculated deception to maintain control over mortals through worship."
     access: gm-only
-  - text: "Drow, Shadow Elves, and Tieflings were not created by the Originals either — they are the result of Crimson Covenant experiments grafting demonic tissue onto elves and humans, conducted approximately 500-600 years ago."
+  - text: "Drow, Shadow Elves, and Tieflings were not created by the Originals either  -  they are the result of Crimson Covenant experiments grafting demonic tissue onto elves and humans, conducted approximately 500-600 years ago."
     access: gm-only
 created: 2026-08-08
 updated: 2026-08-10
@@ -47,13 +47,13 @@ Only **Genasi** exist among the uncommon races. All other exotic races (Aarakocr
 
 ## True Origins
 
-All standard mortal races were created by the Originals — A, B, and C — during their experiments that produced the Material Plane. The Material Plane was the Originals' final successful experiment, designed to sustain self-aware, evolving mortal life. The Originals populated it with diverse races, each adapted to different environments and purposes, and brought them to live on the Material Plane.
+All standard mortal races were created by the Originals  -  A, B, and C  -  during their experiments that produced the Material Plane. The Material Plane was the Originals' final successful experiment, designed to sustain self-aware, evolving mortal life. The Originals populated it with diverse races, each adapted to different environments and purposes, and brought them to live on the Material Plane.
 
 ## The Crimson Covenant Experiments
 
 Three races were NOT created by the Originals. They are the result of experiments conducted by a shadowy organization known as the Crimson Covenant, approximately **500-600 years ago**:
 
-- **Drow & Shadow Elves**: The Covenant grafted demonic tissue onto elven subjects. The survivors became Drow (gaining sunlight sensitivity) and Shadow Elves. Drow fled to the **Underdark** — a perpetually shaded region where they established their theocracy. Shadow Elves escaped to the **Shadowfell** and claimed it as their domain.
+- **Drow & Shadow Elves**: The Covenant grafted demonic tissue onto elven subjects. The survivors became Drow (gaining sunlight sensitivity) and Shadow Elves. Drow fled to the **Underdark**  -  a perpetually shaded region where they established their theocracy. Shadow Elves escaped to the **Shadowfell** and claimed it as their domain.
 - **Tieflings**: The Covenant later experimented on humans using the same demonic tissue grafts. Survivors became Tieflings, who scattered and integrated among the other races.
 - The Covenant experimented on elves first, then moved to humans.
 
@@ -61,15 +61,15 @@ Three races were NOT created by the Originals. They are the result of experiment
 
 The **Underdark** is a sunken forest in the **south-west of Kythoria**, named for its defining feature: sunlight never reaches the forest floor. A colossal **Black Willow** at the forest's center, growing upon a ley line convergence, casts an eternal shadow over the entire region. Drow communities built their society among the roots of this great tree, organized around the theocratic worship of Lolth.
 
-Beneath the forest lie the **Underdark Caves** — a network of tunnels used for trials, punishment, and imprisonment. No Drow live in these caves; they dwell in the forest above. The caves are not a deep subterranean empire, but a functional tunnel system beneath the Drow homeland.
+Beneath the forest lie the **Underdark Caves**  -  a network of tunnels used for trials, punishment, and imprisonment. No Drow live in these caves; they dwell in the forest above. The caves are not a deep subterranean empire, but a functional tunnel system beneath the Drow homeland.
 
 ## Half-Races
 
 Half-Elves and Half-Orcs exist through natural interbreeding between races. No custom hybrid races exist at this time.
 
-## The Deception — Which God Claims Which Race
+## The Deception  -  Which God Claims Which Race
 
-The gods each claim to have created a specific mortal race. This is a deliberate lie designed to maintain their legitimacy, harvest worship, and keep mortals dependent on them. In truth, no god created any race — the Originals (A, B, C) created all mortal life, and the Crimson Covenant's experiments later produced Drow, Shadow Elves, and Tieflings.
+The gods each claim to have created a specific mortal race. This is a deliberate lie designed to maintain their legitimacy, harvest worship, and keep mortals dependent on them. In truth, no god created any race  -  the Originals (A, B, C) created all mortal life, and the Crimson Covenant's experiments later produced Drow, Shadow Elves, and Tieflings.
 
 | God | Domains | Falsely Claims |
 |-----|---------|----------------|
@@ -85,8 +85,8 @@ The gods each claim to have created a specific mortal race. This is a deliberate
 | **Tyra** | Hunt & Nature | Dragonborn |
 
 **Unclaimed Races:**
-- **Tieflings** — No god claims them. This fuels prejudice: tieflings are seen as "godless" or "abandoned," and some devout communities distrust them outright. The Crimson Covenant's true origin for tieflings is unknown to the general public.
-- **Half-Elves** — Fall naturally between whoever claims Elves (Kaelthor) and Humans (Aloria). No god claims them directly.
+- **Tieflings**  -  No god claims them. This fuels prejudice: tieflings are seen as "godless" or "abandoned," and some devout communities distrust them outright. The Crimson Covenant's true origin for tieflings is unknown to the general public.
+- **Half-Elves**  -  Fall naturally between whoever claims Elves (Kaelthor) and Humans (Aloria). No god claims them directly.
 
 ## Lifespans
 
@@ -105,17 +105,17 @@ All races follow standard Fifth Edition lifespan ranges:
 ## Racial Homelands
 
 Due to the monster invasion that began 400 years ago and the subsequent reconquering (starting 200 years ago), traditional racial homelands have been largely disrupted. All mortal races now coexist in the three capital cities of the Last Stand and in the reconquered territories to the south and east, living side by side out of shared necessity for survival.
-## Social Standing — The Blamed Races
+## Social Standing  -  The Blamed Races
 
 The public blame placed on Lolth, the Raven Queen, and Vorn for the monster invasion has directly affected the social standing of the races they claim.
 
 ### Drow (Claimed by Lolth)
 
-Drow never participated in the First Alliance or helped found the Last Stand. They held their ground in the Underdark against the monster invasion — exceptional warriors who repelled the hordes through combat skill, though they suffered a long, grinding siege as the surrounding territories fell. They emerged only after the worst had passed. Today, Drow are viewed with deep suspicion in Last Stand territories. The few who walk the surface face hostility, discrimination, and constant scrutiny. Most Drow remain in the Underdark, where the Coven of the Spider rules openly.
+Drow never participated in the First Alliance or helped found the Last Stand. They held their ground in the Underdark against the monster invasion  -  exceptional warriors who repelled the hordes through combat skill, though they suffered a long, grinding siege as the surrounding territories fell. They emerged only after the worst had passed. Today, Drow are viewed with deep suspicion in Last Stand territories. The few who walk the surface face hostility, discrimination, and constant scrutiny. Most Drow remain in the Underdark, where the Coven of the Spider rules openly.
 
 ### Shadow Elves (Claimed by the Raven Queen)
 
-Shadow Elves fled to the Shadowfell during the Abominable End and never joined the mortal alliance. Like the Drow, they are distrusted on the surface. Their connection to death and the Shadowfell fuels prejudice — many believe they serve the Raven Queen's dark designs. Shadow Elf visitors to Last Stand cities are rare and typically watched.
+Shadow Elves fled to the Shadowfell during the Abominable End and never joined the mortal alliance. Like the Drow, they are distrusted on the surface. Their connection to death and the Shadowfell fuels prejudice  -  many believe they serve the Raven Queen's dark designs. Shadow Elf visitors to Last Stand cities are rare and typically watched.
 
 ### Half-Orcs (Claimed by Vorn)
 
@@ -123,7 +123,7 @@ Half-Orcs occupy a unique and painful position. They **did** fight in the First 
 
 - **Public perception**: Half-Orcs are seen as brutish, prone to violence, and tainted by their "war god." They face discrimination in housing, employment, and social standing.
 - **Vorn worship**: Half-Orcs who follow Vorn must do so in secret. The Iron Host operates underground within Last Stand territory. Open worship of Vorn can lead to persecution, exile, or worse.
-- **The irony**: Many Half-Orcs despise Vorn for what he has done to their reputation — yet his church offers belonging to those who feel rejected by mainstream society.
+- **The irony**: Many Half-Orcs despise Vorn for what he has done to their reputation  -  yet his church offers belonging to those who feel rejected by mainstream society.
 - **Cultural split**: Older Half-Orcs who remember the First Alliance resent the accusation deeply. Younger Half-Orcs born after the Last Stand grew up with this prejudice as a fact of life.
 
 ### Summary Table
@@ -132,4 +132,4 @@ Half-Orcs occupy a unique and painful position. They **did** fight in the First 
 |------|-----------|---------------|------------|-----------------|----------------------|
 | Drow | Lolth | No | No | Highly distrusted, few on surface | Open in Underdark, secret cells on surface |
 | Shadow Elves | Raven Queen | No | No | Distrusted, rare visitors | Open in Shadowfell, hidden sanctuaries on surface |
-| Half-Orcs | Vorn | **Yes** — fought bravely | **Yes** — helped found | Mistrusted, discriminated against | **Secret only** — banned in Last Stand |
+| Half-Orcs | Vorn | **Yes**  -  fought bravely | **Yes**  -  helped found | Mistrusted, discriminated against | **Secret only**  -  banned in Last Stand |

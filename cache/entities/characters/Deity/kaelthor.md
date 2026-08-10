@@ -1,4 +1,4 @@
----
+﻿---
 id: kaelthor
 type: character
 name: "Kaelthor"
@@ -12,10 +12,10 @@ related:
   - primal_nature_magic: Primal magic is part of this god's domain
 created: 2026-08-08
 updated: 2026-08-09
-
+---
 ## Overview
 
-Embodies the untamed world — wilderness, storms, beasts, raw natural forces.
+Embodies the untamed world  -  wilderness, storms, beasts, raw natural forces.
 
 ## Domains
 - Nature: Wilderness, beasts, plants, the natural order

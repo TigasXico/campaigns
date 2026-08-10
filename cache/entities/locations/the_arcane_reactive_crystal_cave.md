@@ -1,4 +1,4 @@
----
+﻿---
 id: the_arcane_reactive_crystal_cave
 type: location
 name: "The Arcane-Reactive Crystal Cave"
@@ -12,7 +12,7 @@ related:
   - emberforge: The cave lies to the side of this underground city
   - society_economy_and_culture: The cave's energy supercharges the forest's soil fertility
 secrets:
-  - text: "The cave is not merely a geological formation. It is a place where B's essence condensed at a convergence point — a nexus where the lingering will of the sacrificed Original is stronger than anywhere else on Kythoria. The crystals here may be semi-sentient."
+  - text: "The cave is not merely a geological formation. It is a place where B's essence condensed at a convergence point  -  a nexus where the lingering will of the sacrificed Original is stronger than anywhere else on Kythoria. The crystals here may be semi-sentient."
     access: gm-only
   - text: "If B's crystal cluster has achieved sentience as theorized, this cave is the most likely location for such a consciousness to have emerged. A warlock patron could exist here, unknown to the gods."
     access: gm-only
@@ -22,7 +22,7 @@ updated: 2026-08-09
 
 ## Overview
 
-A massive cave system containing vast formations of arcane-reactive crystals. The cave lies beneath the two surface cities of the Last Stand — Skywatch and Weaveheart — and extends to the side of the underground city of Emberforge, blanketing the entire area where the nutrient-rich forests grow on the surface.
+A massive cave system containing vast formations of arcane-reactive crystals. The cave lies beneath the two surface cities of the Last Stand  -  Skywatch and Weaveheart  -  and extends to the side of the underground city of Emberforge, blanketing the entire area where the nutrient-rich forests grow on the surface.
 
 ## Geography
 
@@ -34,7 +34,7 @@ The cave contains arcane-reactive crystals in formations ranging from tiny grain
 
 ## Ecological Impact
 
-The cave's ambient energy is responsible for the exceptional fertility of the forests surrounding the three capitals. Without this influence, the agricultural output of the region would be significantly lower — a fact known only to a handful of researchers.
+The cave's ambient energy is responsible for the exceptional fertility of the forests surrounding the three capitals. Without this influence, the agricultural output of the region would be significantly lower  -  a fact known only to a handful of researchers.
 
 ## Mystery
 

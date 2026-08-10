@@ -1,4 +1,4 @@
----
+﻿---
 id: emberforge
 type: location
 name: "Emberforge"
@@ -12,7 +12,7 @@ related:
   - kythoria: Located in the temperate heartlands of Kythoria
   - society_economy_and_culture: Emberforge's governance and culture detailed here
 secrets:
-  - text: "The Forgemaster's Circle controls access to the deepest volcanic forges, where unique alloys are made using techniques from before the Abominable End. Some say these lower forges were built on something older — a pre-invasion structure of unknown origin."
+  - text: "The Forgemaster's Circle controls access to the deepest volcanic forges, where unique alloys are made using techniques from before the Abominable End. Some say these lower forges were built on something older  -  a pre-invasion structure of unknown origin."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09
@@ -28,7 +28,7 @@ Emberforge lies beneath a volcanic ash wasteland. The city harnesses immense geo
 
 ## Government
 
-Emberforge is ruled by a **King** who governs with the counsel of the **Forgemaster's Circle** — representing the most powerful smithing guilds, engineering houses, and industrial clans. Emberforge's internal politics are shaped by production output, resource control, and the influence of its major craft families.
+Emberforge is ruled by a **King** who governs with the counsel of the **Forgemaster's Circle**  -  representing the most powerful smithing guilds, engineering houses, and industrial clans. Emberforge's internal politics are shaped by production output, resource control, and the influence of its major craft families.
 
 ## Notable Features
 

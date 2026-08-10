@@ -1,4 +1,4 @@
----
+﻿---
 id: the_raven_queen
 type: character
 name: "The Raven Queen"
@@ -11,7 +11,7 @@ related:
   - the_originals: Originated from A and C's subdivision
 created: 2026-08-08
 updated: 2026-08-09
-
+---
 ## Overview
 
 Deity of death and the grave. Presides over life's end. Shadow elves (shadar-kai) are her primary worshippers.

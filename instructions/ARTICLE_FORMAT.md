@@ -1,10 +1,10 @@
-# Article Format — WorldAnvil BBCode
+﻿# Article Format  -  WorldAnvil BBCode
 
 Defines the BBCode format for articles generated to be posted on WorldAnvil (WA). All output articles are saved under `articles/output/` as `.bbcode` files.
 
 ---
 
-## WA Article Structure — Mirroring the Local Cache
+## WA Article Structure  -  Mirroring the Local Cache
 
 The article structure on WorldAnvil should mirror the local cache structure for consistency and easy navigation.
 
@@ -12,55 +12,55 @@ The article structure on WorldAnvil should mirror the local cache structure for 
 
 ```
 World: [Campaign/World Name]
-├── Characters               (WA Category)
-│   └── [Individual Character Articles]
-├── Locations                (WA Category)
-│   └── [Individual Location Articles]
-├── Organizations            (WA Category)
-│   └── [Individual Organization Articles]
-├── Events                   (WA Category)
-│   └── [Individual Event Articles]
-├── Items                    (WA Category)
-│   └── [Individual Item Articles]
-├── Lore & Concepts          (WA Category)
-│   └── [Individual Lore Articles]
-├── Session Logs             (WA Category) — optional
-│   └── [Session Recap Articles]
-├── Player Characters        (WA Category) — player-facing
-│   └── [PC Profile Articles]
-└── _Master Index            (WA Article, uncategorized or pinned)
-    → Lists every article with a brief description (mirrors `cache/_index.md`)
+|-- Characters               (WA Category)
+|   |-- [Individual Character Articles]
+|-- Locations                (WA Category)
+|   |-- [Individual Location Articles]
+|-- Organizations            (WA Category)
+|   |-- [Individual Organization Articles]
+|-- Events                   (WA Category)
+|   |-- [Individual Event Articles]
+|-- Items                    (WA Category)
+|   |-- [Individual Item Articles]
+|-- Lore & Concepts          (WA Category)
+|   |-- [Individual Lore Articles]
+|-- Session Logs             (WA Category)  -  optional
+|   |-- [Session Recap Articles]
+|-- Player Characters        (WA Category)  -  player-facing
+|   |-- [PC Profile Articles]
+|-- _Master Index            (WA Article, uncategorized or pinned)
+    -> Lists every article with a brief description (mirrors `cache/_index.md`)
 ```
 
 ### Category-Entity Mapping
 
 | Cache Folder | WA Category | Article Naming Convention |
 |---|---|---|
-| `entities/characters/` | Characters | `[entity_id]` → WA slug: `entity_id` |
-| `entities/locations/` | Locations | `[entity_id]` → WA slug: `entity_id` |
-| `entities/organizations/` | Organizations | `[entity_id]` → WA slug: `entity_id` |
-| `entities/events/` | Events | `[entity_id]` → WA slug: `entity_id` |
-| `entities/items/` | Items | `[entity_id]` → WA slug: `entity_id` |
-| `entities/lore/` | Lore & Concepts | `[entity_id]` → WA slug: `entity_id` |
+| `entities/characters/` | Characters | `[entity_id]` -> WA slug: `entity_id` |
+| `entities/locations/` | Locations | `[entity_id]` -> WA slug: `entity_id` |
+| `entities/organizations/` | Organizations | `[entity_id]` -> WA slug: `entity_id` |
+| `entities/events/` | Events | `[entity_id]` -> WA slug: `entity_id` |
+| `entities/items/` | Items | `[entity_id]` -> WA slug: `entity_id` |
+| `entities/lore/` | Lore & Concepts | `[entity_id]` -> WA slug: `entity_id` |
 
 ### The _Master Index Article
 
 A single "master index" article on WA that mirrors `cache/_index.md`. Should be formatted as:
 
 ```
-[h1]World Index — All Articles[/h1]
+[h1]World Index  -  All Articles[/h1]
 
 This index mirrors the lore cache and lists every article in this world.
 
 [h2]Characters[/h2]
 [list]
-[*] [article:high_king_theron]High King Theron[/article] — Ruler of the Ironveil Dynasty
+[*] [article:high_king_theron]High King Theron[/article]  -  Ruler of the Ironveil Dynasty
 [*] ...
 [/list]
 
 [h2]Locations[/h2]
 [list]
-[*] [article:city_of_embermoor]City of Embermoor[/article] — Capital of the Northern Realms
+[*] [article:city_of_embermoor]City of Embermoor[/article]  -  Capital of the Northern Realms
 [*] ...
 [/list]
 ... (repeated for each entity type)
@@ -82,7 +82,7 @@ WA uses subscriber groups to gate content. Define groups upfront per world. The 
 
 | Group ID | Name | Purpose |
 |----------|------|---------|
-| `all-party` | All Party Members | Shared party knowledge — anything the whole party knows but the public doesn't |
+| `all-party` | All Party Members | Shared party knowledge  -  anything the whole party knows but the public doesn't |
 | `gm-only` | Game Master Only | Meta-plot, encounter details, lore the DM crafts behind the scenes |
 
 ### Per-Player Groups
@@ -153,7 +153,7 @@ The `entity_id` must match the WA article slug (use the same snake_case ID from 
 ```
 
 ### Multiple Groups (same content)
-Nest or separate — WA's BBCode supports one group per tag. For content visible to multiple groups, create separate blocks or combine into a broader group:
+Nest or separate  -  WA's BBCode supports one group per tag. For content visible to multiple groups, create separate blocks or combine into a broader group:
 ```
 [subscribergroup:all-party]The party found a strange amulet in the ruins.[/subscribergroup]
 [subscribergroup:gm-only]The amulet is actually a bound celestial's prison, and it will try to possess whoever wears it.[/subscribergroup]
@@ -169,7 +169,7 @@ Every article MUST follow this template structure:
 [h1][b]Entity Name[/b][/h1]
 
 [subscribergroup:gm-only]
-[b]GM Note:[/b] Brief metadata note for the DM — status, tags, related articles.
+[b]GM Note:[/b] Brief metadata note for the DM  -  status, tags, related articles.
 [/subscribergroup]
 
 [h2]Overview[/h2]
@@ -204,8 +204,8 @@ unfold during the campaign. Nothing in this section is known to the world at lar
 
 [h2]Related Articles[/h2]
 [list]
-[*] [article:related_entity_id]Related Entity Name[/article] — Brief description of connection
-[*] [article:another_entity_id]Another Entity[/article] — Brief description
+[*] [article:related_entity_id]Related Entity Name[/article]  -  Brief description of connection
+[*] [article:another_entity_id]Another Entity[/article]  -  Brief description
 [/list]
 ```
 
@@ -222,12 +222,12 @@ When generating articles for new entities:
 5. **Secrets from the cache** go under `## DM Notes` (gm-only), `## What the Party Knows` (all-party), or per-character sections as appropriate.
 6. **File name**: `<entity_id>.bbcode` in `articles/output/`.
 
-### Present State vs Future Events — CRITICAL RULE
+### Present State vs Future Events  -  CRITICAL RULE
 
-**Articles describe the world as it exists when the campaign starts.** Lore, conditions, relationships, and knowledge must reflect the starting state — not what will happen later.
+**Articles describe the world as it exists when the campaign starts.** Lore, conditions, relationships, and knowledge must reflect the starting state  -  not what will happen later.
 
 - The main body sections (`## Overview`, `## History`, `## Notable Information`, etc.) describe only **what is true at campaign start**.
-- **Anything that hasn't happened yet** — prophecies, impending events, planned invasions, character destinies, future plot developments — MUST go in a dedicated section called:
+- **Anything that hasn't happened yet**  -  prophecies, impending events, planned invasions, character destinies, future plot developments  -  MUST go in a dedicated section called:
 
   ```
   [h2]Campaign Events / Future[/h2]
@@ -238,10 +238,10 @@ When generating articles for new entities:
   - `[subscribergroup:all-party]` for known prophecies, foreseen events, or upcoming plans the party is aware of at campaign start.
 
 - **Examples of what goes in the Future section:**
-  - A prophecy about the destruction of a city → `[subscribergroup:all-party]` (if the party knows the prophecy)
-  - The BBEG's planned ritual in 3 months → `[subscribergroup:gm-only]`
-  - A character's hidden destiny to become a lich → `[subscribergroup:gm-only]`
-  - An invasion fleet that hasn't sailed yet → `[subscribergroup:gm-only]` or `[subscribergroup:all-party]` depending on knowledge
+  - A prophecy about the destruction of a city -> `[subscribergroup:all-party]` (if the party knows the prophecy)
+  - The BBEG's planned ritual in 3 months -> `[subscribergroup:gm-only]`
+  - A character's hidden destiny to become a lich -> `[subscribergroup:gm-only]`
+  - An invasion fleet that hasn't sailed yet -> `[subscribergroup:gm-only]` or `[subscribergroup:all-party]` depending on knowledge
 
 - **The `## History` section** ends at campaign start. Do not include events that happen during or after the campaign's beginning.
 
@@ -249,7 +249,7 @@ When updating existing articles (summaries of changes):
 
 1. Present a bullet list of **each individual change** needed.
 2. For each change, specify: **Which article**, **Which section**, **What to add/remove/modify**, **The exact BBCode to insert**.
-3. Do NOT regenerate the full article — only describe the changes.
+3. Do NOT regenerate the full article  -  only describe the changes.
 
 ---
 

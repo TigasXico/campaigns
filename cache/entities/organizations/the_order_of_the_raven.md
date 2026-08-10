@@ -1,4 +1,4 @@
----
+﻿---
 id: the_order_of_the_raven
 type: organization
 name: "The Order of the Raven"
@@ -20,7 +20,7 @@ updated: 2026-08-09
 
 ## Overview
 
-The Order of the Raven is the church of **The Raven Queen** — deity of death and the grave, presiding over life's end. Its clergy serve as guardians of death rites, memory-keepers, and destroyers of undeath.
+The Order of the Raven is the church of **The Raven Queen**  -  deity of death and the grave, presiding over life's end. Its clergy serve as guardians of death rites, memory-keepers, and destroyers of undeath.
 
 ## Structure
 

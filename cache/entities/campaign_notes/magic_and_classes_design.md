@@ -1,4 +1,4 @@
----
+﻿---
 id: magic_and_classes_design
 type: campaign_note
 name: "Magic & Classes Design Decisions"
@@ -12,7 +12,7 @@ related:
   - the_gods_and_the_deception: Gods as conduits hiding the truth
   - the_great_sacrifice: Ultimate source of all magic
 secrets:
-  - text: "If mortals learned clerics and paladins don't actually need the gods — that all magic comes from B — faith would shatter and the gods would lose their primary control mechanism."
+  - text: "If mortals learned clerics and paladins don't actually need the gods  -  that all magic comes from B  -  faith would shatter and the gods would lose their primary control mechanism."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09

@@ -1,4 +1,4 @@
----
+﻿---
 id: the_southeastern_port
 type: location
 name: "The Southeastern Port"
@@ -10,7 +10,7 @@ related:
   - kythoria: Located on the southeast coast of Kythoria
   - the_eastern_port: Sister port to the east
 secrets:
-  - text: "The southeastern port was built on the ruins of a pre-invasion city. Some of the older structures — including a deep-water dock and a lighthouse — are pre-invasion originals, built with techniques that have been lost."
+  - text: "The southeastern port was built on the ruins of a pre-invasion city. Some of the older structures  -  including a deep-water dock and a lighthouse  -  are pre-invasion originals, built with techniques that have been lost."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09

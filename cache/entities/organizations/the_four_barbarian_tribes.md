@@ -1,4 +1,4 @@
----
+﻿---
 id: the_four_barbarian_tribes
 type: organization
 name: "The Four Barbarian Tribes"
@@ -12,7 +12,7 @@ related:
 secrets:
   - text: "Each tribe reveres different ancestral spirits tied to their environment. These spirits may be manifestations of B's lingering will, filtered through the natural world and the tribe's cultural identity."
     access: gm-only
-  - text: "The four tribes predate the monster invasion and have preserved oral histories that may contain fragments of truth about the Originals and the Great Sacrifice — knowledge lost to the more 'civilized' races."
+  - text: "The four tribes predate the monster invasion and have preserved oral histories that may contain fragments of truth about the Originals and the Great Sacrifice  -  knowledge lost to the more 'civilized' races."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09

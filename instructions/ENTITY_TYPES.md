@@ -1,17 +1,17 @@
-# Entity Types & Schemas
+﻿# Entity Types & Schemas
 
 Defines all entity categories used in the lore cache and their required/optional fields.
 
 ---
 
-## 🚨 Before You Create or Modify an Entity
+## [emoji] Before You Create or Modify an Entity
 
 Every change to the lore cache must pass the **Narrative Auditor Gate** (defined in `WORKFLOW.md`):
 
-1. **A1 — Audit for Contradictions** — check timeline, geography, factions, power levels, themes
-2. **A2 — Identify Narrative Gaps** — flag thin details, missing motivations, unexplored consequences
-3. **A3 — Synthesize Connections** — link to existing entities, open questions, core themes
-4. **A4 — Offer Creative Variants** — present 3–5 options when expanding lore; never default to a single path
+1. **A1  -  Audit for Contradictions**  -  check timeline, geography, factions, power levels, themes
+2. **A2  -  Identify Narrative Gaps**  -  flag thin details, missing motivations, unexplored consequences
+3. **A3  -  Synthesize Connections**  -  link to existing entities, open questions, core themes
+4. **A4  -  Offer Creative Variants**  -  present 3-5 options when expanding lore; never default to a single path
 
 Present all audit results to the user before making changes.
 
@@ -61,50 +61,50 @@ updated: YYYY-MM-DD
 
 | Field | Required | Description |
 |-------|----------|-------------|
-| `id` | ✅ | Unique snake_case identifier |
-| `type` | ✅ | One of the 6 entity types above |
-| `name` | ✅ | Display name (can include spaces, diacritics) |
-| `status` | ✅ | Lifecycle status of this entity |
-| `tags` | ❌ | Freeform tags for filtering & categorization |
-| `related` | ❌ | Links to other entity IDs with a brief description of the relationship |
-| `secrets` | ❌ | Array of secrets tied to this entity (see SECRETS section below) |
-| `created` | ✅ | Date entity was first created in cache |
-| `updated` | ✅ | Date of last modification |
+| `id` | [ok] | Unique snake_case identifier |
+| `type` | [ok] | One of the 6 entity types above |
+| `name` | [ok] | Display name (can include spaces, diacritics) |
+| `status` | [ok] | Lifecycle status of this entity |
+| `tags` | [x] | Freeform tags for filtering & categorization |
+| `related` | [x] | Links to other entity IDs with a brief description of the relationship |
+| `secrets` | [x] | Array of secrets tied to this entity (see SECRETS section below) |
+| `created` | [ok] | Date entity was first created in cache |
+| `updated` | [ok] | Date of last modification |
 
 ### Body Section
 
 After the frontmatter, the body contains **narrative content** in plain Markdown. Sections are separated by `##` headings. Content must be:
 
-- **Concise** — LLM-friendly, no fluff.
-- **Factual** — lore descriptions, history, appearance, personality, etc.
-- **Organized** — use consistent section headings per entity type.
+- **Concise**  -  LLM-friendly, no fluff.
+- **Factual**  -  lore descriptions, history, appearance, personality, etc.
+- **Organized**  -  use consistent section headings per entity type.
 
 ---
 
 ## Recommended Section Headings by Entity Type
 
-> **IMPORTANT:** The body of every entity file describes the entity **as it exists when the campaign starts**. Do not include events or developments that occur during or after the campaign's beginning in the main sections. Use a `## Campaign Events` section at the end of the body (or the `secrets` frontmatter field) for any future-facing content. See `ARTICLE_FORMAT.md` — *Present State vs Future Events* for details.
+> **IMPORTANT:** The body of every entity file describes the entity **as it exists when the campaign starts**. Do not include events or developments that occur during or after the campaign's beginning in the main sections. Use a `## Campaign Events` section at the end of the body (or the `secrets` frontmatter field) for any future-facing content. See `ARTICLE_FORMAT.md`  -  *Present State vs Future Events* for details.
 
 ### Character
-`## Overview` · `## Appearance` · `## Personality` · `## Background` · `## Abilities` · `## Goals` · `## Relationships` · `## Secrets`
+`## Overview` * `## Appearance` * `## Personality` * `## Background` * `## Abilities` * `## Goals` * `## Relationships` * `## Secrets`
 
 ### Location
-`## Overview` · `## Geography` · `## History` · `## Notable Features` · `## Inhabitants` · `## Points of Interest` · `## Secrets`
+`## Overview` * `## Geography` * `## History` * `## Notable Features` * `## Inhabitants` * `## Points of Interest` * `## Secrets`
 
 ### Organization
-`## Overview` · `## Structure` · `## Membership` · `## Goals` · `## Headquarters` · `## History` · `## Secrets`
+`## Overview` * `## Structure` * `## Membership` * `## Goals` * `## Headquarters` * `## History` * `## Secrets`
 
 ### Event
-`## Overview` · `## Date` · `## Causes` · `## Participants` · `## Outcome` · `## Aftermath` · `## Secrets`
+`## Overview` * `## Date` * `## Causes` * `## Participants` * `## Outcome` * `## Aftermath` * `## Secrets`
 
 ### Item
-`## Overview` · `## Description` · `## Properties` · `## History` · `## Current Location` · `## Secrets`
+`## Overview` * `## Description` * `## Properties` * `## History` * `## Current Location` * `## Secrets`
 
 ### Lore/Concept
-`## Overview` · `## Principles` · `## Practice` · `## Significance` · `## Variations` · `## Secrets`
+`## Overview` * `## Principles` * `## Practice` * `## Significance` * `## Variations` * `## Secrets`
 
 ### Campaign Note
-`## Overview` · `## Design Rationale` · `## Key Decisions` · `## Implications` · `## Open Questions`
+`## Overview` * `## Design Rationale` * `## Key Decisions` * `## Implications` * `## Open Questions`
 
 ---
 

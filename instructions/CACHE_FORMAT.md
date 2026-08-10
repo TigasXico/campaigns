@@ -1,7 +1,7 @@
-# WorldAnvil Lore Cache — Format Specification
+﻿# WorldAnvil Lore Cache  -  Format Specification
 
 > Defines the structure and constraints for all lore entity files in `cache/entities/`.
-> Files MUST be optimized for LLM consumption — concise, machine-readable, modular.
+> Files MUST be optimized for LLM consumption  -  concise, machine-readable, modular.
 
 ---
 
@@ -17,31 +17,31 @@ Each entity file is a Markdown document with:
 
 | Field | Required | Description | Example |
 |-------|----------|-------------|---------|
-| `id` | ✅ | Snake-case unique ID | `city_of_embermoor` |
-| `type` | ✅ | Entity type (see `ENTITY_TYPES.md`) | `location` |
-| `name` | ✅ | Display name | `City of Embermoor` |
-| `status` | ✅ | `draft`, `active`, `review` | `active` |
-| `created` | ✅ | ISO date created | `2026-08-01` |
-| `updated` | ✅ | ISO date last updated | `2026-08-08` |
-| `tags` | ❌ | Optional tags for categorization | `[secret, divine, campaign]` |
-| `secrets` | ❌ | Subscriber groups who should see hidden content | `[gm-only, tier-2]` |
-| `related` | ❌ | List of related entity IDs | `[the_great_sacrifice, the_arcane_weave]` |
+| `id` | [ok] | Snake-case unique ID | `city_of_embermoor` |
+| `type` | [ok] | Entity type (see `ENTITY_TYPES.md`) | `location` |
+| `name` | [ok] | Display name | `City of Embermoor` |
+| `status` | [ok] | `draft`, `active`, `review` | `active` |
+| `created` | [ok] | ISO date created | `2026-08-01` |
+| `updated` | [ok] | ISO date last updated | `2026-08-08` |
+| `tags` | [x] | Optional tags for categorization | `[secret, divine, campaign]` |
+| `secrets` | [x] | Subscriber groups who should see hidden content | `[gm-only, tier-2]` |
+| `related` | [x] | List of related entity IDs | `[the_great_sacrifice, the_arcane_weave]` |
 
 ---
 
 ## Body Sections
 
 ### Standard Sections (all entity types)
-- `## Overview` — Brief description (2-3 sentences max)
-- `## Description` — Detailed description (keep under 250 words)
-- `## Notes` — Campaign notes, lore context
+- `## Overview`  -  Brief description (2-3 sentences max)
+- `## Description`  -  Detailed description (keep under 250 words)
+- `## Notes`  -  Campaign notes, lore context
 
 ### Type-Specific Sections
 See `ENTITY_TYPES.md` for per-type required sections (e.g., `## Structure` for organizations, `## Appearance` for characters).
 
 ---
 
-## 📏 Size Constraints (MANDATORY)
+## [emoji] Size Constraints (MANDATORY)
 
 > **Every KB of entity file = money spent on every turn that loads it.**
 > Keep files small enough that multiple can be loaded without exploding the context.
@@ -56,9 +56,9 @@ See `ENTITY_TYPES.md` for per-type required sections (e.g., `## Structure` for o
 
 ### When to Split a File
 If a file exceeds 12KB, split it. Common patterns:
-- `society_economy_and_culture.md` → `society.md` + `economy.md` + `culture.md`
-- `monsters_and_ecology.md` → `monsters.md` + `monster_ecology.md`
-- Character with long backstory → main file + `character_name_backstory.md`
+- `society_economy_and_culture.md` -> `society.md` + `economy.md` + `culture.md`
+- `monsters_and_ecology.md` -> `monsters.md` + `monster_ecology.md`
+- Character with long backstory -> main file + `character_name_backstory.md`
 
 ---
 
@@ -66,37 +66,37 @@ If a file exceeds 12KB, split it. Common patterns:
 
 - **Be concise.** Use bullet points, tables, and lists over prose paragraphs.
 - **Prefer tables** for structured data (relationships, hierarchies, timelines).
-- **Avoid redundant wording.** "The god of light" → "God of Light".
-- **Use YAML frontmatter** for metadata — don't repeat it in the body.
+- **Avoid redundant wording.** "The god of light" -> "God of Light".
+- **Use YAML frontmatter** for metadata  -  don't repeat it in the body.
 - **Link entities** in `related` frontmatter field instead of inline prose links.
 
 ---
 
 ---
 
-## 🧐 Audit Checklist (Mandatory Per-Entity Review)
+##  Audit Checklist (Mandatory Per-Entity Review)
 
 Every entity file must pass the following checks before creation or modification:
 
-### 📌 Canon Check
+### [emoji] Canon Check
 - [ ] Does this entity respect the timeline? (events before ~200 YA, ~200 YA founding, ~20 YA to present)
 - [ ] Does geographic placement match the known map? (three capitals east, frontier west, north monster-held)
 - [ ] Does this respect the divine conspiracy? (gods hide the truth, Originals are secret, invasion was orchestrated)
 - [ ] Does this respect the core themes? (survival through unity, divine deception, hoarding instinct, three-way standoff)
 
-### 🔗 Connection Check
-- [ ] Does the `related` field link to at least 2–3 existing entities?
+### [emoji] Connection Check
+- [ ] Does the `related` field link to at least 2-3 existing entities?
 - [ ] Does this answer or create any open question tracked in `_session_continuity.md`?
 - [ ] Does this create a new open question that should be tracked?
 
-### ✍️ Style Check
+### [edit] Style Check
 - [ ] File under 12KB? (mandatory)
 - [ ] Overview under 100 words? (mandatory)
 - [ ] Uses concise bullet points over prose paragraphs?
 - [ ] Frontmatter complete (id, type, name, status, created, updated)?
 - [ ] Secrets properly gated with `subscribergroup` in BBCode articles?
 
-### 🚫 Prohibited Content
+### [emoji] Prohibited Content
 - **No autonomous lore generation.** Every piece of new lore must originate from user input.
 - **No unapproved narrative commitments.** Never write lore that commits the user to a specific plot direction without presenting alternatives first.
 - **No silent fixes.** If you spot a potential inconsistency, flag it to the user before correcting it.
@@ -111,7 +111,7 @@ Add `secrets` to frontmatter with the list of allowed subscriber groups:
 secrets: [gm-only, tier-2]
 ```
 
-Use `## 🔒 Section Name` for secret body sections so they're easily identifiable during article generation.
+Use `## [emoji] Section Name` for secret body sections so they're easily identifiable during article generation.
 
 ### In Articles (BBCode)
 When generating articles, wrap secret sections in BBCode subscriber-group tags.
@@ -123,7 +123,7 @@ When generating articles, wrap secret sections in BBCode subscriber-group tags.
 Relationships between entities are tracked in `cache/_master_relationships_map.md`. Each relationship entry should:
 
 - Be concise (1 line per relationship)
-- Use `entity_a → entity_b (relationship_type)` format
+- Use `entity_a -> entity_b (relationship_type)` format
 - Relationship types: `allies`, `enemies`, `parent`, `child`, `location`, `member_of`, `owns`, `created_by`, `contains`, `knows_about`, `connected_to`
 - Add inverse relationships automatically
 

@@ -1,4 +1,4 @@
-# Session Continuity — Lore Development
+﻿# Session Continuity  -  Lore Development
 
 > Stores cross-session context needed to resume work after compaction.
 > Created: 2026-08-08 | Updated: 2026-08-10
@@ -21,7 +21,7 @@
 
 ---
 
-## Major Restructuring (2026-08-09) — Cost Optimization
+## Major Restructuring (2026-08-09)  -  Cost Optimization
 
 Files split/trimmed to reduce context bloat, following 12KB max file size mandate:
 
@@ -39,7 +39,7 @@ Files split/trimmed to reduce context bloat, following 12KB max file size mandat
 - Added 12KB max file size mandate to CACHE_FORMAT.md
 - `_master_relationships_map.md` now Tier 3 (load only for audits)
 
-## Session 2 — Corrections (2026-08-09)
+## Session 2  -  Corrections (2026-08-09)
 
 1. Created `the_first_alliance.md`. Updated index + relationships.
 2. Crimson Covenant moved from `lore/` to `organizations/`.
@@ -51,14 +51,14 @@ Files split/trimmed to reduce context bloat, following 12KB max file size mandat
 8. Added missing relationships: the_originals <-> primal_nature_magic, the_great_sacrifice <-> the_world_and_geography.
 
 ### Gaps Identified
-- The Originals' true names (A, B, C) — lost/erased. Campaign payoff.
-- Resurrection Ritual requirements — deliberately undefined.
-- Crystal cave entrances — which capital(s)?
-- Exact First Alliance timeline — relative to capital founding (~200ya).
+- The Originals' true names (A, B, C)  -  lost/erased. Campaign payoff.
+- Resurrection Ritual requirements  -  deliberately undefined.
+- Crystal cave entrances  -  which capital(s)?
+- Exact First Alliance timeline  -  relative to capital founding (~200ya).
 
 ---
 
-## Session 3 — Balor Open Questions Resolved (2026-08-09)
+## Session 3  -  Balor Open Questions Resolved (2026-08-09)
 
 **Resolved:** Balor's mother (Seraphina Vex), blackout cause, pouch contents, eye formation, blade's journey, Skallfang homeland (Frostmaw), Hrothgar's safe room, the fiend (Nalfeshnee).
 
@@ -66,11 +66,11 @@ Files split/trimmed to reduce context bloat, following 12KB max file size mandat
 
 **Files updated:** `balor_skallfang.md`, `kharzuls_blade.md`, `the_skallfang_clan.md`, `kythorian_timeline.md`, `_index.md`
 
-**Remaining Balor open questions (3):** Did Balor ask about blackout? (yes, no one saw — character exploration). Seraphina's intelligence cache in NE ruins. Medallion's hidden compartment coordinates.
+**Remaining Balor open questions (3):** Did Balor ask about blackout? (yes, no one saw  -  character exploration). Seraphina's intelligence cache in NE ruins. Medallion's hidden compartment coordinates.
 
 ---
 
-## Instance Handoff — Current State (2026-08-09 19:59)
+## Instance Handoff  -  Current State (2026-08-09 19:59)
 
 > Last change: Renamed Veridius -> Aurelius across entire cache.
 
@@ -84,8 +84,8 @@ Files split/trimmed to reduce context bloat, following 12KB max file size mandat
 
 **Key Sessions Completed**
 - Balor PC backstory fully resolved (mother, blade, clan, blackout)
-- Kaelyn PC backstory fully drafted (28KB — pending split)
-- Aurora PC backstory fully drafted (15KB — pending split)
+- Kaelyn PC backstory fully drafted (28KB  -  pending split)
+- Aurora PC backstory fully drafted (15KB  -  pending split)
 - Aegon PC backstory fully drafted (12KB)
 - Seraphina Vex NPC fully drafted (12KB)
 
@@ -95,51 +95,51 @@ Files split/trimmed to reduce context bloat, following 12KB max file size mandat
 
 ### Balor Skallfang (3 open)
 - [?] Seraphina's intelligence cache in northeastern ruins
-- [?] The Medallion's hidden compartment — coordinates in Old Abyssal
-- [?] The Avatar state — can Balor trigger it intentionally?
+- [?] The Medallion's hidden compartment  -  coordinates in Old Abyssal
+- [?] The Avatar state  -  can Balor trigger it intentionally?
 
 ### Gods & Pantheon (3 open)
 - [?] The Originals' true names (A, B, C)
-- [?] Festival articles — create cache pages for 8 festivals
+- [?] Festival articles  -  create cache pages for 8 festivals
 - [?] Vesper/Raven Queen boundary (deferred)
 
 ### Monsters & Ecology (10 open)
-- [?] The Four Unnamed Generals — 3 defeated + 2 retreated
+- [?] The Four Unnamed Generals  -  3 defeated + 2 retreated
 - [?] Remaining Loyalist Command
-- [?] Crystal-Corrupted Apex — corrupted dragon?
-- [?] Resurrection Ritual — exact method
-- [?] Mortal Discoverers — which arcanists know?
-- [?] The Blackmail Threshold — CC vs gods leverage
+- [?] Crystal-Corrupted Apex  -  corrupted dragon?
+- [?] Resurrection Ritual  -  exact method
+- [?] Mortal Discoverers  -  which arcanists know?
+- [?] The Blackmail Threshold  -  CC vs gods leverage
 - [?] Monster Army's Breaking Point
-- [?] Detailed Monster Ecology — tainted zones
-- [?] Monster Economy Details — guilds, merchants
-- [?] Monster Categories by Plane — open for flexibility
+- [?] Detailed Monster Ecology  -  tainted zones
+- [?] Monster Economy Details  -  guilds, merchants
+- [?] Monster Categories by Plane  -  open for flexibility
 
 ### Society, Geography & Place Names (13 open)
-- [?] Adventurers' Guild name — Drakh Ix'thar. Members: Ix'thari
-- [?] The Great Circuit — Crassian's Dust Circle
+- [?] Adventurers' Guild name  -  Drakh Ix'thar. Members: Ix'thari
+- [?] The Great Circuit  -  Crassian's Dust Circle
 - [?] NE settlement cluster names, SE port name, E port name
-- [?] Crystal cave entrances — which capital(s)?
+- [?] Crystal cave entrances  -  which capital(s)?
 - [?] Crystal cave deeper exploration
-- [?] Pre-invasion culture — Era of Foundation
-- [?] Notable NPCs — city leaders, guildmasters
-- [?] The black market — underworld faction potential
+- [?] Pre-invasion culture  -  Era of Foundation
+- [?] Notable NPCs  -  city leaders, guildmasters
+- [?] The black market  -  underworld faction potential
 - [?] Specific guild detail write-ups
 - [?] Exact First Alliance timeline
 - [?] Skallfang homeland (in cache)
 
 ### Crimson Covenant & Blade (2 open)
-- [?] Larger evil council — is CC part of something bigger?
+- [?] Larger evil council  -  is CC part of something bigger?
 - [?] Rite of Ash exact requirements
 
 ### Kaelyn (7 open)
 - [?] Solyn's current status
 - [?] Lyndale's current status
-- [?] Crystal heart growth — triggers, acceleration, control
+- [?] Crystal heart growth  -  triggers, acceleration, control
 - [?] Connection to other B-touched
 - [?] Black Willow's crystal cave secrets
 - [?] Seraphine's hidden records
-- [?] Azure Boneyard — can it be found again?
+- [?] Azure Boneyard  -  can it be found again?
 
 ### Aurora (4 open)
 - [?] Polaris exact fate (captured/experimented/Drow/Shadow Elf/monster pack leader)
@@ -152,10 +152,10 @@ Files split/trimmed to reduce context bloat, following 12KB max file size mandat
 - [?] What exactly did Paul know?
 - [?] Who attacked Paul's chapel? (GM note: Order framed CC)
 - [?] Jealous/fanatic members in the Order
-- [?] B's influence on Aegon — will visions reveal truth?
+- [?] B's influence on Aegon  -  will visions reveal truth?
 
 ### Seraphina Vex (4 open)
-- [?] Intelligence caches — what's in each?
+- [?] Intelligence caches  -  what's in each?
 - [?] Second journal location
 - [?] Medallion's second purpose
 - [?] Other Vex bloodline descendants alive?
@@ -175,7 +175,7 @@ Files split/trimmed to reduce context bloat, following 12KB max file size mandat
 
 ---
 
-## Next Session — Potential Next Steps
+## Next Session  -  Potential Next Steps
 
 1. Name the NE settlement cluster settlements
 2. Name the SE port and E port
@@ -185,6 +185,6 @@ Files split/trimmed to reduce context bloat, following 12KB max file size mandat
 6. Map the Four Barbarian Tribes
 
 ### Key Files to Read First
-- `cache/_session_continuity.md` — This file (current handoff)
-- `_index.md` — Entity registry
+- `cache/_session_continuity.md`  -  This file (current handoff)
+- `_index.md`  -  Entity registry
 - Current PC backstory files in `cache/entities/characters/PC/`

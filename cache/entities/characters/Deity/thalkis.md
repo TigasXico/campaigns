@@ -1,4 +1,4 @@
----
+﻿---
 id: thalkis
 type: character
 name: "Thalkis"
@@ -12,10 +12,10 @@ related:
   - the_arcane_weave: Has unique insight into the weave
 created: 2026-08-08
 updated: 2026-08-09
-
+---
 ## Overview
 
-Creation through craft and magic — patron of artisans, smiths, inventors, and mages.
+Creation through craft and magic  -  patron of artisans, smiths, inventors, and mages.
 
 ## Domains
 - Forge: Craftsmanship, artifice, fire, creation

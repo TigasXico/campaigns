@@ -1,4 +1,4 @@
----
+﻿---
 id: the_frontier
 type: location
 name: "The Western Frontier"
@@ -23,7 +23,7 @@ The Western Frontier is the contested zone marking the boundary between reclaime
 
 ## Geography
 
-The terrain of the frontier transitions from the temperate farmlands of the heartlands into rugged highlands, deep forests, and eventually the unknown reaches of the far west — lands that have been under monster control for four centuries.
+The terrain of the frontier transitions from the temperate farmlands of the heartlands into rugged highlands, deep forests, and eventually the unknown reaches of the far west  -  lands that have been under monster control for four centuries.
 
 ## Settlements
 
@@ -33,7 +33,7 @@ The terrain of the frontier transitions from the temperate farmlands of the hear
 
 ## Economy & Life
 
-The frontier is dangerous but also where fortunes are made, land is claimed, and glory is found. Adventurers are essential to frontier survival — clearing monster nests, mapping unknown territory, and recovering resources. The military contracts mercenary companies for specific operations, injecting significant coin into frontier economies.
+The frontier is dangerous but also where fortunes are made, land is claimed, and glory is found. Adventurers are essential to frontier survival  -  clearing monster nests, mapping unknown territory, and recovering resources. The military contracts mercenary companies for specific operations, injecting significant coin into frontier economies.
 
 ## The Frontier Road
 

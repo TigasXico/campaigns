@@ -1,4 +1,4 @@
----
+﻿---
 id: crassian
 type: character
 name: "Crassian"
@@ -11,7 +11,7 @@ related:
   - the_originals: Originated from A and C's subdivision
 created: 2026-08-08
 updated: 2026-08-09
-
+---
 ## Overview
 
 Presides over trade, commerce, prosperity, luck, and fate. Patron of merchants, gamblers, and adventurers.
@@ -21,7 +21,7 @@ Presides over trade, commerce, prosperity, luck, and fate. Patron of merchants, 
 - Fortune: Luck, fate, chance, destiny, opportunity
 
 ## Personality
-Pragmatic, opportunistic, neutral. Favors ambition — those who take risks and seize opportunities.
+Pragmatic, opportunistic, neutral. Favors ambition  -  those who take risks and seize opportunities.
 
 ## Worship
 Temples double as banks and marketplaces. Clergy are traders, moneylenders, and advisors.

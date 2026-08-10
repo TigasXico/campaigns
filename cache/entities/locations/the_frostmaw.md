@@ -1,4 +1,4 @@
----
+﻿---
 id: the_frostmaw
 type: location
 name: "The Frostmaw"
@@ -11,11 +11,11 @@ related:
   - kharzuls_blade: The blade was hidden in the Frostmaw for generations
   - the_frontier: The Frostmaw lies beyond the Western Frontier, in the frozen north
   - kythoria: The northernmost region of the continent
-  - kharzuls_blade: Khar'zul's sealed vault was hidden in the Whispering Glacier
+  - kharzuls_blade: The blade was hidden in the Frostmaw for two centuries; Khar'zul's sealed vault was hidden in the Whispering Glacier
 secrets:
-  - text: "The Whispering Glacier is not a natural formation. It is the frozen remnant of a sealing ritual, amplified by the extreme cold. The glacier 'whispers' because Khar'zul's essence, even sealed within the blade, resonated with the ice for centuries. Old Skallfang elders claim the glacier speaks in prophecy — but only to those who know how to listen."
+  - text: "The Whispering Glacier is not a natural formation. It is the frozen remnant of a sealing ritual, amplified by the extreme cold. The glacier 'whispers' because Khar'zul's essence, even sealed within the blade, resonated with the ice for centuries. Old Skallfang elders claim the glacier speaks in prophecy  -  but only to those who know how to listen."
     access: gm-only
-  - text: "The Bonefields are not just monster graveyards. The Skallfang Clan has been burying their dead alongside the monsters they slay for generations. Beneath the frozen earth lies a vast network of burial chambers containing Skallfang ancestors and the weapons they carried — some of which predate the invasion."
+  - text: "The Bonefields are not just monster graveyards. The Skallfang Clan has been burying their dead alongside the monsters they slay for generations. Beneath the frozen earth lies a vast network of burial chambers containing Skallfang ancestors and the weapons they carried  -  some of which predate the invasion."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09
@@ -23,9 +23,9 @@ updated: 2026-08-09
 
 ## Overview
 
-The **Frostmaw** (Frost + Maw — the frozen jaws of the north) is the northernmost inhabited region of Kythoria, a brutal arctic expanse of jagged ice-capped mountains, frozen fjords, and howling tundra. It is the ancestral homeland of the **Skallfang Clan** — monster hunters who have endured this harsh wilderness for generations.
+The **Frostmaw** (Frost + Maw  -  the frozen jaws of the north) is the northernmost inhabited region of Kythoria, a brutal arctic expanse of jagged ice-capped mountains, frozen fjords, and howling tundra. It is the ancestral homeland of the **Skallfang Clan**  -  monster hunters who have endured this harsh wilderness for generations.
 
-The Frostmaw is not a territory of the Last Stand. It is not reclaimed land. It was never conquered by the monster army, because the Frostmaw was never worth taking — and the Skallfang Clan never stopped defending it.
+The Frostmaw is not a territory of the Last Stand. It is not reclaimed land. It was never conquered by the monster army, because the Frostmaw was never worth taking  -  and the Skallfang Clan never stopped defending it.
 
 ---
 
@@ -41,7 +41,7 @@ A mountain range that forms the Frostmaw's eastern boundary, rising like the tee
 The northern ocean, perpetually choked with ice floes. Few ships venture here. The Skallfang Clan maintains small fishing villages along the coast, but the sea is as deadly as the land.
 
 ### The Whispering Glacier
-An ancient glacier in the heart of the Frostmaw, notable for the faint, constant sound that emanates from its depths — a low hum that the Skallfang elders call "the Whisper." This glacier was the original hiding place of Khar'zul's sealed blade for the first century of the clan's guardianship. The blade was kept in a vault carved into the glacier's heart, where the cold suppressed its influence.
+An ancient glacier in the heart of the Frostmaw, notable for the faint, constant sound that emanates from its depths  -  a low hum that the Skallfang elders call "the Whisper." This glacier was the original hiding place of Khar'zul's sealed blade for the first century of the clan's guardianship. The blade was kept in a vault carved into the glacier's heart, where the cold suppressed its influence.
 
 When the blade began to transform (steel becoming flesh, the eye opening), the clan moved it to Fanghold for closer monitoring. But the Whispering Glacier still remembers what it held.
 
@@ -49,19 +49,19 @@ When the blade began to transform (steel becoming flesh, the eye opening), the c
 A vast stretch of frozen tundra between Fanghold and the Icefang Sea, littered with the skeletal remains of monsters slain by generations of Skallfang hunters. The ground is so saturated with monster blood and bone that nothing grows there. In deep winter, when the wind blows across the Bonefields, it sounds like the howling of dead beasts.
 
 ### The Frostwood
-A stunted, frozen forest of twisted pines and hardy shrubs that grows in the river valleys where the Frostmaw River provides some warmth. The Frostwood is the only source of timber in the region, and the clan protects it fiercely. It is also home to resilient wildlife — snow hares, frost elk, white wolves — that the clan hunts for food and furs.
+A stunted, frozen forest of twisted pines and hardy shrubs that grows in the river valleys where the Frostmaw River provides some warmth. The Frostwood is the only source of timber in the region, and the clan protects it fiercely. It is also home to resilient wildlife  -  snow hares, frost elk, white wolves  -  that the clan hunts for food and furs.
 
 ---
 
 ## Settlements
 
 ### Fanghold (Main Settlement)
-The primary settlement of the Skallfang Clan — a fortress carved into a mountain face overlooking the Icefang Sea. Fanghold is not a city by southern standards; it is a single massive structure of stone, timber, and ice, built into the mountain over generations. It houses the entire clan (approximately 400 souls) within interconnected halls, tunnels, and chambers.
+The primary settlement of the Skallfang Clan  -  a fortress carved into a mountain face overlooking the Icefang Sea. Fanghold is not a city by southern standards; it is a single massive structure of stone, timber, and ice, built into the mountain over generations. It houses the entire clan (approximately 400 souls) within interconnected halls, tunnels, and chambers.
 
 Key features:
 - **The Great Hall**: A massive central chamber where the clan gathers for feasts, councils, and trials. The walls are lined with monster trophies and ancestral weapons.
 - **The Vault**: A sealed chamber deep within the mountain where Khar'zul's blade was kept for the second century of the clan's watch. Now empty, but still warded.
-- **The Ice Gate**: The only entrance to Fanghold — a massive gate of layered ice and iron that can seal the fortress completely.
+- **The Ice Gate**: The only entrance to Fanghold  -  a massive gate of layered ice and iron that can seal the fortress completely.
 - **Hrothgar's Lodge**: A separate structure built into the mountain face overlooking the Bonefields. Smaller than the main fortress, used by the clan's designated Keeper of the Oath. Destroyed in the fiend attack.
 
 ### Three Coastal Villages
@@ -75,8 +75,8 @@ A hunting outpost in the Frostwood, used by hunters on extended expeditions. A s
 ## Climate
 
 The Frostmaw experiences extreme arctic conditions:
-- **Winter**: 4 months of near-total darkness, temperatures dropping to -40°C. Blizzards are common. Travel between settlements is impossible for weeks at a time.
-- **Summer**: 4 months of perpetual daylight, temperatures rarely above 5°C. The Frozen River thaws, the tundra briefly blooms with hardy mosses, and monster activity peaks.
+- **Winter**: 4 months of near-total darkness, temperatures dropping to -40 degC. Blizzards are common. Travel between settlements is impossible for weeks at a time.
+- **Summer**: 4 months of perpetual daylight, temperatures rarely above 5 degC. The Frozen River thaws, the tundra briefly blooms with hardy mosses, and monster activity peaks.
 - **Shoulder seasons**: 2 months each of rapid transition, marked by violent storms and unstable ice.
 
 ---
@@ -91,12 +91,12 @@ The Frostmaw is home to some of the most dangerous monsters on Kythoria. The ext
 - Remorhaz (deep beneath the ice, rarely surface)
 - Ice trolls (hardier than standard trolls)
 
-The monster army never established a strong foothold here. The Frostmaw was simply too cold, too resource-poor, and too well-defended by the Skallfang Clan to be worth conquering. The invasion passed the Frostmaw by — not because it was spared, but because it was already dangerous enough without monsters.
+The monster army never established a strong foothold here. The Frostmaw was simply too cold, too resource-poor, and too well-defended by the Skallfang Clan to be worth conquering. The invasion passed the Frostmaw by  -  not because it was spared, but because it was already dangerous enough without monsters.
 
 ---
 
 ## Open Questions
 
-1. ⏳ **The Whispering Glacier's prophecy**: The Skallfang elders claim the glacier speaks to those who listen. Is this natural, magical, or something more?
-2. ⏳ **The Bonefields burial chambers**: What weapons and artifacts lie beneath the frozen earth with the Skallfang ancestors?
-3. ⏳ **Why was the Frostmaw never conquered?** — The monster army had the numbers. Was there another reason the north was left to the Skallfang?
+1. [hourglass] **The Whispering Glacier's prophecy**: The Skallfang elders claim the glacier speaks to those who listen. Is this natural, magical, or something more?
+2. [hourglass] **The Bonefields burial chambers**: What weapons and artifacts lie beneath the frozen earth with the Skallfang ancestors?
+3. [hourglass] **Why was the Frostmaw never conquered?**  -  The monster army had the numbers. Was there another reason the north was left to the Skallfang?

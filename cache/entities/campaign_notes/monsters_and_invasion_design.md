@@ -1,4 +1,4 @@
----
+﻿---
 id: monsters_and_invasion_design
 type: campaign_note
 name: "Monsters & Invasion Design Decisions"
@@ -15,7 +15,7 @@ related:
   - cosmology_and_the_planes: Planar pact and breaches
   - the_arcane_reactive_crystals: Condensed essence of B drives hoarding
 secrets:
-  - text: "Gods set invasion in motion and stepped away — didn't know about B's hoarding influence until it fractured the monster army. Now doing damage control: hunting hoards and Covenant operatives while maintaining fiction that invasion was natural."
+  - text: "Gods set invasion in motion and stepped away  -  didn't know about B's hoarding influence until it fractured the monster army. Now doing damage control: hunting hoards and Covenant operatives while maintaining fiction that invasion was natural."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09
@@ -29,7 +29,7 @@ GM-facing document capturing invasion conspiracy mechanics, B's lingering will, 
 
 ## Design Rationale
 
-Invasion is not random — it's divine conspiracy. Gods couldn't destroy mortals directly after B empowered them with magic. Invasion provides: existential threat (unifies mortals), reason to pray, population bleed.
+Invasion is not random  -  it's divine conspiracy. Gods couldn't destroy mortals directly after B empowered them with magic. Invasion provides: existential threat (unifies mortals), reason to pray, population bleed.
 
 ## Key Decisions
 
@@ -44,8 +44,8 @@ Invasion is not random — it's divine conspiracy. Gods couldn't destroy mortals
 - B's remnants (Weave, metals, crystals) retain subconscious desire to become whole
 - Monsters fell under influence after discovering crystals
 - Self-feeding cycle: larger hoards = stronger pull
-- This stalled the invasion — clusters abandoned genocide to hoard
-- **Gods' Knowledge**: Didn't know at invasion → Have since discovered → Now hunting hoards and Covenant
+- This stalled the invasion  -  clusters abandoned genocide to hoard
+- **Gods' Knowledge**: Didn't know at invasion -> Have since discovered -> Now hunting hoards and Covenant
 - Dragon hoarding canonically caused by B's influence
 
 ### Monster Hierarchy
@@ -55,7 +55,7 @@ Strength-based. Five Major Generals emerged ~200 years ago. Khar'zul (balor from
 Gods want to prevent B's resurrection / Covenant wants to perform it / Monster army wants to destroy mortals. No faction has full control.
 
 ### Planes Clarification
-Feywild/Shadowfell are Anchor Planes stabilizing Material Plane structurally. But entities within act independently — planes stabilize regardless of inhabitants' actions. No contradiction.
+Feywild/Shadowfell are Anchor Planes stabilizing Material Plane structurally. But entities within act independently  -  planes stabilize regardless of inhabitants' actions. No contradiction.
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 id: vorn
 type: character
 name: "Vorn"
@@ -13,10 +13,10 @@ related:
 created: 2026-08-09
 updated: 2026-08-09
 ---
-
+---
 ## Overview
 
-The relentless face of war and conquest — battle, strategy, ambition, the glory of victory.
+The relentless face of war and conquest  -  battle, strategy, ambition, the glory of victory.
 
 ## Domains
 - War: Battle, strategy, courage, the clash of armies

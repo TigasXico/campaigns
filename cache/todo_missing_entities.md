@@ -1,7 +1,7 @@
----
+﻿---
 id: todo_missing_entity_files
 type: lore
-name: "Missing Entity Files — Creation Tracker"
+name: "Missing Entity Files  -  Creation Tracker"
 status: draft
 tags:
   - todo, tracking, entity_creation
@@ -17,69 +17,69 @@ created: 2026-08-09
 updated: 2026-08-09
 ---
 
-# Missing Entity Files — Creation Tracker
+# Missing Entity Files  -  Creation Tracker
 
-All files below have been created in this session. The locations folder went from 0→10 files, events from 1→4, organizations from 0→16 (including the 2 created earlier). Items are the only category that was not expanded.
+All files below have been created in this session. The locations folder went from 0->10 files, events from 1->4, organizations from 0->16 (including the 2 created earlier). Items are the only category that was not expanded.
 
-## Wave 1 — Locations: Capitals & World (5)
-| ✅ | File | Type |
+## Wave 1  -  Locations: Capitals & World (5)
+| [ok] | File | Type |
 |---|------|------|
-| ✅ | `locations/skywatch.md` | Location |
-| ✅ | `locations/emberforge.md` | Location |
-| ✅ | `locations/weaveheart.md` | Location |
-| ✅ | `locations/aetris.md` | Location |
-| ✅ | `locations/kythoria.md` | Location |
+| [ok] | `locations/skywatch.md` | Location |
+| [ok] | `locations/emberforge.md` | Location |
+| [ok] | `locations/weaveheart.md` | Location |
+| [ok] | `locations/aetris.md` | Location |
+| [ok] | `locations/kythoria.md` | Location |
 
-## Wave 2 — Locations: Other (5)
-| ✅ | File | Type |
+## Wave 2  -  Locations: Other (5)
+| [ok] | File | Type |
 |---|------|------|
-| ✅ | `locations/the_northeast_settlement_cluster.md` | Location |
-| ✅ | `locations/the_southeastern_port.md` | Location |
-| ✅ | `locations/the_eastern_port.md` | Location |
-| ✅ | `locations/the_frontier.md` | Location |
-| ✅ | `locations/the_arcane_reactive_crystal_cave.md` | Location |
+| [ok] | `locations/the_northeast_settlement_cluster.md` | Location |
+| [ok] | `locations/the_southeastern_port.md` | Location |
+| [ok] | `locations/the_eastern_port.md` | Location |
+| [ok] | `locations/the_frontier.md` | Location |
+| [ok] | `locations/the_arcane_reactive_crystal_cave.md` | Location |
 
-## Wave 3 — Events (3)
-| ✅ | File | Type |
+## Wave 3  -  Events (3)
+| [ok] | File | Type |
 |---|------|------|
-| ✅ | `events/the_abominable_end.md` | Event |
-| ✅ | `events/founding_of_the_last_stand.md` | Event |
-| ✅ | `events/the_sealing_of_kharzul.md` | Event |
+| [ok] | `events/the_abominable_end.md` | Event |
+| [ok] | `events/founding_of_the_last_stand.md` | Event |
+| [ok] | `events/the_sealing_of_kharzul.md` | Event |
 
-## Wave 4 — Organizations: Churches (8)
-| ✅ | File | Type |
+## Wave 4  -  Organizations: Churches (8)
+| [ok] | File | Type |
 |---|------|------|
-| ✅ | `organizations/the_order_of_the_dawn.md` | Organization |
-| ✅ | `organizations/the_guild_of_the_spark.md` | Organization |
-| ✅ | `organizations/the_circle_of_the_wild.md` | Organization |
-| ✅ | `organizations/the_order_of_the_scales.md` | Organization |
-| ✅ | `organizations/the_order_of_the_currency.md` | Organization |
-| ✅ | `organizations/the_vigil_of_the_dusk.md` | Organization |
-| ✅ | `organizations/the_coven_of_the_spider.md` | Organization |
-| ✅ | `organizations/the_order_of_the_raven.md` | Organization |
+| [ok] | `organizations/the_order_of_the_dawn.md` | Organization |
+| [ok] | `organizations/the_guild_of_the_spark.md` | Organization |
+| [ok] | `organizations/the_circle_of_the_wild.md` | Organization |
+| [ok] | `organizations/the_order_of_the_scales.md` | Organization |
+| [ok] | `organizations/the_order_of_the_currency.md` | Organization |
+| [ok] | `organizations/the_vigil_of_the_dusk.md` | Organization |
+| [ok] | `organizations/the_coven_of_the_spider.md` | Organization |
+| [ok] | `organizations/the_order_of_the_raven.md` | Organization |
 
-## Wave 5 — Organizations: Society & Factions (6)
-| ✅ | File | Type |
+## Wave 5  -  Organizations: Society & Factions (6)
+| [ok] | File | Type |
 |---|------|------|
-| ✅ | `organizations/the_adventurers_guild.md` | Organization |
-| ✅ | `organizations/the_council_accord.md` | Organization |
-| ✅ | `organizations/the_ecumenical_council.md` | Organization |
-| ✅ | `organizations/the_thormvuld_family.md` | Organization |
-| ✅ | `organizations/the_skallfang_clan.md` | Organization |
-| ✅ | `organizations/the_four_barbarian_tribes.md` | Organization |
+| [ok] | `organizations/the_adventurers_guild.md` | Organization |
+| [ok] | `organizations/the_council_accord.md` | Organization |
+| [ok] | `organizations/the_ecumenical_council.md` | Organization |
+| [ok] | `organizations/the_thormvuld_family.md` | Organization |
+| [ok] | `organizations/the_skallfang_clan.md` | Organization |
+| [ok] | `organizations/the_four_barbarian_tribes.md` | Organization |
 
-## Archive — Deferred for Future Sessions
-| ⏳ | Item | Reason |
+## Archive  -  Deferred for Future Sessions
+| [hourglass] | Item | Reason |
 |---|------|--------|
-| ⏳ | Skallfang Homeland (location) | Needs geographical naming |
-| ⏳ | The Four Barbarian Tribes (detail) | Tied to PC backstories, needs expansion |
-| ⏳ | The AdHoc Council of Evil Orgs | Tied to PC backstories, needs definition |
-| ⏳ | The Leather Pouch Contents (item) | Open question in Balor's file |
-| ⏳ | Arcane-Reactive Crystals (item) | Better as resource/lore item later |
+| [hourglass] | Skallfang Homeland (location) | Needs geographical naming |
+| [hourglass] | The Four Barbarian Tribes (detail) | Tied to PC backstories, needs expansion |
+| [hourglass] | The AdHoc Council of Evil Orgs | Tied to PC backstories, needs definition |
+| [hourglass] | The Leather Pouch Contents (item) | Open question in Balor's file |
+| [hourglass] | Arcane-Reactive Crystals (item) | Better as resource/lore item later |
 
 ---
 
-## 🗓️ Timeline Management Reminder
+## [emoji] Timeline Management Reminder
 
 The master timeline file has been created at:
 **`cache/entities/events/kythorian_timeline.md`**

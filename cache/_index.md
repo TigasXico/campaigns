@@ -1,4 +1,4 @@
-# WorldAnvil Lore Cache — Entity Index
+﻿# WorldAnvil Lore Cache  -  Entity Index
 
 | ID | Type | Name | Status | Updated |
 |----|------|------|--------|---------|

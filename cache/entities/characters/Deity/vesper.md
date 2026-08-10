@@ -1,4 +1,4 @@
----
+﻿---
 id: vesper
 type: character
 name: "Vesper"
@@ -11,10 +11,10 @@ related:
   - the_originals: Originated from A and C's subdivision
   created: 2026-08-08
 updated: 2026-08-09
-
+---
 ## Overview
 
-Presides over serenity, boundaries, and transitions — the calm at day's end, thresholds, quiet spaces.
+Presides over serenity, boundaries, and transitions  -  the calm at day's end, thresholds, quiet spaces.
 
 ## Domains
 - Peace: Harmony, diplomacy, calm resolution

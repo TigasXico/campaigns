@@ -1,4 +1,4 @@
----
+﻿---
 id: culture_and_society
 type: lore
 name: "Culture & Society of the Mortal Races"
@@ -27,11 +27,11 @@ updated: 2026-08-09
 Two centuries of shared struggle forged a unified identity: **survival, unity, defiance**. Racial differences persist in traditions and cuisine, but the overarching culture is shared.
 
 ### Core Values
-- **Unity** — "Together we stand." Racism unacceptable; individual biases still exist.
-- **Resilience** — Hardship met with determination. Stoicism admired, complaint = weakness.
-- **Contribution** — Every citizen must do their part. Laziness heavily stigmatized.
-- **Curiosity** — Desire to recover lost knowledge and innovate drives progress.
-- **Faith** — Religion central to daily life (true nature of gods unknown).
+- **Unity**  -  "Together we stand." Racism unacceptable; individual biases still exist.
+- **Resilience**  -  Hardship met with determination. Stoicism admired, complaint = weakness.
+- **Contribution**  -  Every citizen must do their part. Laziness heavily stigmatized.
+- **Curiosity**  -  Desire to recover lost knowledge and innovate drives progress.
+- **Faith**  -  Religion central to daily life (true nature of gods unknown).
 
 ### Death & The Frontier
 Proximity to death shapes: celebration of life (grand festivals, plentiful food), **memory shrines** (candles lit for fallen), frontier treated as fear+opportunity, adventurers as heroic class.
@@ -53,7 +53,7 @@ Ten gods dominate religious life. Churches cooperate through the **Ecumenical Co
 | Vorn | Iron Host | Warriors, generals | Soldiers, mercenaries |
 | Tyra | Pack of Tyra | Hunters, survivalists | Frontiersfolk, dragonborn |
 
-**Manufactured Conflict**: Gods maintain fake rivalries to deepen faith. Mapping of allied/opposed gods TBD. Only the gods know it's theater — even most priests believe rivalries real.
+**Manufactured Conflict**: Gods maintain fake rivalries to deepen faith. Mapping of allied/opposed gods TBD. Only the gods know it's theater  -  even most priests believe rivalries real.
 
 **Daily Practice**: Brief prayers at household shrines. Most common: Light & Life (healing), Forge & Arcana (craft), Wealth & Fortune (luck).
 
@@ -65,16 +65,16 @@ Ten gods dominate religious life. Churches cooperate through the **Ecumenical Co
 
 | Month | God | Festival | Day |
 |-------|-----|----------|-----|
-| Kaelthor (1) | Kaelthor | Harvest Communion — feasting, thanks | Day 1 |
-| Aurelius (2) | Aurelius | The Weighing — legal amnesty, oath-renewal | Day 2 |
-| Vesper (3) | Vesper | The Dusk Chime — hour of silence at sunset | Day 3 |
-| Aloria (4) | Aloria | Sunrise Rekindling — grand illumination | Day 4 |
-| Tyra (5) | Tyra | The Great Hunt — hunting competition | Day 5 |
-| Raven Queen (6) | Raven Queen | The Lantern Vigil — paper lanterns for the dead | Day 6 |
-| Thalkis (7) | Thalkis | The Great Forging — craft fair, invention | Day 7 |
-| Crassian (8) | Crassian | Fortune's Gamble — markets, gambling | Day 8 |
-| Vorn (9) | Vorn | The Bloody Standard — war games, parades | Day 9 |
-| Lolth (10) | Lolth | Night of Whispers — shadowed deals | Day 10 |
+| Kaelthor (1) | Kaelthor | Harvest Communion  -  feasting, thanks | Day 1 |
+| Aurelius (2) | Aurelius | The Weighing  -  legal amnesty, oath-renewal | Day 2 |
+| Vesper (3) | Vesper | The Dusk Chime  -  hour of silence at sunset | Day 3 |
+| Aloria (4) | Aloria | Sunrise Rekindling  -  grand illumination | Day 4 |
+| Tyra (5) | Tyra | The Great Hunt  -  hunting competition | Day 5 |
+| Raven Queen (6) | Raven Queen | The Lantern Vigil  -  paper lanterns for the dead | Day 6 |
+| Thalkis (7) | Thalkis | The Great Forging  -  craft fair, invention | Day 7 |
+| Crassian (8) | Crassian | Fortune's Gamble  -  markets, gambling | Day 8 |
+| Vorn (9) | Vorn | The Bloody Standard  -  war games, parades | Day 9 |
+| Lolth (10) | Lolth | Night of Whispers  -  shadowed deals | Day 10 |
 
 **Day of Silence** (last day, day 200): Secular. No work, no magic. Quiet reflection honoring the dead.
 
@@ -95,7 +95,7 @@ Ten gods dominate religious life. Churches cooperate through the **Ecumenical Co
 - **Games**: Strategy games, riddle contests, smithing competitions, archery tournaments
 
 ## Adventurers in Society
-Adventurers are **guardians, cleansers, reclaimers** — not mercenaries. Handle threats beyond walls, clear ruins, recover artifacts. Immense honor and respect.
+Adventurers are **guardians, cleansers, reclaimers**  -  not mercenaries. Handle threats beyond walls, clear ruins, recover artifacts. Immense honor and respect.
 
 **Drakh Ix'thar**: Continent-wide guild, HQ in old capital (center of continent). Members: **Ix'thari**. Roles: contract broker, licensing, information network, support system.
 

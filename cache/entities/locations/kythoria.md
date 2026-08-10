@@ -1,4 +1,4 @@
----
+﻿---
 id: kythoria
 type: location
 name: "Kythoria"
@@ -13,7 +13,7 @@ related:
 secrets:
   - text: "The monster invasion was not a natural catastrophe. Planar breaches were opened along the entire coast of Kythoria by the gods, who struck a deal with the Abyss, Nine Hells, Shadowfell, and Feywild. The breaches were sealed when mortals pushed back too close to their sources, hiding the truth of divine involvement."
     access: gm-only
-  - text: "Mortal arcanists have begun studying the locations where the planar breaches were sealed. They are starting to uncover evidence that these were artificially opened and deliberately closed — not natural phenomena. The gods are aware and are quietly silencing these researchers."
+  - text: "Mortal arcanists have begun studying the locations where the planar breaches were sealed. They are starting to uncover evidence that these were artificially opened and deliberately closed  -  not natural phenomena. The gods are aware and are quietly silencing these researchers."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09
@@ -36,12 +36,12 @@ Kythoria spans multiple climate zones:
 ## History
 
 Kythoria's history is divided into three eras:
-1. **Era of Foundation** (before 400 years ago) — The ancient past, mostly lost to time
-2. **The Abominable End** (400–200 years ago) — The monster invasion, two centuries of suffering
-3. **The Rise of the Mortals** (200 years ago–Present) — The reconquering and rebuilding
+1. **Era of Foundation** (before 400 years ago)  -  The ancient past, mostly lost to time
+2. **The Abominable End** (400-200 years ago)  -  The monster invasion, two centuries of suffering
+3. **The Rise of the Mortals** (200 years ago-Present)  -  The reconquering and rebuilding
 
 ## State of Civilization
 
 Approximately **two-thirds of the continent** has been reclaimed. The recovered south and east host thriving settlements, farms, and trade routes. The north and west remain contested, with approximately one-third of the continent still under monster control.
 
-The three capital cities — Skywatch, Emberforge, and Weaveheart — form the political, economic, and cultural heart of mortal civilization on Kythoria.
+The three capital cities  -  Skywatch, Emberforge, and Weaveheart  -  form the political, economic, and cultural heart of mortal civilization on Kythoria.

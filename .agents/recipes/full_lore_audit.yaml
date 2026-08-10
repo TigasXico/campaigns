@@ -1,4 +1,4 @@
-version: "1.0.0"
+﻿version: "1.0.0"
 title: "Full Lore Audit"
 description: "Runs A1-A4 narrative audits across ALL lore entities in the cache. Cross-references for contradictions, identifies gaps, synthesizes connections, and suggests improvements. Produces a comprehensive audit report."
 prompt: "Run a full narrative audit of all lore entities in the cache"
@@ -8,9 +8,9 @@ instructions: |
 
   ## Your Task
 
-  Perform a comprehensive audit of ALL lore entities in the cache at `C:\Users\tiago\Desktop\Lab\WA_Lore_Keeper\cache\entities\`. Apply the four mandatory audits (A1–A4) defined in `instructions/WORKFLOW.md` to every entity.
+  Perform a comprehensive audit of ALL lore entities in the cache at `C:\Users\tiago\Desktop\Lab\WA_Lore_Keeper\cache\entities\`. Apply the four mandatory audits (A1-A4) defined in `instructions/WORKFLOW.md` to every entity.
 
-  ## Phase 1 — Survey
+  ## Phase 1  -  Survey
 
   1. Read `cache/_index.md` to get the full manifest of all entity files.
   2. Read `cache/_session_continuity.md` to understand the current state, open questions, and recent changes.
@@ -18,14 +18,14 @@ instructions: |
   4. Read `instructions/CACHE_FORMAT.md` (the Audit Checklist section).
   5. Read `instructions/ENTITY_TYPES.md` (the "Before You Create" section).
 
-  ## Phase 2 — Parallel Audit
+  ## Phase 2  -  Parallel Audit
 
   Group the entity files into batches of at most 8 files per batch. For each batch, spawn a **parallel delegate** using `delegate(async: true)` with instructions to:
 
   > Read the following entity files: [list of files].
   > Run A1 (Contradictions), A2 (Gaps), A3 (Connections), and A4 (Variants) on each.
   > For A1, check against this canonical lore:
-  > - Timeline: Before Time → ~400 YA (Abominable End) → ~200 YA (Last Stand founding, Sealing of Khar'zul) → ~20 YA (Balor's birth) → Present
+  > - Timeline: Before Time -> ~400 YA (Abominable End) -> ~200 YA (Last Stand founding, Sealing of Khar'zul) -> ~20 YA (Balor's birth) -> Present
   > - Geography: Three capitals (Skywatch east, Emberforge southeast, Weaveheart south-center), north=monster-held, west=contested frontier, south/east=reclaimed
   > - Core truth: Gods orchestrated invasion, Originals (A, B, C) are hidden, B's lingering will drives hoarding instinct, Covenant holds blackmail over gods
   > - Core themes: survival through unity, divine deception, three-way standoff, mortal defiance
@@ -35,31 +35,31 @@ instructions: |
 
   Use 6-8 parallel delegates to cover all entities. Wait for all to complete using `load(taskId)`.
 
-  ## Phase 3 — Synthesis
+  ## Phase 3  -  Synthesis
 
   Once all delegates return, synthesize their findings into a comprehensive audit report with these sections:
 
-  ### A1 — Contradictions Found
+  ### A1  -  Contradictions Found
   List every contradiction detected across all entities. For each:
   - File and entity name
   - The contradiction (what conflicts with what)
-  - Severity: 🔴 Critical / 🟡 Moderate / 🟢 Minor
+  - Severity: [emoji] Critical / [emoji] Moderate / [emoji] Minor
   - Suggested fix
 
-  ### A2 — Narrative Gaps Identified
+  ### A2  -  Narrative Gaps Identified
   List every gap found. For each:
   - File and entity name (or "Global" if system-wide)
   - The gap (what's missing or underdeveloped)
   - How it affects the setting's cohesion
   - Suggested expansion direction
 
-  ### A3 — Connection Opportunities
+  ### A3  -  Connection Opportunities
   List every new connection that should be created. For each:
   - Entity A and Entity B
   - The relationship (e.g., "enemies", "created_by", "knows_about")
   - Why it matters for the setting
 
-  ### A4 — Creative Variants for Key Gaps
+  ### A4  -  Creative Variants for Key Gaps
   For the 3-5 most significant gaps, present 3-5 distinct options to fill them, following the variant types (Grounded, Twist, Question-Answering, Ambiguous, Tone Match).
 
   ### Open Questions Status
@@ -71,13 +71,13 @@ instructions: |
   ### File Health Summary
   A table showing every entity file with:
   - File size (KB)
-  - Under 12KB? ✅/❌
-  - Has `related` links? ✅/❌
-  - Has secrets? ✅/❌ (if applicable)
+  - Under 12KB? [ok]/[x]
+  - Has `related` links? [ok]/[x]
+  - Has secrets? [ok]/[x] (if applicable)
   - A1 score (contradictions found)
   - A2 score (gaps identified)
 
-  ## Phase 4 — Recommendations
+  ## Phase 4  -  Recommendations
 
   End with your top 5 recommendations for improving the lore, ordered by priority. Each recommendation should include:
   - What to do

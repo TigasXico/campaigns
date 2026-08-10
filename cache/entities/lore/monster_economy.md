@@ -1,4 +1,4 @@
----
+﻿---
 id: monster_economy
 type: lore
 name: "Monster Economy & Ecology"
@@ -20,16 +20,16 @@ updated: 2026-08-09
 Sitting between an emerging practice and a fully established economic sector.
 
 ### Current Uses
-- **Alchemy** — venom, blood, organs, glands for potions, elixirs, poisons
-- **Crafting** — hides, scales, bones, claws, teeth for armour, weapons, tools
-- **Arcane components** — monster parts as material components or foci
-- **Experimental** — new applications still being discovered
+- **Alchemy**  -  venom, blood, organs, glands for potions, elixirs, poisons
+- **Crafting**  -  hides, scales, bones, claws, teeth for armour, weapons, tools
+- **Arcane components**  -  monster parts as material components or foci
+- **Experimental**  -  new applications still being discovered
 
 ### Notable Examples
-- **Purple worm venom** — highly sought; single vial fetches a small fortune
-- **Dragon scales/hides** — prized for high-end armour (Emberforge)
-- **Monster cores** — if they exist, may power magical devices
-- **Crystal shards** — from crystal-corrupted creatures, used in arcane research
+- **Purple worm venom**  -  highly sought; single vial fetches a small fortune
+- **Dragon scales/hides**  -  prized for high-end armour (Emberforge)
+- **Monster cores**  -  if they exist, may power magical devices
+- **Crystal shards**  -  from crystal-corrupted creatures, used in arcane research
 
 ### Market Dynamics
 - **Adventurers' Guild** is the primary supplier
@@ -44,7 +44,7 @@ Sitting between an emerging practice and a fully established economic sector.
 *(To be expanded.)*
 
 ### Tainted Zones
-Areas where monsters dwelt long-term become **tainted** — warped by planar energy. Strange vegetation, brackish water, heavy air.
+Areas where monsters dwelt long-term become **tainted**  -  warped by planar energy. Strange vegetation, brackish water, heavy air.
 
 ### Nesting Grounds
 Breeding grounds for specific monster types, constantly monitored by scouts.
@@ -53,5 +53,5 @@ Breeding grounds for specific monster types, constantly monitored by scouts.
 Wildlife adapting: apex predators (dragons) hunt monsters; frontier settlements train monsters to hunt monsters; predator-prey dynamics emerging; plants developing defences; opportunistic species scavenging kills.
 
 ## Open Questions
-1. ⏳ **Detailed Monster Ecology** — Specific tainted zones, nesting grounds, adapted wildlife
-2. ⏳ **Monster Economy Details** — Specific guilds, merchants, industries focused on monster parts
+1. [hourglass] **Detailed Monster Ecology**  -  Specific tainted zones, nesting grounds, adapted wildlife
+2. [hourglass] **Monster Economy Details**  -  Specific guilds, merchants, industries focused on monster parts

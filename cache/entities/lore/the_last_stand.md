@@ -1,4 +1,4 @@
----
+﻿---
 id: the_last_stand
 type: lore
 name: "The Last Stand & The Three Capitals"
@@ -25,19 +25,19 @@ The Last Stand is not a single city but a cluster of **three capital cities** fo
 
 ## The First Alliance
 
-After the three capitals were established, the mortal races formed an unprecedented military alliance known as **The First Alliance** — the army of the Last Stand itself. Kings, archmages, high priests, ancient monster hunters, and knightly orders united to drive the reconquering and push back the monster invasion. Their remarkable victory marked the beginning of **The Rise of the Mortals** era.
+After the three capitals were established, the mortal races formed an unprecedented military alliance known as **The First Alliance**  -  the army of the Last Stand itself. Kings, archmages, high priests, ancient monster hunters, and knightly orders united to drive the reconquering and push back the monster invasion. Their remarkable victory marked the beginning of **The Rise of the Mortals** era.
 
 ### The War Against the Five Generals
 
-The First Alliance waged a war lasting years. The conflict was devastating — kingdoms disappeared from history, mountains were reduced to ash, and the skies themselves burned.
+The First Alliance waged a war lasting years. The conflict was devastating  -  kingdoms disappeared from history, mountains were reduced to ash, and the skies themselves burned.
 
-Ultimately, the Alliance achieved the impossible: they **defeated three of the Five Generals** of the monster army, including **Khar'zul (The Flesh That Remembers)**. The other two generals retreated and have not been seen since — they remain in hiding or at unknown locations.
+Ultimately, the Alliance achieved the impossible: they **defeated three of the Five Generals** of the monster army, including **Khar'zul (The Flesh That Remembers)**. The other two generals retreated and have not been seen since  -  they remain in hiding or at unknown locations.
 
 However, the war did not end. The remaining monster forces, leaderless and fractured, continued to threaten mortal civilization. The Alliance's victory bought time but not peace.
 
 ### The Sealing and Its Aftermath
 
-After Khar'zul's defeat, his essence was sealed within his own blade through a ritual devised by the Alliance's greatest scholars. The blade was entrusted to the **Skallfang Clan** — warriors who had fought in the war and hailed from the northern frontier — who returned north, swearing an oath to guard the sealed blade for generations.
+After Khar'zul's defeat, his essence was sealed within his own blade through a ritual devised by the Alliance's greatest scholars. The blade was entrusted to the **Skallfang Clan**  -  warriors who had fought in the war and hailed from the northern frontier  -  who returned north, swearing an oath to guard the sealed blade for generations.
 
 Some scholars who witnessed the sealing reached a different conclusion: Khar'zul had not been destroyed, but preserved. They saw the prison as a chrysalis. These dissidents fled with fragments of the ritual and forbidden knowledge, eventually becoming the **Crimson Covenant**.
 
@@ -59,7 +59,7 @@ Built beneath a volcanic ash wasteland with active geothermal activity, Emberfor
 
 ### Weaveheart (The Nexus)
 
-Built at the convergence of multiple ley lines, Weaveheart is the arcane and research heart of the Last Stand. It was here that the **magical barrier** — a stable, reliable defensive perimeter capable of keeping monsters at bay — was first developed. The barrier was later expanded to protect all three cities, creating the safe haven that allowed the mortal races to survive and mount their counteroffensive. Weaveheart remains the center of magical research, innovation, and education.
+Built at the convergence of multiple ley lines, Weaveheart is the arcane and research heart of the Last Stand. It was here that the **magical barrier**  -  a stable, reliable defensive perimeter capable of keeping monsters at bay  -  was first developed. The barrier was later expanded to protect all three cities, creating the safe haven that allowed the mortal races to survive and mount their counteroffensive. Weaveheart remains the center of magical research, innovation, and education.
 
 ## The Magical Barrier
 
@@ -74,4 +74,4 @@ With the safety of the Last Stand secured, the mortal races organized and began 
 
 ## Current State
 
-Active military campaigns continue to push north and west to reclaim the remaining lost territory. The three capitals serve as the political, military, economic, and cultural heart of mortal civilization. The races that once had distinct homelands now live side by side — a unity forged through shared survival.
+Active military campaigns continue to push north and west to reclaim the remaining lost territory. The three capitals serve as the political, military, economic, and cultural heart of mortal civilization. The races that once had distinct homelands now live side by side  -  a unity forged through shared survival.
