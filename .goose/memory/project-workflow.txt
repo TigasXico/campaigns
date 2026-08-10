@@ -19,3 +19,10 @@ The WA Lore Keeper workflow has 6 steps: (1) Record voice note, (2) Transcribe v
 - Goose MUST wait for explicit user approval before running `git add`, `git commit`, or `git push`.
 - Always update cache/_session_continuity.md with the session's file manifest before finishing.
 
+## Sub-Agent Delegate Protocol
+When delegating work to a sub-agent using the `delegate` tool:
+1. **Mandatory output file** — Instruct the sub-agent to write its final output to a text file (e.g. `subagent_output.txt`) in the working directory. This ensures output survives even if the task handle fails or is cleaned up.
+2. **Working directory** — Always set the `working_dir` parameter explicitly so the sub-agent knows where to write the output file.
+3. **Max turns** — Set `max_turns` to a reasonable limit to control costs (delegates can burn tokens fast).
+4. **After completion** — Load the output file from disk rather than relying solely on the task return value.
+

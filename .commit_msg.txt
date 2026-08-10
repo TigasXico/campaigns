@@ -1,8 +1,0 @@
-feat(pc): process Kaelyn backstory with full lore integration  
-  
-- Enhanced kaelyn.md with player backstory, GM secrets, B-touched lore and plot hooks  
-- Created the_underdark_forest.md and the_azure_boneyard.md  
-- Created NPCs solyn_velkyn.md and lyndale_velkyn.md  
-- Updated races_and_ancestries.md Drow creation 500-600 yrs ago  
-- Updated the_world_and_geography.md 3 continents  
-- Updated _index.md and _master_relationships_map.md 
