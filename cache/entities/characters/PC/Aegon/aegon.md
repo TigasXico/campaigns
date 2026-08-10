@@ -4,18 +4,25 @@ type: character
 name: "Aegon, The Rogue Paragon"
 status: draft
 tags:
-  - pc, player_character, human, paladin, aurelius, order_of_the_scales, justice, divine_touched
+  - pc, player_character, human, paladin, aurelius, order_of_the_scales, order_of_the_protectors, paragon, justice, divine_touched, b_visions
 related:
   - aurelius: God of wisdom and justice — Aegon's patron deity
-  - the_order_of_the_scales: Church of Aurelius — Aegon's order
-  - the_ecumenical_council: The Order of the Scales is a member church
-  - the_gods_and_the_deception: Aegon channels divine power through Aurelius as a conduit
-  - the_arcane_weave: Paladins draw divine power through their oath to a god who channels the Weave
+  - the_order_of_the_scales: Parent order — the Scales oversee the Protectors as a sibling chapter
+  - the_ecumenical_council: The Order of the Scales is a member church of the Ecumenical Council
+  - the_gods_and_the_deception: Aegon channels divine power through Aurelius as a conduit — but his visions may come from a different source
+  - the_arcane_weave: Paladins draw power through their oath to a god who channels the Weave
+  - the_originals: Aegon's later visions may originate from B's lingering consciousness in the Weave
+  - the_great_sacrifice: B's scattered essence reaches out to those strong of conviction
   - class_training_and_culture: Paladins trained at church seminaries or Skywatch War College
+  - the_crimson_covenant: Framed for Paul's murder — the true killers acted on divine orders from Aurelius
 secrets:
-  - text: "Aegon's defiance of his order's commands may be the result of a deeper calling he does not yet understand — B's lingering will in the Weave may be reaching out to those strong of conviction, using them as instruments to counter the gods' plans. Aegon may not be simply rebellious; he may be unconsciously guided."
+  - text: "Paul was not killed by the Crimson Covenant. He was killed by agents of the Order of the Scales acting on divine command from Aurelius. The evidence pointing to the Covenant was a deliberate frame — the Covenant wants B-touched individuals alive and would never have silenced Paul."
     access: gm-only
-  - text: "Aurelius, as a fragment of A or C, is part of the pantheon that orchestrated the monster invasion. If Aegon ever discovers the truth about the gods' deception, his faith will be tested to its breaking point."
+  - text: "Aegon's early visions were genuine communications from Aurelius (a fragment of A or C). However, as B's lingering consciousness in the Weave grew stronger, B began reaching out to those strong of conviction. Paul was the first to receive visions from both sources. He realized the truth — Aurelius was not what he claimed to be — and was silenced for it. Aegon's visions are now also shifting from Aurelius toward B."
+    access: gm-only
+  - text: "Paul's dying words — 'Do not trust the Order… Trust your oath and your visions' — were a confession. He had discovered that the gods are fragments of A and C, that the monster invasion was their doing, and that the Order unknowingly serves a false divinity. His warning was Aegon's inheritance."
+    access: gm-only
+  - text: "The 'Paragon' legend is an in-world belief within the Order of the Scales — stories of paladins exceptionally favored by Aurelius. The truth is more complex: Paragons are mortals with an unusually strong natural connection to the Weave. The Order interprets this as divine favor, but it may simply be attunement to B's essence."
     access: gm-only
 created: 2026-08-10
 updated: 2026-08-10
@@ -23,49 +30,107 @@ updated: 2026-08-10
 
 ## Overview
 
-**Aegon, The Rogue Paragon** — a human paladin of **Aurelius**, god of wisdom and justice. He is one of the strongest and most divinely touched members of his order, yet he has defied their commands and follows his own ideals. A paradox: faithful yet rebellious, honoured yet exiled in spirit.
+**Aegon, The Rogue Paragon** — a human paladin of **Aurelius**, god of wisdom and justice. He is one of the strongest and most divinely touched members of his order, yet he has defied their commands and follows his own ideals. A paradox: faithful yet rebellious, honoured yet hunted by the shadows of a truth he does not yet know.
 
 ---
 
 ## Appearance
 
-A tall, broad-shouldered human with the build of a veteran warrior. He wears the armour of the Order of the Scales, though it shows signs of field modification — personal touches that mark him as a man who follows his own path. His face is weathered, his eyes carry a weight of hard-won wisdom, and a symbol of Aurelius hangs at his neck.
+A tall, broad-shouldered human with the build of a veteran warrior. He wears the armour of the Order of the Protectors — a knightly chapter within the Order of the Scales — though it shows signs of field modification, personal touches that mark him as a man who follows his own path. His face is weathered, his eyes carry a weight of hard-won wisdom, and a holy symbol of Aurelius hangs at his neck. At his side rests his chosen weapon: a warhammer.
 
 ---
 
 ## Background
 
-Aegon was trained in the Order of the Scales — the church of Aurelius, god of wisdom and justice. The Order is a member of the Ecumenical Council, one of the seven recognized churches in the Last Stand's religious hierarchy.
+### Origins
 
-Aegon rose through the ranks through sheer excellence. His connection to Aurelius is unusually strong — he is one of the most divinely touched paladins in the order, capable of channeling power that few can match. His strength, conviction, and martial prowess earned him respect and fear in equal measure.
+Aegon did not begin life with privilege. His mother died in childbirth. His father abandoned them both before Aegon was born, for reasons unknown. Without any known family, the local maester — a kind of doctor and historian — brought the infant to a chapel known to accept orphans. The priest of that chapel welcomed Aegon with open arms.
 
-But Aegon's strength is matched by his independence. At some point, he defied the orders of his superiors. He refused to obey a command he found unjust, choosing instead to follow his own moral compass. Despite this defiance — or perhaps because of the political difficulty of disciplining such a powerful asset — he remains part of the order, operating on the edges of its authority.
+That priest's name was **Paul**.
 
-He is known as **"The Rogue Paragon"** — a title that acknowledges both his exceptional skill and his refusal to be bound by the chain of command.
+### Father Paul
+
+Paul was a gentleman in his forties — kind, wise, intelligent, and deeply religious. But he was not an ordinary priest. He possessed an uncanny ability to detect truth from lies, was skilled in combat, and carried himself with the discipline of a warrior. Paul belonged to a knightly sub-order within the **Order of the Scales** known as **the Order of the Protectors** — a chapter of paladins and warriors who followed Aurelius, took oaths to protect the innocent, and swore to defeat evil.
+
+Paul raised Aegon as his own son. As Aegon grew, he showed remarkable talent with swords, spears, axes, and warhammers. But more impressive were his emerging powers: he could heal the wounded with a touch and detect magic instinctively. Most importantly, Aegon experienced **visions** — fragments of the past, present, and future that came to him in dreams.
+
+Paul recognized these signs. He revealed the truth to Aegon: he was not merely a gifted young man. He was what the Order called a **Paragon** — a paladin with an extraordinary connection to Aurelius, seemingly receiving more divine favour and attention than any other.
+
+### The Order of the Protectors
+
+The Order of the Protectors operates as an independent knightly chapter **within** the broader Order of the Scales. Their relationship is one of sibling orders:
+- The **Order of the Scales** (the main church of Aurelius) provides monetary support and requests missions from the Protectors
+- The **Order of the Protectors** answers those calls but maintains its own hierarchy, traditions, and autonomy
+- Both orders share the **High Septon** — the central temple of Aurelius, located in the old capital of Kythoria
+
+The Protectors' warriors are taken to the High Septon and trained from a young age in combat, war, history, and religion. After completing a series of tests and trials spanning three years, the warriors swear an oath before Aurelius and choose a holy symbol to accompany them for life. With the oath made, they leave the temple to travel the world, obeying the commands of the Order's High Council and honouring their god.
+
+> **Oath of the Order:** *"Do not fear your enemies. Be courageous and upright so that Aurelius may love you. Always speak the truth, even if it leads to your death. Safeguard the defenceless and stop evil in this world. This is your oath."*
+
+Hearing Paul's story, Aegon chose to join. He entered the High Septon, knelt before the statues of Aurelius, swore the oath, and chose his holy symbol: his **warhammer**. He was ready to fulfil his destiny.
+
+### The Rogue Paragon
+
+For years, Aegon served faithfully — completing missions, protecting the innocent, and growing in power. His status as a Paragon became known, and the High Council watched him with interest. Some whispered he was destined to lead them one day. Others grew jealous — fanatics who believed drinking his blood might bring them closer to Aurelius, or traditionalists who saw his unique nature as a threat to the Order's hierarchy.
+
+Then came the news that shattered everything.
+
+Paul's chapel — **the old home** — had been attacked by an unknown force. Aegon rode immediately. When he arrived, he found Paul on the chapel floor, covered in wounds and bleeding out. Aegon reached for his healing powers, but Paul stopped him. With his last strength, he whispered:
+
+> *"Do not trust the Order… Trust your oath and your visions…"*
+
+And Paul died.
+
+### The Frame
+
+The official story spread quickly: evidence pointed to the **Crimson Covenant**. They were blamed for the attack — a shadowy organization known for experimentation and violence. It made sense to most.
+
+But Paul had been receiving visions — not just from Aurelius anymore, but from something else. Something older. The truth was this: **Paul was killed by agents of the Order of the Scales, acting on divine command from Aurelius himself.** The Crimson Covenant was framed.
+
+Paul had discovered too much. The visions had shifted. Where once Aurelius spoke, now B's lingering consciousness — the scattered essence of an Original entity — was reaching through the Weave. Paul realized the gods were not what they claimed to be. He was silenced for it.
+
+Aegon does not yet know this truth. But he suspects. Paul's warning echoes in his mind, and his own visions have begun to change — growing stronger, stranger, pulling him toward a truth the Order does not want him to find.
+
+### The Rogue Paragon Today
+
+Aegon now defies the Order's commands when his conscience demands it. He is still a paladin of Aurelius — still bound by his oath — but he follows his own path. The Order does not expel him (he is too powerful, too visibly favoured), but tensions grow with each act of defiance.
+
+He has earned the title **"The Rogue Paragon"** — a name that speaks both to his unmatched skill and his refusal to be bound by the chain of command.
 
 ---
 
 ## Abilities
 
-- **Paladin's Power**: Divine smite, lay on hands, aura of protection — all channelled through Aurelius
-- **Exceptional Combatant**: One of the strongest warriors of his order
-- **Divine Touch**: An unusually strong connection to divine power through Aurelius
+- **Paladin's Power**: Divine smite, lay on hands, aura of protection — channelled through his oath to Aurelius
+- **Paragon's Blessing**: An unusually strong connection to the Weave, interpreted by the Order as divine favour
+- **Visions**: Dreams of past, present, and future — initially from Aurelius, now shifting toward B's consciousness
+- **Exceptional Combatant**: Master of warhammers, swords, spears, and axes
 - **Independent Will**: Resistant to coercion, manipulation, and blind obedience
 
 ---
 
 ## Goals
 
-1. Uphold justice according to his own principles, not institutional doctrine
-2. Protect the innocent and punish the wicked
-3. Understand why his connection to Aurelius is so strong
-4. Navigate the tension between his faith, his order, and his conscience
+1. Discover the full truth behind Paul's murder
+2. Understand why his visions are changing
+3. Uphold his oath — protect the innocent, defeat evil — even if it means defying the Order
+4. Navigate the growing hostility from those within the Order who fear or covet his power
+
+---
+
+## Relationships
+
+- **Paul (deceased)** — Father figure, mentor, and the man who revealed the truth. His dying words set Aegon on his current path.
+- **The Order of the Scales** — Parent organization. Aegon serves but does not trust. They may have been responsible for Paul's death.
+- **The Order of the Protectors** — His knightly chapter. His brothers and sisters in arms. Some support him; others fear him.
+- **Aurelius** — The god he swore his oath to. But if the visions come from elsewhere… what does that make his faith?
 
 ---
 
 ## Open Questions
 
-1. ⏳ **What command did Aegon defy?** What was the order he refused to follow?
-2. ⏳ **How does the Order of the Scales view him?** Outcast? Asset? Embarrassment?
-3. ⏳ **Does Aegon have doubts about his faith?** Or is his faith absolute, even in defiance of the church?
-4. ⏳ **What does 'following his own ideals' mean in practice?** What is his personal code?
+1. ⏳ **Who in the Order of the Scales carried out Paul's murder?** Individual agents or a faction within the High Council?
+2. ⏳ **Does anyone else in the Order know the truth about Paul?** Fellow conspirators? Sympathizers?
+3. ⏳ **The jealous/fanatic members** — How far will they go to claim Aegon's power?
+4. ⏳ **The old capital** — The High Septon is located there. What other secrets does it hold?
+5. ⏳ **B's influence on Aegon** — Will his visions grow clear enough to reveal the full truth about the Originals and the gods' deception?
