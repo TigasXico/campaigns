@@ -13,6 +13,8 @@ related:
   - monsters_and_ecology: Researches B's crystals within monster army
   - the_gods_and_the_deception: Holds blackmail knowledge over gods
   - the_arcane_reactive_crystals: Studies crystals' connection to B
+  - paul: Framed for Paul's murder — the Order of the Scales killed him under Aurelius's command
+  - aegon: Aegon's father figure was killed and framed on the Covenant; the truth is the opposite
 secrets:
   - text: "Ultimate goal: resurrect Entity B in weakened form to destroy the gods. Knows about the resurrection ritual."
     access: gm-only
@@ -23,6 +25,8 @@ secrets:
   - text: "Connected to at least one PC backstory (Balor Skallfang)."
     access: gm-only
   - text: "Source of demonic tissue used in experiments remains unrevealed."
+    access: gm-only
+  - text: "The Crimson Covenant was framed for Paul's murder by the Order of the Scales, acting on Aurelius's command. The Covenant would never have killed Paul — as a B-touched visionary, he would have been a valuable asset to their cause. The frame is a deliberate deception by the gods to turn potential allies against the Covenant."
     access: gm-only
 created: 2026-08-08
 updated: 2026-08-09

@@ -5,6 +5,17 @@
 > `monsters_and_ecology` split → `monsters_and_ecology` + `the_divine_conspiracy`.
 > See individual file frontmatter `related` field for entity-level relationships.
 
+## aegon [character]
+- serves → the_order_of_the_scales [organization] — Paladin of the Order, but with growing distrust
+- member_of → the_order_of_the_protectors [organization] — Knightly sub-chapter of the Scales
+- trained_at → the_high_septon [location] — Swore his oath at the High Septon in the old capital
+- father_figure → paul [character] — Raised by Paul after being orphaned
+- connected_to → aurelius [character] — Swore oath to Aurelius, receives visions (or so he believes)
+- connected_to → the_arcane_weave [lore] — Visions shifting from Aurelius to B's consciousness in the Weave
+- connected_to → the_originals [lore] — His later visions may originate from B's lingering will
+- connected_to → the_crimson_covenant [organization] — The Covenant was framed for Paul's murder; the truth is the Order acted on Aurelius's command
+- connected_to → the_gods_and_the_deception [lore] — Paul's murder and Aegon's changing visions point toward the truth about the gods
+
 ## adventuring_classes [lore]
 - hunts → monsters_and_ecology [lore] — Adventurers hunt monsters as their primary occupation
 
@@ -103,6 +114,10 @@
 - originated_from → the_originals [lore] — Fragment of A or C
 - connected_to → the_gods_and_the_deception [lore] — Part of the subdivided pantheon
 - resides_in → cosmology_and_the_planes [lore] — Claims domain in the Outer Planes
+- served_by → the_order_of_the_scales [organization] — The Scales carry out his divine will
+- served_by → the_order_of_the_protectors [organization] — The Protectors serve him as paladins
+- commanded → paul [character] — Ordered Paul's death when his visions shifted from Aurelius to B's consciousness
+- connected_to → aegon [character] — Aegon swears his oath to Aurelius, but his visions are shifting to B
 
 ## kythorian_timeline [event]
 - compiles → the_great_sacrifice [event] — Includes the Great Sacrifice
@@ -175,6 +190,16 @@
 - hunted_by ← adventuring_classes [lore] — Adventurers hunt monsters as their primary occupation
 - contained_by → kharzuls_blade [item] — Khar'zul's essence is sealed within the blade
 - carried_by → balor_skallfang [character] — Khar'zul's blade is now borne by Balor Skallfang
+
+## paul [character]
+- father_figure_of → aegon [character] — Raised Aegon as his son and trained him as a paladin
+- member_of → the_order_of_the_protectors [organization] — Was a senior member of this knightly chapter
+- served → the_order_of_the_scales [organization] — Served the Scales as a priest and warrior
+- killed_by → the_order_of_the_scales [organization] — Murdered by Order agents under Aurelius's command
+- connected_to → the_crimson_covenant [organization] — Framed as the culprits of Paul's death
+- connected_to → the_arcane_weave [lore] — B's lingering will spoke to Paul through visions before his death
+- connected_to → the_great_sacrifice [event] — Received visions from B's consciousness before his death
+- connected_to → the_gods_and_the_deception [lore] — Discovered the truth and was silenced for it
 
 ## primal_nature_magic [lore]
 - drawn_by ← adventuring_classes [lore] — Druids and rangers draw power from nature
@@ -266,6 +291,8 @@
 
 ## the_crimson_covenant [organization]
 - supplements → monsters_and_ecology [lore] — Creates experimental monsters (Crimson-touched)
+- framed_for → paul [character] — Framed for Paul's murder — the Order of the Scales killed him under Aurelius's command
+- connected_to → aegon [character] — Aegon's father figure was killed and framed on the Covenant; the truth is the opposite
 - threatens ← society_economy_and_culture [lore] — The Covenant operates in the shadows of this society
 - created → races_and_ancestries [lore] — Experiments created Drow, Shadow Elves, and Tieflings
 - created → balor_skallfang [character] — Project Genesis created Balor as the perfect vessel
@@ -325,6 +352,13 @@
 - hides → primal_nature_magic [lore] — Gods hide the truth about universal magic potential
 - threatened_by ← the_crimson_covenant [organization] — The Covenant holds blackmail knowledge over the gods
 
+## the_high_septon [location]
+- temple_of → aurelius [character] — Central temple of Aurelius, god of wisdom and justice
+- shared_by → the_order_of_the_scales [organization] — Shared temple between the Scales and the Protectors
+- shared_by → the_order_of_the_protectors [organization] — Shared temple between the Scales and the Protectors
+- located_in → the_world_and_geography [lore] — Located in the old capital of Kythoria
+- connected_to → aegon [character] — Aegon swore his oath here
+
 ## the_guild_of_the_spark [organization]
 - church_of → thalkis [character] — The church of the Thalkis
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
@@ -365,6 +399,13 @@
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
 - connected_to → the_northeast_settlement_cluster [location] — Connected to the mint and trade
 
+## the_order_of_the_protectors [organization]
+- sibling_order → the_order_of_the_scales [organization] — Mutually assisting sibling orders under Aurelius
+- church_of → aurelius [character] — Serves Aurelius, god of wisdom and justice
+- headquartered_at → the_high_septon [location] — Main temple is the High Septon in the old capital
+- member_has → aegon [character] — Aegon is a member of this order
+- member_had → paul [character] — Paul was a senior member of this order
+
 ## the_order_of_the_dawn [organization]
 - church_of → aloria [character] — The church of the Aloria
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
@@ -377,6 +418,9 @@
 ## the_order_of_the_scales [organization]
 - church_of → aurelius [character] — The church of the Aurelius
 - member_of → the_ecumenical_council [organization] — Part of the interfaith council
+- sibling_order → the_order_of_the_protectors [organization] — Mutually assisting sibling orders under Aurelius
+- connected_to → paul [character] — Ordered Paul's murder under Aurelius's command; framed the Crimson Covenant
+- connected_to → aegon [character] — Aegon serves through the Protectors, but with growing distrust
 
 ## the_originals [lore]
 - motivated → monsters_and_ecology [lore] — A and C planned the invasion; B sacrificed to stop it

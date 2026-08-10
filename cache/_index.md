@@ -29,6 +29,7 @@
 | monster_economy | lore | Monster Economy & Ecology | draft | 2026-08-09 |
 | monsters_and_ecology | lore | Monsters & Ecology of Kythoria | draft | 2026-08-09 |
 | monsters_and_invasion_design | campaign_note | Monsters & Invasion Design Decisions | active | 2026-08-09 |
+| paul | character | Paul | draft | 2026-08-10 |
 | primal_nature_magic | lore | Primal & Nature Magic | draft | 2026-08-08 |
 | races_and_ancestries | lore | Races & Ancestries | draft | 2026-08-08 |
 | races_and_ancestries_design | campaign_note | Races & Ancestries Design Decisions | active | 2026-08-09 |
@@ -39,6 +40,7 @@
 | the_abominable_end | event | The Abominable End | draft | 2026-08-09 |
 | the_adventurers_guild | organization | The Adventurers' Guild | draft | 2026-08-09 |
 | the_frostmaw | location | The Frostmaw | draft | 2026-08-09 |
+| the_high_septon | location | The High Septon | draft | 2026-08-10 |
 | the_medallion_of_vex | item | The Medallion of Vex | draft | 2026-08-09 |
 | sanzo | character | Sanzo | draft | 2026-08-10 |
 | seraphina_vex | character | Seraphina Vex | draft | 2026-08-09 |
@@ -61,6 +63,7 @@
 | the_last_stand | lore | The Last Stand & The Three Capitals | draft | 2026-08-09 |
 | the_northeast_settlement_cluster | location | The Northeast Settlement Cluster | draft | 2026-08-09 |
 | the_order_of_the_currency | organization | The Order of the Currency | draft | 2026-08-09 |
+| the_order_of_the_protectors | organization | The Order of the Protectors | draft | 2026-08-10 |
 | the_order_of_the_dawn | organization | The Order of the Dawn | draft | 2026-08-09 |
 | the_order_of_the_raven | organization | The Order of the Raven | draft | 2026-08-09 |
 | the_order_of_the_scales | organization | The Order of the Scales | draft | 2026-08-09 |
