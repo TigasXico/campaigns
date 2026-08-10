@@ -12,6 +12,7 @@ related:
   - the_last_stand: All races united at the Last Stand to survive the monster invasion
   - cosmology_and_the_planes: Shadow Elves claimed Shadowfell; Drow communities exist in various dark regions
   - the_underdark_forest: A sunken forest in south-west Kythoria known as the Underdark  -  home to a Drow theocracy
+  - balor_skallfang: Balor is a tiefling, created by Project Genesis
 secrets:
   - text: "The gods did NOT create any mortal race. All races were created by the Originals and brought to the Material Plane. The gods' claims of creation are a calculated deception to maintain control over mortals through worship."
     access: gm-only

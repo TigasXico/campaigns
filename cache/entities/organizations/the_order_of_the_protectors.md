@@ -11,6 +11,7 @@ related:
   - aegon: Aegon is a member of this order
   - paul: Paul was a senior member of this order
   - the_ecumenical_council: Represented indirectly through the Order of the Scales
+  - the_high_septon: Main temple is the High Septon in the old capital
 secrets:
   - text: "The Protectors were founded centuries ago by the first Paragons  -  paladins with an extraordinary connection to the Weave. The true purpose of the order has been lost to time, buried under layers of dogma and institutional control."
     access: gm-only

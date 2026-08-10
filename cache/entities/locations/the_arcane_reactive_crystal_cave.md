@@ -11,6 +11,7 @@ related:
   - skywatch: The cave extends beneath this surface city
   - emberforge: The cave lies to the side of this underground city
   - society_economy_and_culture: The cave's energy supercharges the forest's soil fertility
+  - kythoria: Beneath Skywatch and Weaveheart, beside Emberforge
 secrets:
   - text: "The cave is not merely a geological formation. It is a place where B's essence condensed at a convergence point  -  a nexus where the lingering will of the sacrificed Original is stronger than anywhere else on Kythoria. The crystals here may be semi-sentient."
     access: gm-only

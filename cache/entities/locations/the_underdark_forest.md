@@ -17,6 +17,7 @@ related:
   - the_arcane_reactive_crystals: A giant crystal cave exists at the roots of the Black Willow  -  condensed B's essence
   - the_originals: The Black Willow's unnatural growth was B's lingering consciousness responding to the Covenant's creation of the Drow
   - the_azure_boneyard: Located in the mountains accessible via the Underdark Caves system
+  - kythoria: Sunken forest in south-west Kythoria
 secrets:
   - text: "The Black Willow's growth and its ability to cast perpetual shadow was an unintended byproduct of B's lingering consciousness responding to the Crimson Covenant's artificial creation of the Drow. The ley line convergence beneath the tree reacted to this unnatural act, causing the willow to grow massive and block the sun. Lolth later stepped in and claimed credit for the phenomenon, using it to bind the Drow to her worship."
     access: gm-only

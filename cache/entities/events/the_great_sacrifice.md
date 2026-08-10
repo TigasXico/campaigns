@@ -13,6 +13,9 @@ related:
   - the_gods_and_the_deception: The sacrifice prompted A and C to subdivide into gods
   - the_arcane_reactive_crystals: The crystals are condensed essence from the sacrifice
   - primal_nature_magic: Nature absorbed residual arcane energy from the sacrifice
+  - kharzuls_blade: Khar'zul's essence may resonate with B's will
+  - balor_skallfang: Khar'zul's essence connects to B's lingering will
+  - the_first_alliance: The Alliance unknowingly wielded power originating from B's sacrifice
 secrets:
   - text: "The true nature and purpose of B's sacrifice  -  to arm mortals against the gods  -  is a secret the gods have buried."
     access: gm-only

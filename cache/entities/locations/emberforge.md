@@ -11,6 +11,8 @@ related:
   - weaveheart: Sister city, arcane and research heart
   - kythoria: Located in the temperate heartlands of Kythoria
   - society_economy_and_culture: Emberforge's governance and culture detailed here
+  - the_adventurers_guild: Prototype weapons tested here
+  - the_guild_of_the_spark: Strong ties to the church of Forge and Arcana
 secrets:
   - text: "The Forgemaster's Circle controls access to the deepest volcanic forges, where unique alloys are made using techniques from before the Abominable End. Some say these lower forges were built on something older  -  a pre-invasion structure of unknown origin."
     access: gm-only

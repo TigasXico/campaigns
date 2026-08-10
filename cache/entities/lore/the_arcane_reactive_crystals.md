@@ -13,6 +13,8 @@ related:
   - the_arcane_weave: The crystals interact directly with the weave, disrupting, absorbing, or destabilizing it
   - the_originals: The crystals are a byproduct of B's scattered essence
   - monsters_and_ecology: Crystals amplify B's hoarding instinct on nearby monsters
+  - balor_skallfang: Khar'zul's blade may resonate with the crystals
+  - kharzuls_blade: The blade may interact with or be influenced by crystals
 secrets:
   - text: "The crystals are not inert. They are remnants of B's subconscious will, carrying the lingering desire to become whole again. This influence manifests as a hoarding instinct in nearby creatures  -  especially monsters  -  who feel compelled to gather magical items and currency metals."
     access: gm-only

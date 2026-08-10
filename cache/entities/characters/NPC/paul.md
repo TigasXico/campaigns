@@ -13,6 +13,7 @@ related:
   - the_crimson_covenant: Framed for Paul's murder by the Order of the Scales
   - the_arcane_weave: B's lingering will reached Paul through visions in his final years
   - the_great_sacrifice: Received visions from B's consciousness before his death
+  - the_gods_and_the_deception: Discovered the truth and was silenced for it
 secrets:
   - text: "Paul was not killed by the Crimson Covenant. He was killed by agents of the Order of the Scales acting on divine command from Aurelius. The evidence pointing to the Covenant was a deliberate frame."
     access: gm-only

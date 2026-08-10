@@ -10,6 +10,7 @@ related:
   - kharzuls_blade: The clan has guarded the sealed blade for generations
   - balor_skallfang: Balor was adopted and raised by the clan
   - monsters_and_ecology: Monster hunters from the northern frontier
+  - the_last_stand: Northern monster hunters from the frontier
 secrets:
   - text: "The Skallfang Clan's oath to guard the blade was originally meant to last only until a permanent solution could be found. As generations passed and no solution emerged, the oath became tradition, and the tradition became identity."
     access: gm-only

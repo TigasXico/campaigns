@@ -15,6 +15,8 @@ related:
   - the_medallion_of_vex: Heirloom medallion Seraphina left with him as an infant
   - the_frostmaw: The Skallfang Clan's ancestral homeland where Balor was raised
   - the_first_alliance: The Skallfang Clan fought in the Alliance against Khar'zul
+  - kharzuls_blade: Unwilling bearer of the blade containing Khar'zul's essence
+  - the_last_stand: The Skallfang Clan (his adoptive family) fought in the First Alliance
 secrets:
   - text: "Balor is the culmination of Project Genesis  -  bred over centuries as a vessel for Khar'zul."
     access: gm-only

@@ -13,6 +13,7 @@ related:
   - monsters_and_ecology: Blue dragons are native apex predators  -  this dragon absorbed immense arcane energy
   - the_underdark_forest: The cave is accessible through the Underdark Caves system in the nearby mountains
   - the_originals: The crystals are physical remnants of B's essence; the dragon's bones absorbed it over time
+  - kythoria: Cave in the mountains near the Underdark, south-west Kythoria
 secrets:
   - text: "The blue dragon did not die here by accident. It was drawn to this cave by the concentration of arcane-reactive crystals  -  the same B-influence that drives the hoarding instinct in all creatures. The dragon gathered the crystals around itself in death, creating the field Kaelyn found."
     access: gm-only

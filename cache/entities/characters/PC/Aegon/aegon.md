@@ -15,6 +15,9 @@ related:
   - the_great_sacrifice: B's scattered essence reaches out to those strong of conviction
   - class_training_and_culture: Paladins trained at church seminaries or Skywatch War College
   - the_crimson_covenant: Framed for Paul's murder  -  the true killers acted on divine orders from Aurelius
+  - paul: Raised by Paul after being orphaned
+  - the_order_of_the_protectors: Knightly sub-chapter of the Scales; Aegon's order
+  - the_high_septon: Swore his oath at the High Septon in the old capital
 secrets:
   - text: "Paul was not killed by the Crimson Covenant. He was killed by agents of the Order of the Scales acting on divine command from Aurelius. The evidence pointing to the Covenant was a deliberate frame  -  the Covenant wants B-touched individuals alive and would never have silenced Paul."
     access: gm-only

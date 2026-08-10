@@ -16,6 +16,8 @@ related:
   - paul: Framed for Paul's murder  -  the Order of the Scales killed him under Aurelius's command
   - aegon: Aegon's father figure was killed and framed on the Covenant; the truth is the opposite
   - seraphina_vex: Victim of Project Genesis who escaped with Balor and the blade
+  - the_originals: Researches B's essence to destroy the gods
+  - balor_skallfang: Seeks to recover Balor and the blade
 secrets:
   - text: "Ultimate goal: resurrect Entity B in weakened form to destroy the gods. Knows about the resurrection ritual."
     access: gm-only

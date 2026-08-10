@@ -16,6 +16,7 @@ related:
   - the_crimson_covenant: Her twin brother Polaris was captured by the Covenant and experimented on; they experiment on B-touched individuals
   - kaelyn: Polaris may have been experimented into a Drow  -  potential tie to the Underdark
   - zan_vaelis_zandorian: Polaris may have been experimented into a Shadow Elf  -  potential tie to Shadowfell
+  - the_circle_of_the_wild: Her druidic tradition is loosely connected to the broader druidic order
 secrets:
   - text: "The hidden constellations Aurora sees are NOT figments or delusions  -  they are the actual positions of B's lingering consciousness projected through the Arcane Weave onto the night sky. Following them leads to locations where B's essence is concentrated: arcane-reactive crystal deposits, monster hoards, and sites connected to the Resurrection Ritual."
     access: gm-only

@@ -14,6 +14,13 @@ related:
   - adventuring_classes: Adventurers hunt monsters as primary occupation
   - monster_economy: Economy and ecology derived from monsters
   - the_divine_conspiracy: Hidden conspiracy behind the invasion
+  - kharzuls_blade: Khar'zul's essence is sealed within the blade
+  - society_economy_and_culture: Monster hunting and monster parts drive a growing economy
+  - balor_skallfang: Khar'zul's blade is now borne by Balor Skallfang
+  - cosmology_and_the_planes: Invasion monsters came from the Abyss, Nine Hells, Shadowfell, and Feywild
+  - the_originals: A and C's fragments planned the invasion; B sacrificed to stop them
+  - the_gods_and_the_deception: The gods planned the monster invasion to destroy mortalkind
+  - the_great_sacrifice: B's lingering will (hoarding instinct) subverts the invasion from within
 created: 2026-08-09
 updated: 2026-08-09
 ---

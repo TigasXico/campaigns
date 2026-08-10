@@ -12,6 +12,7 @@ related:
   - the_originals: B's essence forms the weave
   - the_arcane_reactive_crystals: Crystals interact with and disrupt the weave
   - primal_nature_magic: Nature magic draws from arcane energy absorbed by the natural world
+  - the_gods_and_the_deception: Gods act as conduits for the weave
 secrets:
   - text: "The weave is literally the body of a primordial entity that sacrificed itself so mortals could defy the gods."
     access: gm-only

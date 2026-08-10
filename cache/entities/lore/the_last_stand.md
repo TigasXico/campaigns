@@ -10,6 +10,9 @@ related:
   - the_originals: The ley line convergence is a remnant of the Originals' creation
   - the_arcane_weave: The magical barrier was powered by ley lines and arcane research
   - cosmology_and_the_planes: The barrier draws on the Material Plane's stability
+  - the_crimson_covenant: The Covenant originated from dissident scholars of the First Alliance
+  - balor_skallfang: The Skallfang Clan fought in the First Alliance that defeated Khar'zul
+  - the_first_alliance: The First Alliance defeated the monster generals, enabling the Last Stand
 secrets:
   - text: "The magical barrier was first developed in Weaveheart using the unique ley line convergence. It was then expanded to protect Emberforge and Skywatch, creating the Last Stand's defensive perimeter."
     access: gm-only

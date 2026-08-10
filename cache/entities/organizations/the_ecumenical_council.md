@@ -20,6 +20,10 @@ related:
   - the_order_of_the_scales: Member of the Council
   - the_order_of_the_currency: Member of the Council
   - the_vigil_of_the_dusk: Member of the Council
+  - the_coven_of_the_spider: Banned  -  blamed for the monster invasion
+  - the_order_of_the_raven: Banned  -  blamed for the monster invasion
+  - the_iron_host: Banned  -  blamed for the monster invasion
+  - the_pack_of_tyra: Member church
 
 
 created: 2026-08-09

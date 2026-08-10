@@ -12,6 +12,8 @@ related:
   - the_frontier: The Frostmaw lies beyond the Western Frontier, in the frozen north
   - kythoria: The northernmost region of the continent
   - kharzuls_blade: The blade was hidden in the Frostmaw for two centuries; Khar'zul's sealed vault was hidden in the Whispering Glacier
+  - fanghold_settlement: The clan's main fortress settlement
+  - monsters_and_ecology: Home to the most dangerous northern monsters
 secrets:
   - text: "The Whispering Glacier is not a natural formation. It is the frozen remnant of a sealing ritual, amplified by the extreme cold. The glacier 'whispers' because Khar'zul's essence, even sealed within the blade, resonated with the ice for centuries. Old Skallfang elders claim the glacier speaks in prophecy  -  but only to those who know how to listen."
     access: gm-only

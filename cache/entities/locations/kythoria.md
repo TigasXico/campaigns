@@ -10,6 +10,14 @@ related:
   - the_world_and_geography: Primary lore source for Kythoria's regions
   - the_last_stand: The three capitals are located near the center-southeast of Kythoria
   - the_great_sacrifice: B's scattered essence sustains all life on Kythoria
+  - skywatch: One of the three capital cities
+  - the_southeastern_port: Major sea trade hub
+  - the_arcane_reactive_crystal_cave: Beneath the capitals
+  - the_frontier: The contested western region
+  - the_northeast_settlement_cluster: The mint and mining heartland
+  - weaveheart: One of the three capital cities
+  - the_eastern_port: Sea trade and fishing port
+  - emberforge: One of the three capital cities
 secrets:
   - text: "The monster invasion was not a natural catastrophe. Planar breaches were opened along the entire coast of Kythoria by the gods, who struck a deal with the Abyss, Nine Hells, Shadowfell, and Feywild. The breaches were sealed when mortals pushed back too close to their sources, hiding the truth of divine involvement."
     access: gm-only

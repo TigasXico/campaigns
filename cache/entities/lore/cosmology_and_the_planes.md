@@ -10,6 +10,19 @@ related:
   - the_great_sacrifice: B's essence scattered equally across all planes
   - the_gods_and_the_deception: Gods claimed Outer Planes after subdividing
   - the_arcane_reactive_crystals: Crystals form only on the Material Plane
+  - kaelthor: Claims domain in the Outer Planes
+  - kythoria: Kythoria is a continent within the Material Plane
+  - thalkis: Claims domain in the Outer Planes
+  - aetris: Aetris is the Material Plane within the cosmology
+  - vesper: Claims domain in the Outer Planes
+  - tyra: Claims domain in the Outer Planes
+  - aurelius: Claims domain in the Outer Planes
+  - the_raven_queen: Claims domain in the Outer Planes
+  - monsters_and_ecology: Invasion monsters came from the Abyss, Nine Hells, Shadowfell, and Feywild
+  - lolth_the_spider_queen: Claims domain in the Outer Planes
+  - crassian: Claims domain in the Outer Planes
+  - vorn: Claims domain in the Outer Planes
+  - aloria: Claims domain in the Outer Planes
 secrets:
   - text: "The Outer Planes are deliberately crafted experiments by A, B, and C, searching for the perfect recipe for mortal consciousness."
     access: gm-only

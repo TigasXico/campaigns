@@ -12,6 +12,8 @@ related:
   - kythoria: Located in the temperate heartlands of Kythoria
   - the_arcane_weave: Built at a ley line convergence, heart of arcane study
   - society_economy_and_culture: Weaveheart's governance and culture detailed here
+  - the_order_of_the_dawn: Main temple of the Order of the Dawn
+  - the_ecumenical_council: Council meets in Weaveheart
 secrets:
   - text: "Weaveheart's Arcane Conclave suspects the truth about B  -  that the Weave is the essence of a sacrificed primordial entity. A handful of the most senior archmages have begun discreet research into B's lingering will and its effects on the hoarding instinct."
     access: gm-only

@@ -12,6 +12,7 @@ related:
   - the_great_sacrifice: B's sacrifice  -  ultimate source of all magic
   - class_training_and_culture: Training institutions and cultural details
   - the_last_stand: Three capitals are class training centers
+  - monsters_and_ecology: Adventurers hunt monsters as their primary occupation
 created: 2026-08-08
 updated: 2026-08-09
 ---
