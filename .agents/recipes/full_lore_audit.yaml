@@ -1,8 +1,7 @@
-﻿version: "1.0.0"
-title: "Full Lore Audit"
-description: "Runs A1-A4 narrative audits across ALL lore entities in the cache. Cross-references for contradictions, identifies gaps, synthesizes connections, and suggests improvements. Produces a comprehensive audit report."
-prompt: "Run a full narrative audit of all lore entities in the cache"
-instructions: |
+version: 1.0.0
+title: Full Lore Audit
+description: Runs A1-A4 narrative audits across ALL lore entities in the cache, category by category. Processes each category sequentially, generates a report per category, and pauses for user input before moving to the next. Final consolidated report at the end.
+instructions: |2
 
   You are a **master narrative auditor and worldbuilding consultant** for the Kythoria campaign setting.
 
@@ -10,57 +9,96 @@ instructions: |
 
   Perform a comprehensive audit of ALL lore entities in the cache at `C:\Users\tiago\Desktop\Lab\WA_Lore_Keeper\cache\entities\`. Apply the four mandatory audits (A1-A4) defined in `instructions/WORKFLOW.md` to every entity.
 
-  ## Phase 1  -  Survey
+  This audit runs **CATEGORY BY CATEGORY, IN SEQUENCE**. You process one entity category at a time, then **PAUSE and wait for user input** before moving to the next category. You do NOT spawn sub-agents or parallel delegates. You handle every file directly in your own context.
 
-  1. Read `cache/_index.md` to get the full manifest of all entity files.
-  2. Read `cache/_session_continuity.md` to understand the current state, open questions, and recent changes.
+  ## Phase 0  -  Initial Context (load once at start)
+
+  1. Read `cache/_index.md` to get the full manifest of entity files.
+  2. Read `cache/_session_continuity.md` for current state, open questions, recent changes.
   3. Read `instructions/WORKFLOW.md` (sections: Role Definition, A1-A4 audits, Cost Optimization Protocol).
   4. Read `instructions/CACHE_FORMAT.md` (the Audit Checklist section).
   5. Read `instructions/ENTITY_TYPES.md` (the "Before You Create" section).
+  6. Determine the list of entity categories present by listing `cache\entities\`.
 
-  ## Phase 2  -  Parallel Audit
+  ## Phase 1  -  Identify the Categories
 
-  Group the entity files into batches of at most 8 files per batch. For each batch, spawn a **parallel delegate** using `delegate(async: true)` with instructions to:
+  From the listing of `cache\entities\`, enumerate the entity type folders (e.g. `characters`, `locations`, `organizations`, `events`, `items`, `lore`, `campaign_notes`). Present this list to the user and state which category you will audit first.
 
-  > Read the following entity files: [list of files].
-  > Run A1 (Contradictions), A2 (Gaps), A3 (Connections), and A4 (Variants) on each.
-  > For A1, check against this canonical lore:
-  > - Timeline: Before Time -> ~400 YA (Abominable End) -> ~200 YA (Last Stand founding, Sealing of Khar'zul) -> ~20 YA (Balor's birth) -> Present
-  > - Geography: Three capitals (Skywatch east, Emberforge southeast, Weaveheart south-center), north=monster-held, west=contested frontier, south/east=reclaimed
-  > - Core truth: Gods orchestrated invasion, Originals (A, B, C) are hidden, B's lingering will drives hoarding instinct, Covenant holds blackmail over gods
-  > - Core themes: survival through unity, divine deception, three-way standoff, mortal defiance
-  > - The `related` field in each entity's frontmatter must link to at least 2-3 other entities
-  > - Entity IDs referenced in `related` must exist (check against the index)
-  > Return a structured report for each file.
+  ## Phase 2  -  Process Each Category, One at a Time
 
-  Use 6-8 parallel delegates to cover all entities. Wait for all to complete using `load(taskId)`.
+  For the current category, perform the following steps. After finishing, **PAUSE for user input** before moving to the next category.
 
-  ## Phase 3  -  Synthesis
+  ### 2.1  -  List the Files
+  List every entity file in `cache\entities\<category>\`. Some categories contain subfolders (e.g. `characters\Deity`, `characters\NPC`, `characters\PC`) - traverse all subfolders and include every `.md` file. If the category contains no entity files, report the category as empty and move to the pause step (2.5).
 
-  Once all delegates return, synthesize their findings into a comprehensive audit report with these sections:
+  ### 2.2  -  Read All Files in the Category
+  Read every entity file for the category. Batch the reads into as few tool calls as possible (Cost Optimization R7). Process them directly in your own context. Do NOT delegate to sub-agents.
 
-  ### A1  -  Contradictions Found
-  List every contradiction detected across all entities. For each:
+  ### 2.3  -  Apply the 4 Mandatory Audits to the Category
+  Run A1 through A4 across the category's content as a whole:
+
+  - **A1 - Contradictions:** Cross-reference the category's content against established canonical lore. Check against this canonical truth:
+    - Timeline: Before Time -> ~400 YA (Abominable End) -> ~200 YA (Last Stand founding, Sealing of Khar'zul) -> ~20 YA (Balor's birth) -> Present
+    - Geography: Three capitals (Skywatch east, Emberforge southeast, Weaveheart south-center), north=monster-held, west=contested frontier, south/east=reclaimed
+    - Core truth: Gods orchestrated invasion, Originals (A, B, C) are hidden, B's lingering will drives hoarding instinct, Covenant holds blackmail over gods
+    - Core themes: survival through unity, divine deception, three-way standoff, mortal defiance
+    - The `related` field in each entity's frontmatter must link to at least 2-3 other entities
+    - Entity IDs referenced in `related` must exist (check against the index)
+
+  - **A2 - Narrative Gaps:** Identify what's missing or underdeveloped within the category. Flag thin details, missing motivations, unexplored consequences, pending ToDo's.
+
+  - **A3 - Connections:** Synthesize connection opportunities between entities, both within the category and to the broader web. Link to existing entities, open questions, core themes.
+
+  - **A4 - Creative Variants:** For the most significant gaps in this category, present 1- 5 distinct options (Grounded, Twist, Question-Answering, Ambiguous, Tone Match) following the types defined in WORKFLOW.md.
+
+  ### 2.4  -  Generate the Category Report
+  Produce a dedicated report for the category with these sections:
+
+  #### A1 - Contradictions Found
+  List every contradiction detected. For each:
   - File and entity name
   - The contradiction (what conflicts with what)
-  - Severity: [emoji] Critical / [emoji] Moderate / [emoji] Minor
+  - Severity: [ok] Critical / [!] Moderate / [x] Minor
   - Suggested fix
 
-  ### A2  -  Narrative Gaps Identified
+  #### A2 - Narrative Gaps Identified
   List every gap found. For each:
-  - File and entity name (or "Global" if system-wide)
-  - The gap (what's missing or underdeveloped)
+  - File and entity name (or "Global" if category-wide)
+  - The gap (what's missing, underdeveloped, ToDo)
   - How it affects the setting's cohesion
   - Suggested expansion direction
 
-  ### A3  -  Connection Opportunities
+  #### A3 - Connection Opportunities
   List every new connection that should be created. For each:
-  - Entity A and Entity B
-  - The relationship (e.g., "enemies", "created_by", "knows_about")
+  - Source Entity and Target Entity
+  - The relationship (e.g. "enemies", "created_by", "knows_about")
   - Why it matters for the setting
 
-  ### A4  -  Creative Variants for Key Gaps
-  For the 3-5 most significant gaps, present 3-5 distinct options to fill them, following the variant types (Grounded, Twist, Question-Answering, Ambiguous, Tone Match).
+  #### A4 - Creative Variants for Key Gaps
+  For the 1-3 most significant gaps in this category, present 1-5 distinct options.
+
+  #### File Health Summary
+  A table for the category showing every entity file with:
+  - File name
+  - Size (KB)
+  - Under 12KB? [ok]/[x]
+  - Has `related` links? [ok]/[x]
+  - Has secrets? [ok]/[x] (if applicable to the entity type)
+  - A1 score (contradictions found)
+  - A2 score (gaps identified)
+
+  ### 2.5  -  PAUSE for Input
+  Present the category report to the user, then STOP. Ask the user whether to proceed to the next category (or to address any findings first). Do NOT automatically continue. Only move to the next category after the user provides input.
+
+  ## Phase 3  -  Final Consolidated Report (after all categories)
+
+  Once every category has been processed and the user has released each one, read and synthesize all category reports into a single comprehensive audit report saved to `cache\audit_report_YYYY-MM-DD_HH-mm.md` (using the date and time of execution). Include:
+
+  ### Roll-up Summary
+  - A1: Total contradictions found, categorized by severity
+  - A2: Total narrative gaps, categorized by type and severity
+  - A3: Total connection opportunities identified
+  - A4: Creative variants proposed
 
   ### Open Questions Status
   Cross-reference the audit findings against the open questions in `_session_continuity.md`:
@@ -68,36 +106,33 @@ instructions: |
   - Which questions remain unanswered?
   - Which questions should be created based on audit findings?
 
-  ### File Health Summary
-  A table showing every entity file with:
-  - File size (KB)
-  - Under 12KB? [ok]/[x]
-  - Has `related` links? [ok]/[x]
-  - Has secrets? [ok]/[x] (if applicable)
-  - A1 score (contradictions found)
-  - A2 score (gaps identified)
+  ### Full File Health Summary
+  A single table covering every entity file across all categories with:
+  - File name, category, size (KB), under 12KB [ok]/[x], has `related` [ok]/[x], has secrets [ok]/[x], A1 score, A2 score
 
-  ## Phase 4  -  Recommendations
-
+  ### Top 5 Recommendations
   End with your top 5 recommendations for improving the lore, ordered by priority. Each recommendation should include:
   - What to do
   - Why it matters
   - Estimated effort (Low/Medium/High)
   - Which files would be affected
+  - What pending ToDo's would tackle/What would unblock
 
-  ## Output Format
-
-  Save the audit report to `cache/audit_report_YYYYMMDD.md` using the date of execution.
-  Also present the full report in your response.
+  Present the full consolidated report in your response.
 
   ## Important Rules
 
   - Do NOT modify any entity files. This is a read-only audit.
   - Do NOT make up lore to fill gaps. Flag them for the user.
-  - Be thorough but concise. Each delegate should produce focused output.
+  - Do NOT spawn delegates, sub-agents, or parallel workers. Process each category directly and sequentially.
+  - PAUSE after every category and wait for user input before continuing. Do NOT skip this step.
+  - Be thorough but concise.
   - Respect the 12KB file size limit when checking entity health.
   - If you find a contradiction, check if it's intentional (a secret the user planted) before flagging.
-
+  - Follow the Cost Optimization Protocol from WORKFLOW.md (R7 - batch operations, R5 - don't re-read files).
+prompt: Run a full narrative audit of all lore entities in the cache
 settings:
-  max_turns: 100
   temperature: 0.3
+  max_turns: 100
+activities: []
+parameters: []
