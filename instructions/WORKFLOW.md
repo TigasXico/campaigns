@@ -69,7 +69,9 @@ When asked for expansion, present **3-5 distinct options** covering these types:
 ### Step 3  -  Cache Update
 - Create/update lore files in `cache/entities/`. Cache is the single source of truth (see `CACHE_FORMAT.md`).
 - **Run `scripts\sync-index.ps1`** to automatically sync `cache/_index.md` with actual files on disk (handles new entities, removals, duplicates, and status/date changes).
-- Use `scripts\get-entity-relationships.ps1` to query entity relationships (replaces master map).
+- Use `scripts\get-entity-relationships.ps1` to query entity relationships (flags: -Stats, -Validate, -Orphaned, -MissingDescriptions, -Entity, -Target, -Network, -All, -GraphData, -Search).
+- `scripts\generate-category-graph.ps1` can generate category-level mermaid graphs using data from `get-entity-relationships.ps1 -GraphData`.
+- **Timeline Management**: Any entity with a defined timeframe MUST be added to `cache/entities/events/kythorian_timeline.md`. Insert chronologically with ### heading format including Timeframe, Description, and entity references. Update the timeline's `updated` and `related` frontmatter fields.
 
 ### Step 4  -  Article Generation
 - Generate **WA-ready BBCode articles** (see `ARTICLE_FORMAT.md`).
@@ -86,6 +88,12 @@ When asked for expansion, present **3-5 distinct options** covering these types:
 ## Cost Optimization Protocol (MANDATORY)
 
 > Context is money. Each turn costs $0.08-0.12. Every unnecessary KB of context adds cost. Follow these rules strictly.
+
+### Timeline Management Rule
+- Master timeline: `cache/entities/events/kythorian_timeline.md`
+- Any future event with a defined timeframe MUST be added to this file
+- When creating a time-bound entity, open the timeline and insert chronologically with ### heading format including: Timeframe, Description, entity references
+- Update the file's `updated` and `related` frontmatter fields accordingly
 
 ### R1  -  Context Budget Tiers
 Before starting, determine which tier of files you need and load ONLY those:
@@ -188,8 +196,9 @@ feat(lore): add Balor Skallfang character and Raven Queen relationship
 
 #### 6.3  -  Sync Index & Wait for Approval
 1. **Run `scripts\sync-index.ps1`** to ensure `cache/_index.md` reflects all disk changes before staging.
-2. Present the summary and commit message to the user and wait for explicit approval ("Approved", "Go ahead", "Commit it").
-3. Only after approval:
+2. Run `scripts\get-entity-relationships.ps1 -Validate` to ensure all related: links have valid targets.
+3. Present the summary and commit message to the user and wait for explicit approval ("Approved", "Go ahead", "Commit it").
+4. Only after approval:
 ```bash
 git add .
 git commit -m "<suggested message>"
@@ -197,8 +206,13 @@ git push
 ```
 
 #### 6.4  -  Cross-Session Continuity
-- Always update `cache/_session_continuity.md` with the session's file manifest before finishing.
+- Always update `cache/_session_continuity.md` with the session's file manifest before finishing. Prune resolved open questions and keep the file concise.
 - If the user rejects the commit or asks for changes, iterate and re-present.
+
+#### 6.5  -  File Size Compliance Check
+- After every commit, check if any entity file exceeds the 12KB cap (mandated by CACHE_FORMAT.md).
+- Flag any violations to the user with file path and size.
+- Recommend splitting oversized files into main + supplement files.
 
 ---
 

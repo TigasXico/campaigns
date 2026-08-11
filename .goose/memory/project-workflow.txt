@@ -1,23 +1,44 @@
-﻿# # WA WorldAnvil abbreviationcache structure file locations
+# WA Lore Keeper - Project Workflow
 
-WA = WorldAnvil. Always use this abbreviation when referring to WorldAnvil in this project.The cache is the single source of truth. Located at cache/. Key files: _index.md (entity registry table), _master_relationships_map.md (bidirectional relationship graph with ->/<-/<-> symbols). Entity files go in cache/entities/<type>/<entity_id>.md. Generated BBCode articles go in articles/output/<entity_id>.bbcode.# # 
+## Abbreviations
+WA = WorldAnvil. Always use this abbreviation when referring to WorldAnvil.
 
-BBCode WA articles subscriber groups secrets
+## Core Concepts
+- **Cache**: Single source of truth. Located at `cache/`. Key files: `_index.md` (entity registry table).
+- **Entity files**: `cache/entities/<type>/<entity_id>.md` with YAML frontmatter (id, type, name, status, tags, related, secrets, created, updated) and markdown body sections.
+- **Generated BBCode articles**: `articles/output/<entity_id>.bbcode`
+- **Entity types**: character, location, organization, event, item, lore
 
-entities cache schemas# 
-
-workflow process WA Lore KeeperWA articles use BBCode format. Cross-article links: [article:entity_id]Display Name[/article]. Secret content: [subscribergroup:group_name]content[/subscribergroup]. Subscriber groups: gm-only (DM secrets), all-party (shared party knowledge), player-character-N (per-character secrets).
-Entity types available in the lore cache: character, location, organization, event, item, lore. Each entity file is stored at cache/entities/<type>/<entity_id>.md with YAML frontmatter (id, type, name, status, tags, related, secrets, created, updated) and markdown body sections.
+## BBCode Format
+WA articles use BBCode format. Cross-article links: `[article:entity_id]Display Name[/article]`. Secret content: `[subscribergroup:group_name]content[/subscribergroup]`. Subscriber groups: gm-only (DM secrets), all-party (shared party knowledge), player-character-N (per-character secrets).
 
 
 
 The WA Lore Keeper workflow has 6 steps: (1) Record voice note, (2) Transcribe via Whisper to clipboard, (3) Goose processes transcription & summarizes needed changes, (4) Goose updates local cache (entities, relationships, index), (5) Goose generates BBCode articles for WA with secrets/subscriber groups, (6) Goose presents a commit summary with file changes and content details, suggests a commit message, and waits for user approval before committing and pushing.
 
+## Timeline Management Rule
+- Master timeline: `cache/entities/events/kythorian_timeline.md`
+- Any future event with a defined timeframe MUST be added to this file
+- When creating a time-bound entity, open the timeline and insert chronologically with ### heading format including: Timeframe, Description, entity references
+- Update the file's `updated` and `related` frontmatter fields accordingly
+
+## Relationship & Index Maintenance
+- Use `scripts\get-entity-relationships.ps1` for relationship queries (replaces old _master_relationships_map.md)
+  - Available flags: -Stats, -Validate, -Orphaned, -MissingDescriptions, -Search, -Entity, -Target, -Network, -All, -GraphData
+- Run `scripts\sync-index.ps1` after every session to sync `cache/_index.md` with actual files on disk
+- `scripts\generate-category-graph.ps1` generates category-level mermaid graphs using data from `get-entity-relationships.ps1 -GraphData`
+
 ## Critical Commit Protocol
 - After EVERY session of changes, Goose MUST present a changes summary listing each file modified/created with what changed in each.
 - Goose MUST suggest a descriptive commit message in conventional format (feat|fix|docs(scope): description).
 - Goose MUST wait for explicit user approval before running `git add`, `git commit`, or `git push`.
-- Always update cache/_session_continuity.md with the session's file manifest before finishing.
+- Always update cache/_session_continuity.md with the session's file manifest and pruned open questions before finishing.
+- Check all entity files for 12KB cap compliance after every commit. Flag violations to user.
+
+## ASCII-Only Content Rule
+- All project text files must use only ASCII characters (U+0000 to U+007F)
+- Replace ` -- ` with ` -- ` (em dash with spaced hyphens), `->` / `<-` instead of arrow characters, `[ok]` / `[x]` / `[!]` instead of emoji, straight quotes `"` `'` instead of curly quotes, `...` instead of ellipsis
+- Verify no Unicode characters were introduced before saving or committing any file
 
 ## Sub-Agent Delegate Protocol
 When delegating work to a sub-agent using the `delegate` tool:
@@ -25,4 +46,12 @@ When delegating work to a sub-agent using the `delegate` tool:
 2. **Working directory**  -  Always set the `working_dir` parameter explicitly so the sub-agent knows where to write the output file.
 3. **Max turns**  -  Set `max_turns` to a reasonable limit to control costs (delegates can burn tokens fast).
 4. **After completion**  -  Load the output file from disk rather than relying solely on the task return value.
+
+## Audit Gate
+Before creating, modifying, or generating any lore file, run all four audits:
+- **A1 - Contradictions**: Cross-reference against ALL established lore
+- **A2 - Narrative Gaps**: Identify what's missing or underdeveloped
+- **A3 - Connections**: Link new content back via related: frontmatter
+- **A4 - Creative Variants**: Present 3-5 distinct options (Grounded, Twist, Question-Answering, Ambiguous, Tone Match)
+- Present audit results to user BEFORE making changes. Never generate lore autonomously.
 

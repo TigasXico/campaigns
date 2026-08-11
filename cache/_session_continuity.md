@@ -7,86 +7,61 @@
 
 ## Work Progress
 
-| Category | Notes |
-|----------|-------|
+| Category | Status | Notes |
+|----------|--------|-------|
+| Audit: All 7 categories | [ok] Complete | 27/27 contradictions resolved. 42 files fixed across 2 passes. |
+| Entity count | 90 files | All entity files have related: entries and valid links. |
+| Index | [ok] Synced | _index.md reflects all 90 entities on disk. |
 
 ---
 
 ## Open Question Tracker
 
-### Balor Skallfang (3 open)
-- [?] Seraphina's intelligence cache in northeastern ruins
-- [?] The Medallion's hidden compartment -- coordinates in Old Abyssal
-- [?] The Avatar state -- can Balor trigger it intentionally?
+### Player-Dependent Backstories (4)
+- [?] sanzo -- entirely empty, needs player (Guilherme/Gui) input
+- [?] bardolemeu_romeo -- family name, theaters, family members undefined
+- [?] nyra -- mystery box, blue dragon, parents, divine attacker all TBD
+- [?] zan_vaelis_zandorian -- experimenter, escape method, teleport stability, family TBD
 
-### Gods & Pantheon (2 open)
-- [?] The Originals' true names (A, B, C)
-- [?] Vesper/Raven Queen boundary (deferred)
-
-### Monsters & Ecology (10 open)
-- [?] The Four Unnamed Generals -- 2 defeated, 2 retreated (NOTE: session_continuity had math error "3+2=5 for 4 unnamed"; corrected to 2+2=4)
-- [?] Remaining Loyalist Command
-- [?] Crystal-Corrupted Apex -- corrupted dragon?
-- [?] Resurrection Ritual -- exact method
-- [?] Mortal Discoverers -- which arcanists know?
-- [?] The Blackmail Threshold -- CC vs gods leverage
-- [?] Monster Army's Breaking Point
-- [?] Detailed Monster Ecology -- tainted zones
-- [?] Monster Economy Details -- guilds, merchants
-- [?] Monster Categories by Plane -- open for flexibility
-
-### Society, Geography & Place Names (10 open)
-- [?] The Great Circuit -- Crassian's Dust Circle
-- [?] NE settlement cluster names, SE port name, E port name
-- [?] Crystal cave deeper exploration
-- [?] Pre-invasion culture -- Era of Foundation
-- [?] Notable NPCs -- city leaders, guildmasters
-- [?] The black market -- underworld faction potential
-- [?] Specific guild detail write-ups
-- [?] Exact First Alliance timeline
-- [?] Calendar festival articles -- create pages for 8 festivals
-
-### Crimson Covenant & Blade (2 open)
+### GM Design Decisions (12)
+- [?] Four Unnamed Generals -- names, creature types, domains, status (2 defeated, 2 retreated)
+- [?] Vesper / Raven Queen boundary -- separate gods or aspects?
+- [?] Blade's journey -- how did it pass from Skallfang to Covenant (~150 to ~20 YA)?
+- [?] Planar Pact details -- which gods made deals with which planes?
+- [?] Covenant founders -- name the original dissident scholars
+- [?] Three Kings -- name the founders of the Last Stand
+- [?] Era of Foundation -- pre-invasion history at high level
+- [?] Source of demonic tissue -- Covenant experiments origin
 - [?] Larger evil council -- is CC part of something bigger?
+- [?] Monster Ecology details -- tainted zones, nesting grounds
+- [?] Monster Economy details -- named merchants and guilds
 - [?] Rite of Ash exact requirements
 
-### Kaelyn (5 open)
-- [ok] Solyn's current status -- RESOLVED: solyn_velkyn.md (acting leader of House Velkyn, hides Lyndale)
-- [ok] Lyndale's current status -- RESOLVED: lyndale_velkyn.md (burned, hidden, vengeful)
-- [ok] Azure Boneyard -- PARTIALLY RESOLVED: secret in the_azure_boneyard.md (can be found via B-resonance)
-- [?] Crystal heart growth -- triggers, acceleration, control
-- [?] Connection to other B-touched
-- [?] Black Willow's crystal cave secrets
-- [?] Seraphine's hidden records
-- [?] Azure Boneyard -- can it be found again?
+### File Size Cap Violations (4)
+- [!] kaelyn.md -- 18.6KB (needs split: main + backstory supplement)
+- [!] odessa_merikh.md -- 16.7KB (needs split: main + GM notes)
+- [!] balor_skallfang.md -- 14.8KB (needs split: main + backstory)
+- [!] aurora_asteria.md -- 12.6KB (trim or split GM notes)
 
-### Aurora (4 open)
-- [?] Polaris exact fate (captured/experimented/Drow/Shadow Elf/monster pack leader)
-- [?] Elarwyn's exact location in Verdant Reaches
-- [?] White fox will return?
-- [?] What do the hidden constellations spell out?
+### Naming Gaps (6)
+- [?] The Eastern Port -- no proper name
+- [?] The Southeastern Port -- no proper name
+- [?] NE Settlement Cluster -- unnamed major + 3 minor settlements
+- [?] Old Capital of Kythoria -- unnamed (High Septon location)
+- [?] Frontier Forward Operating Base -- unnamed
+- [?] The Four Barbarian Tribes -- unnamed
 
-### Aegon (5 open)
-- [?] Who was Aegon's biological father? Why abandon them?
-- [?] What exactly did Paul know?
-- [?] Who attacked Paul's chapel? (GM note: Order framed CC)
-- [?] Jealous/fanatic members in the Order
-- [?] B's influence on Aegon -- will visions reveal truth?
-
-### Seraphina Vex (4 open)
-- [?] Intelligence caches -- what's in each?
-- [?] Second journal location
-- [?] Medallion's second purpose
-- [?] Other Vex bloodline descendants alive?
-
-### Odessa Merikh (6 open)
-- [?] **Where is Eryx's proof?** Hidden cache, guild intelligence, or lost?
-- [?] **Where exactly does Valen command?** Which monster-held territory?
-- [?] **What will Odessa do after Valen is dead?** She has no plan beyond the kill.
-- [?] **Will she learn the truth about her parentage?** And if so, how?
-- [?] **Who else in the elven military knew about the surrender to the Covenant?** Are there other survivors who could be implicated?
-- [?] **Will the Venom-Weavers support Odessa's final mission?** Or will they try to hold her back?
-- [?] **What became of Odessa's biological mother?** Alive, dead, captive, or lost? A source of closure or another wound?
+### Other Open Questions
+- [?] The Originals' true names (A, B, C)
+- [?] Seraphina's intelligence cache in northeastern ruins
+- [?] The Medallion's hidden compartment -- coordinates in Old Abyssal
+- [?] Kaelyn: crystal heart growth triggers, Black Willow's cave secrets, Seraphine's records
+- [?] Paul's chapel attack (Order of Scales framed CC on Aurelius's order)
+- [?] Crystal cave deeper exploration beneath capitals
+- [?] Larger evil council -- is CC part of something bigger?
+- [?] The Great Circuit -- Crassian's Dust Circle
+- [?] Calendar festival articles -- create pages for festivals
+- [?] Notable NPCs -- city leaders, guildmasters
 
 ---
 
