@@ -55,7 +55,8 @@ param(
     [switch]$Validate,
     [string]$Search = "",
     [ValidateSet("List","Table","Json")]
-    [string]$Format = "List"
+    [string]$Format = "List",
+    [switch]$GraphData
 )
 
 $entitiesDir = "cache/entities"
@@ -92,9 +93,19 @@ foreach ($file in $files) {
     }
     $eName = if ($nameMatch.Success) { $nameMatch.Groups[1].Value.Trim().Trim('"') } else { $entityId }
 
+    # Determine sub-type from directory path
+    $subType = $eType
+    if ($eType -eq 'character') {
+        $ffp = $file.FullName
+        if ($ffp -match '\\Deity\\') { $subType = 'Deity' }
+        elseif ($ffp -match '\\NPC\\') { $subType = 'NPC' }
+        elseif ($ffp -match '\\PC\\') { $subType = 'PC' }
+    }
+
     $entityInfo[$entityId] = @{
         file = $file.FullName;
         type = $eType;
+        subType = $subType;
         name = $eName
     }
 
@@ -436,6 +447,98 @@ if ($All) {
         Write-Host ""
     }
     Write-Host "=== END OF MAP ==="
+    exit
+}
+
+# --- Command: GraphData (machine-readable output for visualizations) ---
+if ($GraphData) {
+    # Define category order including character sub-types
+    $catOrder = @('lore','Deity','NPC','PC','organization','location','event','item','campaign_note')
+    $catLabels = @{
+        'lore' = 'Lore Topics'
+        'Deity' = 'Deities'
+        'NPC' = 'NPCs'
+        'PC' = 'Player Characters'
+        'organization' = 'Organizations'
+        'location' = 'Locations'
+        'event' = 'Events'
+        'item' = 'Items'
+        'campaign_note' = 'GM Notes'
+    }
+
+    # Build category index
+    $catIdx = @{}
+    for ($i = 0; $i -lt $catOrder.Count; $i++) { $catIdx[$catOrder[$i]] = $i }
+
+    # Build cross-category relationship matrix
+    $matrix = @()
+    for ($i = 0; $i -lt $catOrder.Count; $i++) {
+        $row = @()
+        for ($j = 0; $j -lt $catOrder.Count; $j++) { $row += 0 }
+        $matrix += $row
+    }
+
+    foreach ($srcId in $graph.Keys) {
+        $srcInfo = $entityInfo[$srcId]
+        $srcSubType = if ($srcInfo) { $srcInfo.subType } else { 'unknown' }
+        $si = $catIdx[$srcSubType]
+        if ($null -eq $si) { continue }
+
+        foreach ($tgtId in $graph[$srcId].Keys) {
+            $tgtInfo = $entityInfo[$tgtId]
+            $tgtSubType = if ($tgtInfo) { $tgtInfo.subType } else { 'unknown' }
+            $ti = $catIdx[$tgtSubType]
+            if ($null -eq $ti) { continue }
+            if ($si -ne $ti) { $matrix[$si][$ti]++ }
+        }
+    }
+
+    # Build anonymous edge list
+    $sortedIds = @($entityInfo.Keys | Sort-Object)
+    $nodeIndex = @{}
+    for ($i = 0; $i -lt $sortedIds.Count; $i++) { $nodeIndex[$sortedIds[$i]] = $i }
+
+    $anonymizedEdges = @()
+    $edgeSet = @{}
+    foreach ($srcId in $sortedIds) {
+        $targets = $graph[$srcId]
+        if (-not $targets) { continue }
+        $si = $nodeIndex[$srcId]
+        foreach ($tgtId in $targets.Keys) {
+            $ti = $nodeIndex[$tgtId]
+            if ($null -eq $ti) { continue }
+            if ($si -eq $ti) { continue }
+            $key = if ($si -lt $ti) { "$si-$ti" } else { "$ti-$si" }
+            if (-not $edgeSet.ContainsKey($key)) {
+                $edgeSet[$key] = $true
+                $anonymizedEdges += @{ from = $si; to = $ti }
+            }
+        }
+    }
+
+    # Build node category list (for coloring)
+    $nodeCats = @()
+    foreach ($id in $sortedIds) {
+        $info = $entityInfo[$id]
+        $st = if ($info) { $info.subType } else { 'unknown' }
+        $nodeCats += $st
+    }
+
+    # Output JSON
+    $output = @{
+        totalNodes = $sortedIds.Count
+        totalEdges = $anonymizedEdges.Count
+        categoryOrder = $catOrder
+        categoryLabels = $catLabels
+        categoryMatrix = $matrix
+        edges = $anonymizedEdges
+        nodeCategories = $nodeCats
+    }
+
+    $json = $output | ConvertTo-Json -Depth 5 -Compress
+    Write-Host "GRAPH_DATA_START"
+    Write-Host $json
+    Write-Host "GRAPH_DATA_END"
     exit
 }
 
