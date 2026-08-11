@@ -5,6 +5,10 @@ name: "Monster Economy & Ecology"
 status: draft
 tags:
   - economy, ecology, crafting, alchemy, monster_parts, trade
+secrets:
+  - text: "The black market for monster parts is heavily infiltrated by Crimson Covenant agents seeking rare materials for their experiments, especially monster cores and crystal-corrupted tissue."
+    access: gm-only
+
 related:
   - monsters_and_ecology: Sources of monster parts and ecological context
   - the_adventurers_guild: Primary supplier of monster parts

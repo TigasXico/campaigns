@@ -13,6 +13,7 @@ related:
   - the_order_of_the_protectors: Knightly sub-chapter serving him
   - paul: Aurelius commanded Paul's death when his visions shifted to B's consciousness
   - aegon: Aegon swears his oath to Aurelius, but his visions are shifting to B
+  - races_and_ancestries: Falsely claims Gnomes
 created: 2026-08-08
 updated: 2026-08-10
 secrets:

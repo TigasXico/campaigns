@@ -9,7 +9,8 @@ related:
   - cosmology_and_the_planes: Claims domain in the Outer Planes
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
-  created: 2026-08-08
+  - races_and_ancestries: Falsely claims Genasi
+created: 2026-08-08
 updated: 2026-08-09
 ---
 ## Overview

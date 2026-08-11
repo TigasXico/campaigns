@@ -10,7 +10,7 @@
 | aurora_asteria                       | character      | Aurora Asteria                           | draft  | 2026-08-10 |
 | balor_skallfang                      | character      | Balor Skallfang (The Tainted)            | draft  | 2026-08-09 |
 | bardolemeu_romeo                     | character      | Bardolemeu Romeo                         | draft  | 2026-08-10 |
-| class_training_and_culture           | lore           | Class Training & Culture                 | draft  | 2026-08-09 |
+| class_training_and_culture           | lore           | Class Training & Culture                 | draft  | 2026-08-11 |
 | cosmology_and_the_planes             | lore           | Cosmology & The Planes                   | draft  | 2026-08-08 |
 | crassian                             | character      | Crassian                                 | draft  | 2026-08-09 |
 | culture_and_society                  | lore           | Culture & Society of the Mortal Races    | draft  | 2026-08-09 |
@@ -74,6 +74,7 @@
 | the_order_of_the_raven               | organization   | The Order of the Raven                   | draft  | 2026-08-09 |
 | the_order_of_the_scales              | organization   | The Order of the Scales                  | draft  | 2026-08-09 |
 | the_originals                        | lore           | The Originals                            | draft  | 2026-08-08 |
+| the_pack_of_tyra                     | organization   | The Pack of Tyra                         | draft  | 2026-08-11 |
 | the_raven_queen                      | character      | The Raven Queen                          | draft  | 2026-08-09 |
 | the_sealing_of_kharzul               | event          | The Sealing of Khar'zul                  | draft  | 2026-08-09 |
 | the_skallfang_clan                   | organization   | The Skallfang Clan                       | draft  | 2026-08-09 |
@@ -84,10 +85,10 @@
 | the_verdant_reaches                  | location       | The Verdant Reaches                      | draft  | 2026-08-10 |
 | the_vigil_of_the_dusk                | organization   | The Vigil of the Dusk                    | draft  | 2026-08-09 |
 | the_world_and_geography              | lore           | The World & Geography  -  Aetris and ... | draft  | 2026-08-08 |
-| tyra                                 | character      | Tyra                                     | draft  | 2026-08-09 |
+| tyra                                 | character      | Tyra                                     | draft  | 2026-08-11 |
 | valen_healoris                       | character      | Valen Healoris                           | draft  | 2026-08-11 |
 | vesper                               | character      | Vesper                                   | draft  | 2026-08-09 |
-| vorn                                 | character      | Vorn                                     | draft  | 2026-08-09 |
+| vorn                                 | character      | Vorn                                     | draft  | 2026-08-11 |
 | weaveheart                           | location       | Weaveheart                               | draft  | 2026-08-09 |
 | world_and_geography_design           | campaign_note  | World & Geography Design Decisions       | active | 2026-08-09 |
 | zan_vaelis_zandorian                 | character      | Zan (Vaelis Zandorian)                   | draft  | 2026-08-10 |

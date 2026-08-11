@@ -58,6 +58,6 @@ The blue crystals in the Azure Boneyard are **arcane-reactive crystals**  -  con
 
 ## Open Questions
 
-1. [hourglass] **Can the Azure Boneyard be found again?** The fissure Kaelyn fell through may have collapsed. Other entrances may exist.
+1. [ok] **Can the Azure Boneyard be found again?** Yes — the crystals emit a faint resonance that other B-touched individuals (Aurora, Aegon) might detect. Kaelyn herself could retrace her path with sufficient motivation.
 2. [hourglass] **Does the dragon's consciousness linger?** Kaelyn felt a connection to the dragon's essence. Could the dragon still be present in some form through the crystals?
 3. [hourglass] **More crystals?** Are there larger deposits deeper in the cave system?

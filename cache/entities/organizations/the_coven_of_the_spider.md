@@ -8,7 +8,6 @@ tags:
 related:
   - lolth_the_spider_queen: The church of this goddess
   - culture_and_society: One of the major churches of the Last Stand
-  - the_ecumenical_council: Member of the interfaith governing body
   - races_and_ancestries: Drow are the primary worshippers
 secrets:
   - text: "Lolth knows she was once part of a greater primordial entity but values her independent existence. Her domain is a web-choked abyss in the Outer Planes where she traps the souls of devoted followers."

@@ -57,4 +57,4 @@ Frozen North (monster stronghold) -> Temperate Heartlands (capitals) -> Subtropi
 Three-era structure gives clear history. North/south divide drives exploration. Young civilization (~200 years) explains fluid politics. 70%+ knowledge loss creates natural dungeons.
 
 ## Open Questions
-Calendar month names, Era of Foundation details, settlement naming, map digitization.
+Era of Foundation details, settlement naming, map digitization.

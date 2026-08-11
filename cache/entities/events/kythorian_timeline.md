@@ -138,13 +138,13 @@ Gods created pantheon conflict. Lolth, Raven Queen, Vorn scapegoated for invasio
 ### After Reconquering  -  Calendar Standardized
 10-month, 200-day calendar. Months named after gods.
 
-### ~143 YA  -  Valen Healoris Defects to Monster Army
+### ~91 YA  -  Valen Healoris Defects to Monster Army
 Elven general Valen Healoris and his entire unit defect to the monster army voluntarily, for power and survival. Elven leadership suppresses knowledge of the defection. **Eryx Merikh** deserts with proof of the betrayal — and with evidence that elven leadership surrendered captives to the Crimson Covenant's experiments.
 
-### ~143 YA  -  Odessa Merikh Conceived
+### ~91 YA  -  Odessa Merikh Conceived
 Valen Healoris, during a raid on a human village, rapes a woman. The child conceived will become **Odessa Merikh** — though neither parent will ever know her name.
 
-### ~143 YA  -  Eryx and Satriya Go into Hiding
+### ~91 YA  -  Eryx and Satriya Go into Hiding
 Eryx Merikh and Satriya (Valen's former love, who chose Eryx) flee into remote woodlands. Satriya establishes a runic barrier around their cabin. Eryx sends a hidden cache of proof to a secure location.
 
 ### ~78 YA  -  The Merikh Cabin Attack

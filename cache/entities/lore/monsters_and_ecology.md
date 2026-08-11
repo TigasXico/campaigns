@@ -5,6 +5,9 @@ name: "Monsters & Ecology of Kythoria"
 status: draft
 tags:
   - monsters, ecology, invasion, planar_breaches, hoarding, kharzul
+secrets:
+  - text: "The remaining two generals in hiding are not dormant. One has begun to succumb to the hoarding instinct, amassing a hoard of arcane artifacts and crystals. This corrupted general could become a major boss encounter — and the players' first clue that something deeper than mere monster greed is at work."
+    access: gm-only
 related:
   - the_arcane_weave: B's remnants carry a subconscious desire to become whole again
   - the_arcane_reactive_crystals: Crystals amplify B's influence on nearby monsters

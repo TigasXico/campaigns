@@ -9,6 +9,7 @@ related:
   - economy: Major sea trade hub; provides sea connections for trade
   - kythoria: Located on the east coast of Kythoria
   - the_southeastern_port: Sister port to the southeast
+  - the_northeast_settlement_cluster: Trade route connects the eastern coast to the mint cluster
 secrets:
   - text: "The eastern port was the last settlement to fall during The Abominable End and the first to be reclaimed during The Rise of the Mortals. Its people remember the invasion more vividly than most, and fragments of first-hand accounts are preserved in its archives."
     access: gm-only

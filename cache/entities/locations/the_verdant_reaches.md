@@ -10,7 +10,10 @@ related:
   - aurora_asteria: Aurora's birthplace and childhood home; born in Elarwyn, a hidden community within the Verdant Reaches
   - primal_nature_magic: The forest is saturated with primal arcane energy absorbed from B's sacrifice
   - the_arcane_weave: The forest may contain ley line convergences where the Weave is especially dense
-  - the_circle_of_the_wild: Druids from the Circle of the Wild may have ties to or knowledge of the Verdant Reaches
+  - the_circle_of_the_wild: Druids from the Circle of the Wild guard Elarwyn and maintain the forest's balance
+secrets:
+  - text: "The skylight cave where Aurora first saw the hidden constellations sits directly on a ley line convergence. The Weave is thick enough there that B's essence patterns become visible — but prolonged exposure may cause visions or attract the attention of B-touched entities."
+    access: gm-only
 created: 2026-08-10
 updated: 2026-08-10
 ---

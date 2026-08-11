@@ -16,9 +16,7 @@ related:
   - balor_skallfang: Khar'zul's blade may resonate with the crystals
   - kharzuls_blade: The blade may interact with or be influenced by crystals
 secrets:
-  - text: "The crystals are not inert. They are remnants of B's subconscious will, carrying the lingering desire to become whole again. This influence manifests as a hoarding instinct in nearby creatures  -  especially monsters  -  who feel compelled to gather magical items and currency metals."
-    access: gm-only
-  - text: "The crystals are simply a byproduct of the sacrifice  -  condensed arcane energy stabilized by the Material Plane. They have no conscious intent to protect or harm. The 'will' they carry is an echo, not a purpose."
+  - text: "The crystals carry an echo of B's subconscious will  -  a real but non-conscious desire to become whole again. This is not a purposeful intent, but a residual pull that manifests as a hoarding instinct in nearby creatures, especially monsters and dragons. The echo is real; the consciousness is not."
     access: gm-only
   - text: "Different crystals react differently to each school of magic because each fragment of B carried a different 'flavor' of its essence."
     access: gm-only

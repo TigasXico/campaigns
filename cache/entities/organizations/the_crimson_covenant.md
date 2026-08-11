@@ -31,7 +31,6 @@ secrets:
     access: gm-only
   - text: "The Covenant fabricated the 'Apostle' backstory for Seraphina Vex after her escape. She was never an Apostle  -  she was a prisoner who escaped. The lie was designed to cover their shame at losing both the blade and the vessel."
     access: gm-only
-    access: gm-only
   - text: "The Crimson Covenant was framed for Paul's murder by the Order of the Scales, acting on Aurelius's command. The Covenant would never have killed Paul  -  as a B-touched visionary, he would have been a valuable asset to their cause. The frame is a deliberate deception by the gods to turn potential allies against the Covenant."
     access: gm-only
 created: 2026-08-08

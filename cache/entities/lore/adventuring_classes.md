@@ -5,6 +5,11 @@ name: "Adventuring Classes of Kythoria"
 status: draft
 tags:
   - classes, adventurers, magic_sources, training, culture
+secrets:
+  - text: "The church hierarchy quietly watches monks and druids — their magic does not flow through the gods, which makes them a theological vulnerability. Their traditions are labelled 'rare' and 'ancient' to discourage widespread interest, and their numbers are kept small by design."
+    access: gm-only
+  - text: "Warlock pacts through the Weave mean any sufficiently powerful entity can grant magic — including B's crystal cluster if it has achieved sentience. The gods do not know about all active patrons."
+    access: gm-only
 related:
   - the_arcane_weave: The Weave is the source of arcane magic
   - primal_nature_magic: Nature absorbed arcane energy, enabling druidic/ranger magic

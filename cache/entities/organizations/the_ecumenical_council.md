@@ -22,10 +22,9 @@ related:
   - the_vigil_of_the_dusk: Member of the Council
   - the_coven_of_the_spider: Banned  -  blamed for the monster invasion
   - the_order_of_the_raven: Banned  -  blamed for the monster invasion
-  - the_iron_host: Banned  -  blamed for the monster invasion
   - the_pack_of_tyra: Member church
-
-
+  - the_gods_and_the_deception: The Council is the public face of the divine deception
+  - the_crimson_covenant: The Council's member churches are weaponized against Covenant operatives
 created: 2026-08-09
 updated: 2026-08-09
 ---

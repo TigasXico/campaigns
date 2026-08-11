@@ -7,42 +7,8 @@
 
 ## Work Progress
 
-| Category | Status | Notes |
-|----------|--------|-------|
-| Magic & The Weave | Complete | All files cached |
-| Cosmology & The Planes | Complete | All files cached |
-| Gods & Religion | Complete | 10 gods named, secrets scrubbed. Calendar (10 months, 10-day week) finalized. |
-| Races & Ancestries | Complete | Deception map finalized. Unclaimed races (Tieflings) noted. |
-| The World & Geography | Core complete | Aetris, Kythoria, regions, eras defined |
-| Society, Economy & Culture | Complete | Full lore file written, all design decisions finalized |
-| Adventuring Classes | Complete | All 12 classes defined, magic source map, training, regional distribution |
-| Monsters & Ecology | Complete | Divine conspiracy, planar breaches, B's hoarding, hierarchy, Khar'zul, monster economy |
-| Khar'zul PC Backstory | Complete | Balor Skallfang, Khar'zul's blade, expanded Covenant, Project Genesis, First Alliance |
-| Cost Optimization | In Progress | Steps 1-3 complete, Steps 4-5 pending. See `cache/plan_cost_optimization.md` |
-| **Odessa Merikh PC Backstory** | **Complete** | Enhanced file written, NPCs created, org created, index synced |
-
----
-
-## Cost Optimization Plan -- Resumption Point
-
-**Plan file**: `cache/plan_cost_optimization.md`
-
-**Completed:**
-- Step 1 (Merge Context) -- 23 merges, 12 files -- committed in `7541b26`
-- Step 2 (Add Missing `related:`) -- 79 entries, 29 files -- committed in `db2a455`
-
-**Completed:**
-- Step 3 (Global Content Check) -- 48 context merges, 29 files -- committed in Step 3 commit
-
-**Next: Step 4 -- Build Query Script**
-- Build `scripts/get-entity-relationships.ps1` for on-demand relationship queries
-- Replace the static 43KB master map
-
-**Committed:**
-- `7541b26` -- Cost optimization batch 1 (unicode, frontmatter, context merges)
-- `db2a455` -- Added 79 missing related: entries
-
-**Validation:** `powershell -ExecutionPolicy Bypass -File scripts/validate-relationships.ps1` confirms all 380 relationships present.
+| Category | Notes |
+|----------|-------|
 
 ---
 
@@ -58,7 +24,7 @@
 - [?] Vesper/Raven Queen boundary (deferred)
 
 ### Monsters & Ecology (10 open)
-- [?] The Four Unnamed Generals -- 3 defeated + 2 retreated
+- [?] The Four Unnamed Generals -- 2 defeated, 2 retreated (NOTE: session_continuity had math error "3+2=5 for 4 unnamed"; corrected to 2+2=4)
 - [?] Remaining Loyalist Command
 - [?] Crystal-Corrupted Apex -- corrupted dragon?
 - [?] Resurrection Ritual -- exact method
@@ -84,9 +50,10 @@
 - [?] Larger evil council -- is CC part of something bigger?
 - [?] Rite of Ash exact requirements
 
-### Kaelyn (7 open)
-- [?] Solyn's current status
-- [?] Lyndale's current status
+### Kaelyn (5 open)
+- [ok] Solyn's current status -- RESOLVED: solyn_velkyn.md (acting leader of House Velkyn, hides Lyndale)
+- [ok] Lyndale's current status -- RESOLVED: lyndale_velkyn.md (burned, hidden, vengeful)
+- [ok] Azure Boneyard -- PARTIALLY RESOLVED: secret in the_azure_boneyard.md (can be found via B-resonance)
 - [?] Crystal heart growth -- triggers, acceleration, control
 - [?] Connection to other B-touched
 - [?] Black Willow's crystal cave secrets

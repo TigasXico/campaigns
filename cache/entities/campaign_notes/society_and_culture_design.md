@@ -47,15 +47,15 @@ Mortal races pushed to brink by 400 years of monster invasion. Society is young 
 - Industries: mining, smithing, agriculture, arcane, monster hunting, military
 
 ### Religion
-- 8 gods; consideration to expand to 10
+- 10 gods (7 recognized by Ecumenical Council, 3 banned: Lolth, Raven Queen, Vorn)
 - Manufactured divine conflict (gods maintain fake rivalries)
 - Ecumenical Council mediates interfaith disputes
 
 ### Calendar
-10 months x 4 weeks x 5 days = 200 days. Weekdays: Dawn, Forge, Tide, Scale, Dusk (pre-invasion concepts, not gods). 8 festivals + Day of Silence.
+10 months x 4 weeks x 5 days = 200 days. Months named after gods (creation order: Kaelthor, Aurelius, Vesper, Aloria, Tyra, Raven Queen, Thalkis, Crassian, Vorn, Lolth). Weekdays: Wildtide, Lawrest, Duskfall, Life-dawn, Fangrest, Gravefall, Sparktide, Cointide, Warmorn, Shadowrest. 8 festivals + Day of Silence.
 
 ### Adventurers' Guild
-Continent-wide, HQ in Weaveheart. Ranks: Bronze/Silver/Gold/Mithral. Name and member nickname TBD.
+Continent-wide guild called **Drakh Ix'thar** (Draconic for "The Great Dragon Hunt"). Members called **Ix'thari**. HQ in the old capital at the center of the continent. Ranks named in Draconic after legendary beasts, highest: Drah Ix'thari (Dragon Hunter).
 
 ---
 
@@ -63,4 +63,4 @@ Continent-wide, HQ in Weaveheart. Ranks: Bronze/Silver/Gold/Mithral. Name and me
 Currency secret is campaign-defining. Manufactured conflict means churches are tools of divine manipulation. Fluid governance creates natural adventure hooks.
 
 ## Open Questions
-Pantheon count (8 vs 10), festival articles, divine conflict map, guild name, month names, settlement naming.
+Divine conflict map, settlement naming.

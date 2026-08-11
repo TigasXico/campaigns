@@ -8,9 +8,9 @@ tags:
 related:
   - the_raven_queen: The church of this goddess
   - culture_and_society: One of the major churches of the Last Stand
-  - the_ecumenical_council: Member of the interfaith governing body
   - races_and_ancestries: Shadow Elves are the primary worshippers
   - vesper: Shares an understanding of boundaries and transitions
+  - zan_vaelis_zandorian: Shadow Elves like Zan are the primary worshippers of the Raven Queen
 secrets:
   - text: "The Raven Queen suspects the truth about the Originals and waits for the moment to reveal it. Her domain is a vast mausoleum in the Outer Planes where she records every passing soul."
     access: gm-only
@@ -43,4 +43,4 @@ The Order is solemn and ritualistic. Its clergy tend the dying, guard graveyards
 
 ## Headquarters
 
-The Order's main temple is in **Weaveheart**, with chapter houses in all major settlements. Shadow Elf communities maintain their own shrines dedicated to the Raven Queen.
+The Order has no public main temple. Its primary sanctuary is a hidden cathedral in the threshold spaces between cities — accessible only to those who know the paths. Shadow Elf communities maintain their own shrines dedicated to the Raven Queen in hidden locations throughout the recovered territories.

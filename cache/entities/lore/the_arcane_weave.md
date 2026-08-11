@@ -26,6 +26,10 @@ updated: 2026-08-08
 
 The Arcane Weave is the permeating field of magical energy that exists across all planes of reality. It is the residual essence of the Original Entity **B** after its sacrifice, and it is the source of all magic in the world.
 
+### Rumors of a Sentient Crystal Cluster
+
+Some arcanists whisper of a crystal cluster deep beneath the capitals that has achieved a primitive sentience — a fragment of B's subconscious will so dense that it has begun to form thoughts. If true, this cluster could be making pacts with the desperate or the curious, serving as a warlock patron unknown even to the gods.
+
 ## How Magic Works
 
 ### Arcane Magic (Wizards, Sorcerers, Bards)

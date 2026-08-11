@@ -4,7 +4,12 @@ type: lore
 name: "Class Training & Culture"
 status: draft
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
+secrets:
+  - text: "The Weaveheart Academy secretly monitors students for signs of B-touched potential. Rather than reporting to the Arcane Conclave (Weaveheart's governing council of wizards and scholars), suspicious individuals are quietly flagged to the Crimson Covenant — as potential subjects of interest for kidnapping and study."
+    access: gm-only
+  - text: "The Skywatch War College's intelligence division has intercepted messages suggesting the monster army is investigating the hoarding instinct. Some within Skywatch suspect the gods' involvement but have not dared voice it publicly."
+    access: gm-only
 related:
   - adventuring_classes: Class descriptions and power sources
   - the_adventurers_guild: Drakh Ix'thar  -  coordinates adventuring activity

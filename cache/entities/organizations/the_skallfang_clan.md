@@ -16,7 +16,7 @@ secrets:
     access: gm-only
   - text: "The clan elders know more about Khar'zul than they have told Balor. Hrothgar, in particular, may have passed on information that Balor has yet to fully understand."
     access: gm-only
-  - text: "[emoji] TODO  -  Blade Theft": How and when the Skallfang Clan lost possession of Khar'zul's blade to the Crimson Covenant needs to be defined after reviewing the general timeline."
+  - text: "[emoji] TODO - Blade Theft: How and when the Skallfang Clan lost possession of Khar'zul's blade to the Crimson Covenant needs to be defined after reviewing the general timeline."
     access: gm-only
 created: 2026-08-09
 updated: 2026-08-09

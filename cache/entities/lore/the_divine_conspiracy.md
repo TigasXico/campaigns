@@ -3,7 +3,15 @@ id: the_divine_conspiracy
 type: lore
 name: "The Divine Conspiracy"
 status: draft
-secrets: [gm-only]
+secrets:
+  - text: "The gods orchestrated the monster invasion as a planned genocide after B's sacrifice empowered mortals with magic. They struck pacts with the Abyss, Nine Hells, Shadowfell, and Feywild to supply the invasion force."
+    access: gm-only
+  - text: "B's lingering will (the hoarding instinct) is a subconscious counter-force to the gods' plans that the gods did not anticipate and are now desperately managing."
+    access: gm-only
+  - text: "The Crimson Covenant's blackmail contingency artifact would broadcast the truth about the gods' conspiracy to all mortals if not reset daily."
+    access: gm-only
+  - text: "The resurrection ritual is not yet possible. The race to complete or prevent it defines the campaign's strategic landscape."
+    access: gm-only
 related:
   - monsters_and_ecology: Monsters are pawns in the divine conspiracy
   - the_crimson_covenant: Covenant researches resurrection ritual

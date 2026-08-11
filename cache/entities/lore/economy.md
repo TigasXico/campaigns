@@ -29,7 +29,7 @@ The standard currency system follows familiar denominations:
 - **Gold Pieces (gp)**  -  high-value trade, magic items, large transactions
 - **Platinum Pieces (pp)**  -  extremely rare, used by major guilds and high-level commerce
 
-### The Mint  -  [Northeast Settlement Cluster, Name TBD]
+### The Mint  -  Northeast Settlement Cluster (Name TBD)
 
 Currency is minted in a cluster of settlements in the **northeast** of the continent. This area consists of **one major settlement and three minor ones**, plus two smaller nearby settlements that assist in exporting the currency. This was the site of the royal mint before the monster invasion, and after the reconquering, production resumed here. It remains the **backbone of the continental economy**.
 

@@ -11,6 +11,9 @@ related:
   - the_crimson_covenant: The Covenant studies the blade and seeks to harness Khar'zul's power
   - the_great_sacrifice: Khar'zul's essence may resonate with B's lingering will and the hoarding instinct
   - the_arcane_reactive_crystals: The blade may be influenced by or interact with the crystals
+  - the_first_alliance: The First Alliance performed the sealing ritual that bound Khar'zul within this blade
+  - the_skallfang_clan: The clan guarded the blade for centuries before losing it to the Covenant
+  - the_sealing_of_kharzul: The ritual that bound Khar'zul's essence within this blade
 secrets:
   - text: "The blade was not a prison designed by mortal scholars  -  Khar'zul's own sword was the only vessel that could contain him because it had absorbed his blood, victories, hatred, and corruption over countless wars until it ceased to be merely a weapon."
     access: gm-only
@@ -43,7 +46,7 @@ Over centuries, the blade has transformed. Steel gave way to living flesh. Veins
 
 ### The Sealing
 
-After the Last Alliance defeated Khar'zul's physical form, they discovered a terrible truth: his essence endured beyond death itself. No spell could erase it, no divine miracle could extinguish it, no prison created by mortal hands could contain it for long.
+After the First Alliance defeated Khar'zul's physical form, they discovered a terrible truth: his essence endured beyond death itself. No spell could erase it, no divine miracle could extinguish it, no prison created by mortal hands could contain it for long.
 
 The greatest scholars and priests of the age searched desperately for a vessel capable of containing an essence that refused to perish. Every enchanted relic shattered beneath its corruption. Every magical prison eventually failed. Every divine seal proved temporary.
 

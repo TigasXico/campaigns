@@ -10,6 +10,7 @@ related:
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
   - primal_nature_magic: Primal magic is part of this god's domain
+  - races_and_ancestries: Falsely claims Elves
 created: 2026-08-08
 updated: 2026-08-09
 ---

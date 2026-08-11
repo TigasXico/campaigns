@@ -42,7 +42,7 @@ Started on elves (Drow/Shadow Elves), moved to humans (Tieflings). Unintended by
 Centuries-spanning experiment to create perfect vessel for Khar'zul. Tieflings showed greatest resistance. Culmination: Balor Skallfang. His mother was final subject; she betrayed Covenant, fled with baby and blade.
 
 ### Gods' Race Deception
-Each god falsely claims to have created a specific race. Major source of divine control. Mapping deferred until gods have proper names.
+Each god falsely claims to have created a specific race. Major source of divine control. See `races_and_ancestries.md` for the full mapping.
 
 ### Why Drow Revere Lolth
 Lolth didn't create them  -  took interest after they fled to Underdark. Their traits aligned with her domains (cunning, hierarchy, ruthlessness).
@@ -56,4 +56,4 @@ She didn't create them  -  took interest after they claimed Shadowfell. Their sh
 Covenant as accidental race-creators adds moral complexity. Every church built on lie. Tieflings uniquely connected to campaign's central plot. Drow/Shadow Elf worship is genuine spiritual choice.
 
 ## Open Questions
-Deception map (which god claims which race), why Lolth/Raven Queen took interest, Covenant as part of larger evil council, source of demonic tissue used in experiments.
+Why Lolth/Raven Queen took interest, Covenant as part of larger evil council, source of demonic tissue used in experiments.

@@ -151,8 +151,8 @@ For 100 years, Kaelyn wandered Kythoria. Joined rogue groups, worked as a **boun
 ---
 
 ## Relationships
-- **Solyn Velkyn (presumed dead)**  -  Twin sister. Rival in childhood, adversary in Trial, savior in cave-in. Tangled mess of hatred, guilt, and gratitude.
-- **Lyndale Velkyn (presumed dead)**  -  Mother and High Matron. Exiled her, imprisoned and tortured her for 20 years  -  pushed into fire to escape. Tells herself she feels nothing.
+- **Solyn Velkyn (believed dead by Kaelyn; actually alive)**  -  Twin sister. Rival in childhood, adversary in Trial, savior in cave-in. Tangled mess of hatred, guilt, and gratitude. Now acting leader of House Velkyn (see `solyn_velkyn.md`).
+- **Lyndale Velkyn (believed dead by Kaelyn; actually alive)**  -  Mother and High Matron. Exiled her, imprisoned and tortured her for 20 years  -  pushed into fire to escape. Tells herself she feels nothing. Survived, horribly burned, hidden and vengeful (see `lyndale_velkyn.md`).
 - **Seraphine (deceased)**  -  Tiefling nanny who taught her to question. Deepest wound  -  the moment she learned mercy has a cost.
 - **The Drow of the Underdark**  -  Her people who cast her out. No loyalty, but identity inseparable from theirs.
 - **The Azure Boneyard (place)**  -  Cave where everything changed. Never returned, but feels its pull in dreams.
@@ -187,8 +187,8 @@ Overheating may be early warning: crystal heart is **growing**. If pushed furthe
 ---
 
 ## Open Questions
-1. [?] **Solyn's current status**  -  Alive, but what is she doing? Leading Drow? Working with Covenant? Seeking Kaelyn?
-2. [?] **Lyndale's current status**  -  Alive, but how badly burned? What is she doing now?
+1. [ok] **Solyn's current status**  -  Resolved in `solyn_velkyn.md`: survived the cave-in, now acting leader of House Velkyn, keeps Lyndale hidden, conflicted about Kaelyn.
+2. [ok] **Lyndale's current status**  -  Resolved in `lyndale_velkyn.md`: survived the fire, horribly burned, hidden in seclusion, consumed by vengeance against Kaelyn.
 3. [?] **The crystal growth**  -  How fast? What triggers acceleration? Way to stop it?
 4. [?] **Kaelyn's connection to other B-touched**  -  Will she sense Aurora's constellations? Will Aegon see her in visions?
 5. [?] **The Black Willow's crystal cave**  -  What secrets beneath the tree's roots?

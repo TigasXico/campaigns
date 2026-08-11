@@ -9,6 +9,7 @@ related:
   - seraphina_vex: Seraphina's family heirloom; the only surviving artifact of the Vex bloodline, left with Balor
   - balor_skallfang: Key to learning the truth about his origins; carried in the pouch Hrothgar left for him
   - the_crimson_covenant: Master key to Covenant vaults and archives; marks the bearer as a high-ranking Apostle
+  - kharzuls_blade: Both are Covenant-connected items carried by Balor; the medallion's secret compartment may contain information about the blade
 secrets:
   - text: "The medallion is a master-key that can bypass most Covenant wards, locks, and traps designed for high-ranking access. Though Seraphina was never an Apostle, the medallion somehow grants the same access privileges  -  suggesting she either stole it from a real Apostle, modified it, or the Covenant's security protocols recognize the Vex bloodline as equivalent to the highest ranks."
     access: gm-only

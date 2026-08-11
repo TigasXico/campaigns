@@ -12,6 +12,7 @@ related:
   - the_world_and_geography: Headquarters in the old capital at the center of the continent
   - kythorian_timeline: Founded after the reconquering began
   - monsters_and_ecology: Manages monster-hunting contracts; monster hunting is the guild's primary industry
+  - the_crimson_covenant: Guild HQ is secretly monitored by Covenant agents tracking parties that discover B's truth
 secrets:
   - text: "The Drakh Ix'thar headquarters in the old capital is secretly monitored by agents of the Crimson Covenant, who track parties that discover too much about the frontier ruins and the truth about B."
     access: gm-only

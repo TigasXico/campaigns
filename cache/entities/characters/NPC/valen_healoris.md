@@ -26,7 +26,7 @@ updated: 2026-08-11
 
 ## Overview
 
-**Valen Healoris** is a legendary elven general renowned for his ruthlessness in battle and his affinity for bloodshed. He is a traitor to the mortal races: approximately 78 years ago, he and his entire military unit defected to the monster army, trading their swords for power, survival, and a place in the hierarchy of the enemy.
+**Valen Healoris** is a legendary elven general renowned for his ruthlessness in battle and his affinity for bloodshed. He is a traitor to the mortal races: approximately 91 years ago, he and his entire military unit defected to the monster army, trading their swords for power, survival, and a place in the hierarchy of the enemy.
 
 He is the biological father of **Odessa Merikh**, conceived through rape during a raid on a human village. He does not know she exists.
 
@@ -48,7 +48,7 @@ Valen rose through the ranks of the elven military during the reconquering era, 
 
 ### The Defection
 
-Approximately 78 years ago, Valen made a choice that would define the rest of his life. He saw the contest between the mortal races and the monster army as a war the mortals could not win. Rather than die fighting for a lost cause, he defected — taking his entire unit with him.
+Approximately 91 years ago, Valen made a choice that would define the rest of his life. He saw the contest between the mortal races and the monster army as a war the mortals could not win. Rather than die fighting for a lost cause, he defected — taking his entire unit with him.
 
 The monster army, ever eager for competent mortal commanders who understood the enemy's tactics, welcomed him. He was given territory to command, minions to lead, and the freedom to exercise his sadistic tendencies without restraint.
 
@@ -62,7 +62,7 @@ When Valen finally tracked Eryx to the remote cabin, he led the strike team pers
 
 ### Current Position
 
-Valen commands a territory within monster-held lands, leading a mixed force of monster minions and his elven defector unit. He is respected by intelligent monster leadership for his tactical acumen and his willingness to do whatever is necessary. He has spent 78 years consolidating his position, and he intends to be on the winning side when the war ends.
+Valen commands a territory within monster-held lands, leading a mixed force of monster minions and his elven defector unit. He is respected by intelligent monster leadership for his tactical acumen and his willingness to do whatever is necessary. He has spent 91 years consolidating his position, and he intends to be on the winning side when the war ends.
 
 ---
 
