@@ -98,7 +98,9 @@ A series of ports along the eastern coast, connecting the southern ports to the 
 
 ### Crassian's Dust Circle
 
-An overland trade circuit connecting all major settlements  -  the three capitals, the northeast settlement cluster, the southeastern port, and the eastern port. The circuit was named after the great cloud of dust that arose when it was completed, as large trade caravans from across the recovered territories began using it all at once, covering the land and skies for days.
+An ancient overland trade route that predates the monster invasion. Originally established by the pre-invasion kingdoms to connect their distinct realms - each species inhabited their own ancestral territory, and the route linked them all for trade and diplomacy. Named after the great clouds of dust raised by caravans traversing the continent.
+
+Restored during the reconquering, the Dust Circle now connects all major settlements - the three capitals, the northeast settlement cluster, the southeastern port, and the eastern port. It remains the primary overland trade artery of the recovered territories, carrying goods, people, and information across the continent.
 
 ### The Frontier Road
 

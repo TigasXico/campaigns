@@ -56,7 +56,7 @@ The Feywild and Shadowfell serve a critical structural function: they are **Anch
 
 However, the **function of the plane** and the **actions of its inhabitants** are independent. The Feywild and Shadowfell stabilize the Material Plane as a matter of cosmic physics  -  but the entities within those realms (fey, shadow creatures, and their leaders) can act freely. A fey lord can invade the Material Plane without disrupting the stability the Feywild provides. A shadow creature can attack a settlement while the Shadowfell continues to anchor reality.
 
-This distinction is important to the history of the monster invasion: the planar pact with the Feywild and Shadowfell supplied monsters for the invasion, but the planes themselves continued to stabilize the Material Plane throughout. The stability was never at risk  -  only the mortals living on it.
+This distinction is important to the history of the monster invasion: Aloria (Life/Light) negotiated with the Feywild and the Raven Queen (Death) with the Shadowfell to supply monsters for the invasion, but the planes themselves continued to stabilize the Material Plane throughout. The stability was never at risk  -  only the mortals living on it.
 
 ### Astral Plane
 The connective fabric tying all planes together. Allows planes to influence each other  -  the Anchors stabilize the Material, moral concepts flow from the Outer Planes, planar travel is possible, and souls pass through to the afterlife.
@@ -72,10 +72,10 @@ B's essence scattered equally across all planes. The arcane-reactive crystals on
 
 Approximately 400 years ago, the gods (fragments of A and C) struck a deal with the leadership of several planes to supply monsters for the invasion of the Material Plane. The planes involved included:
 
-- **The Abyss**  -  Supplied demons, creatures of chaos and destruction. The gods promised **souls** in return.
-- **The Nine Hells**  -  Supplied devils, disciplined and strategic forces. The gods promised **souls and power** in return.
-- **The Shadowfell**  -  Supplied shadow-warped creatures and horrors of darkness. The gods promised **territory** on the Material Plane in return.
-- **The Feywild**  -  Supplied twisted fey-touched horrors. The gods promised **territory and power** in return.
+- **The Abyss**  -  Supplied demons, creatures of chaos and destruction. The gods promised **souls** in return. Lolth negotiated this pact.
+- **The Nine Hells**  -  Supplied devils, disciplined and strategic forces. The gods promised **souls and power** in return. Vorn negotiated this pact.
+- **The Shadowfell**  -  Supplied shadow-warped creatures and horrors of darkness. The gods promised **territory** on the Material Plane in return. The Raven Queen negotiated this pact.
+- **The Feywild**  -  Supplied twisted fey-touched horrors. The gods promised **territory and power** in return. Aloria negotiated this pact.
 - Other interested planar entities negotiated their own prices.
 
 The planar leadership did not tell the monsters why they were invading  -  only that they were to destroy all mortal races.

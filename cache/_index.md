@@ -45,7 +45,7 @@
 | solyn_velkyn                         | character      | Solyn Velkyn                             | draft  | 2026-08-10 |
 | thalkis                              | character      | Thalkis                                  | draft  | 2026-08-09 |
 | the_abominable_end                   | event          | The Abominable End                       | draft  | 2026-08-09 |
-| the_adventurers_guild                | organization   | Drakh Ix'thar  -  The Adventurers' Guild | draft  | 2026-08-09 |
+| the_adventurers_guild                | organization   | Drakh Ix'thar  -  The Adventurers' Guild | draft  | 2026-08-11 |
 | the_arcane_reactive_crystal_cave     | location       | The Arcane-Reactive Crystal Cave         | draft  | 2026-08-09 |
 | the_arcane_reactive_crystals         | lore           | Arcane-Reactive Crystals (Unnamed)       | draft  | 2026-08-09 |
 | the_arcane_weave                     | lore           | The Arcane Weave                         | draft  | 2026-08-08 |
@@ -57,7 +57,7 @@
 | the_divine_conspiracy                | lore           | The Divine Conspiracy                    | draft  | 2026-08-09 |
 | the_eastern_port                     | location       | The Eastern Port                         | draft  | 2026-08-09 |
 | the_ecumenical_council               | organization   | The Ecumenical Council                   | draft  | 2026-08-09 |
-| the_first_alliance                   | organization   | The First Alliance                       | active | 2026-08-09 |
+| the_first_alliance                   | organization   | The First Alliance                       | active | 2026-08-11 |
 | the_four_barbarian_tribes            | organization   | The Four Barbarian Tribes                | draft  | 2026-08-09 |
 | the_frontier                         | location       | The Western Frontier                     | draft  | 2026-08-09 |
 | the_frostmaw                         | location       | The Frostmaw                             | draft  | 2026-08-09 |
@@ -85,6 +85,7 @@
 | the_verdant_reaches                  | location       | The Verdant Reaches                      | draft  | 2026-08-10 |
 | the_vigil_of_the_dusk                | organization   | The Vigil of the Dusk                    | draft  | 2026-08-09 |
 | the_world_and_geography              | lore           | The World & Geography  -  Aetris and ... | draft  | 2026-08-08 |
+| timeline_integration_questions       | campaign_note  | PC Timeline Integration Questions        | draft  | 2026-08-11 |
 | tyra                                 | character      | Tyra                                     | draft  | 2026-08-11 |
 | valen_healoris                       | character      | Valen Healoris                           | draft  | 2026-08-11 |
 | vesper                               | character      | Vesper                                   | draft  | 2026-08-09 |

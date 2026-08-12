@@ -6,7 +6,7 @@ status: draft
 tags:
   - deity, god, hunt, nature, tracking, wilderness
 related:
-  - cosmology_and_the_planes: Claims domain in the Outer Planes
+  - cosmology_and_the_planes: Claims the Beastlands as her domain
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
   - kaelthor: Rival over the domain of nature

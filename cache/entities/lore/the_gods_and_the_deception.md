@@ -41,7 +41,13 @@ By splitting into many gods, A and C could: manage mortals through religion, har
 ~**400 years ago**, the gods enacted genocide by proxy, unable to destroy mortals directly.
 
 ### The Planar Pact
-The gods struck deals with the **Abyss** (souls), **Nine Hells** (souls + power), **Shadowfell** (territory), **Feywild** (territory + power), and other planes. Each negotiated its own price.
+All ten gods knew and approved the plan, but only four personally negotiated — each matched to a plane by domain affinity:
+- **Vorn** (War) -> **Nine Hells**  —  souls + power for infernal hierarchy
+- **Lolth** (Trickery) -> **Abyss**  —  souls for demonic chaos
+- **Aloria** (Life) -> **Feywild**  —  territory + power for fey beasts
+- **Raven Queen** (Death) -> **Shadowfell**  —  territory for shadow-beasts and shadar-kai
+
+The other six (Kaelthor, Aurelius, Vesper, Thalkis, Crassian, Tyra) were aware and approved but had no natural domain alignment with any of the four planes.
 
 ### The Breaches
 Planar breaches opened along Kythoria's entire coast. Monster hordes poured forth  -  **The Abominable End** began. The monster army was not told why they invaded.

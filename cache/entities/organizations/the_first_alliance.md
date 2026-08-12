@@ -1,10 +1,10 @@
-﻿---
+---
 id: the_first_alliance
 type: organization
 name: "The First Alliance"
 status: active
 tags:
-  - organization, military, alliance, historical, last_stand, reconquering
+  - organization, military, alliance, historical, last_stand, reconquering, current
 related:
   - the_last_stand: The Alliance's victory enabled the reconquering
   - monsters_and_ecology: Defeated three of the Five Monster Generals, including Khar'zul
@@ -13,102 +13,103 @@ related:
   - balor_skallfang: The Skallfang Clan fought in the Alliance and were entrusted with the blade
   - society: Its legacy shapes modern military and political structures
   - the_great_sacrifice: The Alliance unknowingly wielded power from B's sacrifice
+  - the_council_accord: The Alliance evolved into the Council Accord governing the three capitals
 secrets:
   - text: "The First Alliance was formed by mortal leaders who had no idea they were fighting a war orchestrated by the gods themselves. Had they known the divine conspiracy, the alliance may never have formed."
     access: gm-only
   - text: "Some records suggest the Alliance's greatest strategist was the first mortal to suspect divine involvement in the invasion, though their name has been lost to history."
     access: gm-only
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 ---
 
 ## Overview
 
-The First Alliance was the unprecedented military alliance of the mortal races, formed after the three capitals of the Last Stand were established. Kings, archmages, high priests, ancient monster hunters, and knightly orders united under a single banner to drive the reconquering and push back the monster invasion. Their remarkable victory against the Five Monster Generals marked the beginning of **The Rise of the Mortals** era.
+The First Alliance is the unprecedented military and political alliance of the mortal races, formed after the three capitals of the Last Stand were established. Kings, archmages, high priests, ancient monster hunters, and knightly orders united under a single banner to drive the reconquering and push back the monster invasion. Their remarkable victory against the Five Monster Generals marked the beginning of **The Rise of the Mortals** era.
 
-The Alliance is now defunct  -  its purpose fulfilled, its members returned to their respective kingdoms and orders. But its legacy endures in the reconquered territories, the sealed blade of Khar'zul, and the shadow organization born from its dissident scholars.
+Unlike a temporary wartime coalition, the Alliance **never disbanded**. After defeating the monster generals, it adapted from a purely military command into a permanent governing body overseeing the reconquering effort. Its legacy endures in every reconquered territory, every sealed vessel of power, and the governing structures of the three capitals today.
 
 ---
 
 ## Structure
 
-The First Alliance was not a permanent government but a **wartime coalition** with a command structure designed for effectiveness rather than tradition:
+The First Alliance began as a wartime coalition and has evolved into the closest thing to a central authority in mortal civilization:
 
-### The Council of Kings
-The highest authority, composed of the rulers of the three capital cities (Skywatch, Emberforge, Weaveheart) plus any surviving pre-invasion monarchs who had fled to the Last Stand. All major strategic decisions required consensus.
+### The Council Accord (Three Kings)
+The highest authority, composed of the rulers of the three capital cities (Skywatch, Emberforge, Weaveheart). All major strategic and territorial decisions require consensus. The Accord coordinates military strategy, resource allocation, and territorial expansion across the three capitals and beyond.
 
 ### The War Council
-Beneath the kings, a council of the most accomplished military commanders, archmages, and high priests planned campaigns, allocated resources, and coordinated the armies of multiple kingdoms into a single fighting force.
+Beneath the kings, a council of the most accomplished military commanders and strategists plans campaigns, allocates resources, and coordinates the armies of multiple kingdoms into a single fighting force. This council operates continuously, managing the ongoing reconquering effort.
 
 ### The Knightly Orders
-Pre-invasion martial orders that survived the Abominable End contributed their elite warriors, knowledge, and traditions. These orders formed the backbone of the Alliance's officer corps and specialist units.
+Pre-invasion martial orders that survived the Abominable End contribute their elite warriors, knowledge, and traditions. These orders form the backbone of the Alliance's officer corps and specialist units.
 
 ### The Arcane Circle
-The greatest wizards, scholars, and arcanists of the age, tasked with developing magical weapons, maintaining communications, and  -  most crucially  -  devising the sealing ritual that would eventually contain Khar'zul.
+The greatest wizards, scholars, and arcanists of the age, tasked with developing magical weapons, maintaining communications, researching lost knowledge, and advancing the magical barrier.
 
 ### The Skallfang Clan
-Monster hunters from the frozen northern frontier who joined the Alliance's cause. Their unparalleled knowledge of northern monster territories and their ferocity in battle made them invaluable. After the war, they were entrusted with guarding Khar'zul's sealed blade.
+Monster hunters from the frozen northern frontier who joined the Alliance's cause. Their unparalleled knowledge of northern monster territories made them invaluable. Still entrusted with guarding Khar'zul's sealed blade.
+
+### The Guilds
+Major guilds (Smiths' & Crafters', Miners' & Prospectors', Merchants' & Traders', and the Drakh Ix'thar Adventurers' Guild) coordinate with the Alliance to support the reconquering effort.
 
 ## Membership
 
-Membership in the First Alliance was by kingdom, order, or clan  -  not by individual. Any mortal settlement, military order, or clan that pledged to the cause was considered part of the Alliance. At its height, the Alliance included:
+Membership in the First Alliance is by kingdom, order, guild, or clan. At its height and continuing today, the Alliance includes:
 
 - **The Three Capitals**: Skywatch, Emberforge, and Weaveheart
-- **Surviving pre-invasion kingdoms**: Scattered refugees and remnant forces
-- **Knightly orders**: Several orders that had survived the invasion
+- **All recovered settlements and territories**
+- **Knightly orders**: Several orders that survived the invasion
 - **The Skallfang Clan**: Northern monster hunters
 - **Various tribes and clans**: Including the four great barbarian tribes
+- **Major guilds**: Including the Drakh Ix'thar, Smiths' Guild, and others
 - **Independent mage circles and druidic circles**
 
 ## Goals
 
-1. **Survival**: Prevent the extinction of the mortal races at the hands of the monster horde
-2. **Reconquering**: Push back the invasion and reclaim lost territory
-3. **Defeat the Five Generals**: Break the monster army's command structure
-4. **Contain Khar'zul**: Ensure the balor general could never return
-
-These goals were achieved  -  but at great cost. The war lasted years, kingdoms disappeared from history, mountains were reduced to ash, and the skies themselves burned.
+1. **Reconquering**: Push back the invasion and reclaim lost territory - ongoing
+2. **Survival**: Prevent the extinction of the mortal races at the hands of the monster horde
+3. **Defeat enemy command**: Break the monster army's leadership
+4. **Contain Khar'zul**: Ensure the balor general could never return (and prevent the return of the other hidden generals)
+5. **Recover lost knowledge**: Restore ~70% of pre-invasion records and artifacts
 
 ## History
 
 ### Formation
 
-After two centuries of relentless monster invasion (The Abominable End), the surviving mortal races were pushed to the brink of extinction. The three capital cities  -  Skywatch, Emberforge, and Weaveheart  -  were established as the Last Stand. From these fortifications, the mortal leaders realized that passive defense alone would not save them. They needed to **fight back**.
-
-Kings, archmages, high priests, ancient monster hunters, and knightly orders united, setting aside centuries of difference to form the First Alliance  -  the army of the Last Stand.
+After two centuries of relentless monster invasion (The Abominable End), the surviving mortal races were pushed to the brink of extinction. The three capital cities - Skywatch, Emberforge, and Weaveheart - were established as the Last Stand. From these fortifications, Kings, archmages, high priests, ancient monster hunters, and knightly orders united to form the First Alliance.
 
 ### The War Against the Five Generals
 
-The Alliance waged a war lasting years. The conflict was devastating  -  entire regions were lost, millions perished, and the survivors were scarred by horrors beyond imagination.
-
-Ultimately, the Alliance achieved the impossible: they **defeated three of the Five Generals** of the monster army, including **Khar'zul (The Flesh That Remembers)**. The other two generals retreated and have not been seen since  -  they remain in hiding or at unknown locations.
-
-However, the war did not end. The remaining monster forces, leaderless and fractured, continued to threaten mortal civilization. The Alliance's victory bought time but not peace.
+The Alliance waged a war lasting years. The conflict was devastating - entire regions were lost, millions perished. Ultimately, the Alliance achieved the impossible: they **defeated three of the Five Generals** of the monster army, including **Khar'zul (The Flesh That Remembers)**. The other two generals retreated and have not been seen since.
 
 ### The Sealing of Khar'zul
 
-After Khar'zul's physical form was destroyed, his essence endured  -  no spell could erase it, no divine miracle could extinguish it. The Alliance's greatest scholars searched desperately for a vessel capable of containing an immortal essence. They discovered that the only vessel that could contain Khar'zul was his own sword, which had absorbed his blood, victories, hatred, and corruption over countless wars.
-
-Through the greatest sealing ritual ever performed, they bound Khar'zul's essence within the blade. The blade was entrusted to the **Skallfang Clan**, who returned to the northern frontier and swore a generational oath to guard it.
+After Khar'zul's physical form was destroyed, his essence endured. The Alliance's greatest scholars discovered that the only vessel capable of containing Khar'zul was his own sword. Through the greatest sealing ritual ever performed, they bound Khar'zul's essence within the blade. The blade was entrusted to the **Skallfang Clan**.
 
 ### The Dissidents
 
-Some scholars who witnessed the sealing saw something different: the ritual had not destroyed Khar'zul  -  it had **preserved** him. They saw the prison as a chrysalis. These dissidents disappeared into the shadows with fragments of the ritual and forbidden knowledge, eventually becoming the **Crimson Covenant**.
+Some scholars who witnessed the sealing saw something different: the ritual had not destroyed Khar'zul - it had **preserved** him. They saw the prison as a chrysalis. These dissidents disappeared into the shadows with fragments of the ritual and forbidden knowledge, eventually becoming the **Crimson Covenant**.
 
-### Disbandment
+### Evolution from Wartime Coalition to Governing Body
 
-After the sealing, the Alliance's purpose was complete. The surviving kings returned to their domains, the orders dispersed, and the Skallfang Clan returned north. The Alliance was never formally dissolved  -  it simply faded as the immediate crisis passed and the long work of reconquering began under the authority of the three capitals' independent governments.
+After the sealing, the Alliance did not disband. While some members returned to their domains, the Council of Kings recognized that the reconquering of lost territories required continued coordination. The Alliance adapted into a permanent body. The Council of Kings evolved into the **Council Accord**, which governs matters spanning multiple capitals and coordinates the reconquering effort to this day.
 
 ## Legacy
 
-The First Alliance's victory changed the course of history. It proved that the mortal races could fight back, and it marked the beginning of **The Rise of the Mortals** era. Today, "The First Alliance" is remembered as the founding moment of mortal unity  -  a golden age of cooperation that modern leaders invoke when calling for unity against common threats.
+The First Alliance is the foundation of modern mortal civilization. It proved that the mortal races could fight back, it established the governing structures that persist today, and it continues to drive the reconquering effort. The Alliance's legacy includes:
 
-The alliance's darker legacies include the **Crimson Covenant** (born from its dissident scholars) and the burden carried by the **Skallfang Clan** (who still guard Khar'zul's blade to this day).
+- The **Council Accord** - the governing body of the three capitals
+- The **Survival Code** - the foundation law across all territories
+- The **Drakh Ix'thar** - the ancient adventurers' guild that coordinates with the Alliance
+- The **Crimson Covenant** - born from its dissident scholars
+- The **Skallfang Clan** - still bound by oath to guard Khar'zul's blade
 
 ## Current Status
 
-The First Alliance no longer exists as an active organization. It has been defunct for approximately 200 years. However:
-- Its legacy is taught in every school in the Last Stand
-- Its banners are displayed in the halls of the three capitals
-- The current military forces of the Last Stand consider themselves its spiritual successors
-- The Crimson Covenant still operates using knowledge stolen from the Alliance's archives
+The First Alliance remains active. It functions through:
+- **Council Accord**: Kings meet regularly to coordinate strategy
+- **War Council**: Plans campaigns and allocates resources
+- **Guild coordination**: Major guilds operate under Alliance oversight
+- **Territorial governance**: Recovered territories fall under Alliance jurisdiction, with local autonomy on non-strategic matters
+- **Ongoing reconquering**: The push north and west continues under Alliance command

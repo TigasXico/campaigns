@@ -6,7 +6,7 @@ status: draft
 tags:
   - deity, god, war, conquest, battle, glory
 related:
-  - cosmology_and_the_planes: Claims domain in the Outer Planes
+  - cosmology_and_the_planes: Claims the Nine Hells as his domain
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
   - lolth_the_spider_queen: Rival over the domain of war

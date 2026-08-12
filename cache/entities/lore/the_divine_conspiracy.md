@@ -31,12 +31,14 @@ A and C never wanted mortals to have free will or magic. After B's sacrifice gav
 B scattered its essence across all planes, infusing existence with arcane energy. This was the source of all mortal magic  -  the ultimate act of defiance against A and C's plan. The physical remnants: The Weave (arcane network), currency metals, arcane-reactive crystals, and material components for spells.
 
 ## The Planar Pact
-The gods struck deals with planar powers ~400 years ago. Each negotiated its price:
-- **Abyss**  -  souls for demonic chaos
-- **Nine Hells**  -  souls + power for infernal hierarchy
-- **Shadowfell**  -  territory on Material Plane as foothold
-- **Feywild**  -  territory + power for fey lords
-- Others as needed
+All ten gods knew and agreed with the plan — they are united in wanting to end mortalkind and start over. But only four gods personally negotiated with the planes, each selected by domain affinity:
+
+- **Vorn** (War, Conquest)  ->  **Nine Hells**  -  paid souls + power for infernal hierarchy and disciplined devil legions
+- **Lolth** (Trickery, War)  ->  **Abyss**  -  paid souls for demonic chaos and an endless tide of battle-hungry fiends
+- **Aloria** (Light, Life)  ->  **Feywild**  -  paid territory + power for fey lords and their magical beasts
+- **Raven Queen** (Death, Grave)  ->  **Shadowfell**  -  paid territory on the Material Plane for shadow-beasts and shadar-kai
+
+The other six gods (Kaelthor, Aurelius, Vesper, Thalkis, Crassian, Tyra) were aware and approved, but did not personally negotiate — their domains had no natural alignment with any of the four planes.
 
 ### The Planar Breaches
 Breaches opened along Kythoria's coast. Monster hordes poured through  -  **The Abominable End** began. Monsters were not told why they invaded; the gods' involvement was hidden from all sides.

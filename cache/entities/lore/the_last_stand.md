@@ -40,9 +40,11 @@ However, the war did not end. The remaining monster forces, leaderless and fract
 
 ### The Sealing and Its Aftermath
 
-After Khar'zul's defeat, his essence was sealed within his own blade through a ritual devised by the Alliance's greatest scholars. The blade was entrusted to the **Skallfang Clan**  -  warriors who had fought in the war and hailed from the northern frontier  -  who returned north, swearing an oath to guard the sealed blade for generations.
+After Khar'zul's defeat, his essence was sealed within his own blade through a ritual devised by the Alliance's greatest scholars. The blade was entrusted to the **Skallfang Clan** - warriors who had fought in the war and hailed from the northern frontier - who returned north, swearing an oath to guard the sealed blade for generations.
 
 Some scholars who witnessed the sealing reached a different conclusion: Khar'zul had not been destroyed, but preserved. They saw the prison as a chrysalis. These dissidents fled with fragments of the ritual and forbidden knowledge, eventually becoming the **Crimson Covenant**.
+
+Unlike a temporary coalition, the First Alliance **never disbanded**. After the war, it adapted from a purely military command into a permanent governing body. The Council of Kings evolved into the **Council Accord**, which continues to oversee the reconquering effort, coordinate between the three capitals, and manage territorial expansion.
 
 ## The Monster Invasion
 

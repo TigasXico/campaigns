@@ -6,7 +6,7 @@ status: draft
 tags:
   - deity, god, trickery, war, drow, spider
 related:
-  - cosmology_and_the_planes: Claims domain in the Outer Planes
+  - cosmology_and_the_planes: Claims the Abyss as her domain
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
   - races_and_ancestries: Falsely claims Drow

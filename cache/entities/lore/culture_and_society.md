@@ -59,7 +59,7 @@ Ten gods dominate religious life. Churches cooperate through the **Ecumenical Co
 
 ## Calendar & Festivals
 
-**System**: 10 months (god-named, creation order), 2 weeks/month (20 days), 10-day week (4 work / 2 rest / 3 work / 1 rest). 200 days/year.
+**System**: 10 months (god-named, creation order), 2 weeks/month (20 days), 10-day week (4 work / 2 rest / 3 work / 1 rest). 200 days/year. The calendar has existed for approximately **800 years** - established by the first mortal kingdoms soon after the species appeared and organized into societies. It has been in continuous use ever since, surviving the Abominable End and the reconquering.
 
 **Weekdays**: Wildtide, Lawrest, Duskfall, Life-dawn, Fangrest, Gravefall, Sparktide, Cointide, Warmorn, Shadowrest
 
@@ -97,7 +97,7 @@ Ten gods dominate religious life. Churches cooperate through the **Ecumenical Co
 ## Adventurers in Society
 Adventurers are **guardians, cleansers, reclaimers**  -  not mercenaries. Handle threats beyond walls, clear ruins, recover artifacts. Immense honor and respect.
 
-**Drakh Ix'thar**: Continent-wide guild, HQ in old capital (center of continent). Members: **Ix'thari**. Roles: contract broker, licensing, information network, support system.
+**Drakh Ix'thar**: Ancient continent-wide guild, founded long before the monster invasion. HQ in old capital (center of continent). Members: **Ix'thari**. Roles: contract broker, licensing, information network, support system. Survived the Abominable End and was re-established during the reconquering.
 
 **Ranks**: Based on successful contracts, named in Draconic after legendary beasts. Highest: **Drah Ix'thari** (Dragon Hunter).
 

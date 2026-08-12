@@ -4,9 +4,9 @@ type: character
 name: "Aurelius"
 status: draft
 tags:
-  - deity, god, knowledge, order, wisdom, justice
+  - deity, god, wisdom, justice
 related:
-  - cosmology_and_the_planes: Claims domain in the Outer Planes
+  - cosmology_and_the_planes: Claims Mechanus as his domain
   - the_gods_and_the_deception: Fragment of A or C
   - the_originals: Originated from A and C's subdivision
   - the_order_of_the_scales: His church; they carry out his will
@@ -22,14 +22,14 @@ secrets:
 ---
 ## Overview
 
-Represents knowledge and order  -  truth, law, fair judgment, disciplined wisdom.
+Represents wisdom and justice  -  truth, fair judgment, enlightened counsel, the weight of wise decisions.
 
 ## Domains
-- Knowledge: Truth, learning, memory, wisdom
-- Order: Law, justice, civilization, structure
+- Wisdom: Truth, learning, memory, enlightened counsel
+- Justice: Law, fair judgment, civilization, order
 
 ## Personality
-Measured, calm, deliberate. Believes justice requires informed decisions and orderly structures.
+Measured, calm, deliberate. Believes justice requires wisdom, not merely law.
 
 ## Worship
-Temples double as libraries, courts, and academies. Clergy advise rulers, arbitrate disputes, preserve records.
+Temples double as courts, libraries, and academies. Clergy advise rulers, arbitrate disputes, preserve records, and counsel the uncertain.

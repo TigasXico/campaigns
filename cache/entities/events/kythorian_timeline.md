@@ -1,4 +1,4 @@
-﻿---
+---
 id: kythorian_timeline
 type: event
 name: "The Kythorian Timeline"
@@ -18,14 +18,17 @@ related:
   - society: Current society emerged from these events
   - economy: Economy shaped by historical events
   - the_world_and_geography: Maps events to eras of Kythoria
-  - the_first_alliance: Records the Alliance's war and disbandment
+  - the_first_alliance: Records the Alliance's war and continuing leadership
   - society: Tracks societal development events
-  - the_adventurers_guild: Records the guild's founding
+  - the_adventurers_guild: Records the guild's ancient origins
   - odessa_merikh: Captures the Merikh family timeline and Valen's defection
   - valen_healoris: Records his defection and the cabin attack
   - eryx_merikh: Records his desertion and death
   - satriya_merikh: Records her death
   - the_venom_weavers: Records Odessa's training period
+  - kaelyn: Captures Kaelyn's exile, awakening, imprisonment, and century of wandering
+  - culture_and_society: Calendar and festivals derived from this timeline
+  - economy: Trade routes like the Dust Circle originated in this era
 created: 2026-08-09
 updated: 2026-08-11
 ---
@@ -56,11 +59,23 @@ Each god falsely claims to have created a specific race. No god created any race
 ### After the Gods Formed  -  Churches Established
 Gods established churches, began harvesting faith (makes them stronger).
 
+### ~800 YA  -  Calendar Established
+10-month, 200-day calendar established by the first mortal kingdoms. Months named after the gods as part of the false creation myth. Has been in continuous use ever since.
+
+### ~800 YA  -  Mortal Kingdoms Founded
+As the first mortal species organized, kingdoms arose. Each species inhabited their own ancestral regions. Trade routes began to form between the kingdoms.
+
 ### Before ~400 YA  -  Pre-Invasion Kingdoms
 Races in distinct ancestral regions. Great kingdoms flourished. Royal mint in NE, martial orders, monastic traditions. ~70% of written records lost during invasion.
 
+### Before ~400 YA  -  Drakh Ix'thar Guild Founded
+Continent-wide adventurers' guild founded long before the invasion to hunt beasts, explore ruins, and protect the ancient kingdoms. HQ in the old capital. Members called Ix'thari. Survived the Abominable End and was re-established as the primary monster-hunting organization during the reconquering.
+
+### Before ~400 YA  -  Crassian's Dust Circle Established
+Ancient overland trade route connecting the great kingdoms of old. Each species inhabited their own realm, and the route connected them all. Named after the great clouds of dust raised by caravans crossing the continent. Rediscovered and restored during the reconquering.
+
 ### ~400 YA  -  The Planar Pact
-Gods struck deals with Abyss, Nine Hells, Shadowfell, Feywild. Prices: souls, territory, power. Monster army never told why invading.
+All ten gods knew and approved. Four personally negotiated: Vorn->Nine Hells (souls+power), Lolth->Abyss (souls), Aloria->Feywild (territory+power), Raven Queen->Shadowfell (territory). Monster army never told why invading.
 
 ### ~400 YA  -  Planar Breaches Opened
 Breaches along Kythoria's coast. Monster hordes poured forth.
@@ -70,15 +85,6 @@ Two centuries of civilization crumbling.
 
 ### Early-Mid Abominable End  -  The Five Generals Emerge
 Five Major Generals: Khar'zul (balor) + four others (2 defeated, 2 retreated/hiding).
-
-### During Abominable End  -  Covenant Early Experiments
-Dissident scholars grafted demonic tissue onto subjects. Drow and Shadow Elves (elf subjects), Tieflings (human subjects).
-
-### During Abominable End  -  Resurrection Ritual Discovered
-Covenant discovered ritual through ancient Druidic scrolls and communion with elder beings. Requirements: runic system carved in gold using arcane-reactive crystals, consuming all arcane energy/metals/items within 3-mile radius. Outcome scales with materials provided.
-
-### Following Early Experiments  -  Project Genesis Begins
-Multi-generational effort to create Khar'zul vessel. Humans perished, elves lost minds, dwarves rejected corruption. Covenant switched to bloodline tracking.
 
 ### ~200 YA  -  Mortal Races Pushed to Brink
 Two centuries of assault pushed races to center-southeast. Final stand prepared.
@@ -103,8 +109,17 @@ Physical form destroyed, essence endured. His own sword (absorbed his blood/vict
 ### Following Sealing  -  Birth of the Crimson Covenant
 Witness scholars saw prison as chrysalis. Corrupted by Khar'zul's whispers, disappeared with sealing fragments and forbidden knowledge.
 
-### After Sealing  -  First Alliance Disbands
-Never formally dissolved  -  faded as crisis passed. Three capitals assumed independent authority.
+### Following Sealing  -  Project Genesis Begins
+Covenant scholars used fragments of living flesh from Khar'zul's sealed blade to graft demonic tissue onto living subjects. Humans perished within days, elves lost their minds, dwarves rejected corruption entirely. Unintended byproducts: Drow (elf subjects who fled to the Underdark), Shadow Elves (who attuned to Shadowfell), and Tieflings (human subjects who survived longest). The Covenant refined the process over centuries, switching from random subjects to bloodline tracking.
+
+### Following Sealing  -  Resurrection Ritual Discovered
+The Covenant discovered the theoretical resurrection ritual through ancient Druidic scrolls and communion with elder beings. Requirements: a runic system carved in gold using arcane-reactive crystals, consuming all arcane energy, metals, and items within a 3-mile radius. Outcome scales with materials provided.
+
+### Following Sealing  -  Bloodline Tracking Begins
+After early experiments failed to produce a viable Khar'zul vessel, the Covenant shifted from random subjects to tracking entire family trees. They sought the one individual whose blood carried every necessary trait.
+
+### After Sealing  -  First Alliance Continues as Governing Body
+Never formally dissolved. The Alliance adapted from wartime coalition to permanent governing body overseeing the reconquering. The Council of Kings evolved into the Council Accord, coordinating military strategy, resource allocation, and territorial expansion across the three capitals and beyond.
 
 ### After Sealing  -  The Blade's First Vault
 Skallfang Clan returned to the Frostmaw with the sealed blade. First century: hidden in the **Whispering Glacier**  -  a vault carved into ancient ice, where extreme cold suppressed the blade's influence. Keeper: Chieftain Bjorn Skallfang.
@@ -114,20 +129,35 @@ As the blade began to transform (steel showing first organic veins), the clan mo
 
 > **[emoji] TODO  -  Blade Theft Timeline**: How and when Khar'zul's blade passed from the Skallfang Clan to the Crimson Covenant needs to be defined after reviewing the general timeline (invasion, First Alliance, Last Stand, Sealing).
 
+### ~139 YA  -  Kaelyn's Trial of Lolth (Age 11)
+Kaelyn Velkyn exiled from the Underdark Drow community at age 11 after refusing to kill her nanny Seraphine in the Trial of Lolth. Her twin sister Solyn completed the kill and claimed leadership.
+
+### ~139 YA to ~135 YA  -  Kaelyn's Exile and Survival (Ages 11-15)
+Kaelyn survived alone in the wilderness near the Underdark forest, learning to hunt and hide from Drow scouts.
+
+### ~135 YA  -  Kaelyn's Awakening at the Azure Boneyard (Age 15)
+Fled Drow scouts, fell into a cave filled with blue arcane-reactive crystals. Touched a blue dragon skeleton and awakened her powers. Her heart crystallized into red crystal (B's essence), left eye turned black, hair turned black.
+
+### ~135 YA to ~120 YA  -  Kaelyn's Solitude (Ages 15-30)
+Explored her newfound powers in isolation for 15 years. At age 30, visited a surface village for the first time in 19 years.
+
+### ~120 YA to ~100 YA  -  Kaelyn Captured and Imprisoned (Ages 30-50)
+Drow spies recognized her despite altered appearance. Captured by her mother Lyndale Velkyn and imprisoned for 20 years. Systematic interrogation, torture, and experiments.
+
+### ~100 YA  -  Kaelyn's Escape (Age 50)
+During an experiment, containment failed. Kaelyn released a massive electrical discharge, killed researchers, escaped. Pushed her mother Lyndale into a fire. Her sister Solyn sacrificed herself (survived unknown to Kaelyn) to push Kaelyn out of collapsing caves. Kaelyn fled believing both dead.
+
+### ~100 YA to Present  -  Kaelyn's Century of Wandering (Ages 50-150+)
+For 100 years, Kaelyn wandered Kythoria as a bounty hunter. Developed a charismatic, hedonistic persona to hide her trauma and crystal heart. Never stayed in one place too long.
+
 ### ~50 YA  -  The Eye First Appeared
 The blade's single yellow eye opened for the first time. **Skalda Frost-Beard**, the Keeper at the time, documented this as the moment the blade ceased to be a weapon and became Khar'zul's living prison-chrysalis.
 
 ### After Sealing  -  Reconquering Begins
-South/east recovered easily. North/west contested. ~1/3 continent still monster-held.
+South/east recovered easily. North/west contested. ~1/3 continent still monster-held. First Alliance leads the effort.
 
 ### 200 Years Following Sealing  -  Skallfang Clan's Burden
 Guarded the blade. Over centuries, blade transformed: steel -> living flesh, eye opened within. Khar'zul evolving.
-
-### After Reconquering  -  Crassian's Dust Circle
-Overland trade circuit completed. Dust cloud from caravans gave it the name.
-
-### After Reconquering  -  Drakh Ix'thar Founded
-Continent-wide adventurers' guild. HQ in old capital. Members: Ix'thari.
 
 ### After Reconquering  -  Ecumenical Council Formed
 Seven recognized churches. Three banned (Lolth, Raven Queen, Vorn) operate outside.
@@ -135,14 +165,11 @@ Seven recognized churches. Three banned (Lolth, Raven Queen, Vorn) operate outsi
 ### After Reconquering  -  Manufactured Divine Conflict Instituted
 Gods created pantheon conflict. Lolth, Raven Queen, Vorn scapegoated for invasion. Their churches banned.
 
-### After Reconquering  -  Calendar Standardized
-10-month, 200-day calendar. Months named after gods.
-
 ### ~91 YA  -  Valen Healoris Defects to Monster Army
-Elven general Valen Healoris and his entire unit defect to the monster army voluntarily, for power and survival. Elven leadership suppresses knowledge of the defection. **Eryx Merikh** deserts with proof of the betrayal — and with evidence that elven leadership surrendered captives to the Crimson Covenant's experiments.
+Elven general Valen Healoris and his entire unit defect to the monster army voluntarily, for power and survival. Elven leadership suppresses knowledge of the defection. **Eryx Merikh** deserts with proof of the betrayal - and with evidence that elven leadership surrendered captives to the Crimson Covenant's experiments.
 
 ### ~91 YA  -  Odessa Merikh Conceived
-Valen Healoris, during a raid on a human village, rapes a woman. The child conceived will become **Odessa Merikh** — though neither parent will ever know her name.
+Valen Healoris, during a raid on a human village, rapes a woman. The child conceived will become **Odessa Merikh** - though neither parent will ever know her name.
 
 ### ~91 YA  -  Eryx and Satriya Go into Hiding
 Eryx Merikh and Satriya (Valen's former love, who chose Eryx) flee into remote woodlands. Satriya establishes a runic barrier around their cabin. Eryx sends a hidden cache of proof to a secure location.
@@ -169,7 +196,7 @@ Covenant holds blackmail: if gods move against them, they reveal divine conspira
 Perfect subject found (young tiefling woman). Balor Skallfang born.
 
 ### ~20 YA  -  Balor's Mother Betrays the Covenant
-**Seraphina Vex**  -  former Covenant Apostle  -  fled with newborn Balor and Khar'zul's blade into the northern wilderness. She had planned the escape for months, killed three Inquisitors, and vanished with the Covenant's most prized possessions.
+**Seraphina Vex** - former Covenant Apostle - fled with newborn Balor and Khar'zul's blade into the northern wilderness. She had planned the escape for months, killed three Inquisitors, and vanished with the Covenant's most prized possessions.
 
 ### ~20 YA  -  Seraphina Leaves Balor with Skallfang Clan
 After three weeks of flight, exhausted and hunted, Seraphina left the infant Balor beside a trail known to Hrothgar Skallfang, with the blade and her Apostle medallion. She disappeared into the wilderness to draw the Covenant's hunters away.

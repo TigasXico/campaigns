@@ -10,8 +10,53 @@
 | Category | Status | Notes |
 |----------|--------|-------|
 | Audit: All 7 categories | [ok] Complete | 27/27 contradictions resolved. 42 files fixed across 2 passes. |
-| Entity count | 90 files | All entity files have related: entries and valid links. |
-| Index | [ok] Synced | _index.md reflects all 90 entities on disk. |
+| Entity count | 91 files | Added timeline_integration_questions.md |
+| Index | [--] Needs sync | _index.md needs updating to reflect new file + changes |
+| Timeline Update | [ok] Done | Calendar/Dust Circle/Drakh Ix'thar moved to pre-invasion; First Alliance continues; Kaelyn events added |
+| First Alliance | [ok] Updated | Changed from defunct to active; now permanent governing body |
+| Drakh Ix'thar | [ok] Updated | Now founded pre-invasion, survived Abominable End |
+| Crassian's Dust Circle | [ok] Updated | Now pre-invasion trade route |
+| Calendar | [ok] Updated | Now established ~800 YA |
+| PC Questions | [ok] Created | timeline_integration_questions.md compiled |
+
+---
+
+## Recent Changes (2026-08-11)
+
+### Timeline (`kythorian_timeline.md`)
+- Added: ~800 YA Calendar Established, ~800 YA Mortal Kingdoms Founded
+- Added: Before ~400 YA - Drakh Ix'thar Guild Founded (previously "After Reconquering")
+- Added: Before ~400 YA - Crassian's Dust Circle Established (previously "After Reconquering")
+- Changed: "After Sealing - First Alliance Disbands" -> "After Sealing - First Alliance Continues as Governing Body"
+- Removed: "After Reconquering - Crassian's Dust Circle", "After Reconquering - Drakh Ix'thar Founded", "After Reconquering - Calendar Standardized"
+- Added: Kaelyn's timeline events (~139 YA to ~100 YA to Present)
+- Updated: Reconquering Begins entry to mention "First Alliance leads the effort"
+
+### First Alliance (`the_first_alliance.md`)
+- Status changed from draft/defunct to active
+- Rewrote to reflect permanent governing body
+- Updated Structure, Membership, History, and Current Status sections
+- Added Council Accord connection
+
+### Adventurers Guild (`the_adventurers_guild.md`)
+- Rewrote History to reflect pre-invasion origins
+- Added ancient archives secret
+- Updated related links
+
+### Economy (`economy.md`)
+- Updated Crassian's Dust Circle to reflect pre-invasion origin
+
+### Culture & Society (`culture_and_society.md`)
+- Added calendar age (~800 years) to Calendar section
+- Updated Drakh Ix'thar description to note ancient origins
+
+### The Last Stand (`the_last_stand.md`)
+- Added paragraph noting First Alliance never disbanded
+
+### New File: PC Timeline Integration Questions
+- Created `timeline_integration_questions.md` with questions for each PC
+- Covers: Aegon, Aurora, Bardolemeu, Nyra, Sanzo, Zan, Odessa, Balor
+- Designed to gather enough info to place character events in master timeline
 
 ---
 
@@ -58,20 +103,3 @@
 - [?] Kaelyn: crystal heart growth triggers, Black Willow's cave secrets, Seraphine's records
 - [?] Paul's chapel attack (Order of Scales framed CC on Aurelius's order)
 - [?] Crystal cave deeper exploration beneath capitals
-- [?] Larger evil council -- is CC part of something bigger?
-- [?] The Great Circuit -- Crassian's Dust Circle
-- [?] Calendar festival articles -- create pages for festivals
-- [?] Notable NPCs -- city leaders, guildmasters
-
----
-
-## Timeline Management
-
-> Master timeline: `cache/entities/events/kythorian_timeline.md`
-> Any future event with a defined timeframe MUST be added to this file.
-
-**How to maintain:**
-1. When creating a time-bound entity, open `kythorian_timeline.md`
-2. Insert chronologically with ### heading format
-3. Include: Timeframe, Description, entity references
-4. Update file's `updated` and `related` frontmatter fields
