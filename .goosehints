@@ -12,8 +12,6 @@ WA = WorldAnvil. Always use this abbreviation when referring to WorldAnvil.
 ## BBCode Format
 WA articles use BBCode format. Cross-article links: `[article:entity_id]Display Name[/article]`. Secret content: `[subscribergroup:group_name]content[/subscribergroup]`. Subscriber groups: gm-only (DM secrets), all-party (shared party knowledge), player-character-N (per-character secrets).
 
-
-
 The WA Lore Keeper workflow has 6 steps: (1) Record voice note, (2) Transcribe via Whisper to clipboard, (3) Goose processes transcription & summarizes needed changes, (4) Goose updates local cache (entities, relationships, index), (5) Goose generates BBCode articles for WA with secrets/subscriber groups, (6) Goose presents a commit summary with file changes and content details, suggests a commit message, and waits for user approval before committing and pushing.
 
 ## Timeline Management Rule
@@ -33,7 +31,8 @@ The WA Lore Keeper workflow has 6 steps: (1) Record voice note, (2) Transcribe v
 - Goose MUST suggest a descriptive commit message in conventional format (feat|fix|docs(scope): description).
 - Goose MUST wait for explicit user approval before running `git add`, `git commit`, or `git push`.
 - Always update cache/_session_continuity.md with the session's file manifest and pruned open questions before finishing.
-- Check all entity files for 12KB cap compliance after every commit. Flag violations to user.
+- Check all entity files for 12KB cap compliance after every commit. Flag violations to user. Only exception: Player Characters (PC) entity files
+
 
 ## ASCII-Only Content Rule
 - All project text files must use only ASCII characters (U+0000 to U+007F)
