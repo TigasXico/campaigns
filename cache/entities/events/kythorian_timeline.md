@@ -218,6 +218,35 @@ Carries blade constantly. Whispers louder. Covenant seeks him. Khar'zul evolves 
 
 ### Present Day  -  Rise of the Mortals Continues
 
+### ~29 YA  -  Vaelis Zandorian (Zan) Born
+Born to Ashura Zando and Athena Orion in the Shadar-kai shadow-city of the Shadowfell. Born into the middle-upper class Zandorion family.
+
+### ~29 YA to ~22 YA  -  Zan's Childhood (Ages 0-7)
+Peaceful, happy childhood in the Shadowfell shadow-city. A society of no-staircase architecture designed for teleportation.
+
+### ~22 YA  -  The Raven Queen's Brand Appears (Age 7)
+The Raven Queen's brand manifests on Zan's body -- marking him as a direct bloodline descendant and "chosen" of the Queen. He is the youngest ever to receive this mark. Higher families, envious and scheming, target him.
+
+### ~22 YA  -  The Zandorion Family's Sacrifice (Age 7)
+To protect Zan from assassins and political enemies in the Shadowfell, Ashura and Athena secretly abandon him on the Material Plane. His memory is modified to block the reason. An orphan named Dun'vis is groomed to replace Zan, bearing a tattooed replica of the brand.
+
+### ~22 YA to ~18 YA  -  Zan on the Streets (Ages 7-11)
+Zan drifts alone on the streets of the Material Plane, stealing to survive. He is found by J.B., a human crime lord who trains him in theft, assassination, and survival. J.B. cuts off the tips of Zan's ears to force a disguise, and renames him "Zan," killing the name Vaelis Zandorian.
+
+### ~18 YA  -  The Awakening (Age 11)
+During a botched mission, Zan jumps from a 30-foot cliff. In desperation, he prays to the Raven Queen. She answers -- his innate Shadar-kai teleportation awakens, saving his life. J.B. witnesses this and sells Zan to the Flesh Architects (Crimson Covenant research division).
+
+### ~18 YA to ~16 YA  -  Subject 242 (Ages 11-13)
+Zan is held by the Flesh Architects as Subject 242. He meets Sophie (Subject 241), and they form a deep bond. The Catalyst Project begins: B Crystals are used to modify his teleportation. The stones permanently alter his abilities and make him B-touched.
+
+### ~16 YA  -  Zan's Escape (Age 13)
+During a Catalyst Project session, Zan teleports out of his restraints, kills the attending scientist and a guard, and flees. Cornered, he jumps from a 100-foot window and uses a dislodged B Crystal shard as a teleportation anchor. He survives and escapes. Sophie remains behind.
+
+### ~16 YA to Present  -  The Rest (Ages 13-29)
+Zan works as an assassin and bounty hunter, gathering power, resources, and information. His goal: destroy the Flesh Architects, hunt down J.B., and rescue Sophie.
+
+### Present Day  -  Rise of the Mortals Continues
+
 ### Three-Way Standoff  -  Present
 - **Gods**: Destroy mortalkind, prevent B's resurrection. Leverage: religion, monster army as proxy.
 - **Covenant**: Destroy gods by resurrecting B. Leverage: blackmail (conspiracy knowledge), embedded agents.

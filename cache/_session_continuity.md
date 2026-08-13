@@ -1,7 +1,7 @@
 # Session Continuity -- Lore Development
 
 > Stores cross-session context needed to resume work after compaction.
-> Created: 2026-08-08 | Updated: 2026-08-11
+> Created: 2026-08-08 | Updated: 2026-08-13
 
 ---
 
@@ -10,63 +10,59 @@
 | Category | Status | Notes |
 |----------|--------|-------|
 | Audit: All 7 categories | [ok] Complete | 27/27 contradictions resolved. 42 files fixed across 2 passes. |
-| Entity count | 91 files | Added timeline_integration_questions.md |
-| Index | [--] Needs sync | _index.md needs updating to reflect new file + changes |
-| Timeline Update | [ok] Done | Calendar/Dust Circle/Drakh Ix'thar moved to pre-invasion; First Alliance continues; Kaelyn events added |
-| First Alliance | [ok] Updated | Changed from defunct to active; now permanent governing body |
-| Drakh Ix'thar | [ok] Updated | Now founded pre-invasion, survived Abominable End |
-| Crassian's Dust Circle | [ok] Updated | Now pre-invasion trade route |
-| Calendar | [ok] Updated | Now established ~800 YA |
-| PC Questions | [ok] Created | timeline_integration_questions.md compiled |
+| Entity count | 98 files | Added 7 new files (species + 6 NPCs + 1 org); backstory supplement merged into Zan file |
+| Index | [ok] Synced | sync-index.ps1 run; 98 rows |
+| Timeline Update | [ok] Done | Zan's timeline added (~29 YA to Present) |
+| Zan Backstory | [ok] Complete | Full backstory integrated; status changed to complete |
+| Shadow Elves species | [ok] Created | Moved content out of races_and_ancestries.md |
+| Flesh Architects | [ok] Created | Covenant research division, Catalyst Project |
 
 ---
 
-## Recent Changes (2026-08-11)
+## Recent Changes (2026-08-13) -- Zan Backstory Integration
 
-### Timeline (`kythorian_timeline.md`)
-- Added: ~800 YA Calendar Established, ~800 YA Mortal Kingdoms Founded
-- Added: Before ~400 YA - Drakh Ix'thar Guild Founded (previously "After Reconquering")
-- Added: Before ~400 YA - Crassian's Dust Circle Established (previously "After Reconquering")
-- Changed: "After Sealing - First Alliance Disbands" -> "After Sealing - First Alliance Continues as Governing Body"
-- Removed: "After Reconquering - Crassian's Dust Circle", "After Reconquering - Drakh Ix'thar Founded", "After Reconquering - Calendar Standardized"
-- Added: Kaelyn's timeline events (~139 YA to ~100 YA to Present)
-- Updated: Reconquering Begins entry to mention "First Alliance leads the effort"
+### New Files Created
 
-### First Alliance (`the_first_alliance.md`)
-- Status changed from draft/defunct to active
-- Rewrote to reflect permanent governing body
-- Updated Structure, Membership, History, and Current Status sections
-- Added Council Accord connection
+#### Species
+- **`species/shadow_elves.md`**  -  New species file for Shadow Elves (Shadar-kai). Origins (Covenant experiments ~500-600 YA), Shadowfell civilization, the Raven Queen's brand (mortal union bloodline), racial traits (innate latent teleportation awakened by the Raven Queen), social standing, worship, notable individuals. Secrets: brand = direct bloodline, teleportation must be awakened.
 
-### Adventurers Guild (`the_adventurers_guild.md`)
-- Rewrote History to reflect pre-invasion origins
-- Added ancient archives secret
-- Updated related links
+#### Organizations
+- **`organizations/the_flesh_architects.md`**  -  Covenant research division, semi-autonomous. Runs the Catalyst Project (B Crystal modification of Shadar-kai teleportation). Subject numbering system (241 = Sophie, 242 = Zan). Hidden facilities (number/locations to be defined by GM). Secrets: B Crystal modification records, facility locations.
 
-### Economy (`economy.md`)
-- Updated Crassian's Dust Circle to reflect pre-invasion origin
+#### NPCs
+- **`characters/NPC/ashura_zando.md`**  -  Zan's father, member of the Zandorion family. With Athena, made the impossible choice to abandon Zan. Lives with guilt, pain, anger, and hope.
+- **`characters/NPC/athena_orion.md`**  -  Zan's mother, member of the Zandorion family. With Ashura, shared in the decision. Lives with guilt, pain, anger, and hope. Kind but pained with Dun'vis.
+- **`characters/NPC/dunvis.md`**  -  The orphan groomed to replace Zan. Tattooed replica of Raven Queen's brand. Trained to be Zan. Bullied/hunted his whole life. Now hunts Zan to expose the Zandorion plan and reclaim his identity. Driving quote: "I want my life back. I want my name back. I want myself back."
+- **`characters/NPC/sophie_subject_241.md`**  -  Fellow prisoner of the Flesh Architects. Bonded with Zan. His love from the lab. Fate unknown -- rescue target.
+- **`characters/NPC/jb_the_collector.md`**  -  Human crime lord, trained Zan ages 7-11, mutilated his ears, renamed him, sold him to the Flesh Architects. Name unknown.
 
-### Culture & Society (`culture_and_society.md`)
-- Added calendar age (~800 years) to Calendar section
-- Updated Drakh Ix'thar description to note ancient origins
+### Updated Files
 
-### The Last Stand (`the_last_stand.md`)
-- Added paragraph noting First Alliance never disbanded
+- **`zan_vaelis_zandorian.md`**  -  COMPLETE REWRITE. Status: draft -> complete. Full backstory merged into a single file (20.7KB -- PC exception to 12KB cap). Contains: Overview, Appearance, Background summary table, Full Backstory (7 chapters), DM's Notes (plot hooks, character connections, world secrets), Timeline Summary, Abilities, Goals, Relationships, Open Questions. Corrected lore: Shadar-kai racial teleportation, B-touched status, Raven Queen's brand, does NOT revere the Queen.
+- **`races_and_ancestries.md`**  -  Removed detailed Shadow Elf content, added reference to species/shadow_elves.md. Updated related.
+- **`the_crimson_covenant.md`**  -  Added Research Divisions section with Flesh Architects. Updated related.
+- **`kythorian_timeline.md`**  -  Added Zan's events (~29 YA birth, ~22 YA brand/exile, ~18 YA awakening/sale, ~18-16 YA Subject 242, ~16 YA escape, ~16 YA to Present).
+- **`timeline_integration_questions.md`**  -  Marked all 9 Zan questions [ok] resolved with answers. Updated related.
 
-### New File: PC Timeline Integration Questions
-- Created `timeline_integration_questions.md` with questions for each PC
-- Covers: Aegon, Aurora, Bardolemeu, Nyra, Sanzo, Zan, Odessa, Balor
-- Designed to gather enough info to place character events in master timeline
+### Removed
+- **`zan_vaelis_zandorian_backstory.md`**  -  Backstory supplement file deleted; content merged into main Zan file per user decision (PC files are the 12KB cap exception).
 
 ---
 
 ## Open Question Tracker
 
-### Player-Dependent Backstories (4)
+### Player-Dependent Backstories (3)
 - [?] sanzo -- entirely empty, needs player (Guilherme/Gui) input
 - [?] bardolemeu_romeo -- family name, theaters, family members undefined
 - [?] nyra -- mystery box, blue dragon, parents, divine attacker all TBD
-- [?] zan_vaelis_zandorian -- experimenter, escape method, teleport stability, family TBD
+
+### Zan-Specific Open Questions (in-file)
+- [?] Sophie's fate -- alive? where held? (in zan_vaelis_zandorian.md)
+- [?] J.B.'s location -- still running guild? (in zan_vaelis_zandorian.md)
+- [?] Flesh Architects facilities -- where are the others? (in the_flesh_architects.md)
+- [?] What does the Raven Queen want from Zan? (in zan_vaelis_zandorian.md)
+- [?] Will Zan's B-touched resonance draw attention? (in zan_vaelis_zandorian.md)
+- [?] Zan meets Dun'vis -- what happens? (in zan_vaelis_zandorian.md)
 
 ### GM Design Decisions (12)
 - [?] Four Unnamed Generals -- names, creature types, domains, status (2 defeated, 2 retreated)
@@ -87,6 +83,8 @@
 - [!] odessa_merikh.md -- 16.7KB (needs split: main + GM notes)
 - [!] balor_skallfang.md -- 14.8KB (needs split: main + backstory)
 - [!] aurora_asteria.md -- 12.6KB (trim or split GM notes)
+
+> NOTE: zan_vaelis_zandorian.md is 20.7KB but is exempt as a PC file (per user decision, all PC files are the 12KB cap exception).
 
 ### Naming Gaps (6)
 - [?] The Eastern Port -- no proper name

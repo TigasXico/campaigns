@@ -7,6 +7,7 @@ tags:
   - pc, timeline, backstory, questions, gm_tool
 related:
   - kythorian_timeline: These questions exist to populate the master timeline
+  - zan_vaelis_zandorian: Zan's timeline questions resolved -- full backstory integrated
   - kaelyn: Questions for timeline integration partially resolved
   - odessa_merikh: Timeline events mostly defined, remaining questions below
   - balor_skallfang: Timeline events mostly defined, remaining questions below
@@ -133,24 +134,26 @@ This document compiles questions for each PC whose backstory events need to be p
 
 ## Zan (Vaelis Zandorian)
 
-> Shadow Elf rogue with innate teleportation from Crimson Covenant experiments. Unknown age (estimate 20-50 for elf/shadow elf).
+> Shadow Elf (Shadar-kai) rogue. 29 years old at campaign start. Full backstory integrated. See `zan_vaelis_zandorian.md` and `species/shadow_elves.md` for complete details.
 
-### Timeline Questions
+### Timeline Questions -- All [ok] Resolved
 
-1. **Current Age:** How old is Zan at campaign start?
-2. **Birth Year:** When was he born?
-3. **Covenant Experiments:** At what age was he subjected to the Covenant's experiments?
-4. **Escape:** How did he escape the Covenant? How old was he?
-5. **Family:** Does Zan have family? (Living or dead, in the Shadowfell or on the Material Plane)
-6. **Shadowfell Origin:** Was he born in the Shadowfell or the Material Plane? His race was created there, but was he?
-7. **Teleportation Onset:** When did the teleportation first manifest? Immediately after the experiments, or did it develop over time?
-8. **Life After Escape:** What has he been doing since escaping? How long has he been free?
-9. **Current Location:** Where is he at campaign start?
+1. [ok] **Current Age:** 29 at campaign start.
+2. [ok] **Birth Year:** ~29 YA.
+3. [ok] **Covenant Experiments:** Age 11-13, held by the Flesh Architects (Covenant research division) as Subject 242.
+4. [ok] **Escape:** Escaped at age 13 during the Catalyst Project. Teleported out of restraints, killed scientist/guard, jumped 100-ft, used B Crystal as teleportation anchor.
+5. [ok] **Family:** Yes -- Ashura Zando (father) and Athena Orion (mother), alive in the Shadowfell shadow-city. They abandoned him at age 7 to protect him from nobility. Memory modified.
+6. [ok] **Shadowfell Origin:** Born in the Shadowfell shadow-city to the Zandorion noble family.
+7. [ok] **Teleportation Onset:** Innate Shadar-kai teleportation awakened at age 11 when the Raven Queen answered his prayer. Later permanently modified by Flesh Architects' Catalyst Project (B Crystals).
+8. [ok] **Life After Escape:** Age 13-29 (16 years) as assassin and bounty hunter. Gathered power/resources to destroy the Flesh Architects, hunt J.B., and rescue Sophie.
+9. [ok] **Current Location:** On the Material Plane, active as an assassin/bounty hunter at campaign start.
 
-### GM Notes
-- Teleportation is a lingering artifact of a failed ritual that fused shadow essence into his being
-- He may be traceable by those who understand the ritual's signature
-- Shadow Elves are banned church (Raven Queen) - may face discrimination
+### Resolved GM Notes
+- [ok] Teleportation is Shadar-kai innate racial trait, awakened by Raven Queen, modified by B Crystals (Catalyst Project)
+- [ok] He can be traced by Flesh Architects who understand B Crystal resonance signatures (B-touched)
+- [ok] Shadow Elves are a banned/blamed race (Raven Queen), but Zan does NOT revere the Raven Queen
+- [ok] Zan carries the Raven Queen's brand -- a mark of direct bloodline descent
+- [ok] An orphan named Dun'vis replaced Zan in the Shadowfell and now hunts him
 
 ---
 

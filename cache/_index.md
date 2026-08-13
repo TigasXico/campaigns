@@ -6,6 +6,8 @@
 | aegon                                | character      | Aegon, The Rogue Paragon                 | draft  | 2026-08-10 |
 | aetris                               | location       | Aetris                                   | draft  | 2026-08-09 |
 | aloria                               | character      | Aloria                                   | draft  | 2026-08-09 |
+| ashura_zando                         | character      | Ashura Zando                             | draft  | 2026-08-13 |
+| athena_orion                         | character      | Athena Orion                             | draft  | 2026-08-13 |
 | aurelius                             | character      | Aurelius                                 | draft  | 2026-08-10 |
 | aurora_asteria                       | character      | Aurora Asteria                           | draft  | 2026-08-10 |
 | balor_skallfang                      | character      | Balor Skallfang (The Tainted)            | draft  | 2026-08-09 |
@@ -14,10 +16,12 @@
 | cosmology_and_the_planes             | lore           | Cosmology & The Planes                   | draft  | 2026-08-08 |
 | crassian                             | character      | Crassian                                 | draft  | 2026-08-09 |
 | culture_and_society                  | lore           | Culture & Society of the Mortal Races    | draft  | 2026-08-09 |
+| dunvis                               | character      | Dun'vis                                  | draft  | 2026-08-13 |
 | economy                              | lore           | Economy of the Mortal Races              | draft  | 2026-08-09 |
 | emberforge                           | location       | Emberforge                               | draft  | 2026-08-09 |
 | eryx_merikh                          | character      | Eryx Merikh                              | draft  | 2026-08-11 |
 | founding_of_the_last_stand           | event          | Founding of the Last Stand               | draft  | 2026-08-09 |
+| jb_the_collector                     | character      | J.B. (The Collector)                     | draft  | 2026-08-13 |
 | kaelthor                             | character      | Kaelthor                                 | draft  | 2026-08-09 |
 | kaelyn                               | character      | Kaelyn                                   | draft  | 2026-08-10 |
 | kharzuls_blade                       | item           | Khar'zul's Blade (The Living Prison)     | draft  | 2026-08-09 |
@@ -39,10 +43,12 @@
 | sanzo                                | character      | Sanzo                                    | draft  | 2026-08-10 |
 | satriya_merikh                       | character      | Satriya Merikh                           | draft  | 2026-08-11 |
 | seraphina_vex                        | character      | Seraphina Vex                            | draft  | 2026-08-10 |
+| shadow_elves                         | species        | Shadow Elves (Shadar-kai)                | draft  | 2026-08-13 |
 | skywatch                             | location       | Skywatch                                 | draft  | 2026-08-09 |
 | society                              | lore           | Society of Kythoria                      | draft  | 2026-08-09 |
 | society_and_culture_design           | campaign_note  | Society & Culture Design Decisions       | active | 2026-08-09 |
 | solyn_velkyn                         | character      | Solyn Velkyn                             | draft  | 2026-08-10 |
+| sophie_subject_241                   | character      | Sophie (Subject 241)                     | draft  | 2026-08-13 |
 | thalkis                              | character      | Thalkis                                  | draft  | 2026-08-09 |
 | the_abominable_end                   | event          | The Abominable End                       | draft  | 2026-08-09 |
 | the_adventurers_guild                | organization   | Drakh Ix'thar  -  The Adventurers' Guild | draft  | 2026-08-11 |
@@ -58,6 +64,7 @@
 | the_eastern_port                     | location       | The Eastern Port                         | draft  | 2026-08-09 |
 | the_ecumenical_council               | organization   | The Ecumenical Council                   | draft  | 2026-08-09 |
 | the_first_alliance                   | organization   | The First Alliance                       | active | 2026-08-11 |
+| the_flesh_architects                 | organization   | The Flesh Architects (Arquitetos da C... | draft  | 2026-08-13 |
 | the_four_barbarian_tribes            | organization   | The Four Barbarian Tribes                | draft  | 2026-08-09 |
 | the_frontier                         | location       | The Western Frontier                     | draft  | 2026-08-09 |
 | the_frostmaw                         | location       | The Frostmaw                             | draft  | 2026-08-09 |
@@ -92,4 +99,4 @@
 | vorn                                 | character      | Vorn                                     | draft  | 2026-08-11 |
 | weaveheart                           | location       | Weaveheart                               | draft  | 2026-08-09 |
 | world_and_geography_design           | campaign_note  | World & Geography Design Decisions       | active | 2026-08-09 |
-| zan_vaelis_zandorian                 | character      | Zan (Vaelis Zandorian)                   | draft  | 2026-08-10 |
+| zan_vaelis_zandorian                 | character      | Zan (Vaelis Zandorian)                   | complete | 2026-08-13 |

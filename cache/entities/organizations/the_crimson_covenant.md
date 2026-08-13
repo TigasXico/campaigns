@@ -18,6 +18,7 @@ related:
   - seraphina_vex: Victim of Project Genesis who escaped with Balor and the blade
   - the_originals: Researches B's essence to destroy the gods
   - balor_skallfang: Seeks to recover Balor and the blade
+  - the_flesh_architects: The Flesh Architects are a research division of the Covenant, responsible for the Catalyst Project
 secrets:
   - text: "Ultimate goal: resurrect Entity B in weakened form to destroy the gods. Knows about the resurrection ritual."
     access: gm-only
@@ -49,6 +50,12 @@ A shadowy organization with two faces: known for horrific experiments creating D
 - **Inquisitors**  -  Elite assassins, hunters, detectives.
 - **Seekers**  -  Ruin specialists, ancient tongues, magic seals, demons. Recover forbidden knowledge.
 - **Faithful**  -  Common cultists, guards, mercenaries. Know only fragments.
+
+### Research Divisions
+
+The Covenant maintains specialized research divisions. The most notable is:
+
+- **The Flesh Architects (Arquitetos da Carne)**  -  A dedicated research division focused on the study, modification, and weaponization of mortal physiology through arcane experimentation. Responsible for the **Catalyst Project** which studied Shadar-kai teleportation using B Crystals. Subject 242 (Zan) was their most notable escapee. See `organizations/the_flesh_architects.md` for full details.
 
 ## Recruitment
 

@@ -10,6 +10,7 @@ related:
   - the_gods_and_the_deception: Gods falsely claim to have created specific races
   - the_crimson_covenant: Experiments produced Drow, Shadow Elves, and Tieflings ~500-600 years ago
   - the_last_stand: All races united at the Last Stand to survive the monster invasion
+  - shadow_elves: Detailed species file exists for Shadow Elves (Shadar-kai), their origins, culture, and racial traits
   - cosmology_and_the_planes: Shadow Elves claimed Shadowfell; Drow communities exist in various dark regions
   - the_underdark_forest: A sunken forest in south-west Kythoria known as the Underdark  -  home to a Drow theocracy
   - balor_skallfang: Balor is a tiefling, created by Project Genesis
@@ -116,7 +117,7 @@ Drow never participated in the First Alliance or helped found the Last Stand. Th
 
 ### Shadow Elves (Claimed by the Raven Queen)
 
-Shadow Elves fled to the Shadowfell during the Abominable End and never joined the mortal alliance. Like the Drow, they are distrusted on the surface. Their connection to death and the Shadowfell fuels prejudice  -  many believe they serve the Raven Queen's dark designs. Shadow Elf visitors to Last Stand cities are rare and typically watched.
+See **`species/shadow_elves.md`** for full details on Shadow Elf origins, culture, racial traits, and the Raven Queen's brand. Shadow Elves fled to the Shadowfell during the Abominable End and never joined the mortal alliance. Like the Drow, they are distrusted on the surface. Their connection to death and the Shadowfell fuels prejudice  -  many believe they serve the Raven Queen's dark designs. Shadow Elf visitors to Last Stand cities are rare and typically watched.
 
 ### Half-Orcs (Claimed by Vorn)
 
