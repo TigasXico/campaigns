@@ -36,12 +36,12 @@ World: [Campaign/World Name]
 
 | Cache Folder | WA Category | Article Naming Convention |
 |---|---|---|
-| `entities/characters/` | Characters | `[entity_id]` -> WA slug: `entity_id` |
-| `entities/locations/` | Locations | `[entity_id]` -> WA slug: `entity_id` |
-| `entities/organizations/` | Organizations | `[entity_id]` -> WA slug: `entity_id` |
-| `entities/events/` | Events | `[entity_id]` -> WA slug: `entity_id` |
-| `entities/items/` | Items | `[entity_id]` -> WA slug: `entity_id` |
-| `entities/lore/` | Lore & Concepts | `[entity_id]` -> WA slug: `entity_id` |
+| `characters/` | Characters | `[entity_id]` -> WA slug: `entity_id` |
+| `locations/` | Locations | `[entity_id]` -> WA slug: `entity_id` |
+| `organizations/` | Organizations | `[entity_id]` -> WA slug: `entity_id` |
+| `events/` | Events | `[entity_id]` -> WA slug: `entity_id` |
+| `items/` | Items | `[entity_id]` -> WA slug: `entity_id` |
+| `lore/` | Lore & Concepts | `[entity_id]` -> WA slug: `entity_id` |
 
 ### The _Master Index Article
 

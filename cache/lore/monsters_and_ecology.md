@@ -62,7 +62,7 @@ One of the five generals was **Khar'zul (The Flesh That Remembers)**  -  a balor
 
 **The Blade Today**  -  Khar'zul's blade is now carried by **Balor Skallfang (The Tainted)**  -  a tiefling barbarian who was found as an infant beside the blade. The blade whispers to Balor, testing his will, offering power. He performs the **Rite of Ash** to quiet the whispers.
 
-*(Full character file: `entities/characters/balor_skallfang.md`; item file: `entities/items/kharzuls_blade.md`.)*
+*(Full character file: `characters/NPC/balor_skallfang.md`; item file: `items/kharzuls_blade.md`.)*
 
 ---
 

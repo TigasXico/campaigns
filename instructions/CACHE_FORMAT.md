@@ -1,6 +1,6 @@
 ﻿# WorldAnvil Lore Cache  -  Format Specification
 
-> Defines the structure and constraints for all lore entity files in `cache/entities/`.
+> Defines the structure and constraints for all lore entity files in `cache/`.
 > Files MUST be optimized for LLM consumption  -  concise, machine-readable, modular.
 
 ---

@@ -21,19 +21,20 @@ Present all audit results to the user before making changes.
 
 | Category | Folder | Description |
 |----------|--------|-------------|
-| **Character** | `cache/entities/characters/` | NPCs, PCs, deities, legendary figures |
-| **Location** | `cache/entities/locations/` | Continents, nations, cities, dungeons, regions |
-| **Organization** | `cache/entities/organizations/` | Guilds, factions, religions, military orders |
-| **Event** | `cache/entities/events/` | Battles, festivals, cataclysms, historical milestones |
-| **Item** | `cache/entities/items/` | Artifacts, magic items, relics, legendary weapons |
-| **Lore/Concept** | `cache/entities/lore/` | Magic systems, cultural practices, prophecies, laws, philosophies |
-| **Campaign Note** | `cache/entities/campaign_notes/` | GM-facing design decisions, worldbuilding rationale, meta-lore, session continuity |
+| **Character** | `cache/characters/` | NPCs, PCs, deities, legendary figures |
+| **Location** | `cache/locations/` | Continents, nations, cities, dungeons, regions |
+| **Organization** | `cache/organizations/` | Guilds, factions, religions, military orders |
+| **Event** | `cache/events/` | Battles, festivals, cataclysms, historical milestones |
+| **Item** | `cache/items/` | Artifacts, magic items, relics, legendary weapons |
+| **Lore/Concept** | `cache/lore/` | Magic systems, cultural practices, prophecies, laws, philosophies |
+| **Species** | `cache/species/` | Races, subspecies, lineages, creature types |
+| **Campaign Note** | `cache/campaign_notes/` | GM-facing design decisions, worldbuilding rationale, meta-lore, session continuity |
 
 ---
 
 ## Entity File Schema
 
-Every entity file (`cache/entities/<type>/<entity_id>.md`) MUST contain the following structure:
+Every entity file (`cache/<type>/<entity_id>.md`) MUST contain the following structure:
 
 ```yaml
 ---

@@ -59,7 +59,7 @@ param(
     [switch]$GraphData
 )
 
-$entitiesDir = "cache/entities"
+$entitiesDir = "cache"
 
 # --- Build relationship graph from entity files ---
 $graph = @{}           # entity -> @{ target -> description }

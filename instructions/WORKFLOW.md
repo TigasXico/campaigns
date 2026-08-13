@@ -67,11 +67,11 @@ When asked for expansion, present **3-5 distinct options** covering these types:
 - Present summary to user for confirmation. **Never generate lore autonomously.**
 
 ### Step 3  -  Cache Update
-- Create/update lore files in `cache/entities/`. Cache is the single source of truth (see `CACHE_FORMAT.md`).
+- Create/update lore files in `cache/`. Cache is the single source of truth (see `CACHE_FORMAT.md`).
 - **Run `scripts\sync-index.ps1`** to automatically sync `cache/_index.md` with actual files on disk (handles new entities, removals, duplicates, and status/date changes).
 - Use `scripts\get-entity-relationships.ps1` to query entity relationships (flags: -Stats, -Validate, -Orphaned, -MissingDescriptions, -Entity, -Target, -Network, -All, -GraphData, -Search).
 - `scripts\generate-category-graph.ps1` can generate category-level mermaid graphs using data from `get-entity-relationships.ps1 -GraphData`.
-- **Timeline Management**: Any entity with a defined timeframe MUST be added to `cache/entities/events/kythorian_timeline.md`. Insert chronologically with ### heading format including Timeframe, Description, and entity references. Update the timeline's `updated` and `related` frontmatter fields.
+- **Timeline Management**: Any entity with a defined timeframe MUST be added to `cache/events/kythorian_timeline.md`. Insert chronologically with ### heading format including Timeframe, Description, and entity references. Update the timeline's `updated` and `related` frontmatter fields.
 
 ### Step 4  -  Article Generation
 - Generate **WA-ready BBCode articles** (see `ARTICLE_FORMAT.md`).
@@ -90,7 +90,7 @@ When asked for expansion, present **3-5 distinct options** covering these types:
 > Context is money. Each turn costs $0.08-0.12. Every unnecessary KB of context adds cost. Follow these rules strictly.
 
 ### Timeline Management Rule
-- Master timeline: `cache/entities/events/kythorian_timeline.md`
+- Master timeline: `cache/events/kythorian_timeline.md`
 - Any future event with a defined timeframe MUST be added to this file
 - When creating a time-bound entity, open the timeline and insert chronologically with ### heading format including: Timeframe, Description, entity references
 - Update the file's `updated` and `related` frontmatter fields accordingly
@@ -189,7 +189,7 @@ type(scope): brief description
 **Examples:**
 ```
 feat(lore): add Balor Skallfang character and Raven Queen relationship
-- Created cache/entities/characters/balor_skallfang.md with full backstory
+- Created cache/characters/NPC/balor_skallfang.md with full backstory
 - Updated entity file related: frontmatter with new relationships
 - Generated articles/output/balor_skallfang.bbcode
 ```
@@ -255,5 +255,5 @@ git push
 
 ## Naming Conventions
 - **Entity IDs:** `snake_case` format, e.g. `city_of_embermoor`, `the_whispering_knives`
-- **Entity files:** `<entity_id>.md` stored in `cache/entities/<type>/`
+- **Entity files:** `<entity_id>.md` stored in `cache/<type>/`
 - **Article files:** `<entity_id>.bbcode` stored in `articles/output/`

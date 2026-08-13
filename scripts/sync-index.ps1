@@ -3,7 +3,7 @@
   Syncs cache/_index.md with the actual entity files on disk.
 
 .DESCRIPTION
-  Scans all entity .md files under cache/entities/, reads their YAML frontmatter,
+  Scans all entity .md files under cache/, reads their YAML frontmatter,
   detects duplicates, missing entries, and orphans, then rebuilds _index.md
   with a clean, sorted table.
 
@@ -18,7 +18,7 @@ param(
 )
 
 $indexPath    = Join-Path $ProjectRoot "cache\_index.md"
-$entitiesRoot = Join-Path $ProjectRoot "cache\entities"
+$entitiesRoot = Join-Path $ProjectRoot "cache"
 
 # ---------- helpers ----------
 function Read-Frontmatter {
@@ -49,8 +49,8 @@ $files = Get-ChildItem $entitiesRoot -Recurse -Filter "*.md"
 $disk = @{}  # id -> { id, type, name, status, updated, path }
 
 foreach ($f in $files) {
-  # Skip the special files at root of entities (if any)
-  if ($f.Directory.Name -eq 'entities') { continue }
+  # Skip root-level files (_index.md, _session_continuity.md)
+  if ($f.Directory.Name -eq 'cache') { continue }
 
   $fm = Read-Frontmatter $f.FullName
   if (-not $fm -or -not $fm['id']) {
