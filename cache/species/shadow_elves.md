@@ -7,6 +7,8 @@ tags:
   - species, shadow_elf, shadar_kai, shadowfell, raven_queen, crimson_covenant
 related:
   - races_and_ancestries: Shadow Elves are a subspecies of elf created by Crimson Covenant experiments ~500-600 years ago
+  - elves: Shadow Elves are an elven subrace, alongside High Elves, Wood Elves, and Drow
+  - drow: The other elven subrace created by the same Crimson Covenant experiments
   - the_crimson_covenant: Created by Covenant experiments grafting demonic tissue onto elven subjects
   - the_raven_queen: Primary deity of Shadow Elves; she claims them, though she did not create them
   - cosmology_and_the_planes: Shadow Elves fled to and claimed the Shadowfell as their domain
