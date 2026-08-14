@@ -10,7 +10,8 @@ related:
   - the_order_of_the_scales: Shared temple between the Scales and the Protectors
   - the_order_of_the_protectors: Shared temple between the Scales and the Protectors
   - aegon: Aegon swore his oath here
-  - the_world_and_geography: Located in the old capital of Kythoria
+  - drakhaven: Located in Drakhaven, the old Human capital of Kythoria
+  - the_world_and_geography: Located in Drakhaven, the old capital of Kythoria
 secrets:
   - text: "The High Septon was built on foundations that predate the current Era of Foundation. There are chambers beneath the temple that even the High Council does not know about  -  remnants of the pre-invasion era."
     access: gm-only
@@ -22,7 +23,7 @@ updated: 2026-08-10
 
 ## Overview
 
-The **High Septon** is the central temple of **Aurelius**, god of wisdom and justice. It is the shared spiritual heart of both the **Order of the Scales** and the **Order of the Protectors**, located in the **old capital** of Kythoria  -  the pre-invasion seat of power.
+The **High Septon** is the central temple of **Aurelius**, god of wisdom and justice. It is the shared spiritual heart of both the **Order of the Scales** and the **Order of the Protectors**, located in **Drakhaven**  -  the pre-invasion Human capital, self-styled "capital of Kythoria."
 
 ---
 

@@ -9,7 +9,8 @@ related:
   - crassian: The church of this god
   - culture_and_society: One of the major churches of the Last Stand
   - the_ecumenical_council: Member of the interfaith governing body
-  - the_northeast_settlement_cluster: Connected to the mint and trade heartlands
+  - kazadur: Connected to the mining heartlands of Kazadur
+  - hearthglen: Connected to the royal mint in Hearthglen
 secrets:
   - text: "The God of Wealth and Fortune knows that gold and gems are fragments of B's physical remains, and guards this secret carefully. The Order of the Currency operates under this knowledge without understanding its full implications  -  its priests are told that precious metals have 'divine significance' but not the true reason."
     access: gm-only
@@ -43,4 +44,4 @@ The Order operates as a combination of religious institution and financial netwo
 
 ## Headquarters
 
-The Order's main temple is located in the **northeast settlement cluster**, near the mint. Major chapter houses exist in all three capitals.
+The Order's main temple is located in **Drakhaven**, alongside the other major churches. The Order also maintains a strong presence in **Hearthglen**, near the royal mint. Major chapter houses exist in all three capitals.

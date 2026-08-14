@@ -7,6 +7,44 @@
 
 ## Session Log
 
+### 2026-08-14 - Kingdom Retcon & Capital Content Approval (not yet committed)
+
+**File manifest:**
+- `cache/locations/drakhaven.md` -- REWRITTEN with approved content: D1 (smirky acceptance), D3, D4 kept. D2 (engineered fall) reverted.
+- `cache/locations/elyndor.md` -- REWRITTEN with approved content: E3 (architecture + sacred river confluence), E4 kept. E1 (first to fall), E2 (crystals) reverted.
+- `cache/locations/kazadur.md` -- REWRITTEN with approved content: K1 (sealed halls), K2 (king ordered sealing, ground shook, blueprints for Emberforge; "most devastating" reverted), K3 (grew downward/inward; wealthiest rulers reverted, held months reverted), K4 kept. NOTE: Now includes NE mining cluster (retcon).
+- `cache/locations/hearthglen.md` -- REWRITTEN with approved content: H1 (annihilated cruelly), H2 (hidden vaults), H3 (agricultural breadbasket), H4 (cozy visual). NOTE: Now receives raw metals from Kazadur for minting (retcon).
+- `cache/locations/everquill.md` -- REWRITTEN with approved content: Q1 (paper capital, scholarly), Q2 (archivists fled with records), Q3 (Great Archive vaults), Q4 (towers/clock towers/parchment).
+- `cache/locations/stonefist.md` -- REWRITTEN with approved content: S4 (visual) kept. S1 (2-year siege), S2 (war-code), S3 (childhood warrior details) reverted.
+- `cache/locations/the_northeast_settlement_cluster.md` -- REWRITTEN. Now dwarven territory (part of Kingdom of Kazadur). Mint reference removed (mint is in Hearthglen now). Focus is mining + transport to Hearthglen.
+- `cache/events/kythorian_timeline.md` -- E11 updated with retcon: Kazadur in NE (mines), Hearthglen (mint), raw metals flow between them.
+- `cache/lore/the_world_and_geography.md` -- Era of Foundation updated with retcon + kingdom naming format.
+- `cache/lore/races_and_ancestries.md` -- Racial Homelands updated with retcon.
+- `cache/lore/economy.md` -- Mint section split: "The Royal Mint (Hearthglen)" + "The Northeast Mining Cluster (Kazadur)".
+- `cache/locations/the_verdant_reaches.md` -- Added related elyndor; Overview updated to note it was part of the Kingdom of Elyndor's territory.
+- `cache/locations/the_northeast_settlement_cluster.md` -- Cluster structure defined: Kazadur = major settlement; logistics hub (halfling shipping coordination); metal mining town; gemstone mining town. Mining towns open to all races.
+- `cache/locations/kazadur.md` -- Geography updated with cluster structure.
+- `cache/lore/economy.md` -- Cluster description updated (Kazadur as major settlement; removed "two smaller export settlements" superseded detail).
+- `cache/_session_continuity.md` -- this entry.
+
+**Key decisions this session:**
+- Six kingdoms established. Kingdom name = capital city name. Kingdoms: Drakhaven (Humans), Elyndor (Elves), Kazadur (Dwarves), Hearthglen (Halflings), Everquill (Gnomes), Stonefist (Half-Orcs).
+- Drakhaven: self-styled "capital of Kythoria" -- other races accepted it with a smirk/making light fun of humans for being self-centric.
+- Kazadur is in the NE, containing the mining cluster (all currency metals/gemstones mined there). Raw materials shipped to Hearthglen for minting and distribution.
+- Hearthglen (Halflings) = home of the royal mint, perfect accountants, agricultural breadbasket.
+- Everquill (Gnomes) = paper capital, scholarly, records/law/maps, Great Archive.
+- Uncommon races (Genasi, Dragonborn, Tieflings) had no kingdoms; they grouped in large villages.
+- All six kingdoms fell to the monster invasion. Capitals nearer the shores fell first (general rule).
+- Verdant Reaches = part of the Kingdom of Elyndor's territory.
+- NE cluster (dwarven mining region) + Hearthglen (halfling mint) separated economic roles.
+
+**Open follow-ups:**
+- [hourglass] Kingdom capitals' exact map locations -- to be pinned when the continent map is finalized
+
+**Cleanup:**
+- `cache/locations/the_northeast_settlement_cluster.md` DELETED (merged into kazadur.md). All references updated to point to kazadur or hearthglen as appropriate.
+- Naming Gaps section removed from session continuity. The only unnamed major settlements were the 6 kingdom capitals, now all named.
+
 ### 2026-08-14 - Remove Seraphina Vex Character (not yet committed)
 
 **File manifest:**
@@ -197,14 +235,7 @@
 
 ---
 
-### Naming Gaps (6)
 
-1. The Eastern Port -- no proper name
-2. The Southeastern Port -- no proper name
-3. NE Settlement Cluster -- unnamed major + 3 minor settlements
-4. Old Capital of Kythoria -- unnamed (High Septon location)
-5. Frontier Forward Operating Base -- unnamed
-6. The Four Barbarian Tribes -- unnamed
 
 ---
 

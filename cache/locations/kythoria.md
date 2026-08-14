@@ -14,7 +14,7 @@ related:
   - the_southeastern_port: Major sea trade hub
   - the_arcane_reactive_crystal_cave: Beneath the capitals
   - the_frontier: The contested western region
-  - the_northeast_settlement_cluster: The mint and mining heartland
+  - kazadur: The Kingdom of Kazadur was the mining heartland of the continent
   - weaveheart: One of the three capital cities
   - the_eastern_port: Sea trade and fishing port
   - emberforge: One of the three capital cities
@@ -44,9 +44,9 @@ Kythoria spans multiple climate zones:
 ## History
 
 Kythoria's history is divided into three eras:
-1. **Era of Foundation** (before 400 years ago)  -  The ancient past, mostly lost to time
-2. **The Abominable End** (400-200 years ago)  -  The monster invasion, two centuries of suffering
-3. **The Rise of the Mortals** (200 years ago-Present)  -  The reconquering and rebuilding
+1. **Era of Foundation** (before 400 years ago)  -  The age of the six mortal kingdoms (Drakhaven, Elyndor, Kazadur, Hearthglen, Everquill, Stonefist). Mostly lost to time.
+2. **The Abominable End** (400-200 years ago)  -  The monster invasion, two centuries of suffering. All six kingdoms fell.
+3. **The Rise of the Mortals** (200 years ago-Present)  -  The reconquering and rebuilding.
 
 ## State of Civilization
 

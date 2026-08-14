@@ -11,6 +11,7 @@ related:
   - primal_nature_magic: The forest is saturated with primal arcane energy absorbed from B's sacrifice
   - the_arcane_weave: The forest may contain ley line convergences where the Weave is especially dense
   - the_circle_of_the_wild: Druids from the Circle of the Wild guard Elarwyn and maintain the forest's balance
+  - elyndor: The Verdant Reaches were part of the Kingdom of Elyndor's territory during the Era of Foundation
 secrets:
   - text: "The skylight cave where Aurora first saw the hidden constellations sits directly on a ley line convergence. The Weave is thick enough there that B's essence patterns become visible — but prolonged exposure may cause visions or attract the attention of B-touched entities."
     access: gm-only
@@ -20,7 +21,9 @@ updated: 2026-08-10
 
 ## Overview
 
-The **Verdant Reaches** is a vast, ancient forest located in the **south-eastern reclaimed territories** of Kythoria, far from major trade routes and population centers. It does not appear on common maps  -  not because it is unknown, but because it was never a population center before the monster invasion, and its deep interior remains unexplored by most.
+The **Verdant Reaches** is a vast, ancient forest located in the **south-eastern reclaimed territories** of Kythoria. During the Era of Foundation, the Verdant Reaches were part of the territory of the **Kingdom of Elyndor** (the Elven kingdom), serving as the wild, untamed woodlands of the elven realm.
+
+The forest does not appear on common maps  -  not because it is unknown, but because it was never a population center before the monster invasion, and its deep interior remains unexplored by most.
 
 The forest is dense, old-growth, and saturated with primal arcane energy absorbed from B's sacrifice over millennia. Ancient trees tower so high that their crowns form a second canopy, and places exist within the Reaches where sunlight never touches the ground.
 

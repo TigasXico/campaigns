@@ -7,7 +7,7 @@ tags:
   - organization, dwarven, arcane, engineering, crafting
 related:
   - emberforge: The family has strong ties to Emberforge's forges
-  - the_northeast_settlement_cluster: The family originates from this region
+  - kazadur: The family originates from the Kingdom of Kazadur's mining region
   - economy: The most prominent magical item producers on the continent
   - the_guild_of_the_spark: Connected to the church of Forge and Arcana
 secrets:
@@ -43,4 +43,4 @@ The Thormvulds are a bloodline  -  membership is primarily by birth, though exce
 
 ## Headquarters
 
-The Thormvulds originate from the **northeast settlement cluster** and own a dedicated small settlement south of it, housing their primary workshops and foundries. They also maintain a significant presence in **Emberforge**.
+The Thormvulds originate from the **Kingdom of Kazadur's mining region** (the northeast cluster) and own a dedicated small settlement south of it, housing their primary workshops and foundries. They also maintain a significant presence in **Emberforge**.

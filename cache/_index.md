@@ -19,13 +19,16 @@
 | crassian                             | character      | Crassian                                 | draft  | 2026-08-09 |
 | culture_and_society                  | lore           | Culture & Society of the Mortal Races    | draft  | 2026-08-09 |
 | dragonborn                           | species        | Dragonborn                               | draft  | 2026-08-14 |
+| drakhaven                            | location       | Drakhaven                                | draft  | 2026-08-14 |
 | drow                                 | species        | Drow                                     | draft  | 2026-08-14 |
 | dunvis                               | character      | Dun'vis                                  | draft  | 2026-08-13 |
 | dwarves                              | species        | Dwarves                                  | draft  | 2026-08-14 |
 | economy                              | lore           | Economy of the Mortal Races              | draft  | 2026-08-09 |
 | elves                                | species        | Elves                                    | draft  | 2026-08-14 |
+| elyndor                              | location       | Elyndor                                  | draft  | 2026-08-14 |
 | emberforge                           | location       | Emberforge                               | draft  | 2026-08-09 |
 | eryx_merikh                          | character      | Eryx Merikh                              | draft  | 2026-08-11 |
+| everquill                            | location       | Everquill                                | draft  | 2026-08-14 |
 | founding_of_the_last_stand           | event          | Founding of the Last Stand               | draft  | 2026-08-09 |
 | genasi                               | species        | Genasi                                   | draft  | 2026-08-14 |
 | ghavel                               | character      | Ghavel                                   | draft  | 2026-08-14 |
@@ -33,10 +36,12 @@
 | half_elves                           | species        | Half-Elves                               | draft  | 2026-08-14 |
 | half_orcs                            | species        | Half-Orcs                                | draft  | 2026-08-14 |
 | halflings                            | species        | Halflings                                | draft  | 2026-08-14 |
+| hearthglen                           | location       | Hearthglen                               | draft  | 2026-08-14 |
 | humans                               | species        | Humans                                   | draft  | 2026-08-14 |
 | jb_the_collector                     | character      | J.B. (The Collector)                     | draft  | 2026-08-13 |
 | kaelthor                             | character      | Kaelthor                                 | draft  | 2026-08-09 |
 | kaelyn                               | character      | Kaelyn                                   | draft  | 2026-08-14 |
+| kazadur                              | location       | Kazadur                                  | draft  | 2026-08-14 |
 | kharzuls_blade                       | item           | Khar'zul's Blade (The Living Prison)     | draft  | 2026-08-09 |
 | khelvin                              | character      | Khel'vin                                 | draft  | 2026-08-14 |
 | kythoria                             | location       | Kythoria                                 | draft  | 2026-08-09 |
@@ -63,6 +68,7 @@
 | society_and_culture_design           | campaign_note  | Society & Culture Design Decisions       | active | 2026-08-09 |
 | solyn_velkyn                         | character      | Solyn Velkyn                             | draft  | 2026-08-10 |
 | sophie_subject_241                   | character      | Sophie (Subject 241)                     | draft  | 2026-08-13 |
+| stonefist                            | location       | Stonefist                                | draft  | 2026-08-14 |
 | thalkis                              | character      | Thalkis                                  | draft  | 2026-08-09 |
 | the_abominable_end                   | event          | The Abominable End                       | draft  | 2026-08-09 |
 | the_adventurers_guild                | organization   | Drakh Ix'thar  -  The Adventurers' Guild | draft  | 2026-08-11 |
@@ -88,7 +94,6 @@
 | the_high_septon                      | location       | The High Septon                          | draft  | 2026-08-10 |
 | the_last_stand                       | lore           | The Last Stand & The Three Capitals      | draft  | 2026-08-08 |
 | the_medallion_of_vex                 | item           | The Medallion of Vex                     | draft  | 2026-08-09 |
-| the_northeast_settlement_cluster     | location       | The Northeast Settlement Cluster (The... | draft  | 2026-08-09 |
 | the_order_of_the_currency            | organization   | The Order of the Currency                | draft  | 2026-08-09 |
 | the_order_of_the_dawn                | organization   | The Order of the Dawn                    | draft  | 2026-08-09 |
 | the_order_of_the_protectors          | organization   | The Order of the Protectors              | draft  | 2026-08-10 |

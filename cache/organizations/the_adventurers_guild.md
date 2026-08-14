@@ -60,15 +60,15 @@ The guild is vital to the reconquering economy:
 
 ## Headquarters
 
-The guild is headquartered in the **old capital** at the center of the continent - the ancient seat of the pre-invasion kingdom that once ruled all of Kythoria. From this central location, the guild coordinates operations across the entire continent. Chapter houses exist in every major settlement throughout the recovered territories, ensuring that Ix'thari always have a place to rest, resupply, and receive contracts wherever their hunts take them.
+The guild is headquartered in **Drakhaven** at the center of the continent - the former capital of the Human Kingdom and the largest, most advanced pre-invasion city, which was self-styled the "capital of Kythoria." From this central location, the guild coordinates operations across the entire continent. Chapter houses exist in every major settlement throughout the recovered territories, ensuring that Ix'thari always have a place to rest, resupply, and receive contracts wherever their hunts take them.
 
 ## History
 
-Founded long before the Abominable End, the Drakh Ix'thar began as a guild of monster hunters and ruin delvers serving the pre-invasion kingdoms. Its members protected trade routes (including the Crassian's Dust Circle), cleared dangerous beasts from settled lands, and explored ancient ruins across the continent.
+Founded long before the Abominable End, the Drakh Ix'thar began as a guild of monster hunters and ruin delvers serving the six pre-invasion mortal kingdoms. Its members protected trade routes (including the Crassian's Dust Circle), cleared dangerous beasts from settled lands, and explored ancient ruins across the continent.
 
-During the Abominable End, the guild's chapter houses became fortified refuges for the survivors. Many of its members fought alongside the First Alliance. The guild's records and knowledge of the continent's geography proved invaluable during the war.
+During the Abominable End, the guild's chapter houses became fortified refuges for the survivors. The fall of Drakhaven (its headquarters) in Year 134 forced the guild to suspend operations. Many of its members fought alongside the First Alliance. The guild's records and knowledge of the continent's geography proved invaluable during the war.
 
-During the reconquering, the guild was re-established and re-organized, with its headquarters in the old capital restored. It coordinates closely with the First Alliance, receiving contracts for clearing monster nests and reclaiming ruins that the military cannot spare forces for.
+During the reconquering, the guild was re-established and re-organized, with its headquarters in Drakhaven restored. It coordinates closely with the First Alliance, receiving contracts for clearing monster nests and reclaiming ruins that the military cannot spare forces for.
 
 ## Name Origin
 

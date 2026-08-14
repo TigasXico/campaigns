@@ -83,13 +83,20 @@ updated: 2026-08-14
 - **Year**: 0
 - **Visibility**: [PUBLIC]
 - **Category**: Era
-- **Description**: Thriving of mortal kingdoms. During the first 100 years of existence, several Mortal Kingdoms were established and thrived -- separated by race, but with peaceful and friendly relations between them.
+- **Description**: Thriving of mortal kingdoms. During the first 100 years of existence, six Mortal Kingdoms were established and thrived -- each founded by a common mortal race (Humans, Elves, Dwarves, Halflings, Gnomes, Half-Orcs) in their ancestral regions, with peaceful and friendly relations between them. Uncommon races had no kingdom; they grouped together in large villages.
 
 ## E11 - Mortal Kingdoms Founded
 - **Year**: 3
 - **Visibility**: [PUBLIC]
 - **Category**: Construction
-- **Description**: Kingdoms established by each species in their ancestral regions. Trade routes began to form between the kingdoms.
+- **Description**: Six kingdoms established by each common race in their ancestral regions, each with its own capital city:
+  - **Kingdom of Drakhaven** (Humans) -- self-styled "capital of Kythoria", largest and most advanced city
+  - **Kingdom of Elyndor** (Elves) -- ancient forest capital of arcane knowledge; territory included the Verdant Reaches
+  - **Kingdom of Kazadur** (Dwarves) -- mountain-forge capital of unmatched craftsmanship in the northeast; its mines produced all currency metals and gemstones
+  - **Kingdom of Hearthglen** (Halflings) -- pastoral agricultural heartland and trade stop; home of the royal mint; halflings were the continent's perfect accountants
+  - **Kingdom of Everquill** (Gnomes) -- scholarly capital of law, records, and maps; the paper capital of the mortal kingdoms
+  - **Kingdom of Stonefist** (Half-Orcs) -- rugged fortress capital of proud warriors
+  Trade routes (Crassian's Dust Circle) began to form between the kingdoms. Raw metals from Kazadur were shipped to Hearthglen for minting and distribution.
 
 ## E12 - Crassian's Dust Circle Established
 - **Year**: 13

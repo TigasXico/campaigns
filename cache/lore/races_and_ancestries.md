@@ -146,7 +146,9 @@ All races follow standard Fifth Edition lifespan ranges:
 
 ## Racial Homelands
 
-Due to the monster invasion that began 400 years ago and the subsequent reconquering (starting 200 years ago), traditional racial homelands have been largely disrupted. All mortal races now coexist in the three capital cities of the Last Stand and in the reconquered territories to the south and east, living side by side out of shared necessity for survival.
+During the Era of Foundation, each common race established its own kingdom (named after its capital): the **Kingdom of Drakhaven** (Humans), **Kingdom of Elyndor** (Elves), **Kingdom of Kazadur** (Dwarves) in the northeast -- whose mines produced all currency metals and gemstones, **Kingdom of Hearthglen** (Halflings) -- home of the royal mint and the continent's perfect accountants, **Kingdom of Everquill** (Gnomes) -- the paper capital of law and records, and **Kingdom of Stonefist** (Half-Orcs). Uncommon races (Genasi, Dragonborn, Tieflings) had no kingdom; they grouped together in large villages.
+
+Due to the monster invasion that began 400 years ago and the subsequent reconquering (starting 200 years ago), these traditional racial homelands have been largely disrupted. All six kingdoms fell to the monster invasion. All mortal races now coexist in the three capital cities of the Last Stand and in the reconquered territories to the south and east, living side by side out of shared necessity for survival.
 
 ---
 

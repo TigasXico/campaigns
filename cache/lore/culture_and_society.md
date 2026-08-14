@@ -97,7 +97,7 @@ Ten gods dominate religious life. Churches cooperate through the **Ecumenical Co
 ## Adventurers in Society
 Adventurers are **guardians, cleansers, reclaimers**  -  not mercenaries. Handle threats beyond walls, clear ruins, recover artifacts. Immense honor and respect.
 
-**Drakh Ix'thar**: Ancient continent-wide guild, founded long before the monster invasion. HQ in old capital (center of continent). Members: **Ix'thari**. Roles: contract broker, licensing, information network, support system. Survived the Abominable End and was re-established during the reconquering.
+**Drakh Ix'thar**: Ancient continent-wide guild, founded long before the monster invasion. HQ in Drakhaven (the old Human capital at the center of the continent). Members: **Ix'thari**. Roles: contract broker, licensing, information network, support system. Survived the Abominable End and was re-established during the reconquering.
 
 **Ranks**: Based on successful contracts, named in Draconic after legendary beasts. Highest: **Drah Ix'thari** (Dragon Hunter).
 

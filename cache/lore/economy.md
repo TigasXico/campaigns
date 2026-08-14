@@ -29,11 +29,17 @@ The standard currency system follows familiar denominations:
 - **Gold Pieces (gp)**  -  high-value trade, magic items, large transactions
 - **Platinum Pieces (pp)**  -  extremely rare, used by major guilds and high-level commerce
 
-### The Mint  -  Northeast Settlement Cluster (Name TBD)
+### The Royal Mint (Hearthglen, Kingdom of Hearthglen)
 
-Currency is minted in a cluster of settlements in the **northeast** of the continent. This area consists of **one major settlement and three minor ones**, plus two smaller nearby settlements that assist in exporting the currency. This was the site of the royal mint before the monster invasion, and after the reconquering, production resumed here. It remains the **backbone of the continental economy**.
+Currency is minted in the Halfling kingdom of Hearthglen, where raw metals and gemstones from the northeast mining cluster (Kingdom of Kazadur) are received, refined, and stamped into standard coinage. The mint was established before the monster invasion and was one of the crown jewels of the halfling economy.
 
-This region also contains the **greatest known mines** for both precious metals and gemstones, making it the single most economically vital area in the recovered territories. *(Further detail on the northeast settlement cluster to be defined when locations are developed.)*
+After the reconquering, minting operations have resumed. Raw materials from the reclaimed northeast mines flow south to halfling communities, where currency is once again produced and distributed. The mint remains the **backbone of the continental economy**.
+
+### The Northeast Mining Cluster (Kingdom of Kazadur)
+
+This region in the northeast of Kythoria contains the **greatest known mines** for both precious metals and gemstones. During the Era of Foundation, it was part of the Kingdom of Kazadur (the Dwarven kingdom). Raw materials mined here were shipped to Hearthglen for minting. Today, the mines have been reclaimed and production has resumed.
+
+The cluster consists of **one major settlement and three minor ones**: the major settlement is **Kazadur** itself; one minor settlement is a **logistics hub** where Halflings coordinate the shipping of metals and gemstones to their kingdom; the other two are **mining towns** -- one focused on extracting currency metals, the other on extracting gemstones. The mining towns are open to anyone who wants to make money mining; their population is mixed across races.
 
 ---
 

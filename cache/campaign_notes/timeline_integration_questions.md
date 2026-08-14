@@ -86,21 +86,18 @@ This document compiles questions for each PC whose backstory events need to be p
 
 ---
 
-## Nyra
-
 > Air genasi ranger raised by a wounded blue dragon after her parents disappeared, leaving behind only a mystery box. Unknown age (estimate 20-40).
 
 ### Timeline Questions
 
-1. **Current Age:** How old is Nyra at campaign start?
-2. **Birth Year:** When was she born?
-3. **Parents' Disappearance:** How old was Nyra when her parents disappeared? What are her earliest memories?
-4. **Finding by the Dragon:** At what age did the blue dragon find and raise her?
-5. **The Mystery Box:** Has she ever tried to open it? Does she know anything about its contents?
-6. **The Blue Dragon:** Where is the wounded blue dragon now? Still alive? Hidden? Accessible?
-7. **Leaving the Dragon:** At what age did Nyra leave the dragon's tutelage to seek answers?
-8. **Current Situation:** Where is she at campaign start? Has she been adventuring for long?
-9. **Knowledge of the Dragon's Secrets:** Does Nyra know the truth the dragon discovered about the gods' conspiracy? Was she told, or is it something she must uncover?
+1. **Current Age:** How old is Nyra at campaign start? 20
+2. **Birth Year:** When was she born? 480
+3. **Parents' Disappearance:** How old was Nyra when her parents disappeared? What are her earliest memories? 6
+4. **Finding by the Dragon:** At what age did the blue dragon find and raise her? 6
+5. **The Mystery Box:** Has she ever tried to open it? Does she know anything about its contents? Yes, tried to open, couldn't, knows that she needs all 4 essences of elementals to open
+6. **The Blue Dragon:** Where is the wounded blue dragon now? Still alive? Hidden? Accessible? Alive, stayed at his camp site, debt repaied to Nyra, remains inthe same spot that he raised Nyra
+7. **Leaving the Dragon:** At what age did Nyra leave the dragon's tutelage to seek answers? 20
+8. **Current Situation:** Just left Kelvin's company a few months ago, and has roamed Kythoria ever since
 
 ### GM Notes
 - The blue dragon was wounded by a divine agent sent to silence it (the dragon knew too much)
