@@ -24,13 +24,15 @@ related:
   - the_arcane_reactive_crystals: Crystals connected to B's essence
   - races_and_ancestries: Drow, Shadow Elves, Tieflings origins tracked here
   - shadow_elves: Shadow Elf origin timeline
+  - nyra: Records Nyra's birth, backstory events, and present quest
+  - khelvin: Records Khel'vin's birth, Cold Breath mastery, and divine agent attack
 created: 2026-08-09
 updated: 2026-08-14
 ---
 
 > All dates are plain years. Year 0 = start of the Mortal Kingdoms era.
 > Year 500 = Present (campaign start). Negative numbers = before Year 0.
-> Event IDs (E01-E65) are stable references. Entities may link to specific
+> Event IDs (E01-E76) are stable references. Entities may link to specific
 > events via these IDs in their `related` field (e.g. "timeline E38: Sealing of Khar'Zul").
 
 ## Visibility Legend
@@ -280,6 +282,11 @@ updated: 2026-08-14
 - **Visibility**: [PUBLIC]
 - **Category**: Disbandment
 - **Description**: The last remaining general of the monster's army disappears without a trace. Some speculate he went into hiding, others that he died, others that he went back to their home plane.
+## E66 - Khel'vin Born
+- **Year**: 290
+- **Visibility**: [SECRET]
+- **Category**: Birth
+- **Description**: Khel'vin is born to a blue dragon mother and a white dragon father in the mountains of Kythoria. His mother is the same blue dragon whose skeleton would later rest in the Azure Boneyard. His father's status is unknown.
 
 ---
 
@@ -398,6 +405,59 @@ updated: 2026-08-14
 - **Visibility**: [SECRET]
 - **Category**: Covenant
 - **Description**: Balor is born -- a healthy baby tiefling that the blade is naturally attuned to. With her 3 month old baby, Balor's mother escapes the facility, leaves Balor in a zone known to barbarian tribes, and scatters to the winds. She is never heard from again.
+## E67 - Khel'vin Masters Cold Breath
+- **Year**: 400
+- **Visibility**: [SECRET]
+- **Category**: Training
+- **Description**: Khel'vin fully masters Cold Breath, a freezing exhalation learned from his white dragon father. This ability would later prove critical in the battle against the Air Elemental in the Cavern of Discovery.
+
+## E68 - Khel'vin Attacked by Divine Agent
+- **Year**: 480
+- **Visibility**: [SECRET]
+- **Category**: Divine Scheme
+- **Description**: Khel'vin discovers fragments of the truth about the gods' conspiracy -- that the monster invasion was orchestrated. A divine agent triggers a massive rockslide to silence him. Khel'vin survives but is permanently crippled (impaired flight, one eye lost).
+
+## E69 - Nyra Born
+- **Year**: 480
+- **Visibility**: [SECRET]
+- **Category**: Birth
+- **Description**: Nyra is born to two genasi ranger parents in the mountain region. Her parents are researchers investigating the connection between the four elemental planes and the Material Plane's creation.
+
+## E70 - Nyra's Parents Disappear
+- **Year**: 486
+- **Visibility**: [SECRET]
+- **Category**: Mystery
+- **Description**: Nyra's genasi ranger parents vanish without a trace. Their elemental convergence research, encrypted in manuscripts and riddles, is left with Ghavel for safekeeping. The Crimson Covenant is suspected of involvement. Nyra (age 6) wakes to find them gone.
+
+## E71 - Nyra Finds Khel'vin; Essence Resonance
+- **Year**: 486
+- **Visibility**: [SECRET]
+- **Category**: Bonding
+- **Description**: Lost 6-year-old Nyra finds Khel'vin, wounded and pinned under tons of rock. Their air essences resonate -- Khel'vin absorbs Nyra's essence to gain strength and lifts the rocks. He agrees to help find her parents. They search for one year with no success.
+
+## E72 - Nyra Gives Up Search; Raised by Khel'vin
+- **Year**: 487
+- **Visibility**: [SECRET]
+- **Category**: Upbringing
+- **Description**: Age 7. Nyra stops searching for her parents. Khel'vin becomes her guardian and teacher. He trains her in hunting, tracking, and wilderness survival. Nyra begins selling hunted goods in the city to support them.
+
+## E73 - Nyra Receives Mystery Box from Ghavel
+- **Year**: 498
+- **Visibility**: [SECRET]
+- **Category**: Mystery
+- **Description**: On her 18th birthday, Nyra receives her parents' mystery box from Ghavel at Moonlight Alley. Contents: encrypted manuscripts, riddles, photographs with traces erased, a smaller locked box. Nyra learns her parents had a city house she never knew about.
+
+## E74 - Nyra Deciphers Encrypted Journal
+- **Year**: 499
+- **Visibility**: [SECRET]
+- **Category**: Discovery
+- **Description**: Nyra spends a week in her parents' city house deciphering the encrypted journal. Discovers reference to four elementals (Air, Fire, Water, Earth) whose soul fragments must be collected.
+
+## E75 - Nyra Defeats Air Elemental; Essence Awakens
+- **Year**: 500
+- **Visibility**: [SECRET]
+- **Category**: Awakening
+- **Description**: In the Cavern of Discovery, Nyra (age 20) battles the Air Elemental with Khel'vin. Her air genasi essence awakens mid-battle. Khel'vin uses Cold Breath. Nyra collects the Air Elemental Soul Crystal. Khel'vin and Nyra part ways.
 
 ---
 
@@ -444,3 +504,8 @@ updated: 2026-08-14
 - **Visibility**: [SECRET]
 - **Category**: Divine Scheme
 - **Description**: The Gods' plans are an intricate mess: destroy the Crimson Covenant, grow more powerful from mortals' worship, and stop the resurrection of B.
+## E76 - Nyra Seeks Adventurers
+- **Year**: 500
+- **Visibility**: [SECRET]
+- **Category**: Quest
+- **Description**: Nyra, now 20, seeks adventurers to help collect the remaining three elemental soul crystals (Fire, Water, Earth) and find her parents -- who she believes are captured, not dead.
