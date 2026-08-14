@@ -185,11 +185,11 @@ This document compiles questions for each PC whose backstory events need to be p
 
 1. **The Blackout:** Did he ever get a clear answer from the clan elders about what happened during the blackout? (File notes: they found him unconscious, none saw the truth)
 2. **The Avatar State:** Can he trigger the Avatar of the Living Prison intentionally, or only when Khar'zul seizes control?
-3. **Seraphina's Cache:** What exactly did Seraphina leave in her intelligence cache in the northeastern ruins?
+3. **His Mother's Cache:** What exactly did Balor's mother leave in her intelligence cache in the northeastern ruins?
 4. **The Medallion:** Where do the coordinates in the Medallion's hidden compartment lead?
 5. **Covenant Hunters:** How close are the Covenant's hunters to finding Balor at campaign start?
 6. **Clan Relations:** What is his current relationship with the surviving Skallfang clan members? Do they blame him for the village destruction?
 
 ### GM Notes
 - Most of Balor's timeline is already defined (~20 YA to present)
-- Key remaining unknowns: Seraphina's cache contents, Medallion coordinates, Avatar state control
+- Key remaining unknowns: Balor's mother's cache contents, Medallion coordinates, Avatar state control

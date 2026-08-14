@@ -7,6 +7,27 @@
 
 ## Session Log
 
+### 2026-08-14 - Remove Seraphina Vex Character (not yet committed)
+
+**File manifest:**
+- `cache/characters/NPC/seraphina_vex.md` -- DELETED. Character removed per player request (player will develop their own lore for Balor's mother)
+- `cache/_index.md` -- removed seraphina_vex row
+- `cache/characters/PC/Balor/balor_skallfang.md` -- "The Flight" section rewritten; "Seraphina Vex" replaced with "Balor's mother"; Vex family details removed; related entry removed; open question 1 changed from [OK] to [?] (backstory pending player input)
+- `cache/characters/PC/Kaelyn/kaelyn.md` -- removed seraphina_vex related entry and speculative connection between Seraphine the nanny and Seraphina Vex
+- `cache/events/kythorian_timeline.md` -- removed E86 (Seraphina Vex Dies) and E89 (Seraphina Vex's Family Captured) event blocks
+- `cache/events/pc_backstory_timeline.md` -- removed E86/E89 blocks and table rows; Balor event count 8 -> 6 (E56-E58, E90-E92)
+- `cache/items/kharzuls_blade.md` -- "Seraphina" replaced with "Balor's mother" in open question 3
+- `cache/items/the_medallion_of_vex.md` -- Seraphina/Vex family references replaced with "Balor's mother"/"his mother"; seraphina tag and related entry removed
+- `cache/organizations/the_crimson_covenant.md` -- Seraphina/Vex family references replaced with "Balor's mother"; related entry removed
+- `cache/campaign_notes/timeline_integration_questions.md` -- Seraphina references replaced with "Balor's mother"
+- `cache/_session_continuity.md` -- this entry
+
+**Key decisions:**
+- Balor's mother is now referenced only as "Balor's mother" (placeholder) until the player provides her backstory
+- E86/E89 removed from both timelines -- her death and family capture lore is player-owned now
+- "The Medallion of Vex" item keeps its name for now (in-world name); may be revisited once player backstory lands
+- [hourglass] Player backstory for Balor's mother -- pending input, then update: name, family, fate, and any affected events/caches/medallion lore
+
 ### 2026-08-14 - Timeline Restructure (committed 2565d0d)
 
 **File manifest:**
@@ -33,15 +54,6 @@
 **File manifest:**
 - `cache/events/kythorian_timeline.md` -- 70 insertions, 5 deletions
 
-**Changes:**
-- Corrected E56 (Year 445->458), E57 (Year 459->479), E58 (Year 460->480) -- Balor born Year 480 (age 20), mother born Year 458 (age 22 at Balor's birth)
-- Added 11 new events (E77-E87) in "The Rise of Mortals" section:
-  - E77-E80: Kaelyn's timeline (born Year 350, Trial at 361, Awakening at 365, Escape at 400) -- Kaelyn confirmed age 150
-  - E81-E82: Odessa's timeline (born Year 422, cabin attack at Year 435)
-  - E83-E85/E87: Zan's timeline (born Year 471, exile at 478, awakening at 482, escape at 484)
-  - E86: Seraphina Vex dies Year 483 (3 years after Balor's birth)
-- Updated intro from E01-E76 to E01-E87
-
 **Key decisions:**
 - Balor's birth corrected to Year 480 (Nyra is also Year 480 -- Balor and Nyra are the same age at campaign start)
 - All PC backstory events use [SECRET] visibility (GM-only)
@@ -52,15 +64,6 @@
 
 **File manifest:**
 - `cache/events/kythorian_timeline.md` -- added E88-E92 (5 events), intro updated to E01-E92
-- `cache/characters/PC/Balor/balor_skallfang.md` -- added years to backstory events (family captured Year 462, Trial of the Fang Year 498/age 18, Awakening Year 499, exile Year 499); updated field bumped to 2026-08-14
-- `cache/characters/PC/Kaelyn/kaelyn.md` -- added Year 380 to first surface village visit (age 30); updated field bumped to 2026-08-14
-
-**Changes:**
-- E88: Kaelyn's First Surface Village Visit (Year 380, age 30)
-- E89: Seraphina Vex's Family Captured (Year 462, when Vex was 4 -- 18 years before Balor's birth)
-- E90: Trial of the Fang (Year 498, Balor age 18)
-- E91: The Awakening; Skallfang Village Destroyed (Year 499, year before campaign start)
-- E92: Balor Goes into Exile (Year 499, end of same year)
 
 **Key decisions:**
 - Aurora: the "joins Circle of the Stars" event was merged -- she became a druid of the Circle at the skylight cave moment (not a separate event)
@@ -81,7 +84,7 @@
 6. B's influence on Aegon -- will his visions grow clear enough to reveal the truth about the Originals and the gods' deception?
 
 #### Balor (4)
-1. Seraphina's secondary intelligence cache -- hidden in NE ruins. What exactly did she leave?
+1. Balor's mother's secondary intelligence cache -- hidden in NE ruins. What exactly did she leave?
 2. The Medallion's hidden compartment -- coordinates written in Old Abyssal. Where do they lead?
 3. Did Balor ask the clan elders about the blackout? He did. They found him unconscious. Guilt unresolved.
 4. The Avatar state -- can Balor trigger it intentionally? Or only when Khar'zul seizes control?
@@ -90,7 +93,7 @@
 1. The crystal growth -- how fast? What triggers acceleration? Way to stop it?
 2. Kaelyn's connection to other B-touched -- will she sense Aurora's constellations? Will Aegon see her in visions?
 3. The Black Willow's crystal cave -- what secrets lie beneath the tree's roots?
-4. Seraphine's past -- did she leave records? Connected to Balor's story (Seraphina Vex)?
+4. Seraphine's past -- did she leave records? Connected to Balor's story?
 5. The Azure Boneyard -- can it be found again? Is the dragon's consciousness still present?
 
 #### Odessa (7)
@@ -207,7 +210,7 @@
 
 ### Remaining Lore Open Questions
 
-1. Seraphina's intelligence cache in northeastern ruins -- what exactly did she leave?
+1. Balor's mother's intelligence cache in northeastern ruins -- what exactly did she leave?
 2. Kaelyn's crystal heart growth -- triggers, acceleration, possible reversal
 3. Black Willow's crystal cave -- deeper exploration beneath the roots
 4. Paul's chapel attack -- Order of Scales framed the Crimson Covenant on Aurelius's command (GM note documented, specifics flexible)

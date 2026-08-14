@@ -89,19 +89,13 @@ updated: 2026-08-14
 
 ---
 
-# Balor Skallfang -- 8 events
+# Balor Skallfang -- 6 events
 
 ## E56 - Perfect Vessel Engineered
 - **Year**: 458
 - **Visibility**: [SECRET]
 - **Category**: Covenant
 - **Description**: The perfect carrier for Khar'Zul is born, created through careful genetic selection and forceful breeding -- the woman who would become Balor's mother. Her demonic resistance is unmatched; she can be in the presence of the blade without side effects.
-
-## E89 - Seraphina Vex's Family Captured
-- **Year**: 462
-- **Visibility**: [SECRET]
-- **Category**: Covenant
-- **Description**: Seraphina Vex's family (parents, brother, aunt, uncle, cousins) is captured by the Crimson Covenant when she is 4 years old and taken to a hidden research outpost in the northeastern mountains. They are subjected to Project Genesis experiments. One by one her family dies. Only Seraphina survives.
 
 ## E57 - Balor is Conceived
 - **Year**: 479
@@ -114,12 +108,6 @@ updated: 2026-08-14
 - **Visibility**: [SECRET]
 - **Category**: Covenant
 - **Description**: Balor is born -- a healthy baby tiefling that the blade is naturally attuned to. With her 3 month old baby, Balor's mother escapes the facility, leaves Balor in a zone known to barbarian tribes, and scatters to the winds. She is never heard from again.
-
-## E86 - Seraphina Vex Dies
-- **Year**: 483
-- **Visibility**: [SECRET]
-- **Category**: Death
-- **Description**: After three years on the run, Seraphina Vex is cornered by a Crimson Covenant hunting party in the Frostmaw mountains. She wounds two of them before stepping into a glacial crevasse rather than be taken alive. Her body is never found. Her intelligence caches remain hidden across the north.
 
 ## E90 - Trial of the Fang
 - **Year**: 498
@@ -236,14 +224,12 @@ updated: 2026-08-14
 | 422 | E81 | Odessa Merikh Born | Odessa |
 | 435 | E82 | The Merikh Cabin Attack | Odessa |
 | 458 | E56 | Perfect Vessel Engineered | Balor |
-| 462 | E89 | Seraphina Vex's Family Captured | Balor |
 | 471 | E83 | Zan (Vaelis Zandorian) Born | Zan |
 | 478 | E84 | Zan Marked and Exiled | Zan |
 | 479 | E57 | Balor is Conceived | Balor |
 | 480 | E58 | Balor is Born | Balor |
 | 480 | E69 | Nyra Born | Nyra |
 | 482 | E85 | Zan's Teleportation Awakens | Zan |
-| 483 | E86 | Seraphina Vex Dies | Balor |
 | 484 | E87 | Zan Escapes the Flesh Architects | Zan |
 | 486 | E68 | Khel'vin Attacked by Divine Agent | Nyra |
 | 486 | E70 | Nyra's Parents Disappear | Nyra |
@@ -264,7 +250,7 @@ updated: 2026-08-14
 | PC | Events | Years |
 |----|--------|-------|
 | Nyra (and Khel'vin) | 11 (E66-E76) | 290-500 |
-| Balor Skallfang | 8 (E56-E58, E86, E89-E92) | 458-499 |
+| Balor Skallfang | 6 (E56-E58, E90-E92) | 458-499 |
 | Kaelyn | 5 (E77-E80, E88) | 350-400 |
 | Odessa Merikh | 2 (E81-E82) | 422-435 |
 | Zan (Vaelis Zandorian) | 4 (E83-E85, E87) | 471-484 |

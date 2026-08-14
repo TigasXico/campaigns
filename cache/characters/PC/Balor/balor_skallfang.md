@@ -11,8 +11,7 @@ related:
   - the_great_sacrifice: Khar'zul's essence connects to B's lingering will
   - the_arcane_reactive_crystals: Blade may resonate with crystals
   - races_and_ancestries: Balor is a tiefling, a race created by Covenant experiments
-  - seraphina_vex: Biological mother; victim of the Covenant who fled with him
-  - the_medallion_of_vex: Heirloom medallion Seraphina left with him as an infant
+  - the_medallion_of_vex: Heirloom medallion his mother left with him as an infant
   - the_frostmaw: The Skallfang Clan's ancestral homeland where Balor was raised
   - the_first_alliance: The Skallfang Clan fought in the Alliance against the Five Generals and were entrusted with the blade
   - kharzuls_blade: Unwilling bearer of the blade containing Khar'zul's essence
@@ -49,14 +48,14 @@ Imposing tiefling with ashen skin crossed by faint crimson veins that glow when 
 ### Origins  -  Project Genesis
 Balor is the culmination of **Project Genesis**  -  centuries of Covenant experiments breeding a mortal vessel to contain Khar'zul's essence. Only tieflings consistently survived longer than other races. The Covenant tracked bloodlines for generations until finding the perfect subject  -  a young tiefling woman. **Balor** was born from that final ritual.
 
-### The Flight  -  Seraphina Vex
-His mother, **Seraphina Vex**, was a victim of the Covenant. Her family (parents, brother, aunt, uncle, cousins) was captured when she was 4 years old (Year 462) and taken to a hidden research outpost in the northeastern mountains. For years they were subjected to horrific experiments as part of **Project Genesis**  -  the Covenant's centuries-spanning quest to create a vessel for Khar'zul's essence. One by one, her family died. Only Seraphina survived  -  her blood carrying the exact genetic markers the Covenant had been searching for.
+### The Flight  -  Balor's Mother
+Balor's mother was a victim of the Covenant, subjected to horrific experiments as part of **Project Genesis**  -  the Covenant's centuries-spanning quest to create a vessel for Khar'zul's essence. Her blood carried the exact genetic markers the Covenant had been searching for. Her full backstory is reserved for player development.
 
-Balor was the culmination: the final product of decades of forced breeding and arcane experimentation. When he was born, Seraphina looked into his eyes and saw not the Covenant's weapon, but her own flesh and blood  -  the last living remnant of her family. She killed the three guards who came to collect the infant, retrieved Khar'zul's blade from the Covenant's vault, and fled into the northern wilderness. She had spent years memorizing guard rotations and mapping passages  -  she knew this facility inside out.
+Balor was the culmination: the final product of decades of forced breeding and arcane experimentation. When he was born, his mother looked into his eyes and saw not the Covenant's weapon, but her own flesh and blood. She killed the three guards who came to collect the infant, retrieved Khar'zul's blade from the Covenant's vault, and fled into the northern wilderness. She had spent years memorizing guard rotations and mapping passages  -  she knew this facility inside out.
 
 She survived three weeks with the infant and the blade. She discovered the blade would not leave Balor's side  -  it followed him, drawn as though it had already chosen its bearer. Exhausted and hunted, she left Balor wrapped in furs beside a trail that **Hrothgar Skallfang**  -  the clan's greatest hunter  -  was known to patrol. She tucked her family's medallion into his wrappings and disappeared into the wilderness, drawing the Covenant's hunters away.
 
-She survived three more years, leaving intelligence caches across the north. She was finally cornered by a Covenant hunting party in the Frostmaw mountains. She fought. She wounded two of them. When she knew she could not escape, she stepped into a glacial crevasse, ensuring her body would never be found.
+What became of her after that remains open - she left intelligence caches across the north, but her fate is reserved for player development.
 
 ### Discovery by the Skallfang Clan
 **Hrothgar Skallfang** discovered an abandoned infant beside a demonic greatsword in the frozen north. Footprints and blood trailed away. He took both child and sword. No one could lift the blade but when the infant touched it  -  a great yellow eye opened in the sword. The blade began floating, following the baby.
@@ -94,12 +93,12 @@ Searching the ruins, Balor found a worn leather satchel containing:
 - **Observing the ritual:** The Rite of Ash learned from clan elders. Chilling observation: *"The Rite does not silence Khar'zul. It only convinces him to be silent."*
 - **The Covenant in the north:** Fragmentary reports of cloaked figures in the Frostmaw  -  Covenant agents watching the Skallfang territory.
 - **[TODO] The Lost Century:** How the blade passed from Skallfang Clan to the Covenant  -  to be defined.
-- **Seraphina's medallion:** Hrothgar recognized its significance  -  he found references to similar symbols in old Skallfang records of the sealing war  -  sketches of crescent-and-gem design, Infernal phrases partially translated: *"Key..." "...the Apostle's seal..." "...a name spoken in fire..."*
+- **His mother's medallion:** Hrothgar recognized its significance  -  he found references to similar symbols in old Skallfang records of the sealing war  -  sketches of crescent-and-gem design, Infernal phrases partially translated: *"Key..." "...the Apostle's seal..." "...a name spoken in fire..."*
 - **Final entry:** *"The whispers have grown louder. The eye watches Balor more intently. I fear the blade knows something I do not."*
 
-**Crude Map**  -  Hand-drawn on cracked animal hide, marking a location deep in the northeastern mountains. Notes in elegant hand (Seraphina Vex's) identify the site as an ancient dragon burial repurposed as a Covenant research outpost. Pinpoints where she left her primary intelligence cache.
+**Crude Map**  -  Hand-drawn on cracked animal hide, marking a location deep in the northeastern mountains. Notes in elegant hand (his mother's) identify the site as an ancient dragon burial repurposed as a Covenant research outpost. Pinpoints where she left her primary intelligence cache.
 
-**The Medallion of Vex**  -  Silver crescent-moon medallion with crimson gem. Only heirloom of the Vex family that survived. Opens Covenant vaults keyed to high-ranking access. Contains hidden compartment accessible by pressing the crescent's tip while speaking Seraphina's name in Infernal.
+**The Medallion of Vex**  -  Silver crescent-moon medallion with crimson gem. His mother's heirloom, left with him as an infant. Opens Covenant vaults keyed to high-ranking access. Contains hidden compartment accessible by pressing the crescent's tip while speaking his mother's name in Infernal.
 
 **Wolf's-Head Carving**  -  Small obsidian wolf's head worn smooth by decades of handling. Hrothgar's personal totem. Symbol of the Skallfang hunting tradition.
 
@@ -143,10 +142,10 @@ Grows in power as Balor does, unlocking new abilities and greater temptations.
 ---
 
 ## Open Questions
-1. [OK] **Balor's mother**  -  Resolved. Seraphina Vex, victim of Project Genesis. Family captured/experimented on. Escaped with Balor and blade, survived 3 years, tracked and killed by Covenant hunting party. Left intelligence caches.
+1. [?] **Balor's mother**  -  Backstory reserved for player development. Name, family, and fate pending player input; currently referenced only as "Balor's mother". Left intelligence caches across the north.
 2. [OK] **The blackout**  -  Resolved. Khar'zul fully manifested through Balor in Avatar of the Living Prison state. Khar'zul controlled Balor's body while Balor's consciousness was trapped in the ashen field vision. Fiend and much of village destroyed.
-3. [OK] **Leather pouch contents**  -  Resolved. Hrothgar's journal, crude map (NE Covenant ruins  -  Seraphina's cache), Medallion of Vex, wolf's-head carving, promise-knot (3 knots = "I will return"), recurring name, final note.
-4. [?] **Seraphina's secondary intelligence cache**  -  Hidden in NE ruins. What exactly did she leave?
+3. [OK] **Leather pouch contents**  -  Resolved. Hrothgar's journal, crude map (NE Covenant ruins  -  his mother's cache), Medallion of Vex, wolf's-head carving, promise-knot (3 knots = "I will return"), recurring name, final note.
+4. [?] **His mother's secondary intelligence cache**  -  Hidden in NE ruins. What exactly did she leave?
 5. [?] **The Medallion's hidden compartment**  -  Coordinates written in Old Abyssal  -  where do they lead?
 6. [?] **Did Balor ask the clan elders about the blackout?**  -  He did. They found him unconscious. None saw what happened. Guilt unresolved  -  character exploration opportunity.
 7. [?] **The Avatar state**  -  Can Balor trigger it intentionally? Or only when Khar'zul seizes control?

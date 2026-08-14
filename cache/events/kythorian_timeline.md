@@ -11,7 +11,8 @@ updated: 2026-08-14
 
 > All dates are plain years. Year 0 = start of the Mortal Kingdoms era.
 > Year 500 = Present (campaign start). Negative numbers = before Year 0.
-> Event IDs (E01-E92) are stable references. Entities may link to specific
+> Event IDs are stable references (E01-E92 range; some IDs may be unused).
+> Entities may link to specific
 > events via these IDs in their `related` field (e.g. "timeline E38: Sealing of Khar'Zul").
 
 ## Visibility Legend
@@ -491,12 +492,6 @@ updated: 2026-08-14
 - **Category**: Awakening
 - **Description**: At age 11, during a failed mission, Zan jumps from a 30-ft cliff. In despair he prays for help. The Raven Queen answers -- his innate Shadar-kai teleportation awakens. J.B. witnesses this and sells him to the Flesh Architects, the Crimson Covenant's research division, as Subject 242.
 
-## E86 - Seraphina Vex Dies
-- **Year**: 483
-- **Visibility**: [SECRET]
-- **Category**: Death
-- **Description**: After three years on the run, Seraphina Vex is cornered by a Crimson Covenant hunting party in the Frostmaw mountains. She wounds two of them before stepping into a glacial crevasse rather than be taken alive. Her body is never found. Her intelligence caches remain hidden across the north.
-
 ## E87 - Zan Escapes the Flesh Architects
 - **Year**: 484
 - **Visibility**: [SECRET]
@@ -507,12 +502,6 @@ updated: 2026-08-14
 - **Visibility**: [SECRET]
 - **Category**: Discovery
 - **Description**: At age 30, Kaelyn visits a surface village for the first time -- her first contact with the outside world in 19 years of isolation since the Azure Boneyard awakening.
-
-## E89 - Seraphina Vex's Family Captured
-- **Year**: 462
-- **Visibility**: [SECRET]
-- **Category**: Covenant
-- **Description**: Seraphina Vex's family (parents, brother, aunt, uncle, cousins) is captured by the Crimson Covenant when she is 4 years old and taken to a hidden research outpost in the northeastern mountains. They are subjected to Project Genesis experiments. One by one her family dies. Only Seraphina survives.
 
 ## E90 - Trial of the Fang
 - **Year**: 498

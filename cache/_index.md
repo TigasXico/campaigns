@@ -11,22 +11,32 @@
 | athena_orion                         | character      | Athena Orion                             | draft  | 2026-08-13 |
 | aurelius                             | character      | Aurelius                                 | draft  | 2026-08-10 |
 | aurora_asteria                       | character      | Aurora Asteria                           | draft  | 2026-08-10 |
-| balor_skallfang                      | character      | Balor Skallfang (The Tainted)            | draft  | 2026-08-09 |
+| balor_skallfang                      | character      | Balor Skallfang (The Tainted)            | draft  | 2026-08-14 |
 | bardolemeu_romeo                     | character      | Bardolemeu Romeo                         | draft  | 2026-08-14 |
 | cavern_of_discovery                  | location       | The Cavern of Discovery                  | draft  | 2026-08-14 |
 | class_training_and_culture           | lore           | Class Training & Culture                 | draft  | 2026-08-11 |
 | cosmology_and_the_planes             | lore           | Cosmology & The Planes                   | draft  | 2026-08-08 |
 | crassian                             | character      | Crassian                                 | draft  | 2026-08-09 |
 | culture_and_society                  | lore           | Culture & Society of the Mortal Races    | draft  | 2026-08-09 |
+| dragonborn                           | species        | Dragonborn                               | draft  | 2026-08-14 |
+| drow                                 | species        | Drow                                     | draft  | 2026-08-14 |
 | dunvis                               | character      | Dun'vis                                  | draft  | 2026-08-13 |
+| dwarves                              | species        | Dwarves                                  | draft  | 2026-08-14 |
 | economy                              | lore           | Economy of the Mortal Races              | draft  | 2026-08-09 |
+| elves                                | species        | Elves                                    | draft  | 2026-08-14 |
 | emberforge                           | location       | Emberforge                               | draft  | 2026-08-09 |
 | eryx_merikh                          | character      | Eryx Merikh                              | draft  | 2026-08-11 |
 | founding_of_the_last_stand           | event          | Founding of the Last Stand               | draft  | 2026-08-09 |
+| genasi                               | species        | Genasi                                   | draft  | 2026-08-14 |
 | ghavel                               | character      | Ghavel                                   | draft  | 2026-08-14 |
+| gnomes                               | species        | Gnomes                                   | draft  | 2026-08-14 |
+| half_elves                           | species        | Half-Elves                               | draft  | 2026-08-14 |
+| half_orcs                            | species        | Half-Orcs                                | draft  | 2026-08-14 |
+| halflings                            | species        | Halflings                                | draft  | 2026-08-14 |
+| humans                               | species        | Humans                                   | draft  | 2026-08-14 |
 | jb_the_collector                     | character      | J.B. (The Collector)                     | draft  | 2026-08-13 |
 | kaelthor                             | character      | Kaelthor                                 | draft  | 2026-08-09 |
-| kaelyn                               | character      | Kaelyn                                   | draft  | 2026-08-10 |
+| kaelyn                               | character      | Kaelyn                                   | draft  | 2026-08-14 |
 | kharzuls_blade                       | item           | Khar'zul's Blade (The Living Prison)     | draft  | 2026-08-09 |
 | khelvin                              | character      | Khel'vin                                 | draft  | 2026-08-14 |
 | kythoria                             | location       | Kythoria                                 | draft  | 2026-08-09 |
@@ -40,13 +50,13 @@
 | nyra                                 | character      | Nyra                                     | draft  | 2026-08-14 |
 | odessa_merikh                        | character      | Odessa Merikh                            | draft  | 2026-08-11 |
 | paul                                 | character      | Paul                                     | draft  | 2026-08-10 |
+| pc_backstory_timeline                | event          | PC Backstory Timeline                    | draft  | 2026-08-14 |
 | primal_nature_magic                  | lore           | Primal & Nature Magic                    | draft  | 2026-08-08 |
-| races_and_ancestries                 | lore           | Races & Ancestries                       | draft  | 2026-08-10 |
+| races_and_ancestries                 | lore           | Races & Ancestries                       | draft  | 2026-08-14 |
 | races_and_ancestries_design          | campaign_note  | Races & Ancestries Design Decisions      | active | 2026-08-09 |
 | rhael                                | character      | Rhael                                    | draft  | 2026-08-11 |
 | sanzo                                | character      | Sanzo                                    | draft  | 2026-08-10 |
 | satriya_merikh                       | character      | Satriya Merikh                           | draft  | 2026-08-11 |
-| seraphina_vex                        | character      | Seraphina Vex                            | draft  | 2026-08-10 |
 | shadow_elves                         | species        | Shadow Elves (Shadar-kai)                | draft  | 2026-08-13 |
 | skywatch                             | location       | Skywatch                                 | draft  | 2026-08-09 |
 | society                              | lore           | Society of Kythoria                      | draft  | 2026-08-09 |
@@ -96,6 +106,7 @@
 | the_verdant_reaches                  | location       | The Verdant Reaches                      | draft  | 2026-08-10 |
 | the_vigil_of_the_dusk                | organization   | The Vigil of the Dusk                    | draft  | 2026-08-09 |
 | the_world_and_geography              | lore           | The World & Geography  -  Aetris and ... | draft  | 2026-08-08 |
+| tieflings                            | species        | Tieflings                                | draft  | 2026-08-14 |
 | timeline_integration_questions       | campaign_note  | PC Timeline Integration Questions        | draft  | 2026-08-11 |
 | tyra                                 | character      | Tyra                                     | draft  | 2026-08-11 |
 | valen_healoris                       | character      | Valen Healoris                           | draft  | 2026-08-11 |

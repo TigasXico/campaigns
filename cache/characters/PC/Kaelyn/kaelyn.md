@@ -21,7 +21,6 @@ related:
   - the_azure_boneyard: Gained her powers by touching a blue dragon skeleton there; the cave where Kaelyn touched a dragon skull and awakened her powers
   - solyn_velkyn: Twin sister; rival in the Trial of Lolth, savior in the cave-in; presumed dead but actually alive (Kaelyn does not know)
   - lyndale_velkyn: Kaelyn's mother, High Matron of the Drow community; presumed dead in the fire, but actually alive (Kaelyn does not know)
-  - seraphina_vex: Seraphine (her tiefling nanny) may be connected to Seraphina Vex; taught Kaelyn to question Lolth's faith, killed by Solyn during the Trial of Lolth
   - aurora_asteria: Fellow B-touched individual  -  Aurora perceives B through the stars, Kaelyn carries B physically
   - aegon: Fellow B-touched individual  -  Aegon receives B's visions, Kaelyn bears B's crystalized essence
 secrets:
@@ -179,7 +178,7 @@ Giant crystal cave at the Black Willow's roots  -  immense B-essence concentrati
 Possible fates: Solyn leads Drow community, scarred, seeking Kaelyn for answers/revenge. Solyn found by Covenant who recognize latent B-touched potential. Lyndale horribly burned, consumed by vengeance, pursues Kaelyn through agents. Lyndale weakened, deposed by rivals within House Velkyn.
 
 ### Seraphine's Hidden Knowledge
-Seraphine knew Drow were created by Covenant, not Lolth. May have left journals/hidden messages. If connected to Balor's mother Seraphina Vex (TBD), creates a direct link between Kaelyn and Balor.
+Seraphine knew Drow were created by Covenant, not Lolth. May have left journals/hidden messages. If connected to Balor's mother (TBD), creates a direct link between Kaelyn and Balor.
 
 ### Magic Instability  -  The Crystal's Growth
 Overheating may be early warning: crystal heart is **growing**. If pushed further: spread across body, involuntarily draw B's essence, attract monsters/B-touched entities, eventually consume her. Character arc: find a way to stabilize, control, or reverse growth.
