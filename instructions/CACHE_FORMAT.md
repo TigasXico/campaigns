@@ -60,6 +60,10 @@ If a file exceeds 12KB, split it. Common patterns:
 - `monsters_and_ecology.md` -> `monsters.md` + `monster_ecology.md`
 - Character with long backstory -> main file + `character_name_backstory.md`
 
+### Exceptions to the 12KB Cap
+- **Player Character (PC) entity files** -- exempt (full backstory files).
+- **Master timeline** (`cache/events/kythorian_timeline.md`) -- exempt (central chronological reference with event IDs E01-E65; year-block format across 6 eras).
+
 ---
 
 ## Writing Style

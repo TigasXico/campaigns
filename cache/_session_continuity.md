@@ -24,7 +24,7 @@
 - WA timeline on WorldAnvil shows only [PUBLIC] + [PUBLIC MYTH - FALSE] events to players
 
 **Open follow-ups:**
-- [hourglass] Timeline file 23.35 KB exceeds 12KB cap -- flagged. Options: accept, split per era, or trim descriptions (pending user decision)
+- [ok] Timeline file 23.35 KB -- resolved as exception (added to CACHE_FORMAT.md)
 - [hourglass] WA timeline on WorldAnvil still uses old BCE/CE dating -- needs manual update by user to match new plain-year format
 - [hourglass] Entity `related` fields not yet updated to reference event IDs (E##) -- future task
 
