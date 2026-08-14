@@ -5,99 +5,144 @@
 
 ---
 
-## Work Progress
+## All Open Questions
 
-| Category | Status | Notes |
-|----------|--------|-------|
-| Audit: All 7 categories | [ok] Complete | 27/27 contradictions resolved. 42 files fixed across 2 passes. |
-| Entity count | 98 files | Added 7 new files (species + 6 NPCs + 1 org); backstory supplement merged into Zan file |
-| Index | [ok] Synced | sync-index.ps1 run; 98 rows |
-| Timeline Update | [ok] Done | Zan's timeline added (~29 YA to Present) |
-| Zan Backstory | [ok] Complete | Full backstory integrated; status changed to complete |
-| Shadow Elves species | [ok] Created | Moved content out of races_and_ancestries.md |
-| Flesh Architects | [ok] Created | Covenant research division, Catalyst Project |
+### PC-Specific Open Questions (by Character)
+
+#### Aegon (6)
+1. Who was Aegon's biological father? Mother died in childbirth, father disappeared -- deliberate erasure?
+2. What exactly did Paul know? His dying words suggest he discovered something about the Order.
+3. Who attacked Paul's chapel? Investigation produced no results. (Evidence planted by Order frames the Crimson Covenant.)
+4. The jealous/fanatic members -- how far will they go to claim Aegon's power?
+5. The old capital -- the High Septon is there. What other secrets does it hold?
+6. B's influence on Aegon -- will his visions grow clear enough to reveal the truth about the Originals and the gods' deception?
+
+#### Balor (4)
+1. Seraphina's secondary intelligence cache -- hidden in NE ruins. What exactly did she leave?
+2. The Medallion's hidden compartment -- coordinates written in Old Abyssal. Where do they lead?
+3. Did Balor ask the clan elders about the blackout? He did. They found him unconscious. Guilt unresolved.
+4. The Avatar state -- can Balor trigger it intentionally? Or only when Khar'zul seizes control?
+
+#### Kaelyn (5)
+1. The crystal growth -- how fast? What triggers acceleration? Way to stop it?
+2. Kaelyn's connection to other B-touched -- will she sense Aurora's constellations? Will Aegon see her in visions?
+3. The Black Willow's crystal cave -- what secrets lie beneath the tree's roots?
+4. Seraphine's past -- did she leave records? Connected to Balor's story (Seraphina Vex)?
+5. The Azure Boneyard -- can it be found again? Is the dragon's consciousness still present?
+
+#### Odessa (7)
+1. Where is Eryx's proof? Hidden cache, guild intelligence, or lost?
+2. Where exactly does Valen command? Which monster-held territory?
+3. What will Odessa do after Valen is dead? She has no plan beyond the kill.
+4. Will she learn the truth about her parentage (Valen is her father)? And if so, how?
+5. Who else in the elven military knew about the surrender to the Covenant?
+6. Will the Venom-Weavers support Odessa's final mission, or try to hold her back?
+7. What became of Odessa's biological mother? Alive? Does she remember?
+
+#### Zan (6)
+1. What happened to Sophie? Is she alive? Where is she held?
+2. Where is J.B. now? Still running his guild? Retired? Dead?
+3. Where are the Flesh Architects' other facilities?
+4. What does the Raven Queen want from Zan? Why did she mark him? Why did she save him?
+5. Will Zan's B-touched resonance draw unwanted attention? From the Covenant? From the gods? From other B-touched?
+6. What will happen when Zan meets Dun'vis? Fight? Revelation? Understanding?
+
+#### Aurora (4)
+1. What happened to Polaris? Captured by Covenant? Turned Drow/Shadow Elf? Leading monster pack?
+2. Where exactly is Elarwyn? The Verdant Reaches are vast -- specific location unmapped.
+3. Will the white fox (B's manifestation) return? When, and what will it lead to?
+4. What do the hidden constellations spell out? A map to something important?
+
+#### Bardolemeu (13) -- Needs player input on open questions
+1. What was the mentor's name? The old musician who taught him remains unnamed.
+2. What happened to the mentor? Vanished -- silenced? By whom? Alive or dead?
+3. What specific secrets did the mentor know? Family's Covenant ties? Something bigger?
+4. Who are Bardolemeu's parents? Names, personalities, current status.
+5. Does he have siblings? How many? Rivals? Allies?
+6. How does his family view his departure? Angry? Worried? Searching?
+7. What is his current relationship with his family? Any contact?
+8. Where exactly are the family's theatres located? Which cities?
+9. How old was he when he left?
+10. How long has he been wandering?
+11. When did he discover his bardic magic? Awakening story?
+12. Will he return to his family's theatres? Under what circumstances?
+13. Does he seek reconciliation or confrontation with his family?
+
+#### Nyra (4) -- Partially defined, needs player input
+1. What is in the mystery box? A key? An artifact? A letter? A map?
+2. Where is the blue dragon now? Still alive? Hidden? Accessible?
+3. Who were Nyra's parents? Adventurers? Researchers? Fugitives?
+4. Does Nyra know the dragon's secrets? Was she told about the gods' conspiracy?
+
+#### Sanzo (4) -- Entirely empty, waiting on player (Guilherme/Gui)
+1. Where was Sanzo trained? Which monastery? Does it still exist?
+2. Why is he adventuring? What drove him to leave his training?
+3. What monastic tradition does he follow? Open Hand? Shadow? Sun Soul?
+4. Does his monastery hold any ancient knowledge? Pre-invasion records? Hidden truths?
 
 ---
 
-## Recent Changes (2026-08-13) -- Zan Backstory Integration
+### GM Design Decisions (8 remaining)
 
-### New Files Created
-
-#### Species
-- **`species/shadow_elves.md`**  -  New species file for Shadow Elves (Shadar-kai). Origins (Covenant experiments ~500-600 YA), Shadowfell civilization, the Raven Queen's brand (mortal union bloodline), racial traits (innate latent teleportation awakened by the Raven Queen), social standing, worship, notable individuals. Secrets: brand = direct bloodline, teleportation must be awakened.
-
-#### Organizations
-- **`organizations/the_flesh_architects.md`**  -  Covenant research division, semi-autonomous. Runs the Catalyst Project (B Crystal modification of Shadar-kai teleportation). Subject numbering system (241 = Sophie, 242 = Zan). Hidden facilities (number/locations to be defined by GM). Secrets: B Crystal modification records, facility locations.
-
-#### NPCs
-- **`characters/NPC/ashura_zando.md`**  -  Zan's father, member of the Zandorion family. With Athena, made the impossible choice to abandon Zan. Lives with guilt, pain, anger, and hope.
-- **`characters/NPC/athena_orion.md`**  -  Zan's mother, member of the Zandorion family. With Ashura, shared in the decision. Lives with guilt, pain, anger, and hope. Kind but pained with Dun'vis.
-- **`characters/NPC/dunvis.md`**  -  The orphan groomed to replace Zan. Tattooed replica of Raven Queen's brand. Trained to be Zan. Bullied/hunted his whole life. Now hunts Zan to expose the Zandorion plan and reclaim his identity. Driving quote: "I want my life back. I want my name back. I want myself back."
-- **`characters/NPC/sophie_subject_241.md`**  -  Fellow prisoner of the Flesh Architects. Bonded with Zan. His love from the lab. Fate unknown -- rescue target.
-- **`characters/NPC/jb_the_collector.md`**  -  Human crime lord, trained Zan ages 7-11, mutilated his ears, renamed him, sold him to the Flesh Architects. Name unknown.
-
-### Updated Files
-
-- **`zan_vaelis_zandorian.md`**  -  COMPLETE REWRITE. Status: draft -> complete. Full backstory merged into a single file (20.7KB -- PC exception to 12KB cap). Contains: Overview, Appearance, Background summary table, Full Backstory (7 chapters), DM's Notes (plot hooks, character connections, world secrets), Timeline Summary, Abilities, Goals, Relationships, Open Questions. Corrected lore: Shadar-kai racial teleportation, B-touched status, Raven Queen's brand, does NOT revere the Queen.
-- **`races_and_ancestries.md`**  -  Removed detailed Shadow Elf content, added reference to species/shadow_elves.md. Updated related.
-- **`the_crimson_covenant.md`**  -  Added Research Divisions section with Flesh Architects. Updated related.
-- **`kythorian_timeline.md`**  -  Added Zan's events (~29 YA birth, ~22 YA brand/exile, ~18 YA awakening/sale, ~18-16 YA Subject 242, ~16 YA escape, ~16 YA to Present).
-- **`timeline_integration_questions.md`**  -  Marked all 9 Zan questions [ok] resolved with answers. Updated related.
-
-### Removed
-- **`zan_vaelis_zandorian_backstory.md`**  -  Backstory supplement file deleted; content merged into main Zan file per user decision (PC files are the 12KB cap exception).
+1. Four Unnamed Generals -- names, creature types, domains, status (2 defeated, 2 retreated)
+2. Blade's journey -- how did it pass from Skallfang to Covenant (~150 to ~20 YA)?
+3. Covenant founders -- name the original dissident scholars who fled the First Alliance
+4. Three Kings -- name the founders of the Last Stand
+5. Era of Foundation -- pre-invasion history at high level
+6. Larger evil council -- is the Crimson Covenant part of something bigger?
+7. Monster Ecology details -- tainted zones, nesting grounds
+8. Monster Economy details -- named merchants, guilds, industries dealing in monster parts
+9. Rite of Ash -- exact requirements (duration, cost, failure conditions)
 
 ---
 
-## Open Question Tracker
+### Location & Item Open Questions
 
-### Player-Dependent Backstories (3)
-- [?] sanzo -- entirely empty, needs player (Guilherme/Gui) input
-- [?] bardolemeu_romeo -- family name, theaters, family members undefined
-- [?] nyra -- mystery box, blue dragon, parents, divine attacker all TBD
+#### The Medallion of Vex (3)
+1. The hidden compartment coordinates -- written in Old Abyssal. Where do they lead?
+2. Covenant response -- what happens if Balor uses the medallion openly at a Covenant facility?
+3. The Infernal inscription -- what does the micro-text along the crescent actually say?
 
-### Zan-Specific Open Questions (in-file)
-- [?] Sophie's fate -- alive? where held? (in zan_vaelis_zandorian.md)
-- [?] J.B.'s location -- still running guild? (in zan_vaelis_zandorian.md)
-- [?] Flesh Architects facilities -- where are the others? (in the_flesh_architects.md)
-- [?] What does the Raven Queen want from Zan? (in zan_vaelis_zandorian.md)
-- [?] Will Zan's B-touched resonance draw attention? (in zan_vaelis_zandorian.md)
-- [?] Zan meets Dun'vis -- what happens? (in zan_vaelis_zandorian.md)
+#### The Azure Boneyard (2)
+1. Does the dragon's consciousness linger? Kaelyn felt a connection -- could it still be present through the crystals?
+2. More crystals? Are there larger deposits deeper in the cave system?
 
-### GM Design Decisions (12)
-- [?] Four Unnamed Generals -- names, creature types, domains, status (2 defeated, 2 retreated)
-- [?] Vesper / Raven Queen boundary -- separate gods or aspects?
-- [?] Blade's journey -- how did it pass from Skallfang to Covenant (~150 to ~20 YA)?
-- [?] Planar Pact details -- which gods made deals with which planes?
-- [?] Covenant founders -- name the original dissident scholars
-- [?] Three Kings -- name the founders of the Last Stand
-- [?] Era of Foundation -- pre-invasion history at high level
-- [?] Source of demonic tissue -- Covenant experiments origin
-- [?] Larger evil council -- is CC part of something bigger?
-- [?] Monster Ecology details -- tainted zones, nesting grounds
-- [?] Monster Economy details -- named merchants and guilds
-- [?] Rite of Ash exact requirements
+#### The Frostmaw (3)
+1. The Whispering Glacier's prophecy -- Skallfang elders claim the glacier speaks. Natural? Magical? Something more?
+2. The Bonefields burial chambers -- what weapons/artifacts lie beneath the frozen earth?
+3. Why was the Frostmaw never conquered? The monster army had the numbers. Was there another reason?
 
-### File Size Cap Violations (4)
-- [!] kaelyn.md -- 18.6KB (needs split: main + backstory supplement)
-- [!] odessa_merikh.md -- 16.7KB (needs split: main + GM notes)
-- [!] balor_skallfang.md -- 14.8KB (needs split: main + backstory)
-- [!] aurora_asteria.md -- 12.6KB (trim or split GM notes)
+#### The Underdark Forest (4)
+1. Exact location on the continent map -- to be defined when map is finalized
+2. Current leadership -- with Lyndale presumed dead, who now leads? Solyn?
+3. Crystal cave at the Black Willow's roots -- how deep? What secrets?
+4. Siege damage -- how did the monster invasion siege affect the Underdark?
 
-> NOTE: zan_vaelis_zandorian.md is 20.7KB but is exempt as a PC file (per user decision, all PC files are the 12KB cap exception).
+#### Khar'zul's Blade (1)
+1. What are the exact requirements for the Rite of Ash? Full parameters (duration, cost, failure conditions) undefined.
+
+---
 
 ### Naming Gaps (6)
-- [?] The Eastern Port -- no proper name
-- [?] The Southeastern Port -- no proper name
-- [?] NE Settlement Cluster -- unnamed major + 3 minor settlements
-- [?] Old Capital of Kythoria -- unnamed (High Septon location)
-- [?] Frontier Forward Operating Base -- unnamed
-- [?] The Four Barbarian Tribes -- unnamed
 
-### Other Open Questions
-- [?] The Originals' true names (A, B, C)
-- [?] Seraphina's intelligence cache in northeastern ruins
-- [?] The Medallion's hidden compartment -- coordinates in Old Abyssal
-- [?] Kaelyn: crystal heart growth triggers, Black Willow's cave secrets, Seraphine's records
-- [?] Paul's chapel attack (Order of Scales framed CC on Aurelius's order)
-- [?] Crystal cave deeper exploration beneath capitals
+1. The Eastern Port -- no proper name
+2. The Southeastern Port -- no proper name
+3. NE Settlement Cluster -- unnamed major + 3 minor settlements
+4. Old Capital of Kythoria -- unnamed (High Septon location)
+5. Frontier Forward Operating Base -- unnamed
+6. The Four Barbarian Tribes -- unnamed
+
+---
+
+### Remaining Lore Open Questions
+
+1. Seraphina's intelligence cache in northeastern ruins -- what exactly did she leave?
+2. Kaelyn's crystal heart growth -- triggers, acceleration, possible reversal
+3. Black Willow's crystal cave -- deeper exploration beneath the roots
+4. Paul's chapel attack -- Order of Scales framed the Crimson Covenant on Aurelius's command (GM note documented, specifics flexible)
+5. Crystal cave deeper exploration beneath capitals -- B's crystal cluster sentience?
+6. Monsters_and_ecology.md: Remaining loyalist command -- who commands loyalist forces today?
+7. Crystal-corrupted apex -- what happens to a dragon or similarly powerful creature?
+8. Monster categories by plane -- open for flexible encounter design
+9. Mortal discoverers -- which arcanists have uncovered parts of the truth?
+10. Detailed monster ecology -- specific tainted zones, nesting grounds, adapted wildlife

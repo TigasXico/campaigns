@@ -28,7 +28,7 @@ secrets:
     access: gm-only
   - text: "Connected to at least one PC backstory (Balor Skallfang)."
     access: gm-only
-  - text: "Source of demonic tissue used in experiments remains unrevealed."
+  - text: "The source of demonic tissue is Khar'zul's sealed blade itself  -  fragments of living flesh harvested from the blade containing Khar'zul's essence. The Covenant discovered that the blade's organic material, when carefully extracted, could be grafted onto mortal subjects. This is the origin of Drow, Shadow Elves, and Tieflings. The blade regenerates slowly, so harvesting is limited and precious."
     access: gm-only
   - text: "The Covenant fabricated the 'Apostle' backstory for Seraphina Vex after her escape. She was never an Apostle  -  she was a prisoner who escaped. The lie was designed to cover their shame at losing both the blade and the vessel."
     access: gm-only
