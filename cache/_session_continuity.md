@@ -5,6 +5,31 @@
 
 ---
 
+## Session Log
+
+### 2026-08-14 - Timeline Restructure (committed 2565d0d)
+
+**File manifest:**
+- `cache/events/kythorian_timeline.md` -- COMPLETE REWRITE. New dating system (plain years; Year 0 = Mortal Kingdoms; Year 500 = campaign start; negatives for pre-0). 65 events (E01-E65) in year-block format across 6 eras (Primordial Times, Age of Creation, Mortal Kingdoms, Abominable End, Rise of Mortals, Current Era). Visibility markers added ([PUBLIC]/[SECRET]/[PUBLIC MYTH - FALSE]/[SECRET - TRUE]). Event IDs usable in entity `related` fields (e.g. "timeline E38").
+
+**Key decisions this session:**
+- E01-E07 secret; E08 public; E09 public myth (fake creation story)
+- E15/E16/E23 secret (protection end, planar breaches, deployment)
+- E24 First Alliance spans 192-500 (ongoing)
+- E36 single general defeat at 279 (was two)
+- E43/E51 public myths (Lolth/Raven Queen race creation) flagged FALSE
+- E44/E52 true origins added (Project Genesis byproducts) at 303/339
+- E53 Shadar-Kai Shadowfell at 344 (corrected from 310)
+- E60 Thromvuld B-crystal discovery secret
+- WA timeline on WorldAnvil shows only [PUBLIC] + [PUBLIC MYTH - FALSE] events to players
+
+**Open follow-ups:**
+- [hourglass] Timeline file 23.35 KB exceeds 12KB cap -- flagged. Options: accept, split per era, or trim descriptions (pending user decision)
+- [hourglass] WA timeline on WorldAnvil still uses old BCE/CE dating -- needs manual update by user to match new plain-year format
+- [hourglass] Entity `related` fields not yet updated to reference event IDs (E##) -- future task
+
+---
+
 ## All Open Questions
 
 ### PC-Specific Open Questions (by Character)
