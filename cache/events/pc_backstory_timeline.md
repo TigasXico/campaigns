@@ -219,6 +219,46 @@ updated: 2026-08-14
 
 ---
 
+# Chronological Overview (All PCs)
+
+> All 30 PC events sorted by Year (ties ordered by E-ID). Full event details
+> appear in the per-character sections above.
+
+| Year | E-ID | Event | Character |
+|------|------|-------|-----------|
+| 290 | E66 | Khel'vin Born | Nyra |
+| 350 | E77 | Kaelyn Born | Kaelyn |
+| 361 | E78 | Trial of Lolth; Kaelyn Exiled | Kaelyn |
+| 365 | E79 | Kaelyn's Azure Boneyard Awakening | Kaelyn |
+| 380 | E88 | Kaelyn's First Surface Village Visit | Kaelyn |
+| 400 | E67 | Khel'vin Masters Cold Breath | Nyra |
+| 400 | E80 | Kaelyn Escapes Imprisonment | Kaelyn |
+| 422 | E81 | Odessa Merikh Born | Odessa |
+| 435 | E82 | The Merikh Cabin Attack | Odessa |
+| 458 | E56 | Perfect Vessel Engineered | Balor |
+| 462 | E89 | Seraphina Vex's Family Captured | Balor |
+| 471 | E83 | Zan (Vaelis Zandorian) Born | Zan |
+| 478 | E84 | Zan Marked and Exiled | Zan |
+| 479 | E57 | Balor is Conceived | Balor |
+| 480 | E58 | Balor is Born | Balor |
+| 480 | E69 | Nyra Born | Nyra |
+| 482 | E85 | Zan's Teleportation Awakens | Zan |
+| 483 | E86 | Seraphina Vex Dies | Balor |
+| 484 | E87 | Zan Escapes the Flesh Architects | Zan |
+| 486 | E68 | Khel'vin Attacked by Divine Agent | Nyra |
+| 486 | E70 | Nyra's Parents Disappear | Nyra |
+| 486 | E71 | Nyra Finds Khel'vin; Essence Resonance | Nyra |
+| 487 | E72 | Nyra Gives Up Search; Raised by Khel'vin | Nyra |
+| 498 | E73 | Nyra Receives Mystery Box from Ghavel | Nyra |
+| 498 | E90 | Trial of the Fang | Balor |
+| 499 | E74 | Nyra Deciphers Encrypted Journal | Nyra |
+| 499 | E91 | The Awakening; Skallfang Village Destroyed | Balor |
+| 499 | E92 | Balor Goes into Exile | Balor |
+| 500 | E75 | Nyra Defeats Air Elemental; Essence Awakens | Nyra |
+| 500 | E76 | Nyra Seeks Adventurers | Nyra |
+
+---
+
 # Summary
 
 | PC | Events | Years |
