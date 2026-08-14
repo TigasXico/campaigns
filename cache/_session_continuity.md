@@ -74,10 +74,10 @@
 3. [hourglass] **Who is the caretaker?** Beautiful woman with bright eyes, long black hair, 50s. Identity unknown.
 4. [hourglass] **Khel'vin's white dragon father** -- alive, dead, or hidden?
 5. [hourglass] **Remaining three elementals** -- where are Fire, Water, Earth located?
-6. [ok] **What were Nyra's parents researching?** Elemental Convergence Theory (resolved 2026-08-14)
-7. [ok] **Why would the Crimson Covenant capture them?** Their research intersected the Covenant's resurrection ritual work (resolved 2026-08-14)
-8. [ok] **What is inside the smaller locked box? How does it unlock?** Elemental Resonance Lockbox; unlocks when all 4 soul crystals are brought into proximity (resolved 2026-08-14)
-9. [ok] **Why are the four elements' essences required?** They form a Primal Resonance Key (resolved 2026-08-14)
+6. [hourglass] **What were Nyra's parents researching?** (DM decision pending -- suggested: Elemental Convergence Theory)
+7. [hourglass] **Why would the Crimson Covenant capture them?** (DM decision pending)
+8. [hourglass] **What is inside the smaller locked box? How does it unlock?** (DM decision pending -- suggested: Elemental Resonance Lockbox)
+9. [hourglass] **Why are the four elements' essences required?** (DM decision pending -- suggested: Primal Resonance Key)
 10. [hourglass] **Who placed the staff in the Cavern of Discovery?** It bears druidic carvings. Deliberate placement?
 11. [hourglass] **Does Nyra ever learn the truth about Khel'vin's injury?** (Divine agent vs. rockslide)
 12. [hourglass] **Which city?** City location to be pinned during map creation

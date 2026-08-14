@@ -29,10 +29,6 @@ secrets:
     access: gm-only
   - text: "Nyra's parents were researching elemental convergence -- the theory that the Material Plane was built upon the four elemental planes as a foundation."
     access: gm-only
-  - text: "The smaller locked box is an Elemental Resonance Lockbox. It can only be opened when all four elemental soul crystals are brought into proximity. Inside: a final message from Nyra's parents, the location of a hidden research cache, and a map to where they are being held."
-    access: gm-only
-  - text: "The four elemental soul crystals combine to form a Primal Resonance Key -- a metaphysical skeleton key attuned to the Material Plane's fundamental building blocks, capable of unlocking magically sealed or extra-dimensional locations."
-    access: gm-only
 created: 2026-08-10
 updated: 2026-08-14
 ---
@@ -129,23 +125,27 @@ Pale blue-grey skin. Hair drifts as if stirred by an unfelt breeze. Eyes the col
 
 ---
 
-## DM Decisions (Canon -- 2026-08-14)
+## DM Decisions (Pending)
 
-### 1. What were Nyra's parents researching? -- Elemental Convergence Theory
-
-Nyra's parents researched **Elemental Convergence Theory**: the hypothesis that the Material Plane was built upon the four elemental planes (Air, Fire, Water, Earth) as a foundational layer by the Originals. Their research uncovered that elemental essence fragments, when combined, create a **Primal Resonance Key** -- capable of unlocking magically sealed locations, piercing divine wards, or accessing hidden layers of reality. This connects directly to the Originals and the gods' conspiracy.
+### 1. What were Nyra's parents researching?
+**Suggested direction**: Elemental Convergence Theory -- the hypothesis that the Material Plane was built upon the four elemental planes (Air, Fire, Water, Earth) as a foundational layer by the Originals. Elemental essence fragments, when combined, could form a metaphysical key.
+**Alternative**: They discovered the Crimson Covenant manipulating elemental forces and began investigating the Covenant's activities.
+**Status**: [hourglass] Pending GM decision
 
 ### 2. Why did the Crimson Covenant capture them?
+**Suggested direction**: Their elemental research intersected with the Covenant's work on B's resurrection ritual. The Covenant believed their knowledge of elemental essence manipulation could interfere with or counteract the ritual. They were captured alive for interrogation.
+**Alternative**: They simply discovered the Covenant's existence and got too close to a facility.
+**Status**: [hourglass] Pending GM decision
 
-The parents' elemental research intersected with the Covenant's work on B's resurrection ritual. The Covenant believed their knowledge of elemental essence manipulation could interfere with or counteract the ritual. They were captured alive for interrogation. Their research was seized -- but Ghavel saved a copy (the mystery box). (GM flexibility: the Covenant may be revealed as a front for a deeper power if the campaign demands a different captor.)
-
-### 3. What is inside the locked box? How does it unlock?
-
-The smaller box is an **Elemental Resonance Lockbox**. It can only be opened when all four elemental soul crystals are brought into proximity -- their combined resonance creates a unique elemental frequency that unlocks it. Inside is a final message from Nyra's parents revealing: what they discovered and who they were running from; the location of a hidden research cache; a map to where they are being held; and a warning about the true nature of their captors.
+### 3. What is inside the smaller locked box? How does it unlock?
+**Suggested direction**: The box is an **Elemental Resonance Lockbox** -- it only opens when all four elemental soul crystals are brought into proximity. Inside: a final message from Nyra's parents revealing what they discovered, the location of a hidden research cache, and a map to where they are being held.
+**Alternative**: The box contains a key to a secondary location (vault/sanctuary). The elemental essences attune the key.
+**Status**: [hourglass] Pending GM decision
 
 ### 4. Why are the four elemental essences required?
-
-The four soul crystals combined form a **Primal Resonance Key** -- a metaphysical skeleton key attuned to the fundamental building blocks of the Material Plane. It can: open magically sealed locations or pocket dimensions; pierce concealment wards hiding secret places; reveal hidden knowledge encoded in the fabric of reality; and -- most importantly -- locate and access wherever Nyra's parents are being held (a warded or extra-dimensional location).
+**Suggested direction**: The four soul crystals combine to form a **Primal Resonance Key** -- a metaphysical skeleton key attuned to the Material Plane's fundamental building blocks. It can open magically sealed locations, pierce concealment wards, and locate extra-dimensional prisons.
+**Alternative**: The combined essence powers a ritual to reveal the truth about the Originals' creation of the Material Plane.
+**Status**: [hourglass] Pending GM decision
 
 ---
 
