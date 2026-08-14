@@ -32,7 +32,7 @@ updated: 2026-08-14
 
 > All dates are plain years. Year 0 = start of the Mortal Kingdoms era.
 > Year 500 = Present (campaign start). Negative numbers = before Year 0.
-> Event IDs (E01-E76) are stable references. Entities may link to specific
+> Event IDs (E01-E87) are stable references. Entities may link to specific
 > events via these IDs in their `related` field (e.g. "timeline E38: Sealing of Khar'Zul").
 
 ## Visibility Legend
@@ -389,19 +389,19 @@ updated: 2026-08-14
 - **Description**: Crimson Covenant experiments use fragments of living flesh from Khar'zul's sealed blade, grafting demonic tissue onto living human subjects. Most perish in days, some lose their minds, few reject the transplant. Survivors become the first Tieflings.
 
 ## E56 - Perfect Vessel Engineered
-- **Year**: 445
+- **Year**: 458
 - **Visibility**: [SECRET]
 - **Category**: Covenant
 - **Description**: The perfect carrier for Khar'Zul is born, created through careful genetic selection and forceful breeding -- the woman who would become Balor's mother. Her demonic resistance is unmatched; she can be in the presence of the blade without side effects.
 
 ## E57 - Balor is Conceived
-- **Year**: 459
+- **Year**: 479
 - **Visibility**: [SECRET]
 - **Category**: Covenant
-- **Description**: At 16, Balor's mother is classified as ready for fertilization. A small tissue graft of Khar'zul enveloped in a scrap of her own skin is attached to her womb.
+- **Description**: At 21, Balor's mother is classified as ready for fertilization. A small tissue graft of Khar'zul enveloped in a scrap of her own skin is attached to her womb.
 
 ## E58 - Balor is Born
-- **Year**: 460
+- **Year**: 480
 - **Visibility**: [SECRET]
 - **Category**: Covenant
 - **Description**: Balor is born -- a healthy baby tiefling that the blade is naturally attuned to. With her 3 month old baby, Balor's mother escapes the facility, leaves Balor in a zone known to barbarian tribes, and scatters to the winds. She is never heard from again.
@@ -458,6 +458,71 @@ updated: 2026-08-14
 - **Visibility**: [SECRET]
 - **Category**: Awakening
 - **Description**: In the Cavern of Discovery, Nyra (age 20) battles the Air Elemental with Khel'vin. Her air genasi essence awakens mid-battle. Khel'vin uses Cold Breath. Nyra collects the Air Elemental Soul Crystal. Khel'vin and Nyra part ways.
+## E77 - Kaelyn Born
+- **Year**: 350
+- **Visibility**: [SECRET]
+- **Category**: Birth
+- **Description**: Kaelyn is born in the Underdark to House Velkyn, the ruling Drow house. Twin sister Solyn is born with her. The Twin Omen hangs over them from birth.
+
+## E78 - Trial of Lolth; Kaelyn Exiled
+- **Year**: 361
+- **Visibility**: [SECRET]
+- **Category**: Trial
+- **Description**: At age 11, Kaelyn faces the Trial of Lolth against twin sister Solyn. After five challenges, Kaelyn refuses to kill Seraphine (her tiefling nanny) in the final trial. Solyn kills Seraphine instead. Kaelyn is exiled from the Underdark, wounded and alone.
+
+## E79 - Kaelyn's Azure Boneyard Awakening
+- **Year**: 365
+- **Visibility**: [SECRET]
+- **Category**: Awakening
+- **Description**: At age 15, fleeing Drow scouts, Kaelyn falls through a fissure into the Azure Boneyard. She touches a blue dragon skeleton saturated with B's essence. A bolt of electrical energy surges through her -- her heart externalizes into a red pulsing crystal, her left eye turns black, her hair turns black.
+
+## E80 - Kaelyn Escapes Imprisonment
+- **Year**: 400
+- **Visibility**: [SECRET]
+- **Category**: Escape
+- **Description**: After 20 years of imprisonment and torture by her mother Lyndale Velkyn, Kaelyn escapes during a failed experiment. She releases a massive electrical discharge, pushes Lyndale into a fire, and flees through the Mountain Passage. Solyn pushes Kaelyn to safety but is buried in the cave-in. Kaelyn believes both are dead.
+
+## E81 - Odessa Merikh Born
+- **Year**: 422
+- **Visibility**: [SECRET]
+- **Category**: Birth
+- **Description**: Odessa is born from violence -- the product of a rape committed by elven general Valen Healoris during a raid on a human village. Her mother leaves her in a basket on the border of elven lands. She is found and adopted by Satriya and Eryx Merikh.
+
+## E82 - The Merikh Cabin Attack
+- **Year**: 435
+- **Visibility**: [SECRET]
+- **Category**: Murder
+- **Description**: On Odessa's 13th birthday, Valen Healoris leads an elven strike team to the Merikh cabin in the woods. Satriya's runic barrier is destroyed. Eryx and Satriya are tortured and killed. Odessa survives hidden in an alcove for three days before being found by Rhael of the Venom-Weavers.
+
+## E83 - Zan (Vaelis Zandorian) Born
+- **Year**: 471
+- **Visibility**: [SECRET]
+- **Category**: Birth
+- **Description**: Zan is born Vaelis Zandorian in the Shadowfell shadow-city to Ashura Zando and Athena Orion. He is of the noble Zandorion bloodline of the Shadar-kai.
+
+## E84 - Zan Marked and Exiled
+- **Year**: 478
+- **Visibility**: [SECRET]
+- **Category**: Divine Scheme
+- **Description**: At age 7, the Raven Queen's brand manifests on Zan, marking him as a direct bloodline descendant. His parents secretly abandon him on the Material Plane to protect him from jealous noble families. The orphan Dun'vis is groomed to replace him. Zan's memory is magically modified.
+
+## E85 - Zan's Teleportation Awakens
+- **Year**: 482
+- **Visibility**: [SECRET]
+- **Category**: Awakening
+- **Description**: At age 11, during a failed mission, Zan jumps from a 30-ft cliff. In despair he prays for help. The Raven Queen answers -- his innate Shadar-kai teleportation awakens. J.B. witnesses this and sells him to the Flesh Architects, the Crimson Covenant's research division, as Subject 242.
+
+## E86 - Seraphina Vex Dies
+- **Year**: 483
+- **Visibility**: [SECRET]
+- **Category**: Death
+- **Description**: After three years on the run, Seraphina Vex is cornered by a Crimson Covenant hunting party in the Frostmaw mountains. She wounds two of them before stepping into a glacial crevasse rather than be taken alive. Her body is never found. Her intelligence caches remain hidden across the north.
+
+## E87 - Zan Escapes the Flesh Architects
+- **Year**: 484
+- **Visibility**: [SECRET]
+- **Category**: Escape
+- **Description**: At age 13, during a Catalyst Project experiment, Zan teleports out of his restraints, kills a guard and a scientist, and flees. Cornered on the top floor, he jumps from a 100-ft window. A B Crystal shard from the experiments serves as a teleportation anchor. He survives and escapes into the city.
 
 ---
 
