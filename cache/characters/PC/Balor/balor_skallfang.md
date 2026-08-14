@@ -27,7 +27,7 @@ secrets:
   - text: "During the blackout, Khar'zul's essence fully manifested through Balor in the 'Avatar of the Living Prison' state  -  the ultimate power level. Khar'zul took complete control of Balor's body. The fiend was destroyed, but so was much of the village. This was the first  -  and so far only  -  time the Avatar state has been triggered."
     access: gm-only
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-14
 ---
 
 ## Overview
@@ -50,7 +50,7 @@ Imposing tiefling with ashen skin crossed by faint crimson veins that glow when 
 Balor is the culmination of **Project Genesis**  -  centuries of Covenant experiments breeding a mortal vessel to contain Khar'zul's essence. Only tieflings consistently survived longer than other races. The Covenant tracked bloodlines for generations until finding the perfect subject  -  a young tiefling woman. **Balor** was born from that final ritual.
 
 ### The Flight  -  Seraphina Vex
-His mother, **Seraphina Vex**, was a victim of the Covenant. Her family (parents, brother, aunt, uncle, cousins) was captured when she was a child and taken to a hidden research outpost in the northeastern mountains. For years they were subjected to horrific experiments as part of **Project Genesis**  -  the Covenant's centuries-spanning quest to create a vessel for Khar'zul's essence. One by one, her family died. Only Seraphina survived  -  her blood carrying the exact genetic markers the Covenant had been searching for.
+His mother, **Seraphina Vex**, was a victim of the Covenant. Her family (parents, brother, aunt, uncle, cousins) was captured when she was 4 years old (Year 462) and taken to a hidden research outpost in the northeastern mountains. For years they were subjected to horrific experiments as part of **Project Genesis**  -  the Covenant's centuries-spanning quest to create a vessel for Khar'zul's essence. One by one, her family died. Only Seraphina survived  -  her blood carrying the exact genetic markers the Covenant had been searching for.
 
 Balor was the culmination: the final product of decades of forced breeding and arcane experimentation. When he was born, Seraphina looked into his eyes and saw not the Covenant's weapon, but her own flesh and blood  -  the last living remnant of her family. She killed the three guards who came to collect the infant, retrieved Khar'zul's blade from the Covenant's vault, and fled into the northern wilderness. She had spent years memorizing guard rotations and mapping passages  -  she knew this facility inside out.
 
@@ -68,10 +68,10 @@ Monster hunters of the northern frontier. Oath: *"When darkness comes... we stan
 Hrothgar raised Balor as his own, teaching him to hunt, fight, respect life. Balor showed remarkable physical strength from an early age. The sword's presence felt familiar. Faint whispers began, words he slowly understood.
 
 ### The Trial of the Fang
-When Balor came of age, he faced the ancient rite: alone into the frozen wilderness. When a monster threatened his hunting party, he embraced the Rage  -  but what emerged was unprecedented. His horns grew, eyes ignited, claws lengthened, crimson veins spread. Yet he never lost control. Hrothgar declared: *"It is not the darkness that defines the man... but the man who masters the darkness."* He bestowed the byname: **Balor, The Tainted**.
+When Balor came of age at 18 (Year 498), he faced the ancient rite: alone into the frozen wilderness. When a monster threatened his hunting party, he embraced the Rage  -  but what emerged was unprecedented. His horns grew, eyes ignited, claws lengthened, crimson veins spread. Yet he never lost control. Hrothgar declared: *"It is not the darkness that defines the man... but the man who masters the darkness."* He bestowed the byname: **Balor, The Tainted**.
 
 ### The Awakening
-A monstrous fiend struck the village, hunting with intelligent purpose  -  **sent by the Crimson Covenant** to retrieve Balor and the blade. Hrothgar fell defending the lodge. Overwhelmed, Balor rushed for the greatsword. The moment he held it  -  **the world disappeared.**
+A monstrous fiend struck the village in Year 499, hunting with intelligent purpose  -  **sent by the Crimson Covenant** to retrieve Balor and the blade. Hrothgar fell defending the lodge. Overwhelmed, Balor rushed for the greatsword. The moment he held it  -  **the world disappeared.**
 
 ### The Vision  -  Avatar of the Living Prison
 Balor stood in an ashen field under a red sky before a colossal balor. The creature spoke: *"At last... You do not wield me... You carry me."* Then Balor woke  -  surrounded by the mangled bodies of the fiend and the ravaged village.
@@ -111,7 +111,7 @@ Searching the ruins, Balor found a worn leather satchel containing:
 > *"Balor  -  I have watched you grow from a child into a man stronger than I could ever be. The blade you carry is not your punishment. It is your responsibility. The answers you seek are not in this pouch  -  they are in the world beyond the Frostmaw, in the places I could not follow. Do not hate your mother. She loved you more than her own life  -  and she gave both to give you a chance. Trust the lessons I taught you more than the answers you seek.  -  Hrothgar"*
 
 ### The Exile
-Realizing the Covenant would keep hunting him and endangering the clan, Balor swore at Hrothgar's grave to find the truth. He slung the blade across his back and disappeared into the wilderness.
+Realizing the Covenant would keep hunting him and endangering the clan, Balor swore at Hrothgar's grave to find the truth in Year 499. He slung the blade across his back and disappeared into the wilderness.
 
 ---
 

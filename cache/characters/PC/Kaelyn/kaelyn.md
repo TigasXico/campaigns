@@ -42,7 +42,7 @@ secrets:
   - text: "Seraphine the tiefling nanny taught the twins to question Lolth's faith because she carried hidden knowledge  -  she knew the Drow were not created by Lolth, but were the result of Crimson Covenant experiments. She may have passed on fragments of this truth before her death."
     access: gm-only
 created: 2026-08-10
-updated: 2026-08-10
+updated: 2026-08-14
 ---
 
 ## Overview
@@ -118,7 +118,7 @@ Three days at the gate crying for help. No one opened it. Eventually walked away
 Spotted by Drow scouts while hunting. Fled toward mountains, fell through a fissure into a deep cave. Walls lined with **blue crystals** (arcane-reactive, condensed essence of B). At center: a **complete blue dragon skeleton**. Touched the dragon's skull. A bolt of blue electrical energy surged through her  -  heart externalized and crystallized into red pulsing crystal, left eye turned black, hair turned black. The dragon skeleton had been saturated with B's essence for centuries. Her Drow blood (from demonic tissue grafting) allowed her to survive the transfer.
 
 ### Solitude and Discovery (Ages 15-30)
-Explored her powers in isolation for 15 years  -  lightning control, arcane shaping, studying black lightning patterns, crystal heart behavior, strange pull toward ley lines. At age 30, visited a surface village  -  first contact with the outside world in 19 years.
+Explored her powers in isolation for 15 years  -  lightning control, arcane shaping, studying black lightning patterns, crystal heart behavior, strange pull toward ley lines. At age 30 (Year 380), visited a surface village  -  first contact with the outside world in 19 years.
 
 ### Capture and Imprisonment (Ages 30-50)
 Drow spies recognized her despite altered appearance. Lyndale saw an opportunity. Kaelyn was captured and imprisoned in the Underdark Caves for **20 years**. Systematic interrogation and torture: The Silence (prolonged isolation), False Freedom (staged escapes + recapture), The Mirror (illusions of Seraphine), The Twin (Solyn involved in psychological tests). Experiments: researchers discovered strong emotions cause unpredictable lightning discharges and turn crystal heart **violet** (red Drow essence + blue dragon B essence). Over two decades, Kaelyn learned to control emotions and rely on cold logic.

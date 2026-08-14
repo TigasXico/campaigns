@@ -28,6 +28,44 @@
 - [hourglass] WA timeline on WorldAnvil still uses old BCE/CE dating -- needs manual update by user to match new plain-year format
 - [hourglass] Entity `related` fields not yet updated to reference event IDs (E##) -- future task
 
+### 2026-08-14 - PC Backstory Timeline Integration (E77-E87) (committed 8d3ba54)
+
+**File manifest:**
+- `cache/events/kythorian_timeline.md` -- 70 insertions, 5 deletions
+
+**Changes:**
+- Corrected E56 (Year 445->458), E57 (Year 459->479), E58 (Year 460->480) -- Balor born Year 480 (age 20), mother born Year 458 (age 22 at Balor's birth)
+- Added 11 new events (E77-E87) in "The Rise of Mortals" section:
+  - E77-E80: Kaelyn's timeline (born Year 350, Trial at 361, Awakening at 365, Escape at 400) -- Kaelyn confirmed age 150
+  - E81-E82: Odessa's timeline (born Year 422, cabin attack at Year 435)
+  - E83-E85/E87: Zan's timeline (born Year 471, exile at 478, awakening at 482, escape at 484)
+  - E86: Seraphina Vex dies Year 483 (3 years after Balor's birth)
+- Updated intro from E01-E76 to E01-E87
+
+**Key decisions:**
+- Balor's birth corrected to Year 480 (Nyra is also Year 480 -- Balor and Nyra are the same age at campaign start)
+- All PC backstory events use [SECRET] visibility (GM-only)
+- Kaelyn is age 150 at campaign start (born Year 350)
+- No relationship/frontmatter changes to entity files -- deferred
+
+### 2026-08-14 - Balor/Kaelyn Event Resolution (E88-E92) (not yet committed)
+
+**File manifest:**
+- `cache/events/kythorian_timeline.md` -- added E88-E92 (5 events), intro updated to E01-E92
+- `cache/characters/PC/Balor/balor_skallfang.md` -- added years to backstory events (family captured Year 462, Trial of the Fang Year 498/age 18, Awakening Year 499, exile Year 499); updated field bumped to 2026-08-14
+- `cache/characters/PC/Kaelyn/kaelyn.md` -- added Year 380 to first surface village visit (age 30); updated field bumped to 2026-08-14
+
+**Changes:**
+- E88: Kaelyn's First Surface Village Visit (Year 380, age 30)
+- E89: Seraphina Vex's Family Captured (Year 462, when Vex was 4 -- 18 years before Balor's birth)
+- E90: Trial of the Fang (Year 498, Balor age 18)
+- E91: The Awakening; Skallfang Village Destroyed (Year 499, year before campaign start)
+- E92: Balor Goes into Exile (Year 499, end of same year)
+
+**Key decisions:**
+- Aurora: the "joins Circle of the Stars" event was merged -- she became a druid of the Circle at the skylight cave moment (not a separate event)
+- Kaelyn's first surface visit added at Year 380 (implied by age 30; age 150 anchor)
+
 ---
 
 ## All Open Questions

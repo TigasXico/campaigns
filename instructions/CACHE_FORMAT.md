@@ -133,4 +133,6 @@ Each relationship entry should:
 - Relationship types: `allies`, `enemies`, `parent`, `child`, `location`, `member_of`, `owns`, `created_by`, `contains`, `knows_about`, `connected_to`
 - Add inverse relationships automatically
 
+**Special case - the master timeline (`kythorian_timeline.md`):** Relationships are ONE-WAY. Entities link TO the timeline via their `related:` field, but the timeline itself does NOT link back to entities (its `related:` field stays empty). This prevents the timeline frontmatter from bloating as entity links grow. Do not add inverse entries to the timeline's `related:` field.
+
 **Note:** The full relationships map is a **Tier 3** resource (~31KB). Load it only when performing a relationship audit. For normal tasks, state relationships in entity frontmatter's `related` field instead.

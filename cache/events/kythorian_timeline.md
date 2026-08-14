@@ -5,34 +5,13 @@ name: "The Kythorian Timeline"
 status: draft
 tags:
   - timeline, history, chronology
-related:
-  - the_originals: Traces events from the Originals to present
-  - the_great_sacrifice: Includes the Great Sacrifice
-  - the_gods_and_the_deception: Tracks the divine conspiracy timeline
-  - the_abominable_end: Includes the Abominable End
-  - founding_of_the_last_stand: Includes the founding of the Last Stand
-  - the_sealing_of_kharzul: Includes the sealing of Khar'zul
-  - monsters_and_ecology: Chronicles the monster invasion and aftermath
-  - the_crimson_covenant: Tracks the Covenant's history
-  - balor_skallfang: Captures backstory events
-  - society: Current society emerged from these events
-  - economy: Economy shaped by historical events
-  - the_world_and_geography: Maps events to eras of Kythoria
-  - the_first_alliance: Records the Alliance's war and continuing leadership
-  - the_adventurers_guild: Records the guild's ancient origins
-  - culture_and_society: Calendar and festivals derived from this timeline
-  - the_arcane_reactive_crystals: Crystals connected to B's essence
-  - races_and_ancestries: Drow, Shadow Elves, Tieflings origins tracked here
-  - shadow_elves: Shadow Elf origin timeline
-  - nyra: Records Nyra's birth, backstory events, and present quest
-  - khelvin: Records Khel'vin's birth, Cold Breath mastery, and divine agent attack
 created: 2026-08-09
 updated: 2026-08-14
 ---
 
 > All dates are plain years. Year 0 = start of the Mortal Kingdoms era.
 > Year 500 = Present (campaign start). Negative numbers = before Year 0.
-> Event IDs (E01-E87) are stable references. Entities may link to specific
+> Event IDs (E01-E92) are stable references. Entities may link to specific
 > events via these IDs in their `related` field (e.g. "timeline E38: Sealing of Khar'Zul").
 
 ## Visibility Legend
@@ -523,6 +502,35 @@ updated: 2026-08-14
 - **Visibility**: [SECRET]
 - **Category**: Escape
 - **Description**: At age 13, during a Catalyst Project experiment, Zan teleports out of his restraints, kills a guard and a scientist, and flees. Cornered on the top floor, he jumps from a 100-ft window. A B Crystal shard from the experiments serves as a teleportation anchor. He survives and escapes into the city.
+## E88 - Kaelyn's First Surface Village Visit
+- **Year**: 380
+- **Visibility**: [SECRET]
+- **Category**: Discovery
+- **Description**: At age 30, Kaelyn visits a surface village for the first time -- her first contact with the outside world in 19 years of isolation since the Azure Boneyard awakening.
+
+## E89 - Seraphina Vex's Family Captured
+- **Year**: 462
+- **Visibility**: [SECRET]
+- **Category**: Covenant
+- **Description**: Seraphina Vex's family (parents, brother, aunt, uncle, cousins) is captured by the Crimson Covenant when she is 4 years old and taken to a hidden research outpost in the northeastern mountains. They are subjected to Project Genesis experiments. One by one her family dies. Only Seraphina survives.
+
+## E90 - Trial of the Fang
+- **Year**: 498
+- **Visibility**: [SECRET]
+- **Category**: Trial
+- **Description**: At age 18, Balor faces the Skallfang Clan's ancient rite of passage alone in the frozen wilderness. When a monster threatens his hunting party, he embraces the Rage -- his horns grow, eyes ignite, claws lengthen, crimson veins spread. He never loses control. Hrothgar bestows the byname: Balor, The Tainted.
+
+## E91 - The Awakening; Skallfang Village Destroyed
+- **Year**: 499
+- **Visibility**: [SECRET]
+- **Category**: Battle
+- **Description**: A Nalfeshnee fiend, sent by the Crimson Covenant, strikes the Skallfang village. Hrothgar dies defending the lodge. Balor grabs Khar'zul's blade and enters the Avatar of the Living Prison state for the first time. The fiend and much of the village are destroyed. Balor collapses unconscious amid the aftermath.
+
+## E92 - Balor Goes into Exile
+- **Year**: 499
+- **Visibility**: [SECRET]
+- **Category**: Exile
+- **Description**: Realizing the Crimson Covenant will keep hunting him and endangering the Skallfang Clan, Balor swears at Hrothgar's grave to find the truth. He slings Khar'zul's blade across his back and disappears into the wilderness.
 
 ---
 

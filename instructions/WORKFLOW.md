@@ -71,7 +71,7 @@ When asked for expansion, present **3-5 distinct options** covering these types:
 - **Run `scripts\sync-index.ps1`** to automatically sync `cache/_index.md` with actual files on disk (handles new entities, removals, duplicates, and status/date changes).
 - Use `scripts\get-entity-relationships.ps1` to query entity relationships (flags: -Stats, -Validate, -Orphaned, -MissingDescriptions, -Entity, -Target, -Network, -All, -GraphData, -Search).
 - `scripts\generate-category-graph.ps1` can generate category-level mermaid graphs using data from `get-entity-relationships.ps1 -GraphData`.
-- **Timeline Management**: Any entity with a defined timeframe MUST be added to `cache/events/kythorian_timeline.md`. Insert chronologically with ### heading format including Timeframe, Description, and entity references. Update the timeline's `updated` and `related` frontmatter fields.
+- **Timeline Management**: Any entity with a defined timeframe MUST be added to `cache/events/kythorian_timeline.md`. Insert chronologically with ### heading format including Timeframe, Description, and entity references. Update the timeline's `updated` frontmatter field. **Note:** Relationships are one-way -- entities link TO the timeline, but the timeline does NOT link back to entities (its `related` field is intentionally empty to avoid bloat as the lore grows).
 
 ### Step 4  -  Article Generation
 - Generate **WA-ready BBCode articles** (see `ARTICLE_FORMAT.md`).
@@ -93,7 +93,7 @@ When asked for expansion, present **3-5 distinct options** covering these types:
 - Master timeline: `cache/events/kythorian_timeline.md`
 - Any future event with a defined timeframe MUST be added to this file
 - When creating a time-bound entity, open the timeline and insert chronologically with ### heading format including: Timeframe, Description, entity references
-- Update the file's `updated` and `related` frontmatter fields accordingly
+- Update the file's `updated` frontmatter field (do NOT add to `related` -- relationships are one-way: entities link TO the timeline, not vice versa)
 
 ### R1  -  Context Budget Tiers
 Before starting, determine which tier of files you need and load ONLY those:
