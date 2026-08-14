@@ -112,7 +112,7 @@ Pale blue-grey skin. Hair drifts as if stirred by an unfelt breeze. Eyes the col
 |-------|------|-----|
 | Khel'vin born | ~210 YA | -- |
 | Khel'vin learns Cold Breath | ~100 YA | -- |
-| Khel'vin attacked by divine agent | ~20 YA | -- |
+| Khel'vin attacked by divine agent | ~14 YA | -- |
 | Nyra born | ~20 YA | 0 |
 | Parents disappear | ~14 YA | 6 |
 | Finds Khel'vin; essence resonance | ~14 YA | 6 |

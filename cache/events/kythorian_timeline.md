@@ -412,7 +412,7 @@ updated: 2026-08-14
 - **Description**: Khel'vin fully masters Cold Breath, a freezing exhalation learned from his white dragon father. This ability would later prove critical in the battle against the Air Elemental in the Cavern of Discovery.
 
 ## E68 - Khel'vin Attacked by Divine Agent
-- **Year**: 480
+- **Year**: 486
 - **Visibility**: [SECRET]
 - **Category**: Divine Scheme
 - **Description**: Khel'vin discovers fragments of the truth about the gods' conspiracy -- that the monster invasion was orchestrated. A divine agent triggers a massive rockslide to silence him. Khel'vin survives but is permanently crippled (impaired flight, one eye lost).

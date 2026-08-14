@@ -39,7 +39,7 @@ Enormous blue-scaled dragon with white dragon lineage visible in pale underbelly
 
 Born ~210 YA to a blue dragon mother and white dragon father. Learned storms and wind from his mother. From his father: **Cold Breath** (freezing exhalation), mastered ~100 YA.
 
-**Divine Attack (~20 YA)**: Khel'vin discovered fragments of truth about the gods' conspiracy -- that the monster invasion was orchestrated. A divine agent triggered a rockslide to silence him. He was pinned for days until 6-year-old Nyra found him.
+**Divine Attack (~14 YA)**: Khel'vin discovered fragments of truth about the gods' conspiracy -- that the monster invasion was orchestrated. A divine agent triggered a rockslide to silence him. He was pinned for days until 6-year-old Nyra found him.
 
 **Essence Resonance**: Nyra's latent air genasi essence resonated with Khel'vin's blue dragon nature (storms and wind). He absorbed enough power to lift the rocks.
 
