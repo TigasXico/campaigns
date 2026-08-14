@@ -1,7 +1,7 @@
 # Session Continuity -- Lore Development
 
 > Stores cross-session context needed to resume work after compaction.
-> Created: 2026-08-08 | Updated: 2026-08-13
+> Created: 2026-08-08 | Updated: 2026-08-14
 
 ---
 
@@ -68,11 +68,19 @@
 12. Will he return to his family's theatres? Under what circumstances?
 13. Does he seek reconciliation or confrontation with his family?
 
-#### Nyra (4) -- Partially defined, needs player input
-1. What is in the mystery box? A key? An artifact? A letter? A map?
-2. Where is the blue dragon now? Still alive? Hidden? Accessible?
-3. Who were Nyra's parents? Adventurers? Researchers? Fugitives?
-4. Does Nyra know the dragon's secrets? Was she told about the gods' conspiracy?
+#### Nyra (12) -- Backstory processed, remaining open questions
+1. [hourglass] **Who were Nyra's parents?** Genasi rangers who researched elemental convergence. Still unnamed.
+2. [hourglass] **Where is Khel'vin now?** Parted ways after Cavern of Discovery. Location unknown.
+3. [hourglass] **Who is the caretaker?** Beautiful woman with bright eyes, long black hair, 50s. Identity unknown.
+4. [hourglass] **Khel'vin's white dragon father** -- alive, dead, or hidden?
+5. [hourglass] **Remaining three elementals** -- where are Fire, Water, Earth located?
+6. [ok] **What were Nyra's parents researching?** Elemental Convergence Theory (resolved 2026-08-14)
+7. [ok] **Why would the Crimson Covenant capture them?** Their research intersected the Covenant's resurrection ritual work (resolved 2026-08-14)
+8. [ok] **What is inside the smaller locked box? How does it unlock?** Elemental Resonance Lockbox; unlocks when all 4 soul crystals are brought into proximity (resolved 2026-08-14)
+9. [ok] **Why are the four elements' essences required?** They form a Primal Resonance Key (resolved 2026-08-14)
+10. [hourglass] **Who placed the staff in the Cavern of Discovery?** It bears druidic carvings. Deliberate placement?
+11. [hourglass] **Does Nyra ever learn the truth about Khel'vin's injury?** (Divine agent vs. rockslide)
+12. [hourglass] **Which city?** City location to be pinned during map creation
 
 #### Sanzo (4) -- Entirely empty, waiting on player (Guilherme/Gui)
 1. Where was Sanzo trained? Which monastery? Does it still exist?

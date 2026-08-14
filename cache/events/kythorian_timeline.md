@@ -29,8 +29,10 @@ related:
   - kaelyn: Captures Kaelyn's exile, awakening, imprisonment, and century of wandering
   - culture_and_society: Calendar and festivals derived from this timeline
   - economy: Trade routes like the Dust Circle originated in this era
+  - nyra: Records Nyra's birth, parents' disappearance, elemental battle, and present quest
+  - khelvin: Records Khel'vin's birth, Cold Breath mastery, and divine agent attack
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-14
 ---
 
 > All dates relative. "Present" = campaign start.
@@ -124,6 +126,9 @@ Never formally dissolved. The Alliance adapted from wartime coalition to permane
 ### After Sealing  -  The Blade's First Vault
 Skallfang Clan returned to the Frostmaw with the sealed blade. First century: hidden in the **Whispering Glacier**  -  a vault carved into ancient ice, where extreme cold suppressed the blade's influence. Keeper: Chieftain Bjorn Skallfang.
 
+### ~210 YA  -  Khel'vin Born (Half-Blue, Half-White Dragon)
+Khel'vin born to a blue dragon mother and white dragon father in the mountains of Kythoria. His mother is the same blue dragon whose skeleton would later rest in the Azure Boneyard. His father's status is unknown.
+
 ### ~150 YA  -  The Blade Moved to Fanghold
 As the blade began to transform (steel showing first organic veins), the clan moved it from the glacier to **Fanghold's Vault**  -  a sealed chamber within the mountain fortress, where it could be monitored constantly.
 
@@ -144,26 +149,14 @@ Explored her newfound powers in isolation for 15 years. At age 30, visited a sur
 ### ~120 YA to ~100 YA  -  Kaelyn Captured and Imprisoned (Ages 30-50)
 Drow spies recognized her despite altered appearance. Captured by her mother Lyndale Velkyn and imprisoned for 20 years. Systematic interrogation, torture, and experiments.
 
+### ~100 YA  -  Khel'vin Masters Cold Breath
+Khel'vin fully masters Cold Breath, a freezing exhalation learned from his white dragon father. This ability would later prove critical in the battle against the Air Elemental in the Cavern of Discovery.
+
 ### ~100 YA  -  Kaelyn's Escape (Age 50)
 During an experiment, containment failed. Kaelyn released a massive electrical discharge, killed researchers, escaped. Pushed her mother Lyndale into a fire. Her sister Solyn sacrificed herself (survived unknown to Kaelyn) to push Kaelyn out of collapsing caves. Kaelyn fled believing both dead.
 
 ### ~100 YA to Present  -  Kaelyn's Century of Wandering (Ages 50-150+)
 For 100 years, Kaelyn wandered Kythoria as a bounty hunter. Developed a charismatic, hedonistic persona to hide her trauma and crystal heart. Never stayed in one place too long.
-
-### ~50 YA  -  The Eye First Appeared
-The blade's single yellow eye opened for the first time. **Skalda Frost-Beard**, the Keeper at the time, documented this as the moment the blade ceased to be a weapon and became Khar'zul's living prison-chrysalis.
-
-### After Sealing  -  Reconquering Begins
-South/east recovered easily. North/west contested. ~1/3 continent still monster-held. First Alliance leads the effort.
-
-### 200 Years Following Sealing  -  Skallfang Clan's Burden
-Guarded the blade. Over centuries, blade transformed: steel -> living flesh, eye opened within. Khar'zul evolving.
-
-### After Reconquering  -  Ecumenical Council Formed
-Seven recognized churches. Three banned (Lolth, Raven Queen, Vorn) operate outside.
-
-### After Reconquering  -  Manufactured Divine Conflict Instituted
-Gods created pantheon conflict. Lolth, Raven Queen, Vorn scapegoated for invasion. Their churches banned.
 
 ### ~91 YA  -  Valen Healoris Defects to Monster Army
 Elven general Valen Healoris and his entire unit defect to the monster army voluntarily, for power and survival. Elven leadership suppresses knowledge of the defection. **Eryx Merikh** deserts with proof of the betrayal - and with evidence that elven leadership surrendered captives to the Crimson Covenant's experiments.
@@ -180,6 +173,21 @@ Valen Healoris, having tracked Eryx to his remote cabin, leads a strike team per
 ### ~78 YA to ~13 YA  -  Odessa Trains with the Venom-Weavers
 Odessa spends 65 years training in stealth, knife combat, and poison brewing, rising through the ranks of the Venom-Weavers. Her sole purpose: kill Valen Healoris.
 
+### ~50 YA  -  The Eye First Appeared
+The blade's single yellow eye opened for the first time. **Skalda Frost-Beard**, the Keeper at the time, documented this as the moment the blade ceased to be a weapon and became Khar'zul's living prison-chrysalis.
+
+### After Sealing  -  Reconquering Begins
+South/east recovered easily. North/west contested. ~1/3 continent still monster-held. First Alliance leads the effort.
+
+### 200 Years Following Sealing  -  Skallfang Clan's Burden
+Guarded the blade. Over centuries, blade transformed: steel -> living flesh, eye opened within. Khar'zul evolving.
+
+### After Reconquering  -  Ecumenical Council Formed
+Seven recognized churches. Three banned (Lolth, Raven Queen, Vorn) operate outside.
+
+### After Reconquering  -  Manufactured Divine Conflict Instituted
+Gods created pantheon conflict. Lolth, Raven Queen, Vorn scapegoated for invasion. Their churches banned.
+
 ### During Rise of Mortals  -  B's Lingering Will Discovered
 Gods discovered hoarding instinct subverting monsters from genocide. Issued New Directive: destroy hoarding nests, large magic/currency accumulations, Covenant operatives.
 
@@ -191,32 +199,6 @@ Arcanists studying seal sites uncovering truth. Gods dispatching paladins/cleric
 
 ### Ongoing  -  Blackmail Standoff
 Covenant holds blackmail: if gods move against them, they reveal divine conspiracy to monster army.
-
-### ~20 YA  -  Project Genesis Culmination (Balor's Birth)
-Perfect subject found (young tiefling woman). Balor Skallfang born.
-
-### ~20 YA  -  Balor's Mother Betrays the Covenant
-**Seraphina Vex** - former Covenant Apostle - fled with newborn Balor and Khar'zul's blade into the northern wilderness. She had planned the escape for months, killed three Inquisitors, and vanished with the Covenant's most prized possessions.
-
-### ~20 YA  -  Seraphina Leaves Balor with Skallfang Clan
-After three weeks of flight, exhausted and hunted, Seraphina left the infant Balor beside a trail known to Hrothgar Skallfang, with the blade and her Apostle medallion. She disappeared into the wilderness to draw the Covenant's hunters away.
-
-### ~17 YA  -  Seraphina Hunted and Killed
-A Covenant Apostle hunting party cornered Seraphina in the Frostmaw mountains. She wounded two and stepped into a glacial crevasse, ensuring her body would never be recovered. The Covenant never found the blade, the child, or her body.
-
-### ~20 YA  -  Hrothgar Finds Balor
-Hrothgar Skallfang found infant beside blade. Raised him as a monster hunter.
-
-### ~20 YA to Present  -  Balor's Childhood & Training
-Grew up in northernmost Skallfang homeland. Learned to hunt monsters, resist blade's whispers, perform Rite of Ash.
-
-### Present Day  -  Village Attack
-Covenant-controlled fiend attacked. Balor grabbed blade. World went dark. Village destroyed. Eye in blade fully open.
-
-### Present Day  -  Balor's Situation
-Carries blade constantly. Whispers louder. Covenant seeks him. Khar'zul evolves within.
-
-### Present Day  -  Rise of the Mortals Continues
 
 ### ~29 YA  -  Vaelis Zandorian (Zan) Born
 Born to Ashura Zando and Athena Orion in the Shadar-kai shadow-city of the Shadowfell. Born into the middle-upper class Zandorion family.
@@ -233,17 +215,68 @@ To protect Zan from assassins and political enemies in the Shadowfell, Ashura an
 ### ~22 YA to ~18 YA  -  Zan on the Streets (Ages 7-11)
 Zan drifts alone on the streets of the Material Plane, stealing to survive. He is found by J.B., a human crime lord who trains him in theft, assassination, and survival. J.B. cuts off the tips of Zan's ears to force a disguise, and renames him "Zan," killing the name Vaelis Zandorian.
 
+### ~20 YA  -  Khel'vin Attacked by Divine Agent
+Khel'vin discovers fragments of the truth about the gods' conspiracy -- that the monster invasion was orchestrated. Before he can investigate further, a divine agent triggers a massive rockslide to silence him. Khel'vin survives but is permanently crippled (impaired flight, one eye lost). He retreats to isolation in the mountains.
+
+### ~20 YA  -  Nyra Born
+Nyra born to two genasi ranger parents in the mountain region near an unnamed city. Her parents are elemental researchers investigating elemental convergence theory.
+
+### ~20 YA  -  Project Genesis Culmination (Balor's Birth)
+Perfect subject found (young tiefling woman). Balor Skallfang born.
+
+### ~20 YA  -  Balor's Mother Betrays the Covenant
+**Seraphina Vex** - former Covenant Apostle - fled with newborn Balor and Khar'zul's blade into the northern wilderness. She had planned the escape for months, killed three Inquisitors, and vanished with the Covenant's most prized possessions.
+
+### ~20 YA  -  Seraphina Leaves Balor with Skallfang Clan
+After three weeks of flight, exhausted and hunted, Seraphina left the infant Balor beside a trail known to Hrothgar Skallfang, with the blade and her Apostle medallion. She disappeared into the wilderness to draw the Covenant's hunters away.
+
+### ~20 YA  -  Hrothgar Finds Balor
+Hrothgar Skallfang found infant beside blade. Raised him as a monster hunter.
+
 ### ~18 YA  -  The Awakening (Age 11)
 During a botched mission, Zan jumps from a 30-foot cliff. In desperation, he prays to the Raven Queen. She answers -- his innate Shadar-kai teleportation awakens, saving his life. J.B. witnesses this and sells Zan to the Flesh Architects (Crimson Covenant research division).
 
 ### ~18 YA to ~16 YA  -  Subject 242 (Ages 11-13)
 Zan is held by the Flesh Architects as Subject 242. He meets Sophie (Subject 241), and they form a deep bond. The Catalyst Project begins: B Crystals are used to modify his teleportation. The stones permanently alter his abilities and make him B-touched.
 
+### ~17 YA  -  Seraphina Hunted and Killed
+A Covenant Apostle hunting party cornered Seraphina in the Frostmaw mountains. She wounded two and stepped into a glacial crevasse, ensuring her body would never be recovered. The Covenant never found the blade, the child, or her body.
+
 ### ~16 YA  -  Zan's Escape (Age 13)
 During a Catalyst Project session, Zan teleports out of his restraints, kills the attending scientist and a guard, and flees. Cornered, he jumps from a 100-foot window and uses a dislodged B Crystal shard as a teleportation anchor. He survives and escapes. Sophie remains behind.
 
 ### ~16 YA to Present  -  The Rest (Ages 13-29)
 Zan works as an assassin and bounty hunter, gathering power, resources, and information. His goal: destroy the Flesh Architects, hunt down J.B., and rescue Sophie.
+
+### ~14 YA  -  Nyra's Parents Disappear
+Nyra's genasi ranger parents vanish without a trace. Their elemental convergence research, encrypted in manuscripts and riddles, is left with Ghavel for safekeeping. The Crimson Covenant is suspected of involvement. Nyra (age 6) wakes to find them gone.
+
+### ~14 YA  -  Nyra Finds Khel'vin; Essence Resonance
+Lost 6-year-old Nyra finds Khel'vin, wounded and pinned under tons of rock (caused by the divine agent's attack ~6 years earlier). Their air essences resonate -- Khel'vin absorbs Nyra's essence to gain strength, lifts the rocks. He agrees to help find her parents. They search for one year with no success.
+
+### ~13 YA  -  Nyra Gives Up Search; Raised by Khel'vin
+Age 7. Nyra stops searching for her parents. Khel'vin becomes her guardian and teacher. He trains her in hunting, tracking, and wilderness survival. Nyra begins selling hunted goods in the city to support them.
+
+### ~20 YA to Present  -  Balor's Childhood & Training
+Grew up in northernmost Skallfang homeland. Learned to hunt monsters, resist blade's whispers, perform Rite of Ash.
+
+### Present Day  -  Village Attack
+Covenant-controlled fiend attacked. Balor grabbed blade. World went dark. Village destroyed. Eye in blade fully open.
+
+### Present Day  -  Balor's Situation
+Carries blade constantly. Whispers louder. Covenant seeks him. Khar'zul evolves within.
+
+### ~2 YA  -  Nyra Receives Mystery Box from Ghavel
+On her 18th birthday, Nyra receives her parents' mystery box from Ghavel at Moonlight Alley. Contents: encrypted manuscripts, riddles, photographs with traces erased, a smaller locked box. Nyra learns her parents had a city house she never knew about.
+
+### ~1 YA  -  Nyra Deciphers Encrypted Journal
+Nyra spends a week in her parents' city house deciphering the encrypted journal. Discovers reference to four elementals (Air, Fire, Water, Earth) whose soul fragments must be collected.
+
+### ~0 YA  -  Nyra Defeats Air Elemental; Essence Awakens
+In the Cavern of Discovery, Nyra (age 20) battles the Air Elemental with Khel'vin. Her air genasi essence awakens mid-battle. Khel'vin uses Cold Breath. Nyra collects the Air Elemental Soul Crystal. Khel'vin and Nyra part ways.
+
+### Present Day  -  Nyra Seeks Adventurers
+Nyra, now 20, seeks adventurers to help collect the remaining three elemental soul crystals (Fire, Water, Earth) and find her parents -- who she believes are captured, not dead.
 
 ### Present Day  -  Rise of the Mortals Continues
 

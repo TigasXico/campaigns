@@ -1,71 +1,158 @@
-﻿---
+---
 id: nyra
 type: character
 name: "Nyra"
 status: draft
 tags:
-  - pc, player_character, air_genasi, ranger, blue_dragon, mystery_box, missing_parents, skywatch, dragons
+  - pc, player_character, air_genasi, ranger, khelvin, mystery_box, missing_parents, elemental_essence, cavern_of_discovery, ghavel
 related:
-  - races_and_ancestries: Genasi  -  claimed by Vesper, god of peace and twilight
-  - vesper: God of peace and twilight, claims to have created genasi
-  - skywatch: Air genasi are particularly favored in Skywatch  -  the scouting capital
+  - khelvin: Half-blue, half-white dragon companion; bonded through air essence resonance
+  - the_azure_boneyard: Khel'vin's blue dragon mother; connected to Kaelyn
+  - kaelyn: Shared connection -- Kaelyn touched Khel'vin's mother's skeleton
+  - cavern_of_discovery: Location of Nyra's battle against the air elemental
+  - air_elemental_soul_crystal: First of four elemental essence crystals
+  - ghavel: Old woman entrusted with Nyra's parents' mystery box
+  - vesper: Falsely claims to have created genasi
   - primal_nature_magic: Rangers draw absorbed arcane energy from nature
-  - monsters_and_ecology: Blue dragons are native apex predators, pinnacle of arcane evolution
-  - the_world_and_geography: The mystery box may connect to Kythoria's hidden history
+  - monsters_and_ecology: Blue dragons and elementals as native magical beings
+  - the_crimson_covenant: Likely responsible for Nyra's parents' disappearance
+  - the_divine_conspiracy: Khel'vin wounded by a divine agent
+  - skywatch: Air genasi favored city; Nyra's trading hub
+  - races_and_ancestries: Genasi origins
+  - kythorian_timeline: Nyra's life events integrated into master timeline
 secrets:
-  - text: "The blue dragon that raised Nyra was wounded during the monster invasion  -  not by monsters, but by a divine agent sent to silence a dragon that had discovered too much about the gods' conspiracy. The dragon knows fragments of the truth about the invasion's origin."
+  - text: "Khel'vin was not crushed by a random rockslide. A divine agent caused it, sent to silence him after he discovered dangerous truths about the gods' conspiracy. Khel'vin has never told Nyra the true cause. The agent's identity remains unknown."
     access: gm-only
-  - text: "The mystery box Nyra's parents left behind contains an object that resonates with B's essence  -  a key piece of a puzzle larger than anyone realizes. It is not dangerous itself, but what it points toward could upend the divine order."
+  - text: "Khel'vin's mother was the blue dragon whose skeleton lies in the Azure Boneyard -- the same dragon Kaelyn touched during her awakening ~135 YA. Khel'vin does not know his mother's fate."
+    access: gm-only
+  - text: "Khel'vin's father was a white dragon of unknown status. This mixed heritage grants Khel'vin Cold Breath."
+    access: gm-only
+  - text: "Nyra's parents were researching elemental convergence -- the theory that the Material Plane was built upon the four elemental planes as a foundation."
+    access: gm-only
+  - text: "The smaller locked box is an Elemental Resonance Lockbox. It can only be opened when all four elemental soul crystals are brought into proximity. Inside: a final message from Nyra's parents, the location of a hidden research cache, and a map to where they are being held."
+    access: gm-only
+  - text: "The four elemental soul crystals combine to form a Primal Resonance Key -- a metaphysical skeleton key attuned to the Material Plane's fundamental building blocks, capable of unlocking magically sealed or extra-dimensional locations."
     access: gm-only
 created: 2026-08-10
-updated: 2026-08-10
+updated: 2026-08-14
 ---
 
 ## Overview
 
-**Nyra** is an air genasi ranger raised by a wounded blue dragon after her parents disappeared, leaving behind only a mysterious box. She walks the frontier with the instincts of a predator and the soul of the wind, searching for answers about her origins.
+Air genasi ranger raised by a half-blue, half-white dragon (Khel'vin) after her genasi parents vanished. On her 18th birthday, an old woman (Ghavel) delivered a mystery box with encrypted research pointing to four elemental soul crystals as keys to the truth. Nyra collected her first crystal (Air) and awakened her air genasi powers. She seeks adventurers to help complete the quest. Her parents may be captured, not dead.
 
 ---
 
 ## Appearance
 
-An air genasi with pale blue-grey skin and hair that drifts as though stirred by an unfelt breeze. Her eyes are the colour of a clear sky, and small arcs of static crackle at her fingertips when she is emotional. She wears practical frontier gear  -  leathers, furs, and a longbow she handles with deadly precision.
+Pale blue-grey skin. Hair drifts as if stirred by an unfelt breeze. Eyes the colour of a clear sky; small static arcs at her fingertips when emotional. Practical frontier gear -- leathers, furs, longbow. Carries a quarterstaff topped with a pale blue crystal (Air Elemental Soul Crystal).
 
 ---
 
 ## Background
 
-Nyra's parents disappeared when she was young. Before they vanished, they left behind a **mystery box**  -  a locked container whose contents and purpose remain unknown. She was found and raised by a **wounded blue dragon**  -  a creature that should have been a threat but became her guardian and teacher.
+**Age 0-5**: Born to two genasi ranger parents. They visited the city frequently (2-3 days/week). Stayed with a beautiful black-haired caretaker (50s, well-preserved).
 
-The blue dragon who raised her was wounded during the monster invasion  -  wounded not by invading monsters but by a divine agent sent to silence a dragon that had discovered dangerous truths about the gods' conspiracy. The dragon survived and retreated to isolation, where it found Nyra and took her in.
+**Age 6**: Parents vanished. Found Khel'vin trapped under tons of rock. Their air essences resonated -- Khel'vin absorbed part of Nyra's essence, gained strength, lifted the rocks. He agreed to help find her parents. Searched for 1 year. No trace found.
 
-Raised in the wilds, Nyra learned to hunt, track, and survive. Her connection to the air (as a genasi) and to the natural world (as a ranger) makes her a formidable frontier scout. She is attuned to the winds, the weather, and the subtle shifts of the land.
+> GM: Rockslide caused by divine agent silencing Khel'vin for discovering truths about the gods' conspiracy.
 
-Genasi are claimed by Vesper, the god of peace and twilight. As an air genasi, Nyra has a natural affinity with Skywatch  -  the highest of the three capitals, favored by air genasi and scouts.
+**Age 7-18**: Raised by Khel'vin. Learned to hunt, sell goods in city. Khel'vin (~190 yrs, half-blue/half-white dragon, impaired flight) mocked her constantly but was fiercely loyal.
+
+**Age 18**: Received mystery box from Ghavel at Moonlight Alley. Contents: encrypted manuscripts, riddles, photographs (parents shown but traces erased), smaller locked box. Parents had a city house Nyra never knew about.
+
+**Age 18-19**: Deciphered encrypted journal. Learned of 4 elementals (Air, Fire, Water, Earth) whose soul fragments must be collected.
+
+**Age 19-20**: Found the Air Elemental in the **Cavern of Discovery**. Nearly died. Khel'vin saved her with Cold Breath (learned 100 YA from white dragon lineage). The elemental's essence resonated with Nyra's dormant air genasi nature -- powers awakened mid-battle. Collected Air Elemental Soul Crystal. Found a long staff in the cavern -- now her quarterstaff.
+
+**Present**: Khel'vin and Nyra parted ways (he declared them "even"). Ghavel revealed both parents were genasi (no elemental alignment) and rangers. Nyra seeks adventurers to collect the remaining three crystals and find her parents.
 
 ---
 
 ## Abilities
 
-- **Ranger Skills**: Tracking, archery, survival, beast empathy
-- **Air Genasi Traits**: Unending breath, resistance to lightning, connection to elemental air
-- **Draconic Upbringing**: Knowledge of dragons, their behaviour, and their connection to Kythoria's arcane ecosystem
-- **Mystery Box**: The locked box left by her parents  -  contents unknown, purpose hidden
+| Ability | Detail |
+|---------|--------|
+| Ranger Skills | Tracking, archery, hunting, survival, beast empathy |
+| Air Genasi Traits | Unending breath, lightning resistance, elemental air connection |
+| Air Essence Awakening | Newly awakened air control; manifested during elemental battle |
+| Essence Resonance | Unique air-essence bond with Khel'vin; proximity amplifies affinities |
+
+---
+
+## Equipment
+
+| Item | Detail |
+|------|--------|
+| Longbow | Primary weapon; deadly precision |
+| Quarterstaff of the Cavern of Discovery | Walking stick + quarterstaff; topped with Air Elemental Soul Crystal |
+| Air Elemental Soul Crystal | Pale blue crystal; solid manifestation of destroyed air elemental essence |
+
+---
+
+## Companions
+
+**Khel'vin**: Half-blue, half-white dragon (~190 yrs). Mother = blue dragon in Azure Boneyard (connected to Kaelyn). Father = white dragon (status unknown). Unique: Cold Breath. Impaired flight. Parted ways. Location unknown.
+
+**Ghavel**: Elderly woman with gray hair, wrinkled skin, bright eyes. Entrusted with Nyra's parents' mystery box. Source of information about Nyra's parents' research.
+
+**Caretaker (unnamed)**: Beautiful woman with bright eyes, long black hair, 50s. Cared for Nyra when parents were in city. Identity unknown.
 
 ---
 
 ## Goals
 
-1. Discover what happened to her parents
-2. Unlock the mystery box and understand its significance
-3. Protect the wounded blue dragon who raised her
-4. Understand the truths the dragon discovered about the invasion
+1. Collect remaining three elemental soul crystals (Fire, Water, Earth)
+2. Unlock the smaller locked box
+3. Find her parents -- believed captured, not dead
+4. Understand what her parents discovered and who took them
+5. Uncover the truth behind Khel'vin's injury
+
+---
+
+## Timeline
+
+| Event | Date | Age |
+|-------|------|-----|
+| Khel'vin born | ~210 YA | -- |
+| Khel'vin learns Cold Breath | ~100 YA | -- |
+| Khel'vin attacked by divine agent | ~20 YA | -- |
+| Nyra born | ~20 YA | 0 |
+| Parents disappear | ~14 YA | 6 |
+| Finds Khel'vin; essence resonance | ~14 YA | 6 |
+| Gives up search; raised by Khel'vin | ~13 YA | 7 |
+| Receives mystery box from Ghavel | ~2 YA | 18 |
+| Deciphers journal; learns of elementals | ~1 YA | 19 |
+| Defeats Air Elemental; essence awakens | ~0 YA | 20 |
+| Khel'vin parts ways | ~0 YA | 20 |
+| Seeks adventurers | Present | 20 |
+
+---
+
+## DM Decisions (Canon -- 2026-08-14)
+
+### 1. What were Nyra's parents researching? -- Elemental Convergence Theory
+
+Nyra's parents researched **Elemental Convergence Theory**: the hypothesis that the Material Plane was built upon the four elemental planes (Air, Fire, Water, Earth) as a foundational layer by the Originals. Their research uncovered that elemental essence fragments, when combined, create a **Primal Resonance Key** -- capable of unlocking magically sealed locations, piercing divine wards, or accessing hidden layers of reality. This connects directly to the Originals and the gods' conspiracy.
+
+### 2. Why did the Crimson Covenant capture them?
+
+The parents' elemental research intersected with the Covenant's work on B's resurrection ritual. The Covenant believed their knowledge of elemental essence manipulation could interfere with or counteract the ritual. They were captured alive for interrogation. Their research was seized -- but Ghavel saved a copy (the mystery box). (GM flexibility: the Covenant may be revealed as a front for a deeper power if the campaign demands a different captor.)
+
+### 3. What is inside the locked box? How does it unlock?
+
+The smaller box is an **Elemental Resonance Lockbox**. It can only be opened when all four elemental soul crystals are brought into proximity -- their combined resonance creates a unique elemental frequency that unlocks it. Inside is a final message from Nyra's parents revealing: what they discovered and who they were running from; the location of a hidden research cache; a map to where they are being held; and a warning about the true nature of their captors.
+
+### 4. Why are the four elemental essences required?
+
+The four soul crystals combined form a **Primal Resonance Key** -- a metaphysical skeleton key attuned to the fundamental building blocks of the Material Plane. It can: open magically sealed locations or pocket dimensions; pierce concealment wards hiding secret places; reveal hidden knowledge encoded in the fabric of reality; and -- most importantly -- locate and access wherever Nyra's parents are being held (a warded or extra-dimensional location).
 
 ---
 
 ## Open Questions
 
-1. [hourglass] **What is in the mystery box?** A key? An artifact? A letter? A map?
-2. [hourglass] **Where is the blue dragon now?** Still alive? Hidden? Accessible?
-3. [hourglass] **Who were Nyra's parents?** Adventurers? Researchers? Fugitives?
-4. [hourglass] **Does Nyra know the dragon's secrets?** Was she told about the gods' conspiracy?
+1. [hourglass] **Who were Nyra's parents?** Genasi rangers. Still unnamed.
+2. [hourglass] **Where is Khel'vin now?** Parted ways. Nearby? In hiding? Seeking answers?
+3. [hourglass] **Who is the caretaker?** Beautiful woman with bright eyes, long black hair, 50s.
+4. [hourglass] **Khel'vin's white dragon father** -- alive, dead, or hidden?
+5. [hourglass] **Remaining three elementals** -- where are Fire, Water, Earth located?

@@ -5,13 +5,15 @@
 | adventuring_classes                  | lore           | Adventuring Classes of Kythoria          | draft  | 2026-08-09 |
 | aegon                                | character      | Aegon, The Rogue Paragon                 | draft  | 2026-08-10 |
 | aetris                               | location       | Aetris                                   | draft  | 2026-08-09 |
+| air_elemental_soul_crystal           | item           | Air Elemental Soul Crystal               | draft  | 2026-08-14 |
 | aloria                               | character      | Aloria                                   | draft  | 2026-08-09 |
 | ashura_zando                         | character      | Ashura Zando                             | draft  | 2026-08-13 |
 | athena_orion                         | character      | Athena Orion                             | draft  | 2026-08-13 |
 | aurelius                             | character      | Aurelius                                 | draft  | 2026-08-10 |
 | aurora_asteria                       | character      | Aurora Asteria                           | draft  | 2026-08-10 |
 | balor_skallfang                      | character      | Balor Skallfang (The Tainted)            | draft  | 2026-08-09 |
-| bardolemeu_romeo                     | character      | Bardolemeu Romeo                         | draft  | 2026-08-10 |
+| bardolemeu_romeo                     | character      | Bardolemeu Romeo                         | draft  | 2026-08-14 |
+| cavern_of_discovery                  | location       | The Cavern of Discovery                  | draft  | 2026-08-14 |
 | class_training_and_culture           | lore           | Class Training & Culture                 | draft  | 2026-08-11 |
 | cosmology_and_the_planes             | lore           | Cosmology & The Planes                   | draft  | 2026-08-08 |
 | crassian                             | character      | Crassian                                 | draft  | 2026-08-09 |
@@ -21,19 +23,21 @@
 | emberforge                           | location       | Emberforge                               | draft  | 2026-08-09 |
 | eryx_merikh                          | character      | Eryx Merikh                              | draft  | 2026-08-11 |
 | founding_of_the_last_stand           | event          | Founding of the Last Stand               | draft  | 2026-08-09 |
+| ghavel                               | character      | Ghavel                                   | draft  | 2026-08-14 |
 | jb_the_collector                     | character      | J.B. (The Collector)                     | draft  | 2026-08-13 |
 | kaelthor                             | character      | Kaelthor                                 | draft  | 2026-08-09 |
 | kaelyn                               | character      | Kaelyn                                   | draft  | 2026-08-10 |
 | kharzuls_blade                       | item           | Khar'zul's Blade (The Living Prison)     | draft  | 2026-08-09 |
+| khelvin                              | character      | Khel'vin                                 | draft  | 2026-08-14 |
 | kythoria                             | location       | Kythoria                                 | draft  | 2026-08-09 |
-| kythorian_timeline                   | event          | The Kythorian Timeline                   | draft  | 2026-08-11 |
+| kythorian_timeline                   | event          | The Kythorian Timeline                   | draft  | 2026-08-14 |
 | lolth_the_spider_queen               | character      | Lolth (The Spider Queen)                 | draft  | 2026-08-09 |
 | lyndale_velkyn                       | character      | Lyndale Velkyn                           | draft  | 2026-08-10 |
 | magic_and_classes_design             | campaign_note  | Magic & Classes Design Decisions         | active | 2026-08-09 |
 | monster_economy                      | lore           | Monster Economy & Ecology                | draft  | 2026-08-09 |
 | monsters_and_ecology                 | lore           | Monsters & Ecology of Kythoria           | draft  | 2026-08-09 |
 | monsters_and_invasion_design         | campaign_note  | Monsters & Invasion Design Decisions     | active | 2026-08-09 |
-| nyra                                 | character      | Nyra                                     | draft  | 2026-08-10 |
+| nyra                                 | character      | Nyra                                     | draft  | 2026-08-14 |
 | odessa_merikh                        | character      | Odessa Merikh                            | draft  | 2026-08-11 |
 | paul                                 | character      | Paul                                     | draft  | 2026-08-10 |
 | primal_nature_magic                  | lore           | Primal & Nature Magic                    | draft  | 2026-08-08 |
