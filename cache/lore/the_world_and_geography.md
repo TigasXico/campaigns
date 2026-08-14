@@ -64,14 +64,7 @@ The history of mortal civilization on Kythoria is divided into three broad eras,
 ### Era of Foundation (before 400 years ago)
 *The ancient past, prior to historical record.*
 
-This era encompasses the time from the arrival of the mortal races on the Material Plane up until the monster invasion. During this era, **six Mortal Kingdoms** thrived -- each founded by a common mortal race in its ancestral region:
-
-- **Kingdom of Drakhaven** (Humans) -- capital Drakhaven, self-styled "capital of Kythoria," largest and most advanced city
-- **Kingdom of Elyndor** (Elves) -- capital Elyndor, ancient forest capital of arcane knowledge
-- **Kingdom of Kazadur** (Dwarves) -- capital Kazadur, mountain-forge capital in the northeast; its mines produced all currency metals and gemstones
-- **Kingdom of Hearthglen** (Halflings) -- capital Hearthglen, pastoral agricultural heartland and home of the royal mint; halflings were the continent's perfect accountants
-- **Kingdom of Everquill** (Gnomes) -- capital Everquill, scholarly capital of law, records, and maps; the paper capital of the mortal kingdoms
-- **Kingdom of Stonefist** (Half-Orcs) -- capital Stonefist, rugged fortress of proud warriors
+This era encompasses the time from the arrival of the mortal races on the Material Plane up until the monster invasion. During this era, **six Mortal Kingdoms** thrived -- one for each common mortal race: the Kingdoms of Drakhaven (Humans), Elyndor (Elves), Kazadur (Dwarves), Hearthglen (Halflings), Everquill (Gnomes), and Stonefist (Half-Orcs). See each kingdom's location file for details.
 
 Uncommon races (Genasi, Dragonborn, Tieflings) had no kingdom of their own; they grouped together in large villages. Much has been lost to time. The six kingdoms, their cultures and wonders, all lie buried beneath four centuries of war and ruin. Few records survive. What is known is pieced together from fragments of ancient texts, ruins, and oral traditions passed down through the generations. This era is left intentionally open to allow for future development and player backstory integration.
 
