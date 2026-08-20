@@ -54,3 +54,28 @@ Before creating, modifying, or generating any lore file, run all four audits:
 - **A4 - Creative Variants**: Present 3-5 distinct options (Grounded, Twist, Question-Answering, Ambiguous, Tone Match)
 - Present audit results to user BEFORE making changes. Never generate lore autonomously.
 
+## WorldAnvil MCP Skill Auto-Load
+
+The WorldAnvil MCP extension is installed and available via the Worldanvilmcp namespace.
+For the full function reference, load the WA skill:
+```
+load_skill(name: "worldanvil-mcp")
+```
+This is a WA Lore Keeper project - ALWAYS load this skill at the start of any session that will interact with WorldAnvil articles, entities, or lore.
+
+### WorldAnvil MCP Quick Reference
+World: "Aetris" (id: a07186fa-ce6a-40d0-b9fb-2377f33c9cd3)
+Subscriber Groups: Kaelyn, Zan (per-character secrets via [subscribergroup:group_name])
+
+**Key funcs** (call as Worldanvilmcp.functionName({...})):
+- worldanvilListWorlds / worldanvilGetWorld -- world info
+- worldanvilListArticles / worldanvilGetArticle -- articles (use template param)
+- worldanvilCreateArticle / worldanvilUpdateArticle -- auto MD-to-BBCode
+- worldanvilListCategories / worldanvilGetCategory
+- worldanvilListMaps / worldanvilListMarkers
+- worldanvilListTimelines / worldanvilCreateTimeline / worldanvilListHistories
+- worldanvilListSecrets / worldanvilCreateSecret
+- worldanvilListVariablecollections / worldanvilCreateVariable
+- worldanvilGetIdentity -- current user
+
+**BBCode**: markdown auto-converted. Article links: [article:id]text[/article]

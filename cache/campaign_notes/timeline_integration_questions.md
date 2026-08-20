@@ -8,11 +8,12 @@ tags:
 related:
   - kythorian_timeline: These questions exist to populate the master timeline
   - zan_vaelis_zandorian: Zan's timeline questions resolved -- full backstory integrated
+  - nyra: Nyra's timeline questions resolved -- full backstory integrated
   - kaelyn: Questions for timeline integration partially resolved
   - odessa_merikh: Timeline events mostly defined, remaining questions below
   - balor_skallfang: Timeline events mostly defined, remaining questions below
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-14
 ---
 
 ## Overview
@@ -86,23 +87,23 @@ This document compiles questions for each PC whose backstory events need to be p
 
 ---
 
-> Air genasi ranger raised by a wounded blue dragon after her parents disappeared, leaving behind only a mystery box. Unknown age (estimate 20-40).
+> Air genasi ranger raised by a wounded blue dragon after her parents disappeared, leaving behind only a mystery box. Age 20 at campaign start. Full backstory integrated. See `nyra.md` and `characters/PC/Nyra/` for complete details.
 
-### Timeline Questions
+### Timeline Questions -- All [ok] Resolved
 
-1. **Current Age:** How old is Nyra at campaign start? 20
-2. **Birth Year:** When was she born? 480
-3. **Parents' Disappearance:** How old was Nyra when her parents disappeared? What are her earliest memories? 6
-4. **Finding by the Dragon:** At what age did the blue dragon find and raise her? 6
-5. **The Mystery Box:** Has she ever tried to open it? Does she know anything about its contents? Yes, tried to open, couldn't, knows that she needs all 4 essences of elementals to open
-6. **The Blue Dragon:** Where is the wounded blue dragon now? Still alive? Hidden? Accessible? Alive, stayed at his camp site, debt repaied to Nyra, remains inthe same spot that he raised Nyra
-7. **Leaving the Dragon:** At what age did Nyra leave the dragon's tutelage to seek answers? 20
-8. **Current Situation:** Just left Kelvin's company a few months ago, and has roamed Kythoria ever since
+1. [ok] **Current Age:** 20 at campaign start.
+2. [ok] **Birth Year:** Year 480.
+3. [ok] **Parents' Disappearance:** Age 6 (Year 486). Earliest memories: waking up to find them gone.
+4. [ok] **Finding by the Dragon:** Age 6 (Year 486). Found Khel'vin wounded and pinned under rocks. Air essences resonated.
+5. [ok] **The Mystery Box:** Yes, tried to open it. Cannot. Needs all 4 elemental essences (Air, Fire, Water, Earth) to unlock.
+6. [ok] **The Blue Dragon (Khel'vin):** Alive. Remains at his camp site. Debt repaid. Location: the same spot where he raised Nyra.
+7. [ok] **Leaving the Dragon:** Age 20 (Year 500) to seek answers about her parents and the elemental essences.
+8. [ok] **Current Situation:** Just left Khel'vin's company a few months ago, has roamed Kythoria since.
 
-### GM Notes
-- The blue dragon was wounded by a divine agent sent to silence it (the dragon knew too much)
-- The mystery box contains an object resonating with B's essence
-- Air genasi are claimed by Vesper - this may connect to the divine conspiracy
+### Resolved GM Notes
+- [ok] The blue dragon was wounded by a divine agent sent to silence it (the dragon knew too much) -- timeline event E68
+- [ok] The mystery box contains an object resonating with B's essence -- reflected in E73/E74
+- [ok] Air genasi are claimed by Vesper -- this may connect to the divine conspiracy
 
 ---
 
