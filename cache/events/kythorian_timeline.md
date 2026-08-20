@@ -6,7 +6,7 @@ status: draft
 tags:
   - timeline, history, chronology
 created: 2026-08-09
-updated: 2026-08-14
+updated: 2026-08-20
 ---
 
 > All dates are plain years. Year 0 = start of the Mortal Kingdoms era.
@@ -538,11 +538,41 @@ updated: 2026-08-14
 - **Category**: Present
 - **Description**: The campaign begins. All events at Year 500 define the world state at the start of play.
 
-## E60 - Thromvuld Family Discovers B-Crystals
-- **Year**: 500
+## E60 - Thormvuld Family Discovers Magical Crystals
+- **Year**: 493
 - **Visibility**: [SECRET]
 - **Category**: Discovery
-- **Description**: The Thormvuld family discovers the B-Crystals and uses them to build the floating island. (Hidden from players.)
+- **Description**: House Thormvuld discovers magical crystals of unknown origin in a cavern beneath Seidga'ard. The crystals have a never-before-seen arcane signature -- primal, ancient, familiar. They use them to build the floating island.
+
+## E93 - The Heist on Seidga'ard  --  Intel Gathering Party
+- **Year**: 500
+- **Visibility**: [PUBLIC]
+- **Category**: Heist
+- **Description**: The first sub-party (Zan, Aurora, Bardolemeu) infiltrated House Thormvuld's floating estate Seidga'ard disguised as catering staff. They gathered intel on defenses, the Aegis Grid, and discovered the existence of an underground research facility conducting experiments with unidentified magical crystals.
+
+## E94 - The Heist on Seidga'ard  --  Extraction Party
+- **Year**: 500
+- **Visibility**: [PUBLIC]
+- **Category**: Heist
+- **Description**: The second sub-party (Odessa, Zan, Kaelyn, Balor), posing as diplomats of the recently formed Dark Alliance between the Drow and Shadow Elves, infiltrated Seidga'ard during its grand gala. They reached the underground research facility and the ancient Core Cave, extracting crystal samples, prototype Tuning Cylinders, and levitation engine schematics. An optional vault heist recovered additional assets.
+
+## E95 - FX Arranges Payment
+- **Year**: 500
+- **Visibility**: [SECRET]
+- **Category**: Heist
+- **Description**: FX receives all stolen intel, samples, cylinders, and schematics from the party. He arranges to sell stolen art and ancient relics from the heist, paying the extraction party later from those proceeds. He reveals the mission was commissioned by a rival merchant guild from another continent.
+
+## E96 - Thormvuld Family Hunts the Party
+- **Year**: 500
+- **Visibility**: [SECRET]
+- **Category**: Pursuit
+- **Description**: The Thormvuld family mobilizes resources to recover the stolen blueprints and B-crystal samples. They understand that if the levitation technology spreads, their competitive advantage in magical manufacturing and future logistics collapses. The party is now actively hunted.
+
+## E97 - Crimson Covenant Takes Interest
+- **Year**: 500
+- **Visibility**: [SECRET]
+- **Category**: Pursuit
+- **Description**: Word of B-crystals being stolen in the heist reaches the Crimson Covenant. They have been studying B-crystals for nearly 200 years (since E42, 302 YA). The Covenant sees the theft as both a threat (Crystals loose in the wild) and an opportunity (trace the Crystals to find more B-touched subjects, or learn who else seeks B's essence). They begin mobilizing agents to track the party.
 
 ## E61 - Crystals' Existence Becomes Public
 - **Year**: 500
@@ -560,7 +590,7 @@ updated: 2026-08-14
 - **Year**: 500
 - **Visibility**: [PUBLIC]
 - **Category**: Military
-- **Description**: Two-thirds of the continent has now been reconquered. Hardest contest is on the North and North-West. The Center Capital, South, and West zones have been reconquered. Economy is functional again, food growth stable, political situation balanced. Strong cooperation between races. Population numbers back to around 60% of pre-invasion values.
+- **Description**: Three-quarters of the continent has now been reconquered. Hardest contest is on the North and North-West. The Center Capital, South, and West zones have been reconquered. Economy is functional again, food growth stable, political situation balanced. Strong cooperation between races. Population numbers back to around 60% of pre-invasion values.
 
 ## E64 - Crimson Covenant Plans Continue
 - **Year**: 500

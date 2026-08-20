@@ -30,6 +30,7 @@
 | eryx_merikh                          | character      | Eryx Merikh                              | draft  | 2026-08-11 |
 | everquill                            | location       | Everquill                                | draft  | 2026-08-14 |
 | founding_of_the_last_stand           | event          | Founding of the Last Stand               | draft  | 2026-08-09 |
+| fx                                   | character      | FX                                       | draft  | 2026-08-18 |
 | genasi                               | species        | Genasi                                   | draft  | 2026-08-14 |
 | ghavel                               | character      | Ghavel                                   | draft  | 2026-08-14 |
 | gnomes                               | species        | Gnomes                                   | draft  | 2026-08-14 |
@@ -39,6 +40,7 @@
 | hearthglen                           | location       | Hearthglen                               | draft  | 2026-08-14 |
 | humans                               | species        | Humans                                   | draft  | 2026-08-14 |
 | jb_the_collector                     | character      | J.B. (The Collector)                     | draft  | 2026-08-13 |
+| kael_valgurd                         | character      | Ka'el (Kar'va'el Valgurd)                | draft  | 2026-08-16 |
 | kaelthor                             | character      | Kaelthor                                 | draft  | 2026-08-09 |
 | kaelyn                               | character      | Kaelyn                                   | draft  | 2026-08-14 |
 | kazadur                              | location       | Kazadur                                  | draft  | 2026-08-14 |
@@ -47,6 +49,7 @@
 | kythoria                             | location       | Kythoria                                 | draft  | 2026-08-09 |
 | kythorian_timeline                   | event          | The Kythorian Timeline                   | draft  | 2026-08-14 |
 | lolth_the_spider_queen               | character      | Lolth (The Spider Queen)                 | draft  | 2026-08-09 |
+| lord_keylor_thormvuld                | character      | Lord Keylor Thormvuld                    | draft  | 2026-08-16 |
 | lyndale_velkyn                       | character      | Lyndale Velkyn                           | draft  | 2026-08-10 |
 | magic_and_classes_design             | campaign_note  | Magic & Classes Design Decisions         | active | 2026-08-09 |
 | monster_economy                      | lore           | Monster Economy & Ecology                | draft  | 2026-08-09 |
@@ -63,11 +66,13 @@
 | sanzo                                | character      | Sanzo                                    | draft  | 2026-08-10 |
 | satriya_merikh                       | character      | Satriya Merikh                           | draft  | 2026-08-11 |
 | shadow_elves                         | species        | Shadow Elves (Shadar-kai)                | draft  | 2026-08-13 |
+| site_gamma-7                         | location       | Site Gamma-7                             | draft  | 2026-08-18 |
 | skywatch                             | location       | Skywatch                                 | draft  | 2026-08-09 |
 | society                              | lore           | Society of Kythoria                      | draft  | 2026-08-09 |
 | society_and_culture_design           | campaign_note  | Society & Culture Design Decisions       | active | 2026-08-09 |
 | solyn_velkyn                         | character      | Solyn Velkyn                             | draft  | 2026-08-10 |
 | sophie_subject_241                   | character      | Sophie (Subject 241)                     | draft  | 2026-08-13 |
+| stonefall                            | location       | Stonefall                                | draft  | 2026-08-18 |
 | stonefist                            | location       | Stonefist                                | draft  | 2026-08-14 |
 | thalkis                              | character      | Thalkis                                  | draft  | 2026-08-09 |
 | the_abominable_end                   | event          | The Abominable End                       | draft  | 2026-08-09 |
@@ -80,6 +85,7 @@
 | the_council_accord                   | organization   | The Council Accord (The Three Kings)     | draft  | 2026-08-09 |
 | the_coven_of_the_spider              | organization   | The Coven of the Spider                  | draft  | 2026-08-09 |
 | the_crimson_covenant                 | organization   | The Crimson Covenant                     | draft  | 2026-08-09 |
+| the_dark_alliance                    | organization   | The Dark Alliance                        | draft  | 2026-08-16 |
 | the_divine_conspiracy                | lore           | The Divine Conspiracy                    | draft  | 2026-08-09 |
 | the_eastern_port                     | location       | The Eastern Port                         | draft  | 2026-08-09 |
 | the_ecumenical_council               | organization   | The Ecumenical Council                   | draft  | 2026-08-09 |
@@ -105,14 +111,14 @@
 | the_sealing_of_kharzul               | event          | The Sealing of Khar'zul                  | draft  | 2026-08-09 |
 | the_skallfang_clan                   | organization   | The Skallfang Clan                       | draft  | 2026-08-09 |
 | the_southeastern_port                | location       | The Southeastern Port                    | draft  | 2026-08-09 |
-| the_thormvuld_family                 | organization   | The Thormvuld Family                     | draft  | 2026-08-09 |
+| the_thormvuld_family                 | organization   | House Thormvuld                          | active | 2026-08-16 |
 | the_underdark_forest                 | location       | The Underdark                            | draft  | 2026-08-10 |
 | the_venom_weavers                    | organization   | The Venom-Weavers                        | draft  | 2026-08-11 |
 | the_verdant_reaches                  | location       | The Verdant Reaches                      | draft  | 2026-08-10 |
 | the_vigil_of_the_dusk                | organization   | The Vigil of the Dusk                    | draft  | 2026-08-09 |
 | the_world_and_geography              | lore           | The World & Geography  -  Aetris and ... | draft  | 2026-08-08 |
 | tieflings                            | species        | Tieflings                                | draft  | 2026-08-14 |
-| timeline_integration_questions       | campaign_note  | PC Timeline Integration Questions        | draft  | 2026-08-11 |
+| timeline_integration_questions       | campaign_note  | PC Timeline Integration Questions        | draft  | 2026-08-14 |
 | tyra                                 | character      | Tyra                                     | draft  | 2026-08-11 |
 | valen_healoris                       | character      | Valen Healoris                           | draft  | 2026-08-11 |
 | vesper                               | character      | Vesper                                   | draft  | 2026-08-09 |
