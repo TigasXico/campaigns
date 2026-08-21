@@ -1,265 +1,358 @@
-﻿# Article Format  -  WorldAnvil BBCode
+# Article Format -- WorldAnvil BBCode
 
-Defines the BBCode format for articles generated to be posted on WorldAnvil (WA). All output articles are saved under `articles/output/` as `.bbcode` files.
-
----
-
-## WA Article Structure  -  Mirroring the Local Cache
-
-The article structure on WorldAnvil should mirror the local cache structure for consistency and easy navigation.
-
-### WA Category Hierarchy
-
-```
-World: [Campaign/World Name]
-|-- Characters               (WA Category)
-|   |-- [Individual Character Articles]
-|-- Locations                (WA Category)
-|   |-- [Individual Location Articles]
-|-- Organizations            (WA Category)
-|   |-- [Individual Organization Articles]
-|-- Events                   (WA Category)
-|   |-- [Individual Event Articles]
-|-- Items                    (WA Category)
-|   |-- [Individual Item Articles]
-|-- Lore & Concepts          (WA Category)
-|   |-- [Individual Lore Articles]
-|-- Session Logs             (WA Category)  -  optional
-|   |-- [Session Recap Articles]
-|-- Player Characters        (WA Category)  -  player-facing
-|   |-- [PC Profile Articles]
-|-- _Master Index            (WA Article, uncategorized or pinned)
-    -> Lists every article with a brief description (mirrors `cache/_index.md`)
-```
-
-### Category-Entity Mapping
-
-| Cache Folder | WA Category | Article Naming Convention |
-|---|---|---|
-| `characters/` | Characters | `[entity_id]` -> WA slug: `entity_id` |
-| `locations/` | Locations | `[entity_id]` -> WA slug: `entity_id` |
-| `organizations/` | Organizations | `[entity_id]` -> WA slug: `entity_id` |
-| `events/` | Events | `[entity_id]` -> WA slug: `entity_id` |
-| `items/` | Items | `[entity_id]` -> WA slug: `entity_id` |
-| `lore/` | Lore & Concepts | `[entity_id]` -> WA slug: `entity_id` |
-
-### The _Master Index Article
-
-A single "master index" article on WA that mirrors `cache/_index.md`. Should be formatted as:
-
-```
-[h1]World Index  -  All Articles[/h1]
-
-This index mirrors the lore cache and lists every article in this world.
-
-[h2]Characters[/h2]
-[list]
-[*] [article:high_king_theron]High King Theron[/article]  -  Ruler of the Ironveil Dynasty
-[*] ...
-[/list]
-
-[h2]Locations[/h2]
-[list]
-[*] [article:city_of_embermoor]City of Embermoor[/article]  -  Capital of the Northern Realms
-[*] ...
-[/list]
-... (repeated for each entity type)
-```
-
-### Per-Article Structure
-
-Each individual article on WA follows the section structure defined in `instructions/ENTITY_TYPES.md` (Recommended Section Headings by Entity Type). The cache entity file's body sections map 1:1 to the article's BBCode sections.
-
-Defines the BBCode format for articles generated to be posted on WorldAnvil (WA). All output articles are saved under `articles/output/` as `.bbcode` files.
+Defines the BBCode format for articles created on WorldAnvil (WA). All articles are pushed to WA via the MCP API. Local copies are saved under `articles/output/` as `.bbcode` files for reference.
 
 ---
 
-## Subscriber Groups (Access Control)
+## Cache-to-Article Mapping
 
-WA uses subscriber groups to gate content. Define groups upfront per world. The following groups MUST exist on the WA world settings:
+**Cache-to-article mapping is NOT 1-to-1.** A single cache entity file does not automatically become a single WA article. Before generating any WA content, determine the appropriate mapping:
 
-### Core Groups
+| Mapping Strategy | When to Use |
+|-----------------|-------------|
+| **One cache entity = one WA article** | Default case. Entity has focused, coherent content suitable for a single article. |
+| **One cache entity = multiple WA articles** | Entity has extensive or distinct sub-topics (e.g., a continent file with geography, history, and culture sections that each deserve their own article). |
+| **Multiple cache entities = one WA article** | Several small entities cover closely related topics better presented together (e.g., minor NPCs in a faction article, or a collection of related items). |
+| **Content added to an existing WA article** | New information belongs with an already-published topic rather than warranting its own article. |
+| **No WA article needed** | Some cache entities serve only as internal reference (e.g., campaign notes, session planning files) and don't need publication. |
 
-| Group ID | Name | Purpose |
-|----------|------|---------|
-| `all-party` | All Party Members | Shared party knowledge  -  anything the whole party knows but the public doesn't |
-| `gm-only` | Game Master Only | Meta-plot, encounter details, lore the DM crafts behind the scenes |
-
-### Per-Player Groups
-
-Create one subscriber group per player character:
-
-| Group ID | Name | Purpose |
-|----------|------|---------|
-| `player-character-1` | Player: [Character Name] | Secrets specific to that character's backstory, visions, patron info |
-| `player-character-2` | Player: [Character Name] | (same) |
-
-### Custom Groups (created as needed)
-
-Examples:
-| Group ID | Name | Purpose |
-|----------|------|---------|
-| `faction-silver-circle` | The Silver Circle | Members of a secret faction |
-| `deity-followers-morak` | Followers of Morak | Those who serve the god of secrets |
+The mapping strategy must be presented to and approved by the user before content is generated.
 
 ---
 
-## BBCode Syntax Reference
+There is **no enforced article template**. Each article's structure depends on its entity type and content. The `instructions/ENTITY_TYPES.md` file provides **recommended section headings** per entity type, but these are guidelines, not rules.
 
-### Headings
+---
+
+## Article Templates on WorldAnvil
+
+WA offers many templates. Each has its own prompts and fields. We use the **template type** parameter when creating articles via the MCP.
+
+### Template Selection Guide
+
+Use the correct WA template based on what the article is about.
+
+| Template | WA Slug | Use For | Example |
+|----------|---------|---------|---------|
+| **Generic Article** | `article` | Default when no other template fits. No prompts. | Events, campaign notes, meta-lore |
+| **Character** | `character` | NPCs, PCs, deities, any individual with agency | FX, Kaelthor, Balor |
+| **Location, Geographic** | `geography` | Continents, regions, natural features, planes of existence | Kythoria, The Frostmaw, The Underdark |
+| **Location, Settlement** | `settlement` | Cities, towns, villages of any size | Skywatch, Emberforge, Stonefall |
+| **Location, Building** | `building` | Specific buildings, structures, landmarks | The High Septon, Site Gamma-7 |
+| **Organization** | `organization` | Countries, religions, guilds, clans, factions, companies | First Alliance, Crimson Covenant, Skallfang Clan |
+| **Item** | `item` | Artifacts, weapons, tools, food, clothing, magical items | Khar'zul's Blade, Medallion of Vex |
+| **Species** | `species` | Plants, animals, races, intelligent species | Dragonborn, Drow, Elves |
+| **Natural Law** | `law` | Magic systems, rules of physics, how the world works | Arcane Weave, Reactive Crystals |
+| **Myth / Legend** | `myth` | Myths, prophecies, urban legends, creation stories | The Divine Conspiracy, The Originals |
+| **Document** | `document` | Books, scrolls, written documents with hidden text | In-world texts |
+| **Tradition / Ritual** | `tradition` | Festivals, ceremonies, cultural practices, social constructs | (campaign-specific) |
+| **Profession** | `profession` | Unique jobs in your world | Adventuring Classes |
+| **Condition** | `condition` | Diseases, mutations, transformations, RPG conditions | (campaign-specific) |
+| **Material** | `material` | Unique materials | Arcane-Reactive Crystals |
+| **Technology** | `technology` | How a technology works in general terms | (campaign-specific) |
+| **Ethnicity** | `ethnicity` | Cultures, sub-cultures, people sharing common ancestry | (campaign-specific) |
+| **Spell** | `spell` | Specific spells, rituals, magical manifestations | (campaign-specific) |
+| **Military Unit** | `military-formation` | Special types of military formation | (campaign-specific) |
+| **Title** | `title` | Specific ranks or titles | (campaign-specific) |
+| **Vehicle** | `vehicle` | Moving structures with transportation as primary goal | (campaign-specific) |
+| **Language** | `language` | Conlangs, naming languages | (campaign-specific) |
+| **Plot** | `plot` | RPG session planning, novel outlining | (campaign-specific) |
+| **Session Report** | `report` | Campaign session recaps and planning | Session logs |
+| **Prose** | `prose` | Short stories, scenes, narrative writing | (campaign-specific) |
+
+### Important: Use `article` Template for Reliability
+
+**CRITICAL DISCOVERY:** Non-`article` templates (like `item`, `character`, `organization`) wrap the `content` field in HTML processing that **strips BBCode closing tags**, particularly `[/article]`. This means:
+
 ```
-[h1]Main Title[/h1]
-[h2]Section Title[/h2]
-[h3]Subsection Title[/h3]
+[article:slug]Display Name[/article]  -->  [article:slug]Display Namearticle  (BROKEN)
 ```
 
-### Text Formatting
+The `"article"` (generic) template **preserves BBCode tags correctly**.
+
+**Recommendation:** Use `template: "article"` for all articles, even if a more specific template would fit. The trade-off:
+- **Gain:** BBCode reliability, cross-links work
+- **Lose:** Template-specific prompts and auto-generated relationship panels
+
+If you want template-specific features (family trees, diplomacy webs, etc.), those can be added manually in the content body.
+
+### Template-Specific Fields
+
+Some templates accept special fields via the `fields` parameter. These vary by template:
+
+| Template | Fields Available |
+|----------|-----------------|
+| character | `localization`, `manifestation`, `anatomy`, `traits`, `seeded`, `authornotes`, `culture` |
+| species | `anatomy`, `traits`, `seeded`, `authornotes` |
+| law | `lawtype`, `manifestation`, `seeded`, `authornotes` |
+| item | `itemtype`, `seeded`, `authornotes` |
+| organization | `organizationtype`, `seeded`, `authornotes` |
+| location | `locationtype`, `seeded`, `authornotes` |
+
+Use these fields for structured data. Content in these fields also gets Markdown-to-BBCode conversion but is NOT subject to the `[/article]` stripping issue since they are separate API fields.
+
+---
+
+## Content Format (Markdown + Embedded BBCode)
+
+Content is written in **Markdown with embedded BBCode tags**. The WA MCP auto-converts Markdown to BBCode but **preserves** embedded BBCode tags (like `[article:]`, `[subscribergroup:]`).
+
+### Markdown Elements (Auto-Converted by MCP)
+
+| Element | Write As | Converts To |
+|---------|----------|-------------|
+| Heading | `## Title` | `[h2]Title[/h2]` |
+| Bold | `**text**` | `[b]text[/b]` |
+| Italic | `*text*` | `[i]text[/i]` |
+| Strikethrough | `~~text~~` | `[s]text[/s]` |
+| Horizontal rule | `---` | `[hr]` |
+| Link | `[text](url)` | `[url=url]text[/url]` |
+
+### BBCode Elements (Write Directly)
+
+| Element | Write As | Notes |
+|---------|----------|-------|
+| Cross-article link (by slug) | `[article:SLUG]Display Name[/article]` | Use the WA article's SLUG. Works ONLY with `template: "article"`. |
+| Cross-article link (by UUID) | `@[Display Name](Article:UUID)` | Alternative format using WA article UUID. Survives all templates. |
+| Subscriber group block | `[subscribergroup:Name]content[/subscribergroup]` | Name must match a WA subscriber group exactly. |
+| GM metadata note | `[subscribergroup:GM Only]**GM Note:** text[/subscribergroup]` | For internal status/tags/notes. |
+
+### Important: Lists
+
+**Use `- item` for unordered lists, NOT `* item`.** The markdown converter processes italic (`*text*`) BEFORE lists, so `* item` becomes `[i]item[/i]` instead of `[li]item[/li]`.
+
+**Correct:**
 ```
-[b]bold[/b]
-[i]italic[/i]
-[u]underline[/u]
+- First item
+- Second item
+```
+Converts to: `[ul][li]First item[/li][li]Second item[/li][/ul]`
+
+**Incorrect:**
+```
+* First item
+* Second item
+```
+Converts to: `[i] First item[/i][i] Second item[/i]` (BROKEN)
+
+### NOT Auto-Converted Elements
+
+These BBCode elements must be written directly (no Markdown equivalent):
+- `[img]`, `[map]`, `[block]` (embeds)
+- `[aloud]`, `[spoiler]` (containers)
+- `[row]`, `[col]` (columns)
+
+---
+
+## Cross-Article Linking
+
+### Two Valid Formats
+
+Since we discovered that non-`article` templates strip `[/article]` tags, and `[article:SLUG]` requires the exact WA slug, we have two options:
+
+#### Option 1: `[article:SLUG]Name[/article]` (for `template: "article"` only)
+
+```
+[article:the-great-sacrifice-article]The Great Sacrifice[/article]
 ```
 
-### Lists
+**Requirements:**
+- The article MUST use `template: "article"` 
+- `SLUG` must be the actual WA slug (looked up from the registry after article creation)
+- If the target article doesn't exist yet, this renders as plain text
+
+#### Option 2: `@[Name](Article:UUID)` (works with all templates)
+
 ```
-[list]
-[*] First item
-[*] Second item
-[/list]
+@[The Great Sacrifice](Article:6bcf7b43-006e-40d2-a1da-16c5a787c39e)
 ```
 
-### Tables
+**Requirements:**
+- `UUID` must be the WA article's actual UUID
+- Works regardless of template type
+- WA renders this as a link even if the article is private/draft
+
+### Getting Article UUIDs and Slugs
+
+After creating an article, its UUID is returned in the API response and its slug can be determined by fetching it back:
+
 ```
-[table]
-[th]Header 1[/th][th]Header 2[/th]
-[td]Cell 1[/td][td]Cell 2[/td]
-[td]Cell 3[/td][td]Cell 4[/td]
-[/table]
+const result = await Worldanvilmcp.worldanvilCreateArticle({...});
+const articleId = result.id;  // UUID like "6bcf7b43-..."
+
+// Fetch back to get slug
+const article = await Worldanvilmcp.worldanvilGetArticle({article_id: articleId});
+const slug = article.slug;  // e.g. "the-great-sacrifice-article"
 ```
 
-### Cross-Article Links
-```
-[article:entity_id]Display Name[/article]
-```
-The `entity_id` must match the WA article slug (use the same snake_case ID from the cache).
+Record both in `cache/wa_article_registry.md`.
 
-### Secret / Restricted Content
-```
-[subscribergroup:all-party]This is shared party knowledge, hidden from the audience.[/subscribergroup]
+### Order of Creation Matters
 
-[subscribergroup:player-character-1]This is a secret only this specific player knows.[/subscribergroup]
+To have valid cross-links from day 1, create articles **bottom-up** (foundations first). Articles created in later phases can link to articles from earlier phases whose UUIDs and slugs are already known.
 
-[subscribergroup:gm-only]This is behind-the-scenes DM information that no player should see.[/subscribergroup]
-```
+### Placeholder Strategy
 
-### Multiple Groups (same content)
-Nest or separate  -  WA's BBCode supports one group per tag. For content visible to multiple groups, create separate blocks or combine into a broader group:
+When creating article content that needs to link to an entity whose WA article doesn't exist yet:
+
+1. Use the cache entity ID as a placeholder:
+   ```
+   @[First Alliance](Article:PLACEHOLDER_the_first_alliance)
+   @[Crimson Covenant](Article:PLACEHOLDER_the_crimson_covenant)
+   @[Balor Skallfang](Article:PLACEHOLDER_balor_skallfang)
+   ```
+
+2. The format is: `Article:PLACEHOLDER_<cache_entity_id>`
+
+3. After the target article is created and you have its real UUID, resolve the placeholder everywhere it appears:
+   - Scan `cache/wa_article_registry.md` for all articles that contain this placeholder
+   - For each article that contains the placeholder, fetch its current WA content
+   - Replace `Article:PLACEHOLDER_entity_id` with `Article:real-uuid` in the content
+   - Update the WA article via `worldanvilUpdateArticle({article_id, content: updatedContent})`
+   - Update the local `.bbcode` file
+   - Update the registry to mark the placeholder as resolved
+
+4. Placeholders are tracked in `cache/wa_article_registry.md` under the `## Pending Placeholders` section.
+
+### Resolving Placeholders (Step-by-Step)
+
+When a new article is created on WA, resolve all placeholders pointing to it:
+
 ```
-[subscribergroup:all-party]The party found a strange amulet in the ruins.[/subscribergroup]
-[subscribergroup:gm-only]The amulet is actually a bound celestial's prison, and it will try to possess whoever wears it.[/subscribergroup]
+1. Get new article UUID from creation response
+2. Look up "new_entity_id" in registry's Pending Placeholders table
+   -> Finds all articles that reference PLACEHOLDER_new_entity_id
+3. For each source article:
+   a. Fetch current WA content via worldanvilGetArticle({article_id})
+   b. Replace "Article:PLACEHOLDER_new_entity_id" with "Article:real-uuid"
+   c. Push update via worldanvilUpdateArticle({article_id, content})
+   d. Update local .bbcode file
+4. Mark placeholder as resolved in registry
 ```
 
 ---
 
-## Article Template
+## Access Control (Subscriber Groups)
 
-Every article MUST follow this template structure:
+### Rules
 
-```
-[h1][b]Entity Name[/b][/h1]
+| Content Type | Access Level | How |
+|-------------|--------------|-----|
+| Public lore, history, geography | Public (no tag) | Write normally |
+| Party discoveries, shared knowledge | Public (no tag) | Party knowledge is public in this setting |
+| DM-only secrets, true motives, future events | Restricted | `[subscribergroup:GM Only]...[/subscribergroup]` |
+| Per-character secrets, backstory | Restricted | `[subscribergroup:CharacterName]...[/subscribergroup]` |
+| Full article of DM-only content | Private article state | Set article to `private` during creation |
 
-[subscribergroup:gm-only]
-[b]GM Note:[/b] Brief metadata note for the DM  -  status, tags, related articles.
-[/subscribergroup]
+### Available Subscriber Groups
 
-[h2]Overview[/h2]
-General description of the entity. What is it? Where is it? Why does it matter?
+See `cache/wa_article_registry.md` for current subscriber group UUIDs.
 
-(For characters: include race, class, alignment, visible traits)
-(For locations: include region, size, population, climate)
-(For organizations: include type, alignment, membership size, headquarters)
-
-[h2]History[/h2]
-Key historical events involving this entity. In chronological order.
-
-[h2]Notable Information[/h2]
-Facts, rumors, legends known to the wider world. What would a scholar know?
-
-[subscribergroup:all-party]
-[h2]What the Party Knows[/h2]
-Information the party has discovered during the campaign but isn't public knowledge.
-[/subscribergroup]
-
-[subscribergroup:gm-only]
-[h2]DM Notes[/h2]
-Behind-the-scenes information: true motives, hidden connections, plot hooks, encounter details.
-[/subscribergroup]
-
-[subscribergroup:gm-only]
-[h2]Campaign Events / Future[/h2]
-Events, prophecies, or developments that have not yet occurred at campaign start. 
-Includes plot hooks, planned encounters, character destinies, and any lore that will 
-unfold during the campaign. Nothing in this section is known to the world at large.
-[/subscribergroup]
-
-[h2]Related Articles[/h2]
-[list]
-[*] [article:related_entity_id]Related Entity Name[/article]  -  Brief description of connection
-[*] [article:another_entity_id]Another Entity[/article]  -  Brief description
-[/list]
-```
+**Existing groups:** Aegon, Aurora, Balor, Bardolemeu, Kaelyn, Nyra, Odessa, Sanzo, Zan, GM Only
 
 ---
 
-## Article Generation Rules
+## Article Creation via WA MCP
 
-When generating articles for new entities:
+### Creating a New Article
 
-1. **Use the template above** as the base structure.
-2. **Fill every section** with content derived from the cache entity file.
-3. **Use `[subscribergroup]` blocks** wherever content is NOT public knowledge.
-4. **Cross-link** all mentioned entities using `[article:id]name[/article]`.
-5. **Secrets from the cache** go under `## DM Notes` (gm-only), `## What the Party Knows` (all-party), or per-character sections as appropriate.
-6. **File name**: `<entity_id>.bbcode` in `articles/output/`.
+```
+Worldanvilmcp.worldanvilCreateArticle({
+  title: "Article Title",
+  world_id: "a07186fa-ce6a-40d0-b9fb-2377f33c9cd3",
+  template: "article",   // Use "article" for BBCode reliability
+  content: "## Markdown content with @[Name](Article:uuid) links",
+  category_id: "category-uuid"
+})
+```
 
-### Present State vs Future Events  -  CRITICAL RULE
+**After creation:**
+1. Capture the returned article UUID
+2. Fetch the article back to get its slug
+3. Save local copy → `articles/output/<entity_id>.bbcode`
+4. Update registry → `cache/wa_article_registry.md`
 
-**Articles describe the world as it exists when the campaign starts.** Lore, conditions, relationships, and knowledge must reflect the starting state  -  not what will happen later.
+### Updating an Existing Article
 
-- The main body sections (`## Overview`, `## History`, `## Notable Information`, etc.) describe only **what is true at campaign start**.
-- **Anything that hasn't happened yet**  -  prophecies, impending events, planned invasions, character destinies, future plot developments  -  MUST go in a dedicated section called:
+```
+Worldanvilmcp.worldanvilUpdateArticle({
+  article_id: "article-uuid",
+  content: "## Updated content with @[Name](Article:uuid) links"
+})
+```
 
-  ```
-  [h2]Campaign Events / Future[/h2]
-  ```
+### Cross-Link Update Pattern
 
-  This section should be gated under the appropriate subscriber group:
-  - `[subscribergroup:gm-only]` for plot hooks, planned encounters, future twists the DM hasn't revealed.
-  - `[subscribergroup:all-party]` for known prophecies, foreseen events, or upcoming plans the party is aware of at campaign start.
+When creating a new article, it may need to link to existing articles AND existing articles may need to be updated to link back to the new one:
 
-- **Examples of what goes in the Future section:**
-  - A prophecy about the destruction of a city -> `[subscribergroup:all-party]` (if the party knows the prophecy)
-  - The BBEG's planned ritual in 3 months -> `[subscribergroup:gm-only]`
-  - A character's hidden destiny to become a lich -> `[subscribergroup:gm-only]`
-  - An invasion fleet that hasn't sailed yet -> `[subscribergroup:gm-only]` or `[subscribergroup:all-party]` depending on knowledge
-
-- **The `## History` section** ends at campaign start. Do not include events that happen during or after the campaign's beginning.
-
-When updating existing articles (summaries of changes):
-
-1. Present a bullet list of **each individual change** needed.
-2. For each change, specify: **Which article**, **Which section**, **What to add/remove/modify**, **The exact BBCode to insert**.
-3. Do NOT regenerate the full article  -  only describe the changes.
+1. Create new article with `@[Existing Name](Article:existing-uuid)` links
+2. Update existing articles to add `@[New Name](Article:new-uuid)` back-links
+3. Present both operations for approval before executing
 
 ---
 
-## Secret Distribution Guidelines
+## WA Category Structure
 
-| Type of Content | Group |
-|-----------------|-------|
-| Public lore, history, geography | No restriction |
-| Party's discoveries, theories, ongoing quests | `all-party` |
-| Character's personal backstory, visions, patron | Specific `player-character-N` |
-| True motives of NPCs, future plot events, traps, monster stats | `gm-only` |
-| Faction-internal secrets not yet revealed | `gm-only` or custom faction group |
-| **Prophecies, impending events, future plot hooks (Campaign Events)** | `gm-only` (default) or `all-party` if known to party at campaign start |
+| Category | WA ID | Parent | For |
+|----------|-------|--------|-----|
+| Characters | *(see registry)* | (none) | NPCs, Deities |
+| Player Characters | *(see registry)* | Characters | PC profiles |
+| Locations | *(see registry)* | (none) | All locations |
+| Organizations | *(see registry)* | (none) | All organizations |
+| Events | *(see registry)* | (none) | Historical events |
+| Items | *(see registry)* | (none) | Artifacts, magic items |
+| Lore and Concepts | *(see registry)* | (none) | Lore, magic, society |
+| Session Logs | *(see registry)* | (none) | Campaign session recaps |
+
+---
+
+## Article Creation Order
+
+To minimize broken cross-references, create articles **bottom-up** (foundations first):
+
+1. **Lore and Concepts** -- Cosmology, magic, geography, divine conspiracy
+2. **Locations (Regions)** -- Continents, major regions
+3. **Locations (Settlements)** -- Cities, towns, dungeons
+4. **Lore and Concepts (Society)** -- Species, culture, economy, monsters
+5. **Organizations** -- All factions and guilds
+6. **Characters (Deities)** -- Pantheon
+7. **Characters (NPCs)** -- Key NPCs
+8. **Events** -- Timeline entries, history
+9. **Items** -- Artifacts, magic items
+10. **Characters (Player Characters)** -- PC profiles
+11. **Session Logs** -- Campaign recaps (ongoing)
+
+---
+
+## Content Formatting: Present State vs Future Events
+
+Articles describe the world **as it exists when the campaign starts**. Do not include campaign events in the main body.
+
+- **Main body sections** (Overview, History, Description, etc.) = what is true at campaign start
+- **`## Campaign Events / Future` section** (gated under `[subscribergroup:GM Only]`) = prophecies, impending events, planned encounters
+
+---
+
+## Article Directory Structure
+
+Local article copies are saved to `articles/output/` with flat file naming:
+
+```
+articles/output/
+  the_great_sacrifice.bbcode
+  the_sealing_of_kharzul.bbcode
+  kharzuls_blade.bbcode
+```
+
+File naming uses the **cache entity ID** (snake_case). The `.bbcode` extension indicates content meant for WA.
+
+---
+
+## Summary: Key Lessons from Test Articles
+
+| Issue | Root Cause | Fix |
+|-------|-----------|-----|
+| `[/article]` stripped | Non-`article` templates process `content` differently | Use `template: "article"` OR use `@[Name](Article:uuid)` format |
+| Links not rendering | Slugs were cache entity IDs, not WA slugs | Use actual WA slugs (looked up from registry) |
+| `* item` lists broken | Markdown converter processes italic before lists | Use `- item` instead of `* item` |
+| Lists mangled in output | Same italic-vs-list conflict | Prefer `template: "article"` which preserves BBCode better |

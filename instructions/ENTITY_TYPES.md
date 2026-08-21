@@ -42,9 +42,6 @@ id: entity_id_in_snake_case
 type: character|location|organization|event|item|lore|campaign_note
 name: "Display Name"
 status: draft|active|revised|archived
-tags:
-  - tag1
-  - tag2
 related:
   - entity_id_1: relationship_description
   - entity_id_2: relationship_description
@@ -66,7 +63,6 @@ updated: YYYY-MM-DD
 | `type` | [ok] | One of the 6 entity types above |
 | `name` | [ok] | Display name (can include spaces, diacritics) |
 | `status` | [ok] | Lifecycle status of this entity |
-| `tags` | [x] | Freeform tags for filtering & categorization |
 | `related` | [x] | Links to other entity IDs with a brief description of the relationship |
 | `secrets` | [x] | Array of secrets tied to this entity (see SECRETS section below) |
 | `created` | [ok] | Date entity was first created in cache |

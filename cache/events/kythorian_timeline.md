@@ -279,6 +279,12 @@ updated: 2026-08-20
 
 # The Rise of Mortals (Year 300 - 500)
 
+## E86 - Crystal Influence: 90%
+- **Year**: 300
+- **Visibility**: [SECRET]
+- **Category**: Crystal Influence
+- **Description**: Influence status: 90%. Most of the monster army has succumbed to the hoarding compulsion. They make nests, create basic dungeons with traps, and defend their ground against mortal forces attempting to reconquer. Unbeknown to mortals, the monsters are not fighting to keep the continent and end mortals like they were initially -- they now fight to keep their nests and their piles of treasure, under B's spreading influence.
+
 ## E40 - Crimson Covenant Created
 - **Year**: 300 to 500
 - **Visibility**: [SECRET]

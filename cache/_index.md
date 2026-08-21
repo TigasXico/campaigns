@@ -44,10 +44,10 @@
 | kaelthor                             | character      | Kaelthor                                 | draft  | 2026-08-09 |
 | kaelyn                               | character      | Kaelyn                                   | draft  | 2026-08-14 |
 | kazadur                              | location       | Kazadur                                  | draft  | 2026-08-14 |
-| kharzuls_blade                       | item           | Khar'zul's Blade (The Living Prison)     | draft  | 2026-08-09 |
+| kharzuls_blade                       | item           | Khar'zul's Blade (The Living Prison)     | draft  | 2026-08-18 |
 | khelvin                              | character      | Khel'vin                                 | draft  | 2026-08-14 |
 | kythoria                             | location       | Kythoria                                 | draft  | 2026-08-09 |
-| kythorian_timeline                   | event          | The Kythorian Timeline                   | draft  | 2026-08-14 |
+| kythorian_timeline                   | event          | The Kythorian Timeline                   | draft  | 2026-08-20 |
 | lolth_the_spider_queen               | character      | Lolth (The Spider Queen)                 | draft  | 2026-08-09 |
 | lord_keylor_thormvuld                | character      | Lord Keylor Thormvuld                    | draft  | 2026-08-16 |
 | lyndale_velkyn                       | character      | Lyndale Velkyn                           | draft  | 2026-08-10 |
