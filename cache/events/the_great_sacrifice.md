@@ -1,4 +1,4 @@
-﻿---
+---
 id: the_great_sacrifice
 type: event
 name: "The Great Sacrifice"
@@ -19,8 +19,14 @@ related:
 secrets:
   - text: "The true nature and purpose of B's sacrifice  -  to arm mortals against the gods  -  is a secret the gods have buried."
     access: gm-only
+  - text: "As a safety net, the sacrifice implemented a protective effect on all planes for 100 years. Because the gods carry an Original arcane power source (they are sub-parts of A and C), neither A, nor C, nor any god could interfere directly with the planes while the shield held."
+    access: gm-only
+  - text: "After the 100 years, the protection's strength diminished. The gods can now interact and interfere with the planes, though only to a limited degree."
+    access: gm-only
+  - text: "Divine magic is not limited by the protection: the true source of a paladin's or cleric's magic is the mortal caster themselves. The god merely weaves their arcane signature into the magic the mortal manifests, then lies that the powers are god-given."
+    access: gm-only
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-21
 ---
 
 ## Overview
@@ -35,20 +41,26 @@ B's scattered essence became the fabric of magic itself  -  a permeating field o
 ### Ley Lines
 Initially, arcane energy was spread uniformly across the material plane. Over time, nature formed patterns: the energy began to flow, creating paths of least resistance. These became **ley lines**  -  highways of concentrated arcane energy that crisscross the world. Wizards and magic-users attuned to these lines can draw power more efficiently in areas where they converge.
 
-### Precious Metals & Gemstones
-B's physical remains scattered across the material plane as gold, silver, copper, platinum, and gemstones. This is why these materials are used as currency  -  they are literally fragments of a primordial being  -  and why many spells require components with a monetary cost.
+### Currency Metals & Gemstones
+B's physical remains scattered across the material plane as every currency metal  -  gold, silver, copper, platinum  -  and gemstones. These are not mere valuables: each piece is a fragment of a primordial being, capable of channeling arcane energy. This is why costly material components are consumed when casting spells  -  they are irreplaceable remnants of B, spent as focal points to shape magic. The same property made them the natural foundation of mortal currency.
 
 ### Arcane Energy in Nature
 The energy of the sacrifice was also absorbed by nature itself  -  trees, stone, water, earth, and living creatures. This gave rise to primal/nature magic and imbued all mortals with latent arcane potential.
 
 ### Arcane-Reactive Crystals
-Over millennia, trace amounts of B's essence condensed into physical crystals. These transparent, color-shifting crystals are highly reactive to magic and can cause anti-magic fields, dead magic zones, and wild magic zones.
+Over millennia, trace amounts of B's essence condensed into physical crystals. These transparent, color-shifting crystals react unpredictably with magic: each crystal produces a different effect depending on the school of magic it is exposed to (abjuration may generate anti-magic fields, evocation may trigger violent energy discharges, and every other school produces its own unique interaction).
+
+## The Protective Shield (Secret)
+
+As a safety net, the sacrifice implemented a protective effect across all planes of existence, lasting 100 years. Because the gods carry an Original arcane power source  -  they are sub-parts of A and C  -  neither A, nor C, nor any of the gods could interfere directly with the planes while the shield held.
+
+After those 100 years, the protection's strength diminished. The gods can now interact and interfere with the planes  -  though only to a limited degree.
+
+Divine magic is not limited by this protection. The true source of a paladin's or cleric's magic is the mortal caster themselves. The god merely weaves their arcane signature into the magic the mortal manifests  -  then lies to mortals, claiming the powers are god-given.
 
 ## Significance
 
-The Great Sacrifice is the single most important event in cosmic history. B saw that A and C were leaning toward destroying the mortal races with cruelty and impunity, and chose to act. By scattering its essence across creation, B gave mortals the tools they would need to survive: magic, precious metals, arcane energy in nature, and the latent potential within themselves.
-
-B did not sacrifice to counter a specific invasion plan  -  that plan (the monster invasion) came later, after A and C's fragmentation into gods. Rather, B's sacrifice was a **general empowering of mortalkind**  -  a gift of chance, of possibility, of the means to fight back against whatever the other Originals might attempt.
+The Great Sacrifice is the single most important event in cosmic history. B did not sacrifice to counter a specific invasion plan  -  that plan (the monster invasion) came later, after A and C's fragmentation into gods. Rather, B's sacrifice was a **general empowering of mortalkind**  -  a gift of chance, of possibility, of the means to fight back against whatever the other Originals might attempt.
 
 Without B's sacrifice, the mortal races would have had no magic, no weapons, no currency, no arcane weave  -  and no hope of surviving the monster invasion that came centuries later. B's gift made the reconquering possible.
 

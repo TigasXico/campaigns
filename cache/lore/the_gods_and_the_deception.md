@@ -128,7 +128,9 @@ The other seven gods secretly coordinate with the three banned ones. Banned chur
 
 ## Divine Magic
 
-Gods are conduits, not sources. They channel B's weave energy through themselves to clerics/paladins who pray. Prayer is the mechanism requesting weave access through the god's intermediary. This keeps mortals dependent on gods for what they could access themselves.
+The true source of a paladin's or cleric's magic is the mortal caster themselves. The god merely weaves their arcane signature into the magic the mortal manifests -- then lies to mortals, claiming the powers are god-given. Prayer is the mechanism by which the mortal invites the god's participation in shaping their own innate weave access. This keeps mortals dependent on gods for what they could access themselves.
+
+Because the source is mortal, divine magic was not limited by B's protective shield (see `the_great_sacrifice.md`) -- even during the 100 years when A, C, and the gods themselves could not interfere directly with the planes.
 
 ## The Ongoing Plan
 
