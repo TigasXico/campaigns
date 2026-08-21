@@ -129,22 +129,40 @@ secrets:
   - text: "Detailed secret content here"
     access: GM Only
   - text: "Character-specific secret"
-    access: Balor
+    access: Balor   # any PC group works: Aegon, Aurora, Bardolemeu, Kaelyn, Nyra, Odessa, Sanzo, Zan
 ```
 
 Use `## [GM] Section Name` for secret body sections so they're easily identifiable during article generation.
 
 ### In Articles (BBCode)
 
-When generating WA articles, wrap secret sections in BBCode subscriber-group tags:
+When generating WA articles, wrap secret sections in subscriber containers using the group's UUID (**Advanced Editor/Euclid only**; never write `[subscribergroup:]` -- it is not a real WA tag):
+
 ```
-[subscribergroup:GM Only]content[/subscribergroup]
-[subscribergroup:Balor]character-specific content[/subscribergroup]
+[subcontainer:0a5c796a-9e4a-4731-979d-07ac9c05d97e]GM-only content[/subcontainer]
+[subcontainer:d9d68013-82ee-4849-9e2d-19f91a2a256a]character-specific content[/subcontainer]
 ```
+
+Map the frontmatter `access:` name to its group UUID during article generation using this table:
+
+| access name | Group UUID |
+|-------------|-----------|
+| GM Only | `0a5c796a-9e4a-4731-979d-07ac9c05d97e` |
+| Aegon | `1756d2ea-0002-465e-b034-bcae7dad4382` |
+| Aurora | `a16d351c-4ece-403c-be86-76f59350a31a` |
+| Balor | `d9d68013-82ee-4849-9e2d-19f91a2a256a` |
+| Bardolemeu | `d28c1328-d182-4710-a51a-2f3ba6d76864` |
+| Kaelyn | `77ba3007-4990-4803-bf6c-eb953479b122` |
+| Nyra | `ff71dd83-e480-4191-a4dd-b885e94ff6fc` |
+| Odessa | `6c79bf52-9ed9-4f4f-9afc-8c6d4034c6bc` |
+| Sanzo | `d25b0be2-4e2a-443c-af94-1367286173c8` |
+| Zan | `a542fbb5-1fde-4cf2-8462-0fbef7ac8084` |
+
+Every player character has its own subscriber group -- use that character's group to gate their private content.
 
 ### Available Subscriber Groups
 
-See `cache/wa_article_registry.md` for current subscriber group IDs and names.
+Canonical copy also kept in `cache/wa_article_registry.md`. If a group appears to be missing, fetch via `Worldanvilmcp.worldanvilListSubscribergroups({ world_id: ... })` and parse `.entities`, then update both tables.
 
 ---
 

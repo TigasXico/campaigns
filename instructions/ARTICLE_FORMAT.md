@@ -95,7 +95,9 @@ Use these fields for structured data. Content in these fields also gets Markdown
 
 ## Content Format (Markdown + Embedded BBCode)
 
-Content is written in **Markdown with embedded BBCode tags**. The WA MCP auto-converts Markdown to BBCode but **preserves** embedded BBCode tags (like `[article:]`, `[subscribergroup:]`).
+**EDITOR RULE:** This world uses the **Advanced Editor (Euclid)**. NEVER open/save articles in the Visual Editor (Plutarch) -- it does not support containers or custom BBCode and will silently break them.
+
+Content is written as **explicit BBCode** (deterministic rendering under Euclid); Markdown may be mixed in and the MCP auto-converts it. Blank lines create paragraphs (`[p]` optional). The converter **preserves** embedded BBCode tags (like `[article:]`, `[subcontainer:]`, `[secret:]`). Always round-trip fetch after major pushes to verify.
 
 ### Markdown Elements (Auto-Converted by MCP)
 
@@ -114,8 +116,9 @@ Content is written in **Markdown with embedded BBCode tags**. The WA MCP auto-co
 |---------|----------|-------|
 | Cross-article link (by slug) | `[article:SLUG]Display Name[/article]` | Use the WA article's SLUG. Works ONLY with `template: "article"`. |
 | Cross-article link (by UUID) | `@[Display Name](Article:UUID)` | Alternative format using WA article UUID. Survives all templates. |
-| Subscriber group block | `[subscribergroup:Name]content[/subscribergroup]` | Name must match a WA subscriber group exactly. |
-| GM metadata note | `[subscribergroup:GM Only]**GM Note:** text[/subscribergroup]` | For internal status/tags/notes. |
+| Subscriber container (DEFAULT gate) | `[subcontainer:GROUP_UUID]content[/subcontainer]` | Content renders ONLY to members of that subscriber group. Zero UI steps, fully automatable. UUIDs in registry. |
+| Inline secret embed (fallback) | `[secret:SECRET_UUID]` | Requires creating the secret entity via API AND assigning its access group manually in the WA UI. Use only when containers don't fit. |
+| GM metadata note | `[subcontainer:0a5c796a-9e4a-4731-979d-07ac9c05d97e]**GM Note:** text[/subcontainer]` | GM Only group UUID. |
 
 ### Important: Lists
 
@@ -234,21 +237,26 @@ When a new article is created on WA, resolve all placeholders pointing to it:
 
 ## Access Control (Subscriber Groups)
 
+### Strategy (decided 2026-08-21)
+
+1. **Subcontainers are the default gating mechanism**: `[subcontainer:GROUP_UUID]content[/subcontainer]`. Fully automatable end-to-end (references the group UUID directly, no per-article UI work). Confirmed working live + official docs (Grandmaster tier).
+2. **Secrets are the fallback**, used only if containers don't fit a case. Secrets embed inline via `[secret:SECRET_UUID]`; each secret needs its access group assigned manually in the WA UI.
+3. Full official tag reference: https://www.worldanvil.com/learn/bbcode-tutorials/basic-bbcode
+
 ### Rules
 
 | Content Type | Access Level | How |
 |-------------|--------------|-----|
 | Public lore, history, geography | Public (no tag) | Write normally |
 | Party discoveries, shared knowledge | Public (no tag) | Party knowledge is public in this setting |
-| DM-only secrets, true motives, future events | Restricted | `[subscribergroup:GM Only]...[/subscribergroup]` |
-| Per-character secrets, backstory | Restricted | `[subscribergroup:CharacterName]...[/subscribergroup]` |
-| Full article of DM-only content | Private article state | Set article to `private` during creation |
+| DM-only secrets, true motives, future events | Restricted | `[subcontainer:<GM Only UUID>]...[/subcontainer]` |
+| Per-character secrets, backstory | Restricted | `[subcontainer:<CharacterGroup UUID>]...[/subcontainer]` |
 
-### Available Subscriber Groups
+### Available Subscriber Groups (UUIDs)
 
-See `cache/wa_article_registry.md` for current subscriber group UUIDs.
+Full UUID table lives in `instructions/CACHE_FORMAT.md` (Secrets section) and `cache/wa_article_registry.md`. Every player character has its own subscriber group (Aegon, Aurora, Balor, Bardolemeu, Kaelyn, Nyra, Odessa, Sanzo, Zan), plus **GM Only**. New groups: fetch via `worldanvilListSubscribergroups`, then record in both files.
 
-**Existing groups:** Aegon, Aurora, Balor, Bardolemeu, Kaelyn, Nyra, Odessa, Sanzo, Zan, GM Only
+> NOTE: API-created content must stay Euclid-edited. Opening an article in the Visual Editor and saving destroys containers/custom BBCode.
 
 ---
 
@@ -295,14 +303,16 @@ When creating a new article, it may need to link to existing articles AND existi
 
 | Category | WA ID | Parent | For |
 |----------|-------|--------|-----|
-| Characters | *(see registry)* | (none) | NPCs, Deities |
-| Player Characters | *(see registry)* | Characters | PC profiles |
-| Locations | *(see registry)* | (none) | All locations |
-| Organizations | *(see registry)* | (none) | All organizations |
-| Events | *(see registry)* | (none) | Historical events |
-| Items | *(see registry)* | (none) | Artifacts, magic items |
-| Lore and Concepts | *(see registry)* | (none) | Lore, magic, society |
-| Session Logs | *(see registry)* | (none) | Campaign session recaps |
+| Characters | `59015c22-a174-43a0-9125-07e465616dad` | (none) | NPCs, Deities |
+| Player Characters | `4791a56f-b2ac-46cf-849b-7afd54402a15` | Characters | PC profiles |
+| Locations | `e89bfe08-a029-4414-bdf7-d685f05b52ff` | (none) | All locations |
+| Organizations | `7d5a1bd4-b287-4211-b396-1361c73061ff` | (none) | All organizations |
+| Events | `1d06691b-0621-4c02-b059-1d29f0da4911` | (none) | Historical events |
+| Items | `39ef8426-b093-47fc-a404-b3f67e911b54` | (none) | Artifacts, magic items |
+| Workings of the World | `688bfe84-fdc8-477d-a805-bea8dd45d052` | (none) | Cosmology, creation myth, magic, lore -- **Phase 0 home** |
+| Religion | `207ee603-d485-457b-9deb-652e11c1d825` | (none) | Gods, pantheon, worship |
+| Festivals | `ea5f2a1a-b124-466c-a917-9f40f27ebb6c` | (none) | Festivals, ceremonies |
+| Session Logs | `a724e278-d1c8-44f5-af3f-6ede51206d37` | (none) | Campaign session recaps |
 
 ---
 
@@ -310,10 +320,10 @@ When creating a new article, it may need to link to existing articles AND existi
 
 To minimize broken cross-references, create articles **bottom-up** (foundations first):
 
-1. **Lore and Concepts** -- Cosmology, magic, geography, divine conspiracy
+1. **Workings of the World** -- Cosmology, creation myth, magic, geography, divine conspiracy
 2. **Locations (Regions)** -- Continents, major regions
 3. **Locations (Settlements)** -- Cities, towns, dungeons
-4. **Lore and Concepts (Society)** -- Species, culture, economy, monsters
+4. **Workings of the World (Society)** -- Species, culture, economy, monsters
 5. **Organizations** -- All factions and guilds
 6. **Characters (Deities)** -- Pantheon
 7. **Characters (NPCs)** -- Key NPCs
@@ -329,7 +339,7 @@ To minimize broken cross-references, create articles **bottom-up** (foundations 
 Articles describe the world **as it exists when the campaign starts**. Do not include campaign events in the main body.
 
 - **Main body sections** (Overview, History, Description, etc.) = what is true at campaign start
-- **`## Campaign Events / Future` section** (gated under `[subscribergroup:GM Only]`) = prophecies, impending events, planned encounters
+- **`## Campaign Events / Future` section** (gated under `[subcontainer:<GM Only UUID>]`) = prophecies, impending events, planned encounters
 
 ---
 
@@ -346,13 +356,3 @@ articles/output/
 
 File naming uses the **cache entity ID** (snake_case). The `.bbcode` extension indicates content meant for WA.
 
----
-
-## Summary: Key Lessons from Test Articles
-
-| Issue | Root Cause | Fix |
-|-------|-----------|-----|
-| `[/article]` stripped | Non-`article` templates process `content` differently | Use `template: "article"` OR use `@[Name](Article:uuid)` format |
-| Links not rendering | Slugs were cache entity IDs, not WA slugs | Use actual WA slugs (looked up from registry) |
-| `* item` lists broken | Markdown converter processes italic before lists | Use `- item` instead of `* item` |
-| Lists mangled in output | Same italic-vs-list conflict | Prefer `template: "article"` which preserves BBCode better |
