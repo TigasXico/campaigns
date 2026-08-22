@@ -1,12 +1,3 @@
----
-id: wa_article_registry
-type: campaign_note
-name: "WorldAnvil Article Registry"
-status: active
-created: 2026-08-20
-updated: 2026-08-22
----
-
 # WorldAnvil Article Registry
 
 Maps local cache entities to published WA articles. This is the bridge between cache and WA.

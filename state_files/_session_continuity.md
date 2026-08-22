@@ -1,12 +1,3 @@
----
-id: session_continuity
-type: campaign_note
-name: "Session Continuity Log"
-status: active
-created: 2026-08-09
-updated: 2026-08-20
----
-
 ## Session: Timeline Sync & Corrections (2026-08-20)
 
 ### Files Modified
