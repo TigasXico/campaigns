@@ -157,6 +157,8 @@ These BBCode elements must be written directly (no Markdown equivalent):
 
 ## Cross-Article Linking
 
+**CANONICAL FORMAT (2026-08-22):** `@[Display Name](<template>:UUID)` mentions ONLY -- verified working live. The `[article:SLUG]...[/article]` tag does NOT render reliably on WA; do NOT use it for new content. `<template>` = the TARGET article's template type (law, myth, article, character, ...). Placeholder tokens resolve to this mention format.
+
 ### Two Valid Formats
 
 Both formats work on every template type:

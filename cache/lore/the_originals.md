@@ -17,15 +17,15 @@ related:
 secrets:
   - text: "The gods are secretly the fragmented remains of A and C, who still want to destroy mortals. They hide this truth to maintain worship."
     access: gm-only
-  - text: "B's true name has been erased from history. The gods deliberately obscured it."
+  - text: "B's true name was never known to any mortal. None of the three Originals' names were ever known - only the gods know of the very existence of A, B, and C."
     access: gm-only
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-22
 ---
 
 ## Overview
 
-At the beginning of all things, there were three primordial entities. They are simply referred to as **A**, **B**, and **C**  -  the Originals. Their true names have been lost or deliberately erased. Power was perfectly balanced between the three of them.
+At the beginning of all things, there were three primordial entities. They are simply referred to as **A**, **B**, and **C**  -  the Originals. Their true names were never known to mortals. Power was perfectly balanced between the three of them.
 
 Together, they created everything that exists: the outer planes, the inner planes, the material plane, and all the races and creatures that inhabit them.
 
@@ -40,6 +40,12 @@ Despite having created the mortal races together, **A** and **C** came to believ
 Unable to stop A and C through direct confrontation, **B chose a different path**. B sacrificed itself  -  shattering its own form and scattering its body, essence, and power across all of creation. This act suffused the cosmos with arcane energy, gave rise to magic, and seeded the material plane with precious metals and gemstones.
 
 With B's sacrifice, mortals were given the means to defend themselves. B did not sacrifice to counter a specific plan  -  the invasion had not yet been conceived  -  but to give mortals a **general fighting chance** to survive and resist whatever A and C would attempt.
+
+## The Protective Shield
+
+As a safety net, B's sacrifice also implemented a protective effect on all planes of existence, lasting 100 years. The shield impedes direct influence from an Original source: because the gods are shattered forms of Originals A and C, neither A, nor C, nor any of the gods could directly interfere with the planes - and therefore with the development of the mortal races - while the shield held.
+
+After those 100 years, the protective effect diminished, though it never vanished entirely. Working through its weakened protection, the gods eventually managed to open the planar rifts and execute their invasion plan against the mortal races.
 
 ## Aftermath  -  The Plan Enacted
 
