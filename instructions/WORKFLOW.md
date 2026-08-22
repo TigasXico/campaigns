@@ -89,7 +89,7 @@ End the reply with a compact action summary -- no confirmation wait (Direct-Push
 
 Create/update lore files in `cache/`. Cache is the **working copy** -- WA is the published source of truth.
 
-- **Run `scripts/sync-index.ps1`** to automatically sync `cache/_index.md` with actual files on disk.
+- **Run `scripts/sync-index.ps1`** to automatically sync `state_files/_index.md` with actual files on disk.
 - Use `scripts/get-entity-relationships.ps1` to query entity relationships.
   - Flags: `-Stats`, `-Validate`, `-Orphaned`, `-MissingDescriptions`, `-Entity`, `-Target`, `-Network`, `-All`, `-GraphData`, `-Search`.
 
@@ -110,7 +110,7 @@ Generate WA articles (see `ARTICLE_FORMAT.md` for BBCode format).
 Deleting WA resources; creating/deleting categories or subscriber groups still require explicit user approval.
 
 **STEP 4a -- Determine Mapping Strategy FIRST**
-Consult `cache/wa_article_registry.md` before generating any content. Decide how source material maps to WA articles:
+Consult `state_files/wa_article_registry.md` before generating any content. Decide how source material maps to WA articles:
 
 **Cache-to-article mapping is NOT 1-to-1.** The same cache entity content may:
 - Produce a single WA article (common case)
@@ -128,7 +128,7 @@ Based on the agreed mapping, generate content as Markdown with embedded BBCode t
 **NEW entities** -- Create articles in the defined order (foundations first) using the WA MCP:
 1. Use `Worldanvilmcp.worldanvilCreateArticle({title, world_id, template, content, category_id, fields})`; capture UUID AND slug from the create reply
 2. Save a provisional local copy to `articles/output/<entity_id>.bbcode`
-3. Record the article in `cache/wa_article_registry.md` (status: `pushed - awaiting user edits`)
+3. Record the article in `state_files/wa_article_registry.md` (status: `pushed`)
 4. Give the user the **edit-view link** and applied settings
 5. After the user finishes editing and says so: fetch final version, overwrite local copy, set registry status to `final`
 
@@ -141,7 +141,7 @@ Based on the agreed mapping, generate content as Markdown with embedded BBCode t
 
 After creating a new WA article, resolve all placeholders that reference it:
 
-1. Look up the entity's `id` in `cache/wa_article_registry.md` under the **Pending Placeholders** table
+1. Look up the entity's `id` in `state_files/wa_article_registry.md` under the **Pending Placeholders** table
 2. For every source article that contained `Article:PLACEHOLDER_<entity_id>`:
    a. Fetch current WA content via `Worldanvilmcp.worldanvilGetArticle({article_id: source_id})`
    b. Modify the content: replace `Article:PLACEHOLDER_entity_id` with `Article:new-uuid`
@@ -150,7 +150,7 @@ After creating a new WA article, resolve all placeholders that reference it:
    e. Mark the placeholder as resolved in the registry
 3. Include the resolution summary in the reply
 
-NOTE (2026-08-22): resolve using the SLUG from the create reply -- replace `@[Name](Article:PLACEHOLDER_<id>)` with `[article:<slug>]Name[/article]`. No approval wait under the Direct-Push Workflow.
+NOTE (2026-08-22): resolve using the SLUG + UUID + template from the create reply -- replace `@[Name](Article:PLACEHOLDER_<id>)` with `@[Name](<target-template>:<uuid>)`. No approval wait under the Direct-Push Workflow.
 
 This ensures that all existing articles have working cross-links to the newly created article.
 
@@ -213,21 +213,22 @@ Content is written in **Markdown with embedded BBCode tags**. The MCP auto-conve
 | Italic | `*text*` (Markdown) | Auto-converted to `[i]` |
 | Bullet list | `* item` (Markdown) | Auto-converted to `[list]` |
 | Table | Markdown pipe-table | Auto-converted to `[table]` |
-| Cross-article link | `[article:SLUG]Display Name[/article]` | BBCode -- NOT auto-converted. Use the article's WA slug. |
-| Subscriber group | `[subscribergroup:Name]content[/subscribergroup]` | BBCode -- NOT auto-converted. Name must match a WA subscriber group. |
+| Cross-article link | `@[Display Name](<template>:UUID)` | Canonical mention format; survives all templates. UUIDs in `state_files/wa_article_registry.md`. |
+| Subscriber container | `[subcontainer:GROUP_UUID]content[/subcontainer]` | Gates content to a subscriber group. NEVER write `[subscribergroup:]` -- it is not a real WA tag. |
 
-**Important:** The `[article:SLUG]` link format uses the WA article's **slug**, not the cache entity ID. Look up slugs in `cache/wa_article_registry.md`.
+**Important:** Use the canonical mention format `@[Name](<target-template>:UUID)` for ALL cross-article links. 
+UUIDs and slugs live in `state_files/wa_article_registry.md`.
 
 ---
 
 ## Cross-Linking Strategy
 
-Cross-article links should be **woven into the narrative body text**, not just listed at the bottom:
+All cross-article links MUST use the canonical mention format `@[Display Name](<target-template>:UUID)` (UUIDs in `state_files/wa_article_registry.md`). Links should be **woven into the narrative body text**, not just listed at the bottom:
 
-* **Good:** "After the [article:the-great-sacrifice-article]Great Sacrifice[/article], the [article:the-first-alliance-article]First Alliance[/article] formed..."
-* **Also good:** A `## Related Articles` section at the bottom for reference.
+* **Good:** "The shield was forged so no god would ever again face the choice recorded in @[The Great Sacrifice](myth:4433d5c7-1415-4837-afae-3d47c20f8f45)."
+* **Also good:** A `## Related Articles` section at the bottom for quick navigation.
 
-Inline links make the article feel alive and connected. The Related Articles section is for quick navigation; inline links are for narrative richness.
+Inline links make the article feel alive and connected.
 
 ---
 
@@ -250,10 +251,10 @@ Cache (updated)
 
 ### Cache-to-WA Mapping
 
-Each article created on WA is tracked in `cache/wa_article_registry.md` with:
+Each article created on WA is tracked in `state_files/wa_article_registry.md` with:
 - Cache entity ID(s) that contributed content
 - WA article ID (GUID)
-- WA slug (used in `[article:SLUG]` cross-links)
+- WA slug (reference only; links use `@[Name](<template>:UUID)` mentions)
 - WA URL
 - Category
 - Content summary (what was included)
@@ -295,7 +296,7 @@ type(scope): brief description
 
 ### Sync Index and Wait for Approval
 
-1. **Run `scripts/sync-index.ps1`** to sync `cache/_index.md` with disk changes.
+1. **Run `scripts/sync-index.ps1`** to sync `state_files/_index.md` with disk changes.
 2. Run `scripts/get-entity-relationships.ps1 -Validate` to ensure all `related:` links have valid targets.
 3. Present the summary and commit message to the user and wait for explicit approval.
 4. Only after approval:
@@ -307,7 +308,7 @@ git push
 
 ### Cross-Session Continuity
 
-Always update `cache/_session_continuity.md` with the session's file manifest before finishing. Prune resolved open questions and keep the file concise.
+Always update `state_files/_session_continuity.md` before finishing so it reflects the CURRENT state a new session should resume from. Never append historical decision logs there.
 
 ### File Size Compliance Check
 
@@ -323,7 +324,7 @@ After every commit, check if any entity file exceeds **12KB** (exception: PC ent
 
 | Tier | When to Load | Max Target |
 |------|-------------|------------|
-| T0 -- Always | `_session_continuity.md` (pruned), `WORKFLOW.md`, `CACHE_FORMAT.md` | ~20KB |
+| T0 -- Always | `state_files/_session_continuity.md`, `WORKFLOW.md`, `CACHE_FORMAT.md` | ~20KB |
 | T1 -- Primary | Entity files DIRECTLY related to the current task | ~30KB |
 | T2 -- Reference | Cross-domain files -- only if task spans multiple categories | ~40KB |
 | T3 -- Rare | `scripts\get-entity-relationships.ps1` -- on-demand relationship queries | ~5KB |
@@ -357,7 +358,7 @@ Verify no Unicode characters were introduced before saving or committing any fil
 
 ### R7 -- Session Compaction
 
-If `_session_continuity.md` grows past **12KB**, prune it: remove resolved open questions, shorten descriptions, archive old session logs.
+If `state_files/_session_continuity.md` grows past **12KB**, prune it: it must stay a current-state snapshot, never a log.
 
 ### R8 -- Batch Tool Operations
 
@@ -370,4 +371,4 @@ ALWAYS batch multiple tool ops into ONE `execute_typescript` call with an async 
 - **Entity IDs:** `snake_case` format, e.g. `city_of_embermoor`, `the_whispering_knives`
 - **Entity files:** `<entity_id>.md` stored in `cache/<type>/`
 - **Article files:** `<entity_id>.bbcode` stored in `articles/output/`
-- **WA slugs:** Auto-generated from article title by WA. Tracked in `cache/wa_article_registry.md`
+- **WA slugs:** Auto-generated from article title by WA. Tracked in `state_files/wa_article_registry.md`

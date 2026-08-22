@@ -101,7 +101,7 @@ Future-facing content goes in:
 | Max overview | **100 words** | Quick skimmable summary |
 | Max description | **250 words** | Deeper detail without bloat |
 | Max sections | **8 per file** | If more needed, split the entity |
-| Max open questions | **5 per file** | Use tracker in `_session_continuity.md` for more |
+| Max open questions | **5 per file** | Use tracker in `state_files/_session_continuity.md` for more |
 
 ### Exceptions to the 12KB Cap
 
@@ -162,7 +162,7 @@ Every player character has its own subscriber group -- use that character's grou
 
 ### Available Subscriber Groups
 
-Canonical copy also kept in `cache/wa_article_registry.md`. If a group appears to be missing, fetch via `Worldanvilmcp.worldanvilListSubscribergroups({ world_id: ... })` and parse `.entities`, then update both tables.
+Canonical copy also kept in `state_files/wa_article_registry.md`. If a group appears to be missing, fetch via `Worldanvilmcp.worldanvilListSubscribergroups({ world_id: ... })` and parse `.entities`, then update both tables.
 
 ---
 
@@ -188,7 +188,7 @@ Every entity file must pass the following checks before creation or modification
 
 ### Connection Check
 - [ ] Does the `related` field link to at least 2-3 existing entities?
-- [ ] Does this answer or create any open question tracked in `_session_continuity.md`?
+- [ ] Does this answer or create any open question tracked in `state_files/_session_continuity.md`?
 
 ### Style Check
 - [ ] File under 12KB? (mandatory)

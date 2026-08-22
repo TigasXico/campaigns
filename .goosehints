@@ -8,7 +8,7 @@ Content is NO LONGER pre-approved. Instead:
 2. **Push immediately** via MCP (`worldanvilCreateArticle` / `worldanvilUpdateArticle`). Choose and apply the visibility class yourself per the defaults in `instructions/ARTICLE_FORMAT.md`; DM notes always go in the GM Only container.
 3. **Reply with the edit-view link** plus applied settings (template, category, visibility class).
 4. **User edits directly on WA** (Advanced Editor/Euclid ONLY -- never Visual Editor).
-5. When the user says they are done, **fetch the final version from WA**, save it as the canonical local copy under `articles/output/`, and update `cache/wa_article_registry.md`.
+5. When the user says they are done, **fetch the final version from WA**, save it as the canonical local copy under `articles/output/`, and update `state_files/wa_article_registry.md`.
 
 Still require explicit user approval: deleting ANY WA resource; creating/deleting categories or subscriber groups.
 

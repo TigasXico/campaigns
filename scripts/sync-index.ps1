@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-  Syncs cache/_index.md with the actual entity files on disk.
+  Syncs state_files/_index.md with the actual entity files on disk.
 
 .DESCRIPTION
   Scans all entity .md files under cache/, reads their YAML frontmatter,
@@ -17,7 +17,7 @@ param(
   [string]$ProjectRoot = (Resolve-Path "$PSScriptRoot\..")
 )
 
-$indexPath    = Join-Path $ProjectRoot "cache\_index.md"
+$indexPath    = Join-Path $ProjectRoot "state_files\_index.md"
 $entitiesRoot = Join-Path $ProjectRoot "cache"
 
 # ---------- helpers ----------
@@ -49,7 +49,7 @@ $files = Get-ChildItem $entitiesRoot -Recurse -Filter "*.md"
 $disk = @{}  # id -> { id, type, name, status, updated, path }
 
 foreach ($f in $files) {
-  # Skip root-level files (_index.md, _session_continuity.md)
+  # Skip any stray root-level md under cache/ (index + continuity now live in state_files/)
   if ($f.Directory.Name -eq 'cache') { continue }
 
   $fm = Read-Frontmatter $f.FullName

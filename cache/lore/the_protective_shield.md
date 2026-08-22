@@ -28,5 +28,5 @@ After the 100 years the protection diminished - though it never vanished entirel
 Divine magic is NOT limited by the protection. The true source of a paladin's or cleric's magic is the mortal caster themselves; the god merely weaves their arcane signature into the magic the mortal manifests - then lies, claiming the powers are god-given.
 
 ## Notes
-- WA article: template law, category Workings of the World, Class 1 fully private.
+- WA article: template law, category Laws, Class 1 fully private.
 - Canonical text lives on WA; this file mirrors it. WA UUID: 074714f8-5a2f-4737-8bc3-13822c1d8182 (slug the-protective-shield-law).

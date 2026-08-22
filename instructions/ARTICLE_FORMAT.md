@@ -10,9 +10,23 @@ Defines the BBCode format for articles created on WorldAnvil (WA). All articles 
 2. Choose and apply the visibility class yourself (defaults below); DM notes always go in the GM Only container.
 3. Reply with the article's edit-view link plus applied settings (template, category, visibility class).
 4. The user edits directly on WA (Advanced Editor/Euclid ONLY).
-5. On the user's done signal: fetch the final version from WA -> save it as the canonical local copy under `articles/output/` -> update `cache/wa_article_registry.md`.
+5. On the user's done signal: fetch the final version from WA -> save it as the canonical local copy under `articles/output/` -> update `state_files/wa_article_registry.md`.
 
 Edit-view link: prefer a URL returned by the API; otherwise give `https://www.worldanvil.com/w/<world_slug>/a/<article_slug>` and tell the user to open the editor from there.
+
+---
+
+## Article Registry
+
+The registry lives at `state_files/wa_article_registry.md` (project metadata -- not a lore entity). It maps cache entities to WA articles and reflects CURRENT STATE ONLY; history lives in git.
+
+| Column | Vocabulary |
+|--------|------------|
+| Template Type | WA template slug from the Template Selection Guide above (`myth`, `law`, `character`, ...) |
+| Category | WA category name from the WA Category Structure table below |
+| Privacy Class | Class 1 (fully private, no groups), Class 2 (private + subscriber groups), Class 3 (public with gated sections) -- per the Visibility Review section |
+| Status | `draft` (not pushed) -> `pushed` (awaiting user edits) -> `final` (pulled back post-edit; canonical) |
+| Local File | canonical copy path under `articles/output/` |
 
 ---
 
@@ -99,7 +113,7 @@ Use these fields for structured data. Content in these fields also gets Markdown
 
 **EDITOR RULE:** This world uses the **Advanced Editor (Euclid)**. NEVER open/save articles in the Visual Editor (Plutarch) -- it does not support containers or custom BBCode and will silently break them.
 
-Content is written as **explicit BBCode** (deterministic rendering under Euclid); Markdown may be mixed in and the MCP auto-converts it. Blank lines create paragraphs (`[p]` optional). The converter **preserves** embedded BBCode tags (like `[article:]`, `[subcontainer:]`, `[secret:]`). Always round-trip fetch after major pushes to verify.
+Content is written as **explicit BBCode** (deterministic rendering under Euclid); Markdown may be mixed in and the MCP auto-converts it. Blank lines create paragraphs (`[p]` optional). The converter **preserves** embedded BBCode tags (like `[subcontainer:]`, `[secret:]`). Always round-trip fetch after major pushes to verify.
 
 ### Markdown Elements (Auto-Converted by MCP)
 
@@ -116,8 +130,7 @@ Content is written as **explicit BBCode** (deterministic rendering under Euclid)
 
 | Element | Write As | Notes |
 |---------|----------|-------|
-| Cross-article link (by slug) | `[article:SLUG]Display Name[/article]` | Use the WA article's SLUG. Preferred format; take SLUG from the create reply or registry. |
-| Cross-article link (by UUID) | `@[Display Name](Article:UUID)` | Alternative format using WA article UUID. |
+| Cross-article link (canonical) | `@[Display Name](<template>:UUID)` | CANONICAL mention format; works on every template. `<template>` = the TARGET article's template type. |
 | Subscriber container (DEFAULT gate) | `[subcontainer:GROUP_UUID]content[/subcontainer]` | Content renders ONLY to members of that subscriber group. Zero UI steps, fully automatable. UUIDs in registry. |
 | Inline secret embed (fallback) | `[secret:SECRET_UUID]` | Requires creating the secret entity via API AND assigning its access group manually in the WA UI. Use only when containers don't fit. |
 | GM metadata note | `[subcontainer:0a5c796a-9e4a-4731-979d-07ac9c05d97e]**GM Note:** text[/subcontainer]` | GM Only group UUID. |
@@ -157,31 +170,16 @@ These BBCode elements must be written directly (no Markdown equivalent):
 
 ## Cross-Article Linking
 
-**CANONICAL FORMAT (2026-08-22):** `@[Display Name](<template>:UUID)` mentions ONLY -- verified working live. The `[article:SLUG]...[/article]` tag does NOT render reliably on WA; do NOT use it for new content. `<template>` = the TARGET article's template type (law, myth, article, character, ...). Placeholder tokens resolve to this mention format.
-
-### Two Valid Formats
-
-Both formats work on every template type:
-
-#### Option 1: `[article:SLUG]Name[/article]` (preferred)
+**Canonical format:** `@[Display Name](<template>:UUID)` mentions. `<template>` = the TARGET article's template type (law, myth, article, character, ...).
 
 ```
-[article:the-great-sacrifice-article]The Great Sacrifice[/article]
+@[The Great Sacrifice](myth:4433d5c7-1415-4837-afae-3d47c20f8f45)
 ```
 
 **Requirements:**
-- `SLUG` must be the actual WA slug (returned in the create reply)
-- If the target article doesn't exist yet, this renders as plain text
-
-#### Option 2: `@[Name](Article:UUID)`
-
-```
-@[The Great Sacrifice](Article:6bcf7b43-006e-40d2-a1da-16c5a787c39e)
-```
-
-**Requirements:**
-- `UUID` must be the WA article's actual UUID
-- WA renders this as a link even if the article is private/draft
+- `UUID` must be the target article's actual UUID (registry: `state_files/wa_article_registry.md`)
+- `<template>` must match the target article's template type
+- WA renders the mention as a link even if the article is private/draft
 
 ### Getting Article UUIDs and Slugs
 
@@ -196,7 +194,7 @@ const article = await Worldanvilmcp.worldanvilGetArticle({article_id: articleId}
 const slug = article.slug;  // e.g. "the-great-sacrifice-article"
 ```
 
-Record both in `cache/wa_article_registry.md`.
+Record both in `state_files/wa_article_registry.md`.
 
 ### Order of Creation Matters
 
@@ -216,14 +214,14 @@ When creating article content that needs to link to an entity whose WA article d
 2. The format is: `Article:PLACEHOLDER_<cache_entity_id>`
 
 3. After the target article is created and you have its real UUID, resolve the placeholder everywhere it appears:
-   - Scan `cache/wa_article_registry.md` for all articles that contain this placeholder
+   - Scan `state_files/wa_article_registry.md` for all articles that contain this placeholder
    - For each article that contains the placeholder, fetch its current WA content
-   - Replace `@[Name](Article:PLACEHOLDER_entity_id)` with `[article:<slug-from-create-reply>]Name[/article]` in the content
+   - Replace `@[Name](Article:PLACEHOLDER_entity_id)` with `@[Name](<target-template>:<uuid>)` in the content
    - Update the WA article via `worldanvilUpdateArticle({article_id, content: updatedContent})`
    - Update the local `.bbcode` file
    - Update the registry to mark the placeholder as resolved
 
-4. Placeholders are tracked in `cache/wa_article_registry.md` under the `## Pending Placeholders` section.
+4. Placeholders are tracked in `state_files/wa_article_registry.md` under the `## Pending Placeholders` section.
 
 ### Resolving Placeholders (Step-by-Step)
 
@@ -235,7 +233,7 @@ When a new article is created on WA, resolve all placeholders pointing to it:
    -> Finds all articles that reference PLACEHOLDER_new_entity_id
 3. For each source article:
    a. Fetch current WA content via worldanvilGetArticle({article_id})
-   b. Replace "@[Name](Article:PLACEHOLDER_new_entity_id)" with "[article:<slug>]Name[/article]"
+   b. Replace "@[Name](Article:PLACEHOLDER_new_entity_id)" with "@[Name](<target-template>:<new_uuid>)"
    c. Push update via worldanvilUpdateArticle({article_id, content})
    d. Update local .bbcode file
 4. Mark placeholder as resolved in registry
@@ -273,7 +271,7 @@ DM notes are ALWAYS limited to the GM Only group, regardless of class.
 
 ### Available Subscriber Groups (UUIDs)
 
-Full UUID table lives in `instructions/CACHE_FORMAT.md` (Secrets section) and `cache/wa_article_registry.md`. Every player character has its own subscriber group (Aegon, Aurora, Balor, Bardolemeu, Kaelyn, Nyra, Odessa, Sanzo, Zan), plus **GM Only**. New groups: fetch via `worldanvilListSubscribergroups`, then record in both files.
+Full UUID table lives in `instructions/CACHE_FORMAT.md` (Secrets section) and `state_files/wa_article_registry.md`. Every player character has its own subscriber group (Aegon, Aurora, Balor, Bardolemeu, Kaelyn, Nyra, Odessa, Sanzo, Zan), plus **GM Only**. New groups: fetch via `worldanvilListSubscribergroups`, then record in both files.
 
 > NOTE: API-created content must stay Euclid-edited. Opening an article in the Visual Editor and saving destroys containers/custom BBCode.
 
@@ -297,7 +295,7 @@ Worldanvilmcp.worldanvilCreateArticle({
 1. Capture the returned article UUID AND slug (both are in the create reply; verified 2026-08-22)
 2. Fetch the article back to verify the content landed correctly (and to grab the real slug if ever needed)
 3. Save local copy → `articles/output/<entity_id>.bbcode`
-4. Update registry → `cache/wa_article_registry.md`
+4. Update registry -> `state_files/wa_article_registry.md`
 
 ### Updating an Existing Article
 
@@ -328,7 +326,8 @@ When creating a new article, it may need to link to existing articles AND existi
 | Organizations | `7d5a1bd4-b287-4211-b396-1361c73061ff` | (none) | All organizations |
 | Events | `1d06691b-0621-4c02-b059-1d29f0da4911` | (none) | Historical events |
 | Items | `39ef8426-b093-47fc-a404-b3f67e911b54` | (none) | Artifacts, magic items |
-| Workings of the World | `688bfe84-fdc8-477d-a805-bea8dd45d052` | (none) | Cosmology, creation myth, magic, lore -- **Phase 0 home** |
+| Divinity | `688bfe84-fdc8-477d-a805-bea8dd45d052` | (none) | Cosmology, creation myth, magic, lore |
+| Laws | `c0a9622b-66c7-40d7-ba96-26fda88f272f` | (none) | Natural laws, rules of how the world works |
 | Religion | `207ee603-d485-457b-9deb-652e11c1d825` | (none) | Gods, pantheon, worship |
 | Festivals | `ea5f2a1a-b124-466c-a917-9f40f27ebb6c` | (none) | Festivals, ceremonies |
 | Session Logs | `a724e278-d1c8-44f5-af3f-6ede51206d37` | (none) | Campaign session recaps |
@@ -339,10 +338,10 @@ When creating a new article, it may need to link to existing articles AND existi
 
 To minimize broken cross-references, create articles **bottom-up** (foundations first):
 
-1. **Workings of the World** -- Cosmology, creation myth, magic, geography, divine conspiracy
+1. **Divinity** -- Cosmology, creation myth, magic, geography, divine conspiracy
 2. **Locations (Regions)** -- Continents, major regions
 3. **Locations (Settlements)** -- Cities, towns, dungeons
-4. **Workings of the World (Society)** -- Species, culture, economy, monsters
+4. **Divinity (Society)** -- Species, culture, economy, monsters
 5. **Organizations** -- All factions and guilds
 6. **Characters (Deities)** -- Pantheon
 7. **Characters (NPCs)** -- Key NPCs
@@ -374,4 +373,3 @@ articles/output/
 ```
 
 File naming uses the **cache entity ID** (snake_case). The `.bbcode` extension indicates content meant for WA.
-
