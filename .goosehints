@@ -1,23 +1,18 @@
 # WA Lore Keeper - Local Workflow Rules
 
-## Rule 1: No Unilateral Decisions or WA Changes Without Approval
+## Rule 1: Direct-Push Workflow for WA Content (revised 2026-08-22)
 
-NEVER make changes to WorldAnvil (create/update/delete articles, categories, subscriber groups, or any WA resource) without explicit user approval.
+Content is NO LONGER pre-approved. Instead:
 
-**BEFORE EVERY WA MUTATION OPERATION:**
+1. **Generate** article content from cache (strictly derived from existing lore; flag inconsistencies).
+2. **Push immediately** via MCP (`worldanvilCreateArticle` / `worldanvilUpdateArticle`). Choose and apply the visibility class yourself per the defaults in `instructions/ARTICLE_FORMAT.md`; DM notes always go in the GM Only container.
+3. **Reply with the edit-view link** plus applied settings (template, category, visibility class).
+4. **User edits directly on WA** (Advanced Editor/Euclid ONLY -- never Visual Editor).
+5. When the user says they are done, **fetch the final version from WA**, save it as the canonical local copy under `articles/output/`, and update `cache/wa_article_registry.md`.
 
-1. **Show the exact content** -- Display the full BBCode/Markdown text, template type, category, and subscriber group settings you intend to send.
-2. **Wait for approval** -- Do NOT proceed until the user explicitly says "approved" or "yes, send it."
-3. **Only then proceed** -- Execute the WA operation.
+Still require explicit user approval: deleting ANY WA resource; creating/deleting categories or subscriber groups.
 
-This applies to:
-- Creating or deleting WA articles
-- Updating WA article content (EVERY edit, even small changes)
-- Creating or deleting categories
-- Creating or deleting subscriber groups
-- Any other WA resource mutation
-
-**Exceptions (no approval needed):**
+**Never need approval:**
 - Querying/reading data from WA (e.g., listing articles, getting article details)
 - Running local scripts (sync-index.ps1, get-entity-relationships.ps1)
 
@@ -34,5 +29,5 @@ Before making decisions:
 
 When creating or modifying lore content (entities, relationships, timelines):
 1. Run audits A1-A4
-2. Present results
-3. Get user approval before making changes
+2. Report results in your reply alongside the push
+3. Never silently fix inconsistencies -- flag them; the user corrects wording during their WA editing pass

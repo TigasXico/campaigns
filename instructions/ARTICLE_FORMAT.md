@@ -4,6 +4,18 @@ Defines the BBCode format for articles created on WorldAnvil (WA). All articles 
 
 ---
 
+## Direct-Push Workflow (decided 2026-08-22)
+
+1. Generate the article from cache and push immediately (create or update). No pre-approval show-and-wait.
+2. Choose and apply the visibility class yourself (defaults below); DM notes always go in the GM Only container.
+3. Reply with the article's edit-view link plus applied settings (template, category, visibility class).
+4. The user edits directly on WA (Advanced Editor/Euclid ONLY).
+5. On the user's done signal: fetch the final version from WA -> save it as the canonical local copy under `articles/output/` -> update `cache/wa_article_registry.md`.
+
+Edit-view link: prefer a URL returned by the API; otherwise give `https://www.worldanvil.com/w/<world_slug>/a/<article_slug>` and tell the user to open the editor from there.
+
+---
+
 ## Cache-to-Article Mapping
 
 **Cache-to-article mapping is NOT 1-to-1.** A single cache entity file does not automatically become a single WA article. Before generating any WA content, determine the appropriate mapping:
@@ -16,7 +28,7 @@ Defines the BBCode format for articles created on WorldAnvil (WA). All articles 
 | **Content added to an existing WA article** | New information belongs with an already-published topic rather than warranting its own article. |
 | **No WA article needed** | Some cache entities serve only as internal reference (e.g., campaign notes, session planning files) and don't need publication. |
 
-The mapping strategy must be presented to and approved by the user before content is generated.
+The mapping strategy is chosen by the agent and reported in the push summary; the user can override it during their WA editing pass (Direct-Push Workflow, 2026-08-22).
 
 ---
 
@@ -60,21 +72,11 @@ Use the correct WA template based on what the article is about.
 | **Session Report** | `report` | Campaign session recaps and planning | Session logs |
 | **Prose** | `prose` | Short stories, scenes, narrative writing | (campaign-specific) |
 
-### Important: Use `article` Template for Reliability
+### Template Choice & BBCode Safety
 
-**CRITICAL DISCOVERY:** Non-`article` templates (like `item`, `character`, `organization`) wrap the `content` field in HTML processing that **strips BBCode closing tags**, particularly `[/article]`. This means:
+A historical claim that non-`article` templates strip BBCode closing tags (`[/article]`) was **disproven**: a live tag-survival test on the `myth` template (2026-08-22) confirmed ALL BBCode lands intact -- links, containers, formatting, closing tags included.
 
-```
-[article:slug]Display Name[/article]  -->  [article:slug]Display Namearticle  (BROKEN)
-```
-
-The `"article"` (generic) template **preserves BBCode tags correctly**.
-
-**Recommendation:** Use `template: "article"` for all articles, even if a more specific template would fit. The trade-off:
-- **Gain:** BBCode reliability, cross-links work
-- **Lose:** Template-specific prompts and auto-generated relationship panels
-
-If you want template-specific features (family trees, diplomacy webs, etc.), those can be added manually in the content body.
+**Rule:** Choose the most specific fitting template from the Selection Guide above; generic `article` is only the fallback when nothing fits. Round-trip fetch after creation to verify what landed (standard practice for any push).
 
 ### Template-Specific Fields
 
@@ -89,7 +91,7 @@ Some templates accept special fields via the `fields` parameter. These vary by t
 | organization | `organizationtype`, `seeded`, `authornotes` |
 | location | `locationtype`, `seeded`, `authornotes` |
 
-Use these fields for structured data. Content in these fields also gets Markdown-to-BBCode conversion but is NOT subject to the `[/article]` stripping issue since they are separate API fields.
+Use these fields for structured data. Content in these fields also gets Markdown-to-BBCode conversion; embedded raw BBCode passes through verbatim.
 
 ---
 
@@ -114,8 +116,8 @@ Content is written as **explicit BBCode** (deterministic rendering under Euclid)
 
 | Element | Write As | Notes |
 |---------|----------|-------|
-| Cross-article link (by slug) | `[article:SLUG]Display Name[/article]` | Use the WA article's SLUG. Works ONLY with `template: "article"`. |
-| Cross-article link (by UUID) | `@[Display Name](Article:UUID)` | Alternative format using WA article UUID. Survives all templates. |
+| Cross-article link (by slug) | `[article:SLUG]Display Name[/article]` | Use the WA article's SLUG. Preferred format; take SLUG from the create reply or registry. |
+| Cross-article link (by UUID) | `@[Display Name](Article:UUID)` | Alternative format using WA article UUID. |
 | Subscriber container (DEFAULT gate) | `[subcontainer:GROUP_UUID]content[/subcontainer]` | Content renders ONLY to members of that subscriber group. Zero UI steps, fully automatable. UUIDs in registry. |
 | Inline secret embed (fallback) | `[secret:SECRET_UUID]` | Requires creating the secret entity via API AND assigning its access group manually in the WA UI. Use only when containers don't fit. |
 | GM metadata note | `[subcontainer:0a5c796a-9e4a-4731-979d-07ac9c05d97e]**GM Note:** text[/subcontainer]` | GM Only group UUID. |
@@ -138,6 +140,12 @@ Converts to: `[ul][li]First item[/li][li]Second item[/li][/ul]`
 ```
 Converts to: `[i] First item[/i][i] Second item[/i]` (BROKEN)
 
+### Spacing & Flare Rules (decided 2026-08-22)
+
+- **No blank lines between BBCode blocks** - Euclid renders them as extra vertical gaps ("spaced and weird"). Write blocks back-to-back, one per line.
+- **Add styling flare to every lore article**: [hr] separators between major sections, a [quote] epigraph under the title, icon classes, columns/spoilers where fitting. Epigraphs and light connective wording may be generated directly; the user polishes wording during their WA editing pass.
+- **Prefer specific templates** (myth, law, geography, settlement, building, organization, item, species, character...) over generic "article" whenever the entity fits. BBCode tag survival is NOT template-dependent (verified live on `myth`, 2026-08-22).
+
 ### NOT Auto-Converted Elements
 
 These BBCode elements must be written directly (no Markdown equivalent):
@@ -151,20 +159,19 @@ These BBCode elements must be written directly (no Markdown equivalent):
 
 ### Two Valid Formats
 
-Since we discovered that non-`article` templates strip `[/article]` tags, and `[article:SLUG]` requires the exact WA slug, we have two options:
+Both formats work on every template type:
 
-#### Option 1: `[article:SLUG]Name[/article]` (for `template: "article"` only)
+#### Option 1: `[article:SLUG]Name[/article]` (preferred)
 
 ```
 [article:the-great-sacrifice-article]The Great Sacrifice[/article]
 ```
 
 **Requirements:**
-- The article MUST use `template: "article"` 
-- `SLUG` must be the actual WA slug (looked up from the registry after article creation)
+- `SLUG` must be the actual WA slug (returned in the create reply)
 - If the target article doesn't exist yet, this renders as plain text
 
-#### Option 2: `@[Name](Article:UUID)` (works with all templates)
+#### Option 2: `@[Name](Article:UUID)`
 
 ```
 @[The Great Sacrifice](Article:6bcf7b43-006e-40d2-a1da-16c5a787c39e)
@@ -172,7 +179,6 @@ Since we discovered that non-`article` templates strip `[/article]` tags, and `[
 
 **Requirements:**
 - `UUID` must be the WA article's actual UUID
-- Works regardless of template type
 - WA renders this as a link even if the article is private/draft
 
 ### Getting Article UUIDs and Slugs
@@ -210,7 +216,7 @@ When creating article content that needs to link to an entity whose WA article d
 3. After the target article is created and you have its real UUID, resolve the placeholder everywhere it appears:
    - Scan `cache/wa_article_registry.md` for all articles that contain this placeholder
    - For each article that contains the placeholder, fetch its current WA content
-   - Replace `Article:PLACEHOLDER_entity_id` with `Article:real-uuid` in the content
+   - Replace `@[Name](Article:PLACEHOLDER_entity_id)` with `[article:<slug-from-create-reply>]Name[/article]` in the content
    - Update the WA article via `worldanvilUpdateArticle({article_id, content: updatedContent})`
    - Update the local `.bbcode` file
    - Update the registry to mark the placeholder as resolved
@@ -222,12 +228,12 @@ When creating article content that needs to link to an entity whose WA article d
 When a new article is created on WA, resolve all placeholders pointing to it:
 
 ```
-1. Get new article UUID from creation response
+1. Get new article SLUG from the creation response (create reply includes slug; verified 2026-08-22)
 2. Look up "new_entity_id" in registry's Pending Placeholders table
    -> Finds all articles that reference PLACEHOLDER_new_entity_id
 3. For each source article:
    a. Fetch current WA content via worldanvilGetArticle({article_id})
-   b. Replace "Article:PLACEHOLDER_new_entity_id" with "Article:real-uuid"
+   b. Replace "@[Name](Article:PLACEHOLDER_new_entity_id)" with "[article:<slug>]Name[/article]"
    c. Push update via worldanvilUpdateArticle({article_id, content})
    d. Update local .bbcode file
 4. Mark placeholder as resolved in registry
@@ -241,7 +247,16 @@ When a new article is created on WA, resolve all placeholders pointing to it:
 
 1. **Subcontainers are the default gating mechanism**: `[subcontainer:GROUP_UUID]content[/subcontainer]`. Fully automatable end-to-end (references the group UUID directly, no per-article UI work). Confirmed working live + official docs (Grandmaster tier).
 2. **Secrets are the fallback**, used only if containers don't fit a case. Secrets embed inline via `[secret:SECRET_UUID]`; each secret needs its access group assigned manually in the WA UI.
-3. Full official tag reference: https://www.worldanvil.com/learn/bbcode-tutorials/basic-bbcode
+3. **Whole-article visibility is fully automatable** (verified 2026-08-22): pass fields: { state: "private", subscribergroups: [{ id: "<GROUP_UUID>" }], isWip, isDraft } to worldanvilCreateArticle / worldanvilUpdateArticle. The MCP merges fields into the top-level API body and the proxy forwards bodies verbatim. The create reply returns the article's UUID AND slug.
+4. Full official tag reference: https://www.worldanvil.com/learn/bbcode-tutorials/basic-bbcode
+
+### Visibility Review Step (mandatory before every upload; decided 2026-08-22)
+
+Choose ONE visibility class for every article and state it in the push summary (Direct-Push Workflow: no pre-approval):
+1. **Fully private, no subscriber groups** -- GM eyes only (no groups attached).
+2. **Private + subscriber groups** -- visible only to GM and the listed player group(s).
+3. **Public with private sections** -- public body; DM notes/secrets wrapped in [subcontainer:<GM Only UUID>]...[/subcontainer] or per-character group containers.
+DM notes are ALWAYS limited to the GM Only group, regardless of class.
 
 ### Rules
 
@@ -251,6 +266,8 @@ When a new article is created on WA, resolve all placeholders pointing to it:
 | Party discoveries, shared knowledge | Public (no tag) | Party knowledge is public in this setting |
 | DM-only secrets, true motives, future events | Restricted | `[subcontainer:<GM Only UUID>]...[/subcontainer]` |
 | Per-character secrets, backstory | Restricted | `[subcontainer:<CharacterGroup UUID>]...[/subcontainer]` |
+| Whole article GM-eyes-only | Private, no groups | fields: { state: "private" } |
+| Whole article for specific player(s) | Private + groups | fields: { state: "private", subscribergroups: [{ id: "<GROUP_UUID>" }] } |
 
 ### Available Subscriber Groups (UUIDs)
 
@@ -268,15 +285,15 @@ Full UUID table lives in `instructions/CACHE_FORMAT.md` (Secrets section) and `c
 Worldanvilmcp.worldanvilCreateArticle({
   title: "Article Title",
   world_id: "a07186fa-ce6a-40d0-b9fb-2377f33c9cd3",
-  template: "article",   // Use "article" for BBCode reliability
+  template: "myth",      // pick per Template Selection Guide
   content: "## Markdown content with @[Name](Article:uuid) links",
   category_id: "category-uuid"
 })
 ```
 
 **After creation:**
-1. Capture the returned article UUID
-2. Fetch the article back to get its slug
+1. Capture the returned article UUID AND slug (both are in the create reply; verified 2026-08-22)
+2. Fetch the article back to verify the content landed correctly (and to grab the real slug if ever needed)
 3. Save local copy → `articles/output/<entity_id>.bbcode`
 4. Update registry → `cache/wa_article_registry.md`
 
@@ -295,7 +312,7 @@ When creating a new article, it may need to link to existing articles AND existi
 
 1. Create new article with `@[Existing Name](Article:existing-uuid)` links
 2. Update existing articles to add `@[New Name](Article:new-uuid)` back-links
-3. Present both operations for approval before executing
+3. Execute both operations in one pass and report
 
 ---
 
