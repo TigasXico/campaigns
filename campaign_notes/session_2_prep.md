@@ -85,27 +85,38 @@
 
 ## 4. STAT BLOCKS
 
-### CRYSTAL WOLF — Large beast, CR 1 (200 XP) — AC 14 · HP 37 · Speed 50
+> **CRYSTAL WOLF**  .  Large beast  .  CR 1 (200 XP)
+>
+> **AC** 14 (natural)  **HP** 37 (5d10+10)  **Speed** 50 ft.
+>
+> STR 17 (+3)  DEX 15 (+2)  CON 15 (+2)  INT 6 (-2)  WIS 12 (+1)  **CHA 14 (+2)**
+>
+> **Skills** Perception +3, Athletics +5  .  **Passive** Perception 13
+>
+> **Traits:** Pack Tactics . Keen Hearing/Smell . Coin-Sense 60 ft . Immune fear & food-bribes . Malnourished (cosmetic)
+>
+> **Actions:**  **Bite** +5, 2d6+3 piercing, DC 13 STR or prone.
+> **Snatch** - Athletics +5 vs target's Athletics/Acrobatics (advantage vs prone/down, disadvantage if buckled + standing). Max 1 purse/wolf. Success -> flees NW at **half speed, no Dash**.
+>
+> **Bonus Action - Metal Lure:** Unsecured coin/metal within 10 ft drags 5 ft toward wolf. Strapped purse tears free if owner prone/restrained/unconscious.
+>
+> **Reaction - Shard Flare (1/round):** When hit by melee or first time below half HP, 5-ft burst: DC 12 CON or 1d4 force.
+>
+> **Death Throes:** Crystals crack with a glassy whisper; body shards crumble to iridescent grit - unharvestable.
 
-Skills Perception +3, Athletics +5 · STR 17 · DEX 15 · CON 15 · CHA 14 (crystal-boosted)
-
-**Traits:** Pack Tactics · Keen Hearing/Smell · Coin-Sense 60 ft (pinpoints ≥10 gp metal through walls). Immune to fear and food-bribes. Malnourished (cosmetic).
-
-**Actions:**
-- **Bite.** +5, reach 5 ft, 2d6+3 piercing, DC 13 STR or prone.
-- **Snatch.** Athletics +5 vs target's Athletics/Acrobatics. *Advantage* vs prone/down. *Disadvantage* if buckled + standing
-
-**Bonus Action — Metal Lure.** Unsecured coin/metal within 10 ft drags 5 ft toward the wolf. Strapped purse tears free only if owner is prone/restrained/unconscious.
-
-**Reaction — Shard Flare (1/round).** Trigger: hit by melee, or first time below half HP. 5-ft burst: DC 12 CON or 1d4 force and knocked prone
-
-**Death Throes.** Crystals crack with a glassy whisper; body shards crumble to iridescent grit — **unharvestable.**
-
----
-
-### WOLF — Medium, MM stats — AC 13 · HP 11 · Speed 40
-
-Bite +4, 2d4+2 piercing, DC 11 STR or prone. Pack Tactics. Keen Hearing/Smell. Leader-Bound: follows crystal-will. Eligible for food bribe and coin-scatter.
+> **WOLF**  .  Medium beast  .  MM stats
+>
+> **AC** 13 (natural)  **HP** 11 (2d8+2)  **Speed** 40 ft.
+>
+> STR 12 (+1)  DEX 15 (+2)  CON 12 (+1)  INT 3 (-4)  WIS 12 (+1)  CHA 6 (-2)
+>
+> **Skills** Perception +3, Stealth +4  .  **Passive** Perception 13
+>
+> **Traits:** Pack Tactics (advantage if ally within 5 ft) . Keen Hearing/Smell . Leader-Bound (follows crystal-will; no independent coin-lust). Eligible for food bribe & coin-scatter.
+>
+> **Actions:**  **Bite** +4, reach 5 ft, 2d4+2 piercing, DC 11 STR or prone.
+>
+> **Morale:** DC 10 + 2x #leaders WIS flee when a leader dies (Ripple). DC 10 WIS chase scattered coins (Coin-scatter). DC 16 stand-down / DC 20 desertion (Food Bribe). 1 leader alive or none -> FEEDING MODE (kill to eat).
 
 ## 5. CORE MECHANICS
 
