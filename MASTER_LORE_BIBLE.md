@@ -249,7 +249,7 @@ A network of hidden facilities exists. Zan seeks to destroy them and rescue Soph
 
 The weave is the permeating field of magical energy across all planes. It is the **residual essence of B** after its sacrifice.
 
-[GM-SECRET] The weave carries a **subconscious echo** of B — a lingering, instinctual desire to become whole again. This is not a conscious mind; it is a pull, an impulse buried in magic itself.
+[GM-SECRET] The weave carries a **subconscious echo** of B -- a lingering, instinctual desire to become whole again. This is not a conscious mind; it is a pull, an impulse buried in magic itself.
 
 ### How Magic Works
 - **Arcane casters** (wizards, sorcerers, bards): Draw directly from the weave. Wizards through study and precision; sorcerers innately through bloodline or accident.
@@ -260,11 +260,11 @@ The weave is the permeating field of magical energy across all planes. It is the
 ### Spell Components [GM-SECRET]
 Material components with monetary cost are **fragments of B's physical remains** (gold, silver, gemstones). The spell channels energy through them as focal points. This is why costly components are consumed.
 
-### B's Lingering Will — The Hoarding Instinct [GM-SECRET]
+### B's Lingering Will -- The Hoarding Instinct [GM-SECRET]
 The weave's influence manifests as:
 - Creatures (especially monsters) near concentrated arcane energy develop compulsive **hoarding behavior**
-- They gather magical items, currency metals, crystals
-- Larger hoards create stronger pull — self-feeding cycle
+- They gather CMGMI (Currency Metals, Gemstones, and Magical Items)
+- Larger hoards create stronger pull -- self-feeding cycle
 - **Dragons** are especially susceptible due to deep arcane connection
 - The effect is beginning to affect **mortals** at campaign start
 
@@ -279,6 +279,66 @@ Arcane energy flows through paths of least resistance. Ley lines are concentrate
 - Completely solid when touched/cut despite liquid appearance
 - Size range: tiny grains to massive formations affecting entire regions
 
+### What Are B-Crystals?
+B-crystals are **condensed physical remnants of Entity B's essence**. When a living creature comes into proximity with a B-crystal, the crystal **automatically connects** to the natural arcane energy that flows through all living things. This connection is the mechanism of "infection" -- the crystal's influence enters the creature through this arcane link.
+
+The crystals are **not alive** and carry no conscious intent. The influence they radiate is a subconscious echo of B's desire to become whole again -- a residual impulse, not a planning mind.
+
+### Key Terminology: CMGMI
+CMGMI (Currency Metals, Gemstones, and Magical Items) are the three categories of matter that B-crystal-influenced creatures seek out and hoard. This is because all three are **fragments of B's physical remains** scattered across the Material Plane during the Great Sacrifice:
+
+- **Currency Metals** -- Gold, silver, copper, platinum
+- **Gemstones** -- Diamonds, rubies, emeralds, and all precious stones
+- **Magical Items** -- Any enchanted or magically active object
+
+CMGMI are the objects of the hoarding instinct because they share B's original essence. The instinct is not random greed -- it is a subconscious pull to **reunite scattered fragments of B's body**.
+
+### The Infection Mechanism [GM-SECRET]
+**Step 1: Exposure** -- A creature comes within range of an active B-crystal. The crystal's arcane field automatically connects to the creature's innate magical energy.
+
+**Step 2: Initial Influence** -- Very weak, barely perceptible as a faint preference toward CMGMI.
+
+**Step 3: The Self-Feeding Cycle** -- B-crystal exposure -> influence activated -> creature hoards CMGMI -> proximity to larger hoard = stronger influence -> more hoarding -> cycle continues.
+
+**Step 4: Escalation** -- From "preference" to "mild compulsion" to "obsession" to "total subordination."
+
+**Step 5: Recovery via Isolation** -- If removed from B-crystals AND CMGMI, influence gradually fades. After complete recovery, the creature returns to baseline. Reinfection possible at same threshold. No permanent scarring.
+
+### Detection [GM-SECRET]
+**Infected cannot tell** they are infected. The compulsion feels like their own thoughts.
+
+External detection is possible:
+- **Detect Evil and Good or similar spells**: Reveals the influence as a faint, non-aligned resonance.
+- **Arcana check (DC 18+)**: A trained caster can identify it as "an external arcane influence -- ancient, non-hostile in intent but unrelenting."
+- **Behavioral observation**: Prolonged observation may reveal patterns the creature themselves doesn't notice.
+
+### Susceptibility Factors [GM-SECRET]
+| Factor | Effect |
+|--------|--------|
+| **Wisdom score** | Higher Wisdom = more resistance. Lower Wisdom = more vulnerable. |
+| **B-touched status** | B-touched individuals (Zan, Kaelyn, Aurora, Aegon) are **more susceptible**. |
+| **Prior B-crystal exposure** | Previous exposure = lower resistance threshold. |
+| **Time spent near CMGMI** | Extended proximity to large hoards builds tolerance but deepens active infections. |
+| **Proximity to active crystals** | Being near an uncontained B-crystal accelerates infection dramatically. |
+
+### Mortal Influence: The Growing Problem [GM-SECRET]
+At the campaign's start, the influence primarily affects monsters. Mortals are beginning to be affected, and the effect grows as more B-crystals are unearthed.
+
+**Progression Scale:**
+- **Stage 1: Subtle** -- Frontier settlers, miners, adventurers with large hoards (early campaign)
+- **Stage 2: Noticeable** -- Town mayors, local officials, crime bosses, wealthy merchants (mid campaign)
+- **Stage 3: Significant** -- Captains of the guard, army generals, city council members (mid-late campaign)
+- **Stage 4: Acute** -- Capital kings, high clergy, the Council Accord itself (late campaign)
+
+**Global Amplifiers:** The influence can be amplified globally by unearthing more B-crystals -- each new deposit brought to the surface increases ambient resonance in the Weave, strengthening the pull everywhere.
+
+### The Hoarding Pressure on the War [GM-SECRET]
+The influence reshapes the monster army:
+1. **Small hoards**: Individual monsters or small packs guarding treasure (early campaign)
+2. **Coordinated raids**: Monster groups attack settlements to steal CMGMI (mid campaign)
+3. **Settlement sieges**: Coordinated forces target larger towns (mid-late campaign)
+4. **Capital-scale invasion**: A major push targets one or more Last Stand capitals (late campaign -- planned mid-campaign climax arc)
+
 ### Magical Reactivity
 Each crystal reacts differently depending on school of magic exposed:
 - **Abjuration**: May generate anti-magic fields, negating/absorbing magic
@@ -286,17 +346,14 @@ Each crystal reacts differently depending on school of magic exposed:
 - Other schools: Each produces a unique interaction (not yet catalogued)
 
 ### Zones and Effects
-- **Dead Magic Zones**: When crystals grow very large or amass in great quantities, drained of stored arcane energy, they reabsorb ambient magic — creating areas where spells don't function.
-- **Wild Magic Zones**: Under physical stress (extreme pressure, temperature, trauma), reactions become unstable and unpredictable — spell effects randomized or amplified.
+- **Dead Magic Zones**: When crystals grow large or amass in great quantities, drained of stored arcane energy, they reabsorb ambient magic -- creating areas where spells don't function.
+- **Wild Magic Zones**: Under physical stress (extreme pressure, temperature, trauma), reactions become unstable -- spell effects randomized or amplified.
 
 ### Current State
-Crystals are unnamed and poorly understood. Discovered recently. A live mystery at campaign start.
+The crystals are unnamed and poorly understood. The Thormvulds have been quietly studying them for ~7 years. The Crimson Covenant has had samples for ~200 years. The wider world is only now hearing rumors of "strange crystals" tied to the Thormvuld floating island.
 
-[GM-SECRET] The crystals carry B's subconscious will (see 4.1 — Hoarding Instinct).
-
----
-
-# PART 5: THE MONSTER INVASION & KHAR'ZUL
+### Dragons
+**Dragons** feel the B-crystal pull more powerfully than nearly any other creature. Draconic hoarding behavior is a direct manifestation of B's influence -- a dragon's treasure hoard is not mere greed, but a biological and spiritual response to the call of B's scattered essence.# PART 5: THE MONSTER INVASION & KHAR'ZUL
 
 ## 5.1 The Abominable End [PUBLIC]
 
@@ -1204,4 +1261,4 @@ Three PCs have direct ties to the Crimson Covenant:
 
 ---
 
-*End of Master Lore Bible. This document summarizes all canon as of 2026-08-23.*
+*End of Master Lore Bible. This document summarizes all canon as of 2026-08-29.*
