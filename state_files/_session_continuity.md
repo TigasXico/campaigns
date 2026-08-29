@@ -1,47 +1,69 @@
 # Session Continuity -- Current State
 
 Snapshot of where the project stands RIGHT NOW so a new session can resume instantly.
-Historical decisions live in git history and instruction files -- never append session logs or decision history here. Keep this file current-state only; prune aggressively.
+Historical decisions live in git history and instruction files. Keep this file current-state only; prune aggressively.
 
 Last updated: 2026-08-29
 
-## Where We Are
+## Campaign State
 
-- Phase 0 COMPLETE: 3 articles FINAL on WA + local canonical copies in `articles/output/` (IDs/slugs/settings in `state_files/wa_article_registry.md`).
-- Repo clean at commit c71d041 (phase0). Vendored `worldanvil-mcp/` is gitignored.
-- State files moved to `state_files/` (`wa_article_registry.md`, `_session_continuity.md`, `_index.md`); design notes renamed to `cache/design_notes/`. Instruction files repointed accordingly.
+- **Session 1** ("The Debt") played. All 7 PCs at level 3. Odessa and Sanzo absent.
+- **Session 2** ("The Silent Ring") prepped -- wolf siege at the homestead. Session pending.
+- **Gamma-7** is the current destination. Party arrives at its door at end of Session 2.
+- **Monster wave** is approaching Stonefall. Timing depends on in-game time spent at Gamma-7.
 
-## Next Up (Phase 1, bottom-up, ONE article at a time, Direct-Push)
+## Lore & System Updates (Completed 2026-08-29)
 
-1. the_world_and_geography
-2. cosmology_and_the_planes
-3. the_arcane_weave
-4. the_divine_conspiracy
-5. the_gods_and_the_deception (mention-link the user-created gods table de225c27-b257-4157-8c08-e107712d8920)
-6. primal_nature_magic
-7. the_arcane_reactive_crystals
+### Files Created
+- `MASTER_LORE_BIBLE.md` -- Single comprehensive lore reference for LLM consumption (1,264 lines, 13 parts)
+- `campaign_notes/campaign_roadmap.md` -- Order-based campaign roadmap (449 lines, 11 parts, 53 revelations across 5 layers)
 
-Per-article loop: draft from cache -> push (default Privacy Class 1; DM notes in GM Only subcontainer) -> reply with edit-link + applied settings -> user edits on WA (Euclid ONLY) -> pull final -> save local copy -> update registry.
+### Files Modified
+- `.goosehints` -- Added `## Terminology` section with 11 campaign-specific terms (CMGMI, B-Crystals, B-Touched, The Weave, etc.)
+- `cache/lore/the_arcane_reactive_crystals.md` -- Refined: CMGMI definition, 5-step infection mechanics, detection rules, recovery rules, susceptibility factors, mortal influence progression (4 stages), monster hoarding escalation (4 stages), corrected global amplifiers
+- `MASTER_LORE_BIBLE.md` -- Part 4 replaced with refined B-crystal content mirroring the changes above
 
-## Standing Rules (details in .goosehints + instructions/)
+### Key New Terminology
+- **CMGMI** -- Currency Metals, Gemstones, and Magical Items. The three categories of matter that B-crystal-influenced creatures seek out and hoard. All are fragments of B's physical remains.
+- **B-Crystals** -- Condensed physical remnants of Entity B's essence. Auto-connect to natural arcane energy in living things upon proximity.
+- **B-Touched** -- A mortal permanently modified by or attuned to B's essence. Examples: Zan, Kaelyn, Aurora, Aegon.
 
-Step 2: review + enrich + A1-A4 audits + visibility plan (user approves content + visibility) | Step 4: Direct-Push (no pre-approval) | Step 5: user reviews on WA Euclid | Step 6: resolve placeholders before pull | Step 7: pull final & save | flag inconsistencies, never silently fix | structural decisions need user approval.
+## Current Decisions
 
-## Hard Facts
+| Decision | Status |
+|----------|--------|
+| Campaign structure | Option A (Layer cake -- small reveals, peeling the conspiracy onion) |
+| Leveling | Milestone (Gamma-7 threshold trigger NOT YET approved -- depends on roadmap timing) |
+| Party structure | One big party (7 players) |
+| PC arcs | All essential (except Odessa/Sanzo which depend on player presence) |
+| B-crystal infection | Infected cannot self-detect. Magical detection + DC 18 Arcana. Clean slate on recovery. |
+| Global amplifer | Only unearthing more B-crystals. Other suspected causes removed. |
+| Covenant organization | Covenant IS the top layer. Flesh Architects are a division within it. |
+| Thormvuld/Covenant at Gamma-7 | TORN between Option 1 (Thormvulds independently found research) and Option 3 (both factions present, fighting each other). Brainstorm complete -- both arrive at Gamma-7. |
+| Monster wave timing | Depends on in-game time spent at Gamma-7. See Part 5 of roadmap. |
+| Crystal-wolf origin | UNDECIDED (N/E/M branches). Will be resolved by Gamma-7 content. |
+| Floating trading nexus | Background element. Not a planned arc. |
 
-- World: **Aetris**. world_id a07186fa-ce6a-40d0-b9fb-2377f33c9cd3 (aetris-alphatango).
-- Link format: `@[Name](<target-template>:UUID)`.
-- GM Only group UUID: 0a5c796a-9e4a-4731-979d-07ac9c05d97e.
-- User canon (respect when drafting): the Weave carries ALL magic incl. Ki; harvest-faith motive; gods refused any victory requiring casualties; creation power was GIVEN; subconscious metal pull; Material Plane is most stable.
+## Open Questions (Campaign-Side, Unresolved)
 
-## Open Questions (campaign-side, unresolved)
-
-- Contents of Site Gamma-7 (Session 2 design)
-- Locations of remaining elemental crystals
+- Gamma-7 interior design (Session 3-4 prep)
+- Which PC arc comes first after Gamma-7? (Party choice, GM steers via hooks)
+- Amelia's fate (depends on monster wave timing)
+- Fire Elemental location (for Nyra's second crystal)
+- Romeo family's exact relationship to the Covenant
 - Fate of Sophie (Subject 241)
 - Contents of Balor's mother's cache
-- Content of Bardolemeu's mentor's note
-- When Odessa rejoins the party
+- Aegon's biological father identity
+- How many Flesh Architects facilities exist?
+- The Raven Queen's specific agenda for Zan
+- Odessa and Sanzo return timing
+
+## Next Steps (Campaign Planning)
+
+1. Regenerate **PC connections matrix** (with user's enrichment notes)
+2. Regenerate **GM table cheat sheet** (with user's enrichment notes)
+3. Build **revelation schedule standalone document** (detailed per-session-bucket map)
+4. Prep **Session 3** (Gamma-7 interior, Thormvuld team, Covenant agents)
 
 ## State Files Map
 
