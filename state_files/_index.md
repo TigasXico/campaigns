@@ -78,7 +78,7 @@
 | the_abominable_end                   | event          | The Abominable End                       | draft  | 2026-08-09 |
 | the_adventurers_guild                | organization   | Drakh Ix'thar  -  The Adventurers' Guild | draft  | 2026-08-11 |
 | the_arcane_reactive_crystal_cave     | location       | The Arcane-Reactive Crystal Cave         | draft  | 2026-08-09 |
-| the_arcane_reactive_crystals         | lore           | Arcane-Reactive Crystals (Unnamed)       | draft  | 2026-08-09 |
+| the_arcane_reactive_crystals         | lore           | Arcane-Reactive Crystals (Unnamed)       | draft  | 2026-08-29 |
 | the_arcane_weave                     | lore           | The Arcane Weave                         | draft  | 2026-08-08 |
 | the_azure_boneyard                   | location       | The Azure Boneyard                       | draft  | 2026-08-10 |
 | the_circle_of_the_wild               | organization   | The Circle of the Wild                   | draft  | 2026-08-09 |
@@ -90,12 +90,12 @@
 | the_eastern_port                     | location       | The Eastern Port                         | draft  | 2026-08-09 |
 | the_ecumenical_council               | organization   | The Ecumenical Council                   | draft  | 2026-08-09 |
 | the_first_alliance                   | organization   | The First Alliance                       | active | 2026-08-11 |
-| the_flesh_architects                 | organization   | The Flesh Architects                     | draft  | 2026-08-13 |
+| the_flesh_architects                 | organization   | The Flesh Architects (Arquitetos da C... | draft  | 2026-08-13 |
 | the_four_barbarian_tribes            | organization   | The Four Barbarian Tribes                | draft  | 2026-08-09 |
 | the_frontier                         | location       | The Western Frontier                     | draft  | 2026-08-09 |
 | the_frostmaw                         | location       | The Frostmaw                             | draft  | 2026-08-09 |
 | the_gods_and_the_deception           | lore           | The Gods and the Deception               | draft  | 2026-08-09 |
-| the_great_sacrifice                  | event          | The Great Sacrifice                      | draft  | 2026-08-08 |
+| the_great_sacrifice                  | event          | The Great Sacrifice                      | draft  | 2026-08-21 |
 | the_guild_of_the_spark               | organization   | The Guild of the Spark                   | draft  | 2026-08-09 |
 | the_high_septon                      | location       | The High Septon                          | draft  | 2026-08-10 |
 | the_last_stand                       | lore           | The Last Stand & The Three Capitals      | draft  | 2026-08-08 |
@@ -105,8 +105,9 @@
 | the_order_of_the_protectors          | organization   | The Order of the Protectors              | draft  | 2026-08-10 |
 | the_order_of_the_raven               | organization   | The Order of the Raven                   | draft  | 2026-08-09 |
 | the_order_of_the_scales              | organization   | The Order of the Scales                  | draft  | 2026-08-09 |
-| the_originals                        | lore           | The Originals                            | draft  | 2026-08-08 |
+| the_originals                        | lore           | The Originals                            | draft  | 2026-08-22 |
 | the_pack_of_tyra                     | organization   | The Pack of Tyra                         | draft  | 2026-08-11 |
+| the_protective_shield                | lore           | The Protective Shield                    | active | 2026-08-22 |
 | the_raven_queen                      | character      | The Raven Queen                          | draft  | 2026-08-09 |
 | the_sealing_of_kharzul               | event          | The Sealing of Khar'zul                  | draft  | 2026-08-09 |
 | the_skallfang_clan                   | organization   | The Skallfang Clan                       | draft  | 2026-08-09 |

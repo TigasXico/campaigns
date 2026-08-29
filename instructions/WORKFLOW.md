@@ -44,15 +44,17 @@ Run ALL four audits before creating or modifying any lore entity in the cache. R
 
 ### When Audits Are Required
 
+Audits A1-A4 are now integrated into **Step 2 (Cache Review, Enrichment & Visibility Planning)** and run before every article creation.
+
 | Action | Audit Required? |
 |--------|----------------|
-| Creating a new entity in cache | YES |
-| Modifying existing entity body/sections | YES |
-| Adding secrets to frontmatter | YES |
-| Updating timeline entries | YES |
+| Creating a new entity in cache | YES (as part of Step 2) |
+| Modifying existing entity body/sections | YES (as part of Step 2) |
+| Adding secrets to frontmatter | YES (as part of Step 2) |
+| Updating timeline entries | YES (as part of Step 2 if tied to article creation) |
 | Running scripts/sync-index.ps1 | NO (fully automated) |
 | Routine relationship checks | NO |
-| Generating WA articles from existing cache | NO |
+| Generating WA articles from existing cache | NO (audits already completed in Step 2) |
 | Updating session continuity/registry | NO |
 | Committing to git | NO |
 
@@ -60,105 +62,173 @@ Run ALL four audits before creating or modifying any lore entity in the cache. R
 
 ## The Workflow
 
-### Step 1 -- Receive Input
+### Step 1 -- Select Next Entity from Phase Queue
 
-User provides lore content via: transcribed voice note (via external Voice_Transcriber tool), direct text input, or explicit request.
+The next entity in the current phase queue is selected automatically. Phases are defined in state_files/_session_continuity.md under "Next Up." The current phase is tackled bottom-up per the creation order.
 
-The transcription tool converts audio to text and copies it to clipboard for pasting.
+**Phase 0** (Complete): the_originals, the_great_sacrifice, the_protective_shield
+**Phase 1** (In Progress): the_world_and_geography, cosmology_and_the_planes, the_arcane_weave, the_divine_conspiracy, the_gods_and_the_deception, primal_nature_magic, the_arcane_reactive_crystals
 
-### Step 2 -- Process (with Audit Gate if New Lore)
+For each entity:
+1. Load the corresponding cache file (cache/<type>/<entity_id>.md)
+2. Proceed to Step 2 for review, enrichment, and visibility planning
 
-Goose receives the user's input and analyzes it against the existing lore cache (`cache/`).
+### Step 2 -- Cache Review, Enrichment & Visibility Planning
 
-**If this is new lore creation:** Run A1-A4 audit gate and include results in your report.
+Review the cache file content and enrich it through conversation with the user. This step combines content review, audit gates, and visibility planning into a single collaborative process.
 
-**If this is a routine task (e.g., generate articles, update registry, fix formatting):** Skip audit gate.
+#### 2a -- Present Summary
 
-Goose **summarizes** needed actions:
-- **New entities** to create (characters, locations, orgs, events, items, lore)
-- **Existing entities** to update
-- **New relationships** or changes
-- **Secrets** to add (per subscriber group)
-- **WA articles** to create or update (report mapping decision -- merge into existing, split into multiple, or standalone new article)
+Present a structured summary of the cache file content:
+- **Entity type** and key frontmatter (id, type, status, related links)
+- **Overview** and main body sections
+- **Existing secrets** or gated content (if any)
+- **Current elated links** and connections to other entities
+- **Open questions** this entity might help resolve (from state_files/_session_continuity.md)
 
-**Timeline awareness:** Distinguish pre-campaign lore (campaign start truth) from future/prophesied events (goes in `## Campaign Events` section).
+#### 2b -- Run Audit Gates A1-A4
 
-End the reply with a compact action summary -- no confirmation wait (Direct-Push Workflow).
+Report the results of all four audits:
+
+**A1 -- Audit for Contradictions:** Cross-reference against ALL established lore. Flag temporal, geographic, factional, power-level, and thematic conflicts.
+**Output:** [OK] Contradiction Check: [list conflicts found] or [OK] No contradictions found.
+
+**A2 -- Identify Narrative Gaps:** Identify what's MISSING: underdeveloped factions, missing causal links, unclear motivations, thin regions, unexplored consequences.
+**Output:** [Loc] Narrative Gaps: [list gaps this should address]
+
+**A3 -- Synthesize Connections:** Link new content back. Does it connect via elated frontmatter? Answer any open question? Create new ones? Resonate with themes (divine conspiracy, survival, hidden history)?
+**Output:** [Link] Synthesized Connections: [list how this connects to the existing web]
+
+**A4 -- Offer Creative Variants:** Present 3-5 distinct options covering these types:
+
+| Type | Purpose |
+|------|---------|
+| Grounded | Logical world extension fitting existing lore |
+| Twist | Dramatic plot hook subverting expectations |
+| Question-Answering | Directly resolves a tracked open question |
+| Ambiguous | Open-ended option the user can refine |
+| Tone Match | Reinforces setting's core themes (survival, unity, divine conspiracy) |
+
+**Output:** [Art] Creative Options: 1. [name] -- [desc] ... **Recommendation:** [X] because [reason].
+
+#### 2c -- Propose Visibility Plan
+
+Suggest visibility for each section and sensitive information point:
+
+**Section-Level Gating:**
+- Which sections/content should be **public** (no gate)
+- Which sections/content should use [subcontainer:GM Only UUID] (DM-only notes)
+- Which sections/content should use per-character [subcontainer:PC_UUID] (character secrets)
+
+**Article-Level Visibility Class:**
+Present a recommendation from the three classes:
+
+| Class | Visibility | Subscriber Groups | Use Case |
+|-------|-----------|-------------------|----------|
+| Class 1 | Fully private, no groups | None | GM eyes only -- foundational lore not yet revealed to players |
+| Class 2 | Private + subscriber groups | Specific group(s) | Article intended for specific player(s) only |
+| Class 3 | Public with gated sections | GM Only + per-character | Public lore with hidden DM/player content wrapped in subcontainers |
+
+DM notes are ALWAYS gated under the GM Only group, regardless of class.
+
+#### 2d -- User Input, Enrichment & Approval
+
+The user provides:
+- Clarifications on any content
+- Additional details, enrichments, or corrections
+- Approval or modification of the visibility plan (section-level + article-level)
+- Confirmation to proceed to article generation
+
+**Gate:** Content + visibility plan must be explicitly approved before proceeding to Step 3.
 
 ### Step 3 -- Cache Update
 
-Create/update lore files in `cache/`. Cache is the **working copy** -- WA is the published source of truth.
+Save the enriched content to the cache file. Create/update the lore file in cache/<type>/<entity_id>.md.
 
-- **Run `scripts/sync-index.ps1`** to automatically sync `state_files/_index.md` with actual files on disk.
-- Use `scripts/get-entity-relationships.ps1` to query entity relationships.
-  - Flags: `-Stats`, `-Validate`, `-Orphaned`, `-MissingDescriptions`, `-Entity`, `-Target`, `-Network`, `-All`, `-GraphData`, `-Search`.
+- Run scripts/sync-index.ps1 to auto-sync state_files/_index.md with actual files on disk.
+- If the entity has a defined timeframe, add it to cache/events/kythorian_timeline.md chronologically.
+- Update state_files/_session_continuity.md if any open questions were resolved or created.
 
-**Timeline Management:** Any entity with a defined timeframe MUST be added to `cache/events/kythorian_timeline.md`. Insert chronologically with `###` heading format including Timeframe, Description, and entity references. Update the timeline's `updated` frontmatter field.
+### Step 4 -- Article Generation & Direct Push
 
-**Note:** Relationships are one-way -- entities link TO the timeline via `related:`, but the timeline does NOT link back to entities (its `related:` field stays empty).
+Generate the WA article from the enriched cache content (see ARTICLE_FORMAT.md for BBCode format).
 
-### Step 4 -- Article Generation (Direct Push)
+**DIRECT-PUSH RULE:** Push immediately once content is approved in Step 2. No further approval needed.
 
-Generate WA articles (see `ARTICLE_FORMAT.md` for BBCode format).
+#### 4a -- Determine Mapping Strategy
 
-**DIRECT-PUSH WORKFLOW (decided 2026-08-22)** -- replaces the old show/wait approval gate:
-1. Generate content from cache and PUSH immediately (`worldanvilCreateArticle` / `worldanvilUpdateArticle`); no show-and-wait.
-2. Apply the appropriate visibility class yourself (see `ARTICLE_FORMAT.md`) and DM-note gating (GM Only group) as designed.
-3. Reply with the article's **edit-view link** and applied settings (template, category, visibility class).
-4. User edits directly on WA (Advanced Editor/Euclid only).
-5. On the user's done signal: FETCH the final version, save as canonical local copy in `articles/output/`, update registry.
-Deleting WA resources; creating/deleting categories or subscriber groups still require explicit user approval.
+Consult state_files/wa_article_registry.md before generating content. Decide how cache content maps to WA articles:
 
-**STEP 4a -- Determine Mapping Strategy FIRST**
-Consult `state_files/wa_article_registry.md` before generating any content. Decide how source material maps to WA articles:
+- **One cache entity = one WA article** (default)
+- **One cache entity = multiple WA articles** (extensive content spanning distinct topics)
+- **Multiple cache entities = one WA article** (closely related topics better together)
+- **Content added to existing WA article** (belongs with an already-published topic)
+- **No WA article needed** (internal reference only)
 
-**Cache-to-article mapping is NOT 1-to-1.** The same cache entity content may:
-- Produce a single WA article (common case)
-- Be **split across multiple WA articles** (if content is extensive or covers distinct topics)
-- Be **merged into an existing WA article** (if content belongs with an existing topic rather than warranting its own article)
-- Be added as content to an article from a different cache entity entirely
+Report the mapping decision in the push summary.
 
-Report your mapping decision in the push summary; the user can override during their WA editing pass.
+#### 4b -- Generate Content
 
-**STEP 4b -- Generate Content**
-Based on the agreed mapping, generate content as Markdown with embedded BBCode tags.
+Generate content as Markdown with embedded BBCode tags based on the approved cache content and visibility plan.
 
-**STEP 4c -- Generate, Send, Hand Off**
+#### 4c -- Push to WA
 
-**NEW entities** -- Create articles in the defined order (foundations first) using the WA MCP:
-1. Use `Worldanvilmcp.worldanvilCreateArticle({title, world_id, template, content, category_id, fields})`; capture UUID AND slug from the create reply
-2. Save a provisional local copy to `articles/output/<entity_id>.bbcode`
-3. Record the article in `state_files/wa_article_registry.md` (status: `pushed`)
-4. Give the user the **edit-view link** and applied settings
-5. After the user finishes editing and says so: fetch final version, overwrite local copy, set registry status to `final`
+For **NEW entities**:
+1. Create article via Worldanvilmcp.worldanvilCreateArticle({title, world_id, template, content, category_id, fields})
+2. Apply the visibility class approved in Step 2 using the ields parameter (state, subscribergroups)
+3. Wrap DM-only and gated sections in [subcontainer:<UUID>] tags per the approved plan
+4. Save a **provisional local copy** to rticles/output/<entity_id>.bbcode
+5. Record the article in state_files/wa_article_registry.md (status: pushed)
+6. Reply with the article's **edit-view link** and applied settings (template, category, visibility class)
 
-**EXISTING entities** -- For updates to existing WA articles:
-1. Use `Worldanvilmcp.worldanvilUpdateArticle({article_id, content?, title?})` to push changes directly
-2. Update the local `.bbcode` file and registry
-3. Give the user the edit-view link; finalize (fetch-back -> local -> registry) once the user confirms their edits
+For **EXISTING entities** (updates):
+1. Push changes via Worldanvilmcp.worldanvilUpdateArticle({article_id, content})
+2. Update the local .bbcode file and registry
+3. Reply with the edit-view link
 
-### Step 5 -- Resolve Placeholders (Direct Push)
+### Step 5 -- User Review Window
 
-After creating a new WA article, resolve all placeholders that reference it:
+The user reviews the pushed article directly on WorldAnvil (Advanced Editor / Euclid ONLY -- never Visual Editor).
 
-1. Look up the entity's `id` in `state_files/wa_article_registry.md` under the **Pending Placeholders** table
-2. For every source article that contained `Article:PLACEHOLDER_<entity_id>`:
-   a. Fetch current WA content via `Worldanvilmcp.worldanvilGetArticle({article_id: source_id})`
-   b. Modify the content: replace `Article:PLACEHOLDER_entity_id` with `Article:new-uuid`
-   c. Push update via `Worldanvilmcp.worldanvilUpdateArticle({article_id: source_id, content})`
-   d. Update the local `.bbcode` file
+During this step:
+- The user reads the article, makes any final wording adjustments
+- Verifies BBCode rendering and subcontainer gating
+- Signals **done** when satisfied
+
+No agent action is taken during this step. Wait for the user's explicit "done" signal.
+
+### Step 6 -- Resolve Placeholders (Direct Push)
+
+After the user has reviewed the article but BEFORE pulling the final version, resolve all placeholders that reference this new entity:
+
+1. Look up the entity's id in state_files/wa_article_registry.md under the **Pending Placeholders** table
+2. For every source article that contained Article:PLACEHOLDER_<entity_id>:
+   a. Fetch current WA content via Worldanvilmcp.worldanvilGetArticle({article_id: source_id})
+   b. Replace @[Name](Article:PLACEHOLDER_entity_id) with @[Name](<target-template>:<new-uuid>)
+   c. Push update via Worldanvilmcp.worldanvilUpdateArticle({article_id: source_id, content})
+   d. Update the local .bbcode file
    e. Mark the placeholder as resolved in the registry
 3. Include the resolution summary in the reply
 
-NOTE (2026-08-22): resolve using the SLUG + UUID + template from the create reply -- replace `@[Name](Article:PLACEHOLDER_<id>)` with `@[Name](<target-template>:<uuid>)`. No approval wait under the Direct-Push Workflow.
+NOTE (2026-08-22): resolve using the SLUG + UUID + template from the create reply -- replace @[Name](Article:PLACEHOLDER_<id>) with @[Name](<target-template>:<uuid>). No approval wait under the Direct-Push Workflow.
 
-This ensures that all existing articles have working cross-links to the newly created article.
+This ensures all existing articles have working cross-links before the final pull.
 
-### Step 6 -- Version Control
+### Step 7 -- Pull Final & Save
+
+1. Fetch the final version from WA via Worldanvilmcp.worldanvilGetArticle({article_id})
+2. Overwrite the provisional local copy at rticles/output/<entity_id>.bbcode with the fetched content
+3. Update the registry: set status to inal
+
+### Step 8 -- Loop (Advance to Next Entity)
+
+Move to the next entity in the current phase queue and return to Step 1. If the phase is complete, update state_files/_session_continuity.md and proceed to Step 9 for version control.
+
+### Step 9 -- Version Control & Commit
+
+Performed at the end of a session, phase, or when a meaningful batch of work is complete.
 
 See **Version Control and Commit Protocol** below.
-
----
 
 ## WA Article Creation Order
 

@@ -250,12 +250,16 @@ When a new article is created on WA, resolve all placeholders pointing to it:
 3. **Whole-article visibility is fully automatable** (verified 2026-08-22): pass fields: { state: "private", subscribergroups: [{ id: "<GROUP_UUID>" }], isWip, isDraft } to worldanvilCreateArticle / worldanvilUpdateArticle. The MCP merges fields into the top-level API body and the proxy forwards bodies verbatim. The create reply returns the article's UUID AND slug.
 4. Full official tag reference: https://www.worldanvil.com/learn/bbcode-tutorials/basic-bbcode
 
-### Visibility Review Step (mandatory before every upload; decided 2026-08-22)
+### Visibility Planning (performed during Workflow Step 2)
 
-Choose ONE visibility class for every article and state it in the push summary (Direct-Push Workflow: no pre-approval):
-1. **Fully private, no subscriber groups** -- GM eyes only (no groups attached).
-2. **Private + subscriber groups** -- visible only to GM and the listed player group(s).
-3. **Public with private sections** -- public body; DM notes/secrets wrapped in [subcontainer:<GM Only UUID>]...[/subcontainer] or per-character group containers.
+Visibility is planned and approved during **Step 2 (Cache Review, Enrichment & Visibility Planning)** of the workflow (see WORKFLOW.md). The agent proposes section-level gating and article-level visibility class; the user approves the plan before article generation proceeds.
+
+The three visibility classes:
+
+1. **Class 1 -- Fully private, no subscriber groups** -- GM eyes only (no groups attached).
+2. **Class 2 -- Private + subscriber groups** -- visible only to GM and the listed player group(s).
+3. **Class 3 -- Public with private sections** -- public body; DM notes/secrets wrapped in [subcontainer:<GM Only UUID>]...[/subcontainer] or per-character group containers.
+
 DM notes are ALWAYS limited to the GM Only group, regardless of class.
 
 ### Rules
@@ -294,7 +298,7 @@ Worldanvilmcp.worldanvilCreateArticle({
 **After creation:**
 1. Capture the returned article UUID AND slug (both are in the create reply; verified 2026-08-22)
 2. Fetch the article back to verify the content landed correctly (and to grab the real slug if ever needed)
-3. Save local copy → `articles/output/<entity_id>.bbcode`
+3. Save local copy â†’ `articles/output/<entity_id>.bbcode`
 4. Update registry -> `state_files/wa_article_registry.md`
 
 ### Updating an Existing Article

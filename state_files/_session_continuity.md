@@ -3,7 +3,7 @@
 Snapshot of where the project stands RIGHT NOW so a new session can resume instantly.
 Historical decisions live in git history and instruction files -- never append session logs or decision history here. Keep this file current-state only; prune aggressively.
 
-Last updated: 2026-08-22
+Last updated: 2026-08-29
 
 ## Where We Are
 
@@ -25,7 +25,7 @@ Per-article loop: draft from cache -> push (default Privacy Class 1; DM notes in
 
 ## Standing Rules (details in .goosehints + instructions/)
 
-Direct-Push (no pre-approval) | flag inconsistencies, never silently fix | registry updated on every WA mutation | never Visual Editor | verify every push by fetch-back | structural decisions need user approval | audits A1-A4 required for new lore only.
+Step 2: review + enrich + A1-A4 audits + visibility plan (user approves content + visibility) | Step 4: Direct-Push (no pre-approval) | Step 5: user reviews on WA Euclid | Step 6: resolve placeholders before pull | Step 7: pull final & save | flag inconsistencies, never silently fix | structural decisions need user approval.
 
 ## Hard Facts
 
