@@ -1,5 +1,5 @@
 # Idea Bank
-Last updated: 2026-08-30
+Last updated: 2026-09-01
 
 A loose collection of campaign seeds, scattered notes, and pending ToDos.
 Entries are deleted when used (the session prep or cache file they informed becomes the permanent record).
@@ -111,3 +111,17 @@ Prefix entries with `[TODO]` for actionable tasks vs loose ideas/notes.
 **Description:** Kaelyn has a disease that's making her magic unstable -- part of why she's out in the world exploring. Design a custom Wild Magic Surge table tied to her condition. Not a full Wild Magic Sorcerer subclass, but a curated table of ~20-30 effects that trigger on a d20 roll (maybe on a 1 after casting a spell, scaling with symptom severity). Effects should feel thematic to her backstory (crystal heart, unstable magic, memory gaps, connection to the Weave / B's essence). Some should be beneficial, some chaotic, some dangerous -- but none so punishing they make the player afraid to cast spells.
 
 **Related:** [PC:Kaelyn] [lore:The Arcane Weave] [lore:The Arcane Reactive Crystals] [item:Kaelyn's Crystal Heart]
+
+---
+
+## [TODO] Create the signature for the Veritas in Fractum master organization
+
+**Description:** Need to design and formalize the signature (name, crest, symbol, doctrine) for the master organization that sits above the Crimson Covenant, the Flesh Architects, and the Drow organization that researched Kaelyn. This is the coalition behind the scenes -- the entity whose symbol (Three Curves) was found in Thormvuld documents and at Site Gamma-7. It belongs to a coalition (Veritas in Fractum) that predates the campaign. Need to define:
+- Full name and any alternate titles
+- Emblem / sigil design description
+- Founding purpose and philosophy
+- How the sub-organizations relate to it (Covenant = military/breed arm? Flesh Architects = research? Drow org = arcane/magic research?)
+- Current leadership structure
+- How much of this is known to the party vs GM-only
+
+**Related:** [organization:The Crimson Covenant] [organization:The Flesh Architects] [arc:Kaelyn's Backstory] [location:Site Gamma-7] [organization:The Thormvuld Family] [lore:The Divine Conspiracy]
