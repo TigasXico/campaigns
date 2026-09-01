@@ -113,15 +113,3 @@ Prefix entries with `[TODO]` for actionable tasks vs loose ideas/notes.
 **Related:** [PC:Kaelyn] [lore:The Arcane Weave] [lore:The Arcane Reactive Crystals] [item:Kaelyn's Crystal Heart]
 
 ---
-
-## [TODO] Create the signature for the Veritas in Fractum master organization
-
-**Description:** Need to design and formalize the signature (name, crest, symbol, doctrine) for the master organization that sits above the Crimson Covenant, the Flesh Architects, and the Drow organization that researched Kaelyn. This is the coalition behind the scenes -- the entity whose symbol (Three Curves) was found in Thormvuld documents and at Site Gamma-7. It belongs to a coalition (Veritas in Fractum) that predates the campaign. Need to define:
-- Full name and any alternate titles
-- Emblem / sigil design description
-- Founding purpose and philosophy
-- How the sub-organizations relate to it (Covenant = military/breed arm? Flesh Architects = research? Drow org = arcane/magic research?)
-- Current leadership structure
-- How much of this is known to the party vs GM-only
-
-**Related:** [organization:The Crimson Covenant] [organization:The Flesh Architects] [arc:Kaelyn's Backstory] [location:Site Gamma-7] [organization:The Thormvuld Family] [lore:The Divine Conspiracy]

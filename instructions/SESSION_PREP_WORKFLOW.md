@@ -80,6 +80,10 @@ Write `campaign_notes/session_X_prep.md` following the established format:
 - **PC beats** -- Per-character moments, secrets, frictions to protect
 - **Fail-forward** -- What happens if the party fails or goes off-script
 
+### ⚠️ Note: Narrative Text Prohibited
+
+**NEVER** generate text meant to be narrated directly to the players. Instead, show a **bullet point list** of the relevant information to transmit (key facts, sensory details, NPC dialogue beats, revelations, etc.). The DM will weave these into their own narration at the table.
+
 **Every session prep MUST also include:**
 - **3–4 random NPCs** (unaffiliated — name, race, gender, age, distinct feature per NPC)
 - **Loot tables** with uncommon-rarity items, skewed toward consumables, gemstones, gear, and setting trinkets

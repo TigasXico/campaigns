@@ -1,4 +1,4 @@
-﻿# WorldAnvil Lore Cache  -  Entity Index
+# WorldAnvil Lore Cache  -  Entity Index
 
 | ID | Type | Name | Status | Updated |
 |----|------|------|--------|---------|
@@ -90,7 +90,7 @@
 | the_eastern_port                     | location       | The Eastern Port                         | draft  | 2026-08-09 |
 | the_ecumenical_council               | organization   | The Ecumenical Council                   | draft  | 2026-08-09 |
 | the_first_alliance                   | organization   | The First Alliance                       | active | 2026-08-11 |
-| the_flesh_architects                 | organization   | The Flesh Architects                       | draft  | 2026-08-13 |
+| the_flesh_architects                 | organization   | The Flesh Architects                     | draft  | 2026-09-01 |
 | the_four_barbarian_tribes            | organization   | The Four Barbarian Tribes                | draft  | 2026-08-09 |
 | the_frontier                         | location       | The Western Frontier                     | draft  | 2026-08-09 |
 | the_frostmaw                         | location       | The Frostmaw                             | draft  | 2026-08-09 |
@@ -122,6 +122,7 @@
 | timeline_integration_questions       | campaign_note  | PC Timeline Integration Questions        | draft  | 2026-08-14 |
 | tyra                                 | character      | Tyra                                     | draft  | 2026-08-11 |
 | valen_healoris                       | character      | Valen Healoris                           | draft  | 2026-08-11 |
+| veritas_in_fractum                   | organization   | Veritas in Fractum                       | draft  | 2026-09-01 |
 | vesper                               | character      | Vesper                                   | draft  | 2026-08-09 |
 | vorn                                 | character      | Vorn                                     | draft  | 2026-08-11 |
 | weaveheart                           | location       | Weaveheart                               | draft  | 2026-08-09 |

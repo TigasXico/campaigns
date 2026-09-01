@@ -21,6 +21,7 @@ related:
   - the_azure_boneyard: Gained her powers by touching a blue dragon skeleton there; the cave where Kaelyn touched a dragon skull and awakened her powers
   - solyn_velkyn: Twin sister; rival in the Trial of Lolth, savior in the cave-in; presumed dead but actually alive (Kaelyn does not know)
   - lyndale_velkyn: Kaelyn's mother, High Matron of the Drow community; presumed dead in the fire, but actually alive (Kaelyn does not know)
+  - veritas_in_fractum: Kaelyn's cell wall bore the Three Curves symbol — she was a specimen of ViF's Underdark Arcane Division, not merely a Drow prisoner
   - aurora_asteria: Fellow B-touched individual  -  Aurora perceives B through the stars, Kaelyn carries B physically
   - aegon: Fellow B-touched individual  -  Aegon receives B's visions, Kaelyn bears B's crystalized essence
 secrets:
@@ -37,6 +38,8 @@ secrets:
   - text: "Other B-touched entities (Aurora, Aegon, Paul's lingering influence) may sense Kaelyn's crystal heart as a beacon  -  a concentration of B's essence calling to them across the Weave."
     access: gm-only
   - text: "Solyn and Lyndale Velkyn both survived the cave-in and fire respectively. Kaelyn does not know this. Their current activities and fates are TBD by the DM."
+    access: gm-only
+  - text: "The symbol on Kaelyn's cell wall was the Three Curves of Veritas in Fractum (ViF), not a Drow crest. She was held by ViF's Underdark Arcane Division, which operates in secret beneath Lolth's theocratic surveillance. The Drow researchers who imprisoned her were part of a coalition-wide research program, not acting on Lolth's orders alone."
     access: gm-only
   - text: "Seraphine the tiefling nanny taught the twins to question Lolth's faith because she carried hidden knowledge  -  she knew the Drow were not created by Lolth, but were the result of Crimson Covenant experiments. She may have passed on fragments of this truth before her death."
     access: gm-only

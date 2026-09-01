@@ -14,6 +14,7 @@ related:
   - races_and_ancestries: Their experiments contributed to the creation of Drow, Shadow Elves, and Tieflings
   - jb_the_collector: J.B. sold Zan to the Flesh Architects after his teleportation awakened
   - kythorian_timeline: Active during the Catalyst Project era (~16-18 YA)
+  - veritas_in_fractum: The Architects answer to ViF's Convocation of Fragments but are increasingly erratic -- ViF leadership tolerates them for their discoveries but considers them unstable
 secrets:
   - text: "The Flesh Architects discovered that B Crystals (arcane-reactive crystals) could be used to modify magical abilities. The Catalyst Project proved that controlled exposure to B Crystal energy could permanently alter a subject's connection to the Weave."
     access: gm-only
@@ -21,13 +22,19 @@ secrets:
     access: gm-only
   - text: "The Flesh Architects maintain a network of hidden research facilities. Their number, locations, and current operational status are known only to the Covenant's Inner Circle."
     access: gm-only
+  - text: "Generations of direct B-crystal exposure have corrupted the Flesh Architects' collective psyche. They are no longer entirely rational -- their decision-making is inflected by B's subconscious pull toward reassembly. Each implanted crystal, each fused artifact, each experimental subject modified with arcane energy brings them closer to what they perceive as 'oneness with the Weave.' In truth, B's lingering will is using them to concentrate its scattered essence."
+    access: gm-only
+  - text: "The Flesh Architects have begun performing the Implantation Rite on themselves -- senior members have magical items surgically fused into their own bodies. This is kept hidden from the Covenant's Inner Circle, who would see it as a dangerous loss of control. The Chief Architect is believed to be the most heavily modified, possibly no longer fully mortal."
+    access: gm-only
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-09-01
 ---
 
 ## Overview
 
 The **Flesh Architects** are a specialized research division of the **Crimson Covenant**, dedicated to the study, modification, and weaponization of mortal physiology through arcane experimentation. They are the Covenant's most brutal and effective scientific arm -- where Project Genesis focused on breeding a vessel for Khar'zul, the Flesh Architects focused on understanding and manipulating the fundamental building blocks of mortal biology.
+
+Generations of direct B-crystal exposure have shifted their relationship with B's essence from academic to **spiritual**. They feel B's **pull** -- a subconscious hunger to reunite with the sacrificed Original. This manifests as fanaticism: the belief that true transcendence lies in **merging magic with flesh**, dissolving the boundary between mortal and Weave. The Covenant tolerates them for their discoveries, but the Architects are increasingly unstable -- the only ViF division that might turn on the coalition unprompted.
 
 ---
 
@@ -75,6 +82,38 @@ Subject 242 escaped during a Catalyst Project session at age 13. He teleported o
 
 ---
 
+## B-Crystal Corruption & The Fusion Doctrine
+
+Generations of direct, unprotected work with B-crystals have transformed the Flesh Architects' relationship with B's essence. What began as clinical research has become something closer to **worship** -- or madness.
+
+### The Pull
+
+Extended B-crystal exposure causes: a constant hum in the bones near crystals, a sense of **incompleteness** away from them, dreams of shimmering caverns and a heartbeat beneath the earth. B's lingering will speaks in **longing**, not commands. The Architects interpret this longing as enlightenment.
+
+### The Fusion Doctrine
+
+Core philosophy: *"become the crystals."*
+
+- **Separation is suffering** -- The mortal body is a cage; flesh resists the Weave
+- **Magic is the bridge** -- Crystals and artifacts are B's scattered body; fusing them into tissue dissolves the boundary
+- **Transcendence through fusion** -- A body part-flesh, part-artifact, part-crystal is immune to death, decay, and divine manipulation
+- **The Implantation Rite** -- Surgically fusing enchanted items and B-crystals into living tissue. Initially for unwilling subjects; now practiced on willing initiates and themselves
+
+### Signs of Corruption
+
+- **Stage 1 (months):** Euphoria near crystals, irritability when separated
+- **Stage 2 (years):** Crystalline veins on hands/face; obsessive cataloguing; hoarding dreams
+- **Stage 3 (decades):** Arcane-reactive tissue (glows in darkness); crystals under fingernails; emotional dampening except reverence for B-crystals
+- **Stage 4 (senior members):** Self-implantation; loss of interest beyond fusion research; erratic decisions
+
+**The Covenant's concern:** The Architects spend resources on personal implantation over Covenant priorities. Some senior members disappear into labs for months, emerging heavily modified, speaking of "the song of the Weave."
+
+### What B Actually Wants
+
+B does not *want* the Architects to succeed at fusion. Its lingering will is a subconscious desire to reassemble, not a conscious plan. The Architects are **misreading the signal** -- B's essence encourages concentration but has no preference for *form*. They could become walking disasters or vessels of transcendence. B does not care which.
+
+---
+
 ## Facilities
 
 The Flesh Architects operate from hidden research facilities whose number and locations are known only to the Covenant's Inner Circle. Zan was held in and escaped from one such facility at age 13. The other facilities -- and their current operational status -- remain undefined.
@@ -95,20 +134,22 @@ The Flesh Archives use a sequential numbering system for their test subjects:
 
 ## Notable Personnel
 
-- **The Chief Architect** (identity unknown) -- Head of the Flesh Architects. Oversees all experiments and reports directly to the Covenant's Inner Circle.
-- **Attending Scientists** -- Sadistic researchers and unethical wizards who conducted the experiments
-- **Lab Guards** -- Covenant Inquisitors and Faithful who secured facilities and kept subjects contained
+- **The Chief Architect** (identity unknown) -- Head of the Flesh Architects. Oversees all experiments and reports directly to the Covenant's Inner Circle. Rumored to have undergone extensive self-implantation -- possibly no longer fully mortal.
+- **Attending Scientists** -- Researchers who conduct experiments. Many have crystalline veins on their hands and faces. Some have begun voluntary self-implantation.
+- **Lab Guards** -- Covenant Inquisitors and Faithful who secure facilities and keep subjects contained
 - **J.B. (the Collector)** -- An outside contractor who sold Subject 242 to the Architects
 
 ---
 
 ## Current Status
 
-The Flesh Architects continue to operate in the shadows. Their research has expanded beyond Shadar-kai teleportation to include:
+The Flesh Architects continue to operate in the shadows. Their research has expanded into **four parallel tracks:**
 
-- B Crystal integration in non-Shadar-kai subjects
-- Teleportation replication in willing (and unwilling) volunteers
-- Weaponized teleportation inhibitors and jammers
-- Long-range tracking of B-touched individuals
+| Track | Focus | Status |
+|-------|-------|--------|
+| **B-Crystal Integration** | Implanting B-crystals into living tissue to modify magical abilities | Ongoing -- Catalyst Project legacy |
+| **Artifact Fusion (Implantation Rite)** | Surgically fusing enchanted items into the body -- weapons, armor, foci -- to create living arcane hybrids | Active -- hidden from Covenant Inner Circle |
+| **Weave-Merge Theory** | Researching rituals that would permanently merge a mortal's consciousness with the Weave itself | Theoretical -- no successful test |
+| **Teleportation Replication** | Attempting to reproduce Zan's modified teleportation in other subjects | Ongoing -- limited success |
 
 Zan seeks to destroy them and rescue any survivors -- particularly Sophie.

@@ -43,7 +43,7 @@ Last updated: 2026-08-31
 6. Gamma-7 interior -- Rooms 1-6 (Main Hall, Records Office, Containment Vault, Creature Pens, Operating Theater, Burn Pit)
 7. **Thormvuld arrives during Room 2 exploration** -- Lord Keylor + 4 veterans + 1 arcane advisor
 8. Zan's reveal -- Subject 242 transfer order found
-9. Kaelyn's connection -- Drow cooperation letter (flagged; pending review)
+9. Kaelyn's connection -- ViF's Underdark Arcane Division letter found; symbol confirmed as Veritas in Fractum
 10. Plot hook -- partial map to primary Flesh Architects facility northwest
 11. Resolution -- party escapes, defeats, or avoids Thormvuld; consequences set
 
