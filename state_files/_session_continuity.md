@@ -1,74 +1,82 @@
-# Session Continuity -- Current State
+﻿# Session Continuity -- Current State
 
 Snapshot of where the project stands RIGHT NOW so a new session can resume instantly.
-Historical decisions live in git history and instruction files. Keep this file current-state only; prune aggressively.
+Historical decisions live in git history and instruction files -- never append session logs or decision history here. Keep this file current-state only; prune aggressively.
 
-Last updated: 2026-08-29
+Last updated: 2026-08-31
 
-## Campaign State
+## Where We Are (Campaign)
 
-- **Session 1** ("The Debt") played. All 7 PCs at level 3. Odessa and Sanzo absent.
-- **Session 2** ("The Silent Ring") prepped -- wolf siege at the homestead. Session pending.
-- **Gamma-7** is the current destination. Party arrives at its door at end of Session 2.
-- **Monster wave** is approaching Stonefall. Timing depends on in-game time spent at Gamma-7.
+- **Phase 0 COMPLETE:** WorldAnvil articles published. Repo has local copies.
+- **Session 1 COMPLETE:** Party accepted mission to Site Gamma-7. Cliffhanger = 11-wolf siege.
+- **Session 2 COMPLETE:** All wolves killed at the homestead. Session ended with combat + crystal extraction RP. Standing stones and Gamma-7 arrival deferred to Session 3.
+- **Session 3 PREP COMPLETE:** Session prep drafted. Party at homestead, level 4, Aegon absent, heading to Gamma-7 with Thormvuld arriving mid-exploration.
 
-## Lore & System Updates (Completed 2026-08-29)
+## Party State
 
-### Files Created
-- `MASTER_LORE_BIBLE.md` -- Single comprehensive lore reference for LLM consumption (1,264 lines, 13 parts)
-- `campaign_notes/campaign_roadmap.md` -- Order-based campaign roadmap (449 lines, 11 parts, 53 revelations across 5 layers)
+- **Level 4**, 6 present (Aegon absent -- left to follow Aurelius's vision; Odessa & Sanzo still away).
+- **HP:** Fully recovered after long rest at homestead.
+- **FX's provisions:** 3 Potions of Healing, antitoxin, torches, tinderbox, bedrolls, 2x tents, rope, signal whistle, sending stone (unused), map case -- all intact.
+- **Healing waterskins (7):** EXPIRED -- glow faded completely. "Just water with a memory."
+- **Gold:** Intact (no purses stolen in Session 2).
+- **Crystal-wolf skull shards:** 3 extracted (Aegon has one but he's absent). 4th shard unextracted at homestead.
 
-### Files Modified
-- `.goosehints` -- Added `## Terminology` section with 11 campaign-specific terms (CMGMI, B-Crystals, B-Touched, The Weave, etc.)
-- `cache/lore/the_arcane_reactive_crystals.md` -- Refined: CMGMI definition, 5-step infection mechanics, detection rules, recovery rules, susceptibility factors, mortal influence progression (4 stages), monster hoarding escalation (4 stages), corrected global amplifiers
-- `MASTER_LORE_BIBLE.md` -- Part 4 replaced with refined B-crystal content mirroring the changes above
+## Active Conditions
 
-### Key New Terminology
-- **CMGMI** -- Currency Metals, Gemstones, and Magical Items. The three categories of matter that B-crystal-influenced creatures seek out and hoard. All are fragments of B's physical remains.
-- **B-Crystals** -- Condensed physical remnants of Entity B's essence. Auto-connect to natural arcane energy in living things upon proximity.
-- **B-Touched** -- A mortal permanently modified by or attuned to B's essence. Examples: Zan, Kaelyn, Aurora, Aegon.
+- **Kaelyn, Zan, Balor** -- bitten by crystal wolves during the siege. Lycanthropy incubation begun. Full moon in ~4 days.
+- **Kaelyn** -- had first wild magic surge (trigger: spellcasting near B-crystal residue).
+- **Aegon** -- Aurelius spoke to him: crystals are not divine, unknown arcane signature, dangerous, must be destroyed. He departed alone to seek answers.
 
-## Current Decisions
+## Key Assets
 
-| Decision | Status |
-|----------|--------|
-| Campaign structure | Option A (Layer cake -- small reveals, peeling the conspiracy onion) |
-| Leveling | Milestone (Gamma-7 threshold trigger NOT YET approved -- depends on roadmap timing) |
-| Party structure | One big party (7 players) |
-| PC arcs | All essential (except Odessa/Sanzo which depend on player presence) |
-| B-crystal infection | Infected cannot self-detect. Magical detection + DC 18 Arcana. Clean slate on recovery. |
-| Global amplifer | Only unearthing more B-crystals. Other suspected causes removed. |
-| Covenant organization | Covenant IS the top layer. Flesh Architects are a division within it. |
-| Thormvuld/Covenant at Gamma-7 | TORN between Option 1 (Thormvulds independently found research) and Option 3 (both factions present, fighting each other). Brainstorm complete -- both arrive at Gamma-7. |
-| Monster wave timing | Depends on in-game time spent at Gamma-7. See Part 5 of roadmap. |
-| Crystal-wolf origin | UNDECIDED (N/E/M branches). Will be resolved by Gamma-7 content. |
-| Floating trading nexus | Background element. Not a planned arc. |
+- **Khar'zul's blade** -- spoke ("DESTROY") during combat. Active, carried by Balor.
+- **FX's sending stone** -- unused, paired with FX's.
+- **Partial map to Gamma-7** -- FX provided it; shows route + standing stones landmark.
 
-## Open Questions (Campaign-Side, Unresolved)
+## Next Up (Session 3)
 
-- Gamma-7 interior design (Session 3-4 prep)
-- Which PC arc comes first after Gamma-7? (Party choice, GM steers via hooks)
-- Amelia's fate (depends on monster wave timing)
-- Fire Elemental location (for Nyra's second crystal)
-- Romeo family's exact relationship to the Covenant
+1. Cold open at homestead -- Aegon gone, long rest complete
+2. Travel Day 1 -- frontier journey, d8 travel encounter
+3. Standing stones -- Day 2 landmark (per-PC beats, bone token boon)
+4. Travel Day 2 -- approach to Gamma-7, d8 travel encounter
+5. Gamma-7 exterior -- choose entrance (dome climb / hidden mechanism / underground passage)
+6. Gamma-7 interior -- Rooms 1-6 (Main Hall, Records Office, Containment Vault, Creature Pens, Operating Theater, Burn Pit)
+7. **Thormvuld arrives during Room 2 exploration** -- Lord Keylor + 4 veterans + 1 arcane advisor
+8. Zan's reveal -- Subject 242 transfer order found
+9. Kaelyn's connection -- Drow cooperation letter (flagged; pending review)
+10. Plot hook -- partial map to primary Flesh Architects facility northwest
+11. Resolution -- party escapes, defeats, or avoids Thormvuld; consequences set
+
+## Standing Rules
+
+- Direct-Push workflow for WA content (no pre-approval needed).
+- Flag inconsistencies; never silently fix.
+- Structural decisions need user approval.
+- Audits A1-A4 required for new lore.
+- Session preps now require 3-4 random NPCs + loot tables as standard.
+
+## Hard Facts (Campaign)
+
+- World: **Aetris**. world_id a07186fa-ce6a-40d0-b9fb-2377f33c9cd3 (aetris-alphatango).
+- Continent: **Kythoria** (western frontier is contested territory).
+- 400 years since the Abominable End (monster invasion).
+- 10 gods; 3 publicly blamed for the invasion (Lolth, Raven Queen, Vorn).
+- The Weave = residual body of Entity B after the Great Sacrifice.
+- B-crystals = condensed essence of B, cause hoarding instinct.
+- The Flesh Architects (Flesh Architects) = Crimson Covenant research division.
+- Gamma-7 = decommissioned Flesh Architects monster-study outpost. Scarce B-crystals. Phase II research.
+
+## Open Questions (Campaign)
+
+- Contents of Site Gamma-7 (Session 3 prep drafted)
+- Location of primary Flesh Architects facility (northwest -- partial map found)
+- Fate of Elena Vance (Gamma-7 researcher, left journal)
+- Who is Agent Korvus? (Zan's transfer escort)
+- Who is the Chief Architect? (named in Elena Vance's journal)
+- Crystal-wolf origin (decided: Branch N self-implantation; E/M retro-fittable)
+- Lycanthropy cure specifics (to be detailed by GM)
+- Locations of remaining elemental crystals (Nyra's quest)
 - Fate of Sophie (Subject 241)
 - Contents of Balor's mother's cache
-- Aegon's biological father identity
-- How many Flesh Architects facilities exist?
-- The Raven Queen's specific agenda for Zan
-- Odessa and Sanzo return timing
-
-## Next Steps (Campaign Planning)
-
-1. Regenerate **PC connections matrix** (with user's enrichment notes)
-2. Regenerate **GM table cheat sheet** (with user's enrichment notes)
-3. Build **revelation schedule standalone document** (detailed per-session-bucket map)
-4. Prep **Session 3** (Gamma-7 interior, Thormvuld team, Covenant agents)
-
-## State Files Map
-
-| File | Purpose |
-|------|---------|
-| `state_files/_index.md` | Entity index, generated by `scripts/sync-index.ps1` -- do not hand-edit |
-| `state_files/_session_continuity.md` | This file |
-| `state_files/wa_article_registry.md` | WA article tracking + WA infrastructure reference (groups, categories, gating) |
+- Content of Bardolemeu's mentor's note
+- When Odessa / Aegon / Sanzo rejoin the party

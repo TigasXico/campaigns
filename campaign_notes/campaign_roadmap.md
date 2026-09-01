@@ -1,4 +1,4 @@
-# CAMPAIGN ROADMAP -- Order-Based Progression
+﻿# CAMPAIGN ROADMAP -- Order-Based Progression
 ## Levels 3->20 | Three-Layer Conspiracy + Interleaved PC Arcs | No Fixed Timeline
 
 **Last updated**: 2026-08-29
@@ -81,11 +81,11 @@ This arc serves as the campaign's midpoint climax. After it, the focus shifts fr
 
 | ID | Reveal | Min Session | Max Session | How | Notes |
 |----|--------|-------------|-------------|-----|-------|
-| L1.1 | The Arquitetos symbol belongs to an organization that experimented on living subjects | 3 | 5 | Gamma-7 records | First concrete evidence |
+| L1.1 | The Flesh Architects symbol belongs to an organization that experimented on living subjects | 3 | 5 | Gamma-7 records | First concrete evidence |
 | L1.2 | Zan was Subject 242 -- his file exists here | 3 | 5 | Gamma-7 records, Zan's recognition | Personal connection to the facility |
 | L1.3 | The crystals are reactive to living tissue -- they *merge* | 3 | 5 | Encounter with the live B-crystal sample | Visceral, not intellectual |
 | L1.4 | The Thormvulds copied this organization's research | 4 | 6 | Thormvuld agents on-site + documents | Establishes the Thormvulds are *followers*, not originators |
-| L1.5 | A larger organization exists behind the Arquitetos | 4 | 6 | Covenant agent on-site, or deeper Gamma-7 records | First mention of "Crimson Covenant" -- name only |
+| L1.5 | A larger organization exists behind the Flesh Architects | 4 | 6 | Covenant agent on-site, or deeper Gamma-7 records | First mention of "Crimson Covenant" -- name only |
 | L1.6 | The monster army is mobilizing for a push | 3 | 5 | Visible from Gamma-7 high ground, or captured monster intel | Establishes urgency |
 | L1.7 | The Thormvuld experiments are a replication of Flesh Architects' work | 4 | 6 | Documents on-site + Thormvuld agents' orders | Connects two threads |
 
@@ -183,7 +183,7 @@ This arc serves as the campaign's midpoint climax. After it, the focus shifts fr
 - Thormvuld pursuit -- A strike team tracks them
 - Nyra's Fire Crystal -- A frontier landmark with "burning caves" and elemental activity
 - Bardolemeu's family -- The Midnight Troupe performing in a nearby town
-- Asterion letter -- Weaveheart is the closest place with answers about the Arquitetos symbol
+- Asterion letter -- Weaveheart is the closest place with answers about the Flesh Architects symbol
 - Balor's necklace -- It activates or is detected during a Covenant encounter. Secret must be addressed.
 - Aegon's vision -- He sees a mountain with a split peak. A structure built into the stone.
 
@@ -441,7 +441,7 @@ The party always has **3-4 active hooks**. Some are urgent, some beckon, some pe
 | **CMGMI** | Currency Metals, Gemstones, and Magical Items -- the three categories of matter that B-crystal-influenced creatures seek out and hoard. All three are fragments of B's physical remains. |
 | **B-Crystals** | Arcane-reactive crystals. Condensed physical remnants of Entity B. Infect living creatures with B's subconscious hoarding influence upon proximity. |
 | **B-Touched** | A mortal permanently modified by or attuned to B's essence. Zan, Kaelyn, Aurora, and Aegon are B-touched. |
-| **The Arquitetos** | The circle-with-three-curves symbol belonging to the Flesh Architects, a research division of the Crimson Covenant. |
+| **The Flesh Architects (symbol)** | The circle-with-three-curves symbol belonging to the Flesh Architects, a research division of the Crimson Covenant. |
 | **The Flesh Architects** | Research division of the Crimson Covenant. Ran the Catalyst Project on Shadar-kai subjects. Operated Site Gamma-7. |
 
 ---

@@ -1,4 +1,4 @@
-# Session 1 Report -- "The Debt" (As Played)
+﻿# Session 1 Report -- "The Debt" (As Played)
 
 Canonical record of what actually happened at the table. Where this report contradicts the source script, **this report wins**.
 
@@ -24,7 +24,7 @@ Canonical record of what actually happened at the table. Where this report contr
 - **Crimson Covenant necklace:** Balor found it in a box of necklaces/trinkets, paid **2 gp**. He **recognized it immediately** (player informed privately) and **has told no one** -- not in-character, not at the table. Secret asset.
 
 ### 3. FX's Briefing & Symbol Reveals
-- Played as scripted: Weave-Stabilization Initiative, Site Gamma-7, the Arquitetos symbol (circle, three sweeping curves, one broken/thinner).
+- Played as scripted: Weave-Stabilization Initiative, Site Gamma-7, the strange symbol (circle, three sweeping curves, one broken/thinner).
 - **Zan revealed recognition publicly.**
 - **Kaelyn revealed recognition publicly.**
 - **Aurora concealed hers** -- the Broken Crown constellation connection remains her secret.

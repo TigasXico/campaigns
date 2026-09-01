@@ -1,7 +1,7 @@
----
+﻿---
 id: the_flesh_architects
 type: organization
-name: "The Flesh Architects (Arquitetos da Carne)"
+name: "The Flesh Architects"
 status: draft
 tags:
   - organization, evil, experiments, research_division, crimson_covenant, catalyst_project, b_crystals
@@ -27,7 +27,7 @@ updated: 2026-08-13
 
 ## Overview
 
-The **Flesh Architects (Arquitetos da Carne)** are a specialized research division of the **Crimson Covenant**, dedicated to the study, modification, and weaponization of mortal physiology through arcane experimentation. They are the Covenant's most brutal and effective scientific arm -- where Project Genesis focused on breeding a vessel for Khar'zul, the Flesh Architects focused on understanding and manipulating the fundamental building blocks of mortal biology.
+The **Flesh Architects** are a specialized research division of the **Crimson Covenant**, dedicated to the study, modification, and weaponization of mortal physiology through arcane experimentation. They are the Covenant's most brutal and effective scientific arm -- where Project Genesis focused on breeding a vessel for Khar'zul, the Flesh Architects focused on understanding and manipulating the fundamental building blocks of mortal biology.
 
 ---
 

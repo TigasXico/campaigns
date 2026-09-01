@@ -1,17 +1,17 @@
----
+﻿---
 id: fx
 type: character
 name: "FX"
 status: draft
 tags:
-  - npc, mob_boss, underworld, information_broker, criminal_network, merchant_guild, arquitetos, the_symbol
+  - npc, mob_boss, underworld, information_broker, criminal_network, merchant_guild, Flesh Architects, the_symbol
 related:
   - kythorian_timeline: E93-E97 (arranged the heist on the Thormvuld floating island)
   - the_thormvuld_family: FX orchestrated the heist against the Thormvulds
   - the_arcane_reactive_crystals: FX's mission was to acquire B-crystal samples
-  - the_flesh_architects: FX discovered the Thormvulds are running experiments similar to the Flesh Architects; found a symbol linking them to the "Arquitetos"
+  - the_flesh_architects: FX discovered the Thormvulds are running experiments similar to the Flesh Architects; found a strange symbol in their documents
   - zan_vaelis_zandorian: FX connected the Thormvulds' experiments to the ones that created Zan
-  - the_crimson_covenant: FX has not yet identified the Covenant; only knows of the "Arquitetos" (Architects)
+  - the_crimson_covenant: FX has not yet identified the Covenant; only knows of the strange symbol in the Thormvuld documents
 secrets:
   - text: "FX is not just an intermediary. He is a shareholder and patron of the rival merchant guild from another continent. The guild's goal is to create a floating global trading hub that will circumnavigate the globe. The party does not know this."
     access: gm-only
@@ -19,11 +19,11 @@ secrets:
     access: gm-only
   - text: "FX's true name, origin, and full appearance are known to almost no one. He presents a controlled persona to the party -- charming, calculating, dangerous -- but even that may be a mask."
     access: gm-only
-  - text: "FX discovered a symbol buried in the Thormvuld documents -- a circle with three sweeping curves, one broken. He traced it to a group called the 'Arquitetos' (Architects). He does not know this is the Flesh Architects' mark. He has not shared the name 'Flesh Architects' with the party -- only the symbol and the Arquitetos reference."
+  - text: "FX discovered a symbol buried in the Thormvuld documents -- a circle with three sweeping curves, one broken. He does not know what organization it belongs to. It appears repeatedly in documents referencing Site Gamma-7. That is all he knows. He has not shared everything he suspects with the party."
     access: gm-only
   - text: "FX is rattled. He has not been this scared in years. The symbol connects to something that operates above the underworld, and he is considering cutting ties and disappearing if the trail leads too high. He hides this from the party."
     access: gm-only
-  - text: "FX knows of Site Gamma-7 -- an abandoned research outpost in the frontier, referenced in the Thormvuld documents as an 'Arquitetos' facility. He is sending the party to investigate it. He does not know what they will find there."
+  - text: "FX knows of Site Gamma-7 -- an abandoned research outpost in the frontier, referenced in the Thormvuld documents alongside the strange symbol. He is sending the party to investigate it. He does not know what they will find there."
     access: gm-only
 created: 2026-08-16
 updated: 2026-08-18
@@ -62,15 +62,15 @@ FX is unusually well-informed:
 
 3. **The rival guild's true goal**: As a shareholder, FX is fully aware the guild intends to build a **floating global trading hub** that will circumnavigate the globe, revolutionizing trade and transportation. He keeps this from the party -- for now.
 
-4. **The Symbol and the Arquitetos**: Deep in the Thormvuld documents, FX found a symbol -- a circle with three sweeping curves, one broken. He traced it to a group called the "Arquitetos" (Architects). He does not know this is the Flesh Architects' mark. He has not shared the name "Flesh Architects" with the party.
+4. **The Symbol**: Deep in the Thormvuld documents, FX found a symbol -- a circle with three sweeping curves, one broken. It appears repeatedly in documents referencing Site Gamma-7. He does not know what organization it belongs to. He has not shared everything he suspects with the party.
 
-5. **Site Gamma-7**: An abandoned research outpost in the frontier. The Thormvuld documents reference it as an Arquitetos facility. FX is sending the party to investigate.
+5. **Site Gamma-7**: An abandoned research outpost in the frontier. The Thormvuld documents reference it alongside the strange symbol. FX is sending the party to investigate.
 
 ## Post-Heist State: Rattled
 
-After the heist, as FX decoded the Thormvuld documents, he found something that shook him. The symbol. The Arquitetos references. The realization that the Thormvulds were copying someone else's work -- and that someone else might still be out there.
+After the heist, as FX decoded the Thormvuld documents, he found something that shook him. The symbol. Strange references. The realization that the Thormvulds were copying someone else's work -- and that someone else might still be out there.
 
-For the first time in years, FX is not in control. He doesn't know who the Arquitetos are, what they wanted, or whether they still exist. He only knows:
+For the first time in years, FX is not in control. He doesn't know who built the symbol, what they wanted, or whether they still exist. He only knows:
 - They operated in the shadows
 - Their methods involved experiments on living subjects
 - The Thormvulds were using their techniques

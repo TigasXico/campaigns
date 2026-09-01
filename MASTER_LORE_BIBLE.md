@@ -1,4 +1,4 @@
-# KYTHORIA CAMPAIGN BIBLE — Master Lore Document
+﻿# KYTHORIA CAMPAIGN BIBLE — Master Lore Document
 ## LLM-Optimized | Aetris / Kythoria | Campaign Year 500
 
 **Purpose**: Single comprehensive reference of all canon lore. For AI agents and GM reference.
@@ -213,7 +213,7 @@ Centuries-spanning objective: create a mortal vessel capable of containing Khar'
 ### The Covenant & Paul's Murder [GM-SECRET]
 The Order of the Scales framed the Crimson Covenant for Paul's murder. The Covenant would never have killed Paul — as a B-touched visionary, he would have been a valuable asset.
 
-## 3.2 The Flesh Architects (Arquitetos da Carne)
+## 3.2 The Flesh Architects
 
 ### Relationship
 Semi-autonomous research division within the Crimson Covenant. Report to Inner Circle through Cardinals. Funded by Covenant, subjects sourced from Covenant operations.
@@ -896,9 +896,9 @@ Standard: copper, silver, gold, platinum pieces + gemstones. [GM-SECRET: All are
 - Mob boss. Hired party for Thormvuld heist. Top-tier underworld figure.
 - **Shareholder and patron** of a rival merchant guild from another continent. [GM-SECRET]
 - Guild goal: build a floating global trading hub. [GM-SECRET]
-- Discovered the **Arquitetos symbol** in Thormvuld documents — a circle with three sweeping curves, one broken.
-- Traced it to the Flesh Architects. **Doesn't know the name "Flesh Architects."**
-- Sent party to **Site Gamma-7**, an abandoned Arquitetos facility.
+- Discovered a **strange symbol** in Thormvuld documents — a circle with three sweeping curves, one broken.
+- Does not know what organization it belongs to. Only knows it appears with references to **Site Gamma-7**.
+- Sent party to **Site Gamma-7** to investigate.
 - **Rattled** — not in control for first time in years. Hides it behind charm.
 - Knows about Zan's history but hasn't shared everything.
 
@@ -1110,7 +1110,7 @@ Standard: copper, silver, gold, platinum pieces + gemstones. [GM-SECRET: All are
 
 - Party assembled at FX's safe house in Stonefall. All 7 PCs introduced (Odessa and Sanzo absent).
 - Visited Stonefall: Rusty Compass tavern (drunk trapper's rumor: "wolves carrying shiny rocks"). Shopping. Balor bought Crimson Covenant necklace (secret).
-- FX's briefing: Weave-Stabilization Initiative, Site Gamma-7, the Arquitetos symbol.
+- FX's briefing: Weave-Stabilization Initiative, Site Gamma-7, the strange symbol.
 - Zan and Kaelyn revealed recognition of symbol publicly. Aurora concealed hers.
 - Private Zan-Kaelyn conversation: shared past as victims of Flesh Architects. Balor excluded.
 - Nyra arrived, attacked Aegon (wants info about her parents). FX raised privacy barrier.

@@ -1,4 +1,4 @@
-# SESSION 2 PREP — "The Silent Ring"
+﻿# SESSION 2 PREP — "The Silent Ring"
 
 
 ## 0. Continuity Snapshot & Party Resources
@@ -228,7 +228,7 @@ Late morning. Nine stones in moor grass — life→death→rebirth carvings. A l
 - A **collapsed dome** — ribs pointed at the sky like a hand mid-clench.
 - A **broken tower** snapped at half height.
 - Geometric scars across the valley — foundations, embankments, tree-lines planted too straight.
-- Everything built by the Arquitetos — the same symbol from FX's briefing.
+- Everything built by the Flesh Architects — the same symbol from FX's briefing.
 - **Zan (private):** *you've been inside a building drawn by this same hand* — the layout, proportions, the way structures crouch around a central axis.
 - At the complex's heart, set into the slope: a **door**. Tall, seamless, dark. No handle. No hinges. No inscription.
 - The door is **intact. And closed.**

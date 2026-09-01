@@ -1,4 +1,4 @@
----
+﻿---
 id: session_1_prep
 type: campaign_note
 name: "Session 1 Prep -- The Debt"
@@ -110,7 +110,7 @@ As evening falls, FX emerges from his office. He calls the party into the common
 
 [FX taps the symbol -- a circle with three sweeping curves, one broken.]
 
-> *"I've been asking around. Quietly. One contact recognized it -- said it belongs to a group called the **Arquitetos** -- 'Architects.' That's all he knew. They operated decades ago. Research of some kind. The trail goes cold after that."*
+> *"I've been asking around. Quietly. No one recognizes it. Whatever this mark belongs to, it's buried deep. The trail goes cold immediately."*
 
 > *"What concerns me is this: the Thormvulds were **using their methods**. The experiments in that underground lab? The way they handled the crystals? It wasn't Thormvuld original research. They were **copying someone else's work**."*
 
@@ -118,7 +118,7 @@ As evening falls, FX emerges from his office. He calls the party into the common
 
 > *"And since the heist, I've had reports of people asking questions. Not Thormvuld -- I know their network. Different questions. About the crystals. About 'who took them.' The mark keeps coming up."*
 
-> *"I want you to find Site Gamma-7. It's three days into the frontier -- an abandoned research outpost. Bring back anything you can find. Records. Equipment. Anything that tells me who these Architects were and what they were doing. I need to know if we stepped into something bigger than a heist."*
+> *"I want you to find Site Gamma-7. It's three days into the frontier -- an abandoned research outpost. Bring back anything you can find. Records. Equipment. Anything that tells me what that symbol means and who was there. I need to know if we stepped into something bigger than a heist."*
 
 ### FX's Demeanor
 
@@ -130,7 +130,7 @@ As evening falls, FX emerges from his office. He calls the party into the common
 ### What FX Does NOT Say
 
 - He's scared. Not of the Thormvulds -- of what this symbol might mean.
-- He knows the name "Flesh Architects" but hasn't found anything solid on them.
+- He doesn't know what organization the symbol belongs to -- that's why he's sending the party.
 - He's considering cutting ties and disappearing if this is too big.
 - The symbol has been nagging at him in ways he can't explain.
 
@@ -297,9 +297,9 @@ Late morning. The party reaches a circle of standing stones -- ancient, weathere
 | **Role** | Mob boss / patron / quest-giver |
 | **Demeanor** | Rattled but composed. The mask is cracking slightly. |
 | **Voice** | Controlled, precise. Slightly faster than usual. |
-| **Goal** | Learn who the Architects are and whether they're a threat |
+| **Goal** | Learn what the symbol means and whether Gamma-7 poses a threat |
 | **Shares** | The symbol, Site Gamma-7 location, basic intel |
-| **Hides** | His fear, his contingency plans, the name "Flesh Architects" |
+| **Hides** | His fear, his contingency plans, how little he actually knows about the symbol |
 
 ### Old Man Rourke (Stonefall Shrine)
 
@@ -605,7 +605,7 @@ The party disturbs a nest of giant wolf spiders in a ruined structure or along a
 
 ### The Symbol (For You Only)
 
-Circle, three sweeping curves from center. One thinner, almost broken. Aurora calls it "the Broken Crown." Belongs to the Arquitetos (Flesh Architects). Zan, Kaelyn, Aurora recognize it privately.
+Circle, three sweeping curves from center. One thinner, almost broken. Aurora calls it "the Broken Crown." Unknown origin. Zan, Kaelyn, Aurora recognize it privately from their pasts.
 
 ### Road Encounters
 

@@ -1,4 +1,4 @@
----
+﻿---
 id: zan_vaelis_zandorian
 type: character
 name: "Zan (Vaelis Zandorian)"
@@ -102,7 +102,7 @@ At age 11, during a mission that went catastrophically wrong, Zan was trapped. T
 
 And in the silence of despair, **the Raven Queen answered.**
 
-His innate Shadar-kai teleportation awakened, saving his life and allowing him to reach the other side. But this divine victory became his curse. J.B. witnessed the awakening and saw Zan as a valuable commodity. He sold Zan to the **Flesh Architects** (Arquitetos da Carne) -- the Crimson Covenant's research division.
+His innate Shadar-kai teleportation awakened, saving his life and allowing him to reach the other side. But this divine victory became his curse. J.B. witnessed the awakening and saw Zan as a valuable commodity. He sold Zan to the **Flesh Architects** -- the Crimson Covenant's research division.
 
 ### Chapter 5: The Blood Laboratory, the Stones, and Subject 242 (Ages 11-13)
 

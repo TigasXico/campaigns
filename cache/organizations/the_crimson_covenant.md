@@ -54,7 +54,7 @@ A shadowy organization with two faces: known for horrific experiments creating D
 
 The Covenant maintains specialized research divisions. The most notable is:
 
-- **The Flesh Architects (Arquitetos da Carne)**  -  A dedicated research division focused on the study, modification, and weaponization of mortal physiology through arcane experimentation. Responsible for the **Catalyst Project** which studied Shadar-kai teleportation using B Crystals. Subject 242 (Zan) was their most notable escapee. See `organizations/the_flesh_architects.md` for full details.
+- **The Flesh Architects**  -  A dedicated research division focused on the study, modification, and weaponization of mortal physiology through arcane experimentation. Responsible for the **Catalyst Project** which studied Shadar-kai teleportation using B Crystals. Subject 242 (Zan) was their most notable escapee. See `organizations/the_flesh_architects.md` for full details.
 
 ## Recruitment
 

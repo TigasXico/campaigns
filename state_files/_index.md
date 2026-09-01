@@ -1,4 +1,4 @@
-# WorldAnvil Lore Cache  -  Entity Index
+﻿# WorldAnvil Lore Cache  -  Entity Index
 
 | ID | Type | Name | Status | Updated |
 |----|------|------|--------|---------|
@@ -90,7 +90,7 @@
 | the_eastern_port                     | location       | The Eastern Port                         | draft  | 2026-08-09 |
 | the_ecumenical_council               | organization   | The Ecumenical Council                   | draft  | 2026-08-09 |
 | the_first_alliance                   | organization   | The First Alliance                       | active | 2026-08-11 |
-| the_flesh_architects                 | organization   | The Flesh Architects (Arquitetos da C... | draft  | 2026-08-13 |
+| the_flesh_architects                 | organization   | The Flesh Architects                       | draft  | 2026-08-13 |
 | the_four_barbarian_tribes            | organization   | The Four Barbarian Tribes                | draft  | 2026-08-09 |
 | the_frontier                         | location       | The Western Frontier                     | draft  | 2026-08-09 |
 | the_frostmaw                         | location       | The Frostmaw                             | draft  | 2026-08-09 |
