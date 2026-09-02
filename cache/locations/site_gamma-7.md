@@ -9,9 +9,9 @@ related:
   - the_crimson_covenant: The Flesh Architects are a division of the Covenant
   - veritas_in_fractum: Gamma-7 bore ViF's Three Curves symbol throughout -- it was a ViF coalition facility operated by Flesh Architects personnel
   - zan_vaelis_zandorian: The facility's layout resembles the one Zan escaped from
-  - the_arcane_reactive_crystals: A single B-crystal sample remains in containment
+
 secrets:
-  - text: "Site Gamma-7 is not empty. Something remains -- records, equipment, and a single active B-crystal sample in a containment lab. The deeper the party explores, the more dangerous it becomes."
+  - text: "Site Gamma-7 is not empty. Something remains -- records, equipment, and a deadly guardian beast in an old containment vault. The deeper the party explores, the more dangerous it becomes."
     access: gm-only
   - text: "The facility was decommissioned after the Catalyst Project moved to a larger location. Records here are older, less complete -- but they reference both 'Project Genesis' and 'the Catalyst Project' by name."
     access: gm-only
@@ -39,7 +39,7 @@ The facility has been abandoned for years. The surface buildings are partially c
 ## Secrets (GM Only)
 
 - The facility was a ViF coalition outpost, not just a Flesh Architects one
-- A single B-crystal sample remains in a containment lab -- pulsing, unstable, dangerous
+- A Guardian Beast prowls the old containment vault -- a crystal-infused gatekeeper left behind
 - Records inside reference "Project Genesis" and "the Catalyst Project"
 - A letter from ViF's Underdark Arcane Division confirms Kaelyn was a coalition-wide specimen
 - The deeper the party explores, the more they uncover -- and the more dangerous it becomes
