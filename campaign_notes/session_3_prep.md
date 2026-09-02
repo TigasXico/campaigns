@@ -495,96 +495,145 @@ For when the party searches a random drawer or cabinet and you want to toss them
 
 ## 14. THORMVULD STAT BLOCKS (Quick Reference)
 
-### Thormvuld Veteran Guard
+> ### Thormvuld Veteran Guard
+> *Medium humanoid (human), lawful evil*
+> 
+> **Armor Class** 16 (chainmail)
+> **Hit Points** 45 (7d8+14)
+> **Speed** 30 ft.
+> 
+> ---
+> 
+> | STR | DEX | CON | INT | WIS | CHA |
+> |-----|-----|-----|-----|-----|-----|
+> | 16 (+3) | 12 (+1) | 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) |
+> 
+> ---
+> **Senses** passive Perception 11
+> **Languages** Common
+> **Challenge** 2 (450 XP)
+> 
+> ---
+> 
+> ***Multiattack.*** The guard makes two longsword attacks.
+> 
+> ***Longsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d8+3) slashing damage, or 9 (1d10+3) if wielded with two hands.
+> 
+> ***Heavy Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:* 7 (1d12+1) piercing damage.
+> 
+> ---
 
-*Medium humanoid (human), lawful evil - CR 2 (450 XP)*
+-----
 
-| AC             | HP          | Speed |
-| -------------- | ----------- | ----- |
-| 16 (chainmail) | 45 (7d8+14) | 30 ft |
+> ### Thormvuld Arcane Advisor
+> *Medium humanoid (human), lawful evil*
+> 
+> **Armor Class** 12
+> **Hit Points** 32 (7d8+7)
+> **Speed** 30 ft.
+> 
+> ---
+> 
+> | STR | DEX | CON | INT | WIS | CHA |
+> |-----|-----|-----|-----|-----|-----|
+> | 8 (-1) | 14 (+2) | 12 (+1) | 17 (+3) | 12 (+1) | 14 (+2) |
+>
+> ---
+> 
+> **Saving Throws** Int +5, Wis +3
+> **Senses** passive Perception 11
+> **Languages** Common, Draconic
+> **Challenge** 3 (700 XP)
+> 
+> ---
+> 
+> ***Spellcasting.*** The advisor is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following wizard spells prepared:
+> 
+> Cantrips (at will): fire bolt, mage hand, minor illusion
+> 1st level (4 slots): shield, magic missile, identify
+> 2nd level (3 slots): misty step, web, suggestion
+> 
+> ---
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-| ------- | ------- | ------- | ------ | ------- | ------ |
-| 16 (+3) | 12 (+1) | 14 (+2) | 10 (0) | 12 (+1) | 10 (0) |
+----
 
-**Actions:** Multiattack (2). Longsword +5 (1d8+3). Heavy Crossbow1+3 (1d12+1).
-
-**Tactics:** Fight in pairs. One engages melee, one provides ranged cover. Use crossbow for opportunity attacks when enemies flee.
-
-### Thormvuld Arcane Advisor
-
-*Medium humanoid (human), lawful evil - CR 3 (700 XP)*
-
-| AC  | HP         | Speed |
-| --- | ---------- | ----- |
-| 12  | 32 (7d8+7) | 30 ft |
-
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |
-| ------ | ------- | ------- | ------- | ------- | ------- |
-| 8 (-1) | 14 (+2) | 12 (+1) | 17 (+3) | 12 (+1) | 14 (+2) |
-
-**Spells (DC 14, +6):** 
-- Cantrips: Fire Bolt, Mage Hand, Minor Illusion. 
-- 1st (4 slots): Shield, Magic Missile, *Identify* (ritual). 
-- 2nd (3 slots): Misty Step, Web, Suggestion
-
-**Tactics:** Stays behind guards. Uses Web to control the battlefield. Misty Step to escape danger. Shield defensively.
-
-### Lord Keylor Thormvuld (Lieutenant - Optional)
-
-*Medium humanoid (dwarf), lawful evil - CR 4 (1,100 XP)*
-
-| AC                           | HP          | Speed |
-| ---------------------------- | ----------- | ----- |
-| 17 (studded leather + parry) | 58 (9d8+18) | 35 ft |
-
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 18 (+4) | 14 (+2) | 12 (+1) | 14 (+2) | 16 (+3) |
-
-**Actions:** 
-- Multi-attack - 2 Rapier attacks per turn
-- Rapier, +7, (1d8+4 piercing + 2d6 poison)
-- Dagger, +7, (1d4+4)
-  
-**Reactions:**
-- Parry (reaction): +3 to AC against one melee attack.
-
-**Tactics:** Duels intelligently - uses Parry, targets casters and squishy-looking PCs. Carries a Potion of Invisibility for escape.
+> ### Lord Keylor Thormvuld (Lieutenant, Optional)
+> *Medium humanoid (dwarf), lawful evil*
+> 
+> **Armor Class** 17 (studded leather + parry)
+> **Hit Points** 58 (9d8+18)
+> **Speed** 35 ft.
+> 
+> ---
+> 
+> | STR | DEX | CON | INT | WIS | CHA |
+> |-----|-----|-----|-----|-----|-----|
+> | 14 (+2) | 18 (+4) | 14 (+2) | 12 (+1) | 14 (+2) | 16 (+3) |
+>
+> ---
+> 
+> **Saving Throws** Dex +6, Con +4
+> **Skills** Acrobatics +6, Perception +4
+> **Senses** passive Perception 14
+> **Languages** Common, Dwarvish
+> **Challenge** 4 (1,100 XP)
+>
+> ---
+> 
+> ***Multiattack.*** Keylor makes two rapier attacks or one rapier and one dagger attack.
+> 
+> ***Rapier.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (1d8+4 + 2d6) piercing and poison damage.
+> 
+> ***Dagger.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 6 (1d4+4) piercing damage.
+>
+> ---
+> 
+> ***Parry (Reaction).*** Keylor adds +3 to his AC against one melee attack that would hit him.
+> 
+> ---
 
 ---
 
 ## 13. GUARDIAN BEAST STAT BLOCK
 
-### Crystal-Infused Guardian Beast (Gamma-7 Gatekeeper)
-
-*Medium/Large monstrosity (experiment), neutral evil - CR 3 (700 XP)*
-
-| AC                                   | HP            | Speed |
-| ------------------------------------ | ------------- | ----- |
-| 14 (natural armor + crystal growths) | 75 (10d10+20) | 30 ft |
-
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-| ------- | ------- | ------- | ------ | ------- | ------ |
-| 18 (+4) | 12 (+1) | 15 (+2) | 4 (-3) | 13 (+1) | 6 (-2) |
-
-**Saving Throws:** STR +6, CON +4
-**Damage Resistances:** piercing from non-magical weapons
-**Condition Immunities:** frightened, charmed
-**Senses:** darkvision 60 ft, passive Perception 13
-
-**Traits:**
-- **Crystal-Infused Hide:** Crystal growths across the beast's shoulders and skull grant +2 AC against ranged attacks.
-- **Hoarding Instinct:** The beast has disadvantage on WIS saves but cannot be persuaded or intimidated to leave its hoard.
-- **Maddened Rampage:** When reduced to 30 HP or fewer, the beast enters a frenzy - it makes one extra attack per round but attacks at disadvantage until the end of its next turn.
-
-**Actions:**
-- **Multiattack:** Two attacks - one Claw and one Bite.
-- **Claw:** +6, reach 5 ft, one target. Hit: 11 (2d6+4) slashing damage.
-- **Bite:** +6, reach 5 ft, one target. Hit: 9 (1d10+4) piercing damage.
-- **Crystal Shard Burst (Recharge 5-6):** The beast flares its crystal growths, releasing a burst of arcane energy in a 10-ft radius. Creatures in range must make DC 12 DEX save or take 3d6 force damage. Half on success. After using this ability, the beast's crystal growths dim , creature is exhausted, reducing speed by 10 ft, until the end of its next turn.
-
-**Tactics:**
-- The beast fights defensively - it knows the room and will use the confined space to prevent the party from surrounding it.
-- It prioritizes anyone carrying shiny metal objects or gold (hoarding instinct).
-- If cornered or reduced to 30 HP, it unleashes Crystal Shard Burst and then tries to flee (triggering a chase encounter).
+>### Crystal-Infused Guardian Beast (Gamma-7 Gatekeeper)
+>*Large monstrosity (experiment), neutral evil*
+>
+>**Armor Class** 13 (natural armor). Crystal growths grant +2 AC against ranged attacks (effective 15 vs ranged).
+>**Hit Points** 75 (10d10+20)
+>**Speed** 40 ft.
+> 
+> ---
+> 
+>| STR | DEX | CON | INT | WIS | CHA |
+>|-----|-----|-----|-----|-----|-----|
+>| 20 (+5) | 12 (+1) | 17 (+3) | 4 (-3) | 13 (+1) | 6 (-2)
+>
+> ---
+>
+>**Saving Throws** Str +7, Con +5
+>**Damage Resistances**: **piercing** from *nonmagical weapons*
+>**Condition Immunities** frightened, charmed
+>**Senses** darkvision 60 ft., passive Perception 11
+>**Languages** --
+>**Challenge** 3 (700 XP)
+>
+> ---
+>
+>***Crystal-Infused Hide.*** Crystal growths across the beast's shoulders and skull grant +2 AC against ranged attacks.
+>
+>***Hoarding Instinct.*** The beast has disadvantage on Wisdom saving throws but cannot be persuaded or intimidated to leave its hoard.
+>
+>***Maddened Rampage.*** When reduced to 30 hit points or fewer, the beast enters a frenzy. It discharges a ***Crystal Shard Burst*** and makes one extra attack per round but attacks at disadvantage until the end of its next turn.
+>
+> ---
+>
+>***Multiattack.*** The beast makes two attacks: one with its claws and one with its bite.
+>
+>***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+5) slashing damage.
+>
+>***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d10+5) piercing damage.
+>
+>***Crystal Shard Burst (Recharge 5-6).*** The beast flares its crystal growths, releasing a burst of arcane energy in a 10-foot radius. Creatures in range must make a DC 14 Dexterity saving throw, taking 14 (3d6) force damage on a failed save, or half as much on a successful one. After using this ability, the beast's crystal growths dim and it gains one level of exhaustion (reducing speed by 10 ft.) until the end of its next turn.
+>
+> ---

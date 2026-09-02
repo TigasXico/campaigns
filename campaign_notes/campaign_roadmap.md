@@ -441,7 +441,7 @@ The party always has **3-4 active hooks**. Some are urgent, some beckon, some pe
 | **CMGMI** | Currency Metals, Gemstones, and Magical Items -- the three categories of matter that B-crystal-influenced creatures seek out and hoard. All three are fragments of B's physical remains. |
 | **B-Crystals** | Arcane-reactive crystals. Condensed physical remnants of Entity B. Infect living creatures with B's subconscious hoarding influence upon proximity. |
 | **B-Touched** | A mortal permanently modified by or attuned to B's essence. Zan, Kaelyn, Aurora, and Aegon are B-touched. |
-| **The Flesh Architects (symbol)** | The circle-with-three-curves symbol belonging to the Flesh Architects, a research division of the Crimson Covenant. |
+| **The Flesh Architects (symbol)** | The circle-with-three-curves symbol belonging to Veritas in Fractum (ViF) -- the secret coalition. The Flesh Architects and Crimson Covenant use it as ViF members, but it is not exclusively theirs. |
 | **The Flesh Architects** | Research division of the Crimson Covenant. Ran the Catalyst Project on Shadar-kai subjects. Operated Site Gamma-7. |
 
 ---

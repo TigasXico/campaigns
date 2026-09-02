@@ -29,13 +29,64 @@ B-Crystals are not static threats. As the campaign progresses and more deposits 
 
 **Mortal side**: Progressive infection creates fractures within mortal society. Frontier tension becomes town-level conflict becomes settlement infighting becomes city-wide paranoia. If left unchecked, the influence reaches a point where no mortal institution can be trusted — everyone becomes a potential vector.
 
----
+
+
+### Table Realities
+
+- **Party size**: 7 players in one group. Odessa and Sanzo are sporadic/absent.
+- **Leveling**: Milestone. The Gamma-7 threshold trigger (crossing the door -> Level 4) is NOT YET approved.
+- **Main plot ratio**: 30% main plot (conspiracy layers), 30% backstory arcs (PC spotlights), 20% exploration/travel, 20% downtime/character moments.
+
+------
 
 # PART 1: THE B-CRYSTAL INFLUENCE SYSTEM
 
 This system runs in the background of the entire campaign. The influence grows and evolves based on party actions, world events, and the passage of game time. It is not a script — it is a pressure that the party can accelerate, slow, or redirect.
 
 ---
+
+### 1.0 Fundamentals
+
+#### Key Terminology: CMGMI
+
+**CMGMI** (Currency Metals, Gemstones, and Magical Items) are the three categories of matter that B-crystal-influenced creatures seek out and hoard. All three are **fragments of B's physical remains** scattered across the Material Plane during the Great Sacrifice:
+
+- **Currency Metals** -- Gold, silver, copper, platinum
+- **Gemstones** -- Diamonds, rubies, emeralds, and all precious stones
+- **Magical Items** -- Any enchanted or magically active object
+
+The hoarding instinct is not random greed -- it is a subconscious pull to **reunite scattered fragments of B's body**.
+
+#### The Infection Mechanism
+
+**Step 1: Exposure** -- A creature comes within range of an active B-crystal. The crystal's arcane field automatically connects to the creature's innate magical energy.
+
+**Step 2: Initial Influence** -- Very weak, barely perceptible as a faint preference toward CMGMI. The creature may hold onto a coin a moment longer, or feel a slight satisfaction near a hoard.
+
+**Step 3: The Self-Feeding Cycle** -- B-crystal exposure -> influence activated -> creature hoards CMGMI -> proximity to larger hoard = stronger influence -> more hoarding -> cycle continues.
+
+**Step 4: Escalation** -- From "preference" to "mild compulsion" to "obsession" to "total subordination."
+
+**Step 5: Recovery via Isolation** -- If removed from B-crystals AND CMGMI, influence gradually fades. After complete recovery, the creature returns to baseline. Reinfection possible at same threshold. **No permanent scarring** -- clean slate.
+
+#### Detection
+
+A creature **cannot tell** they are infected. The compulsion feels like their own thoughts.
+
+External detection:
+- **Detect Evil and Good or similar spells**: Reveals the influence as a faint, non-aligned resonance.
+- **Arcana check (DC 18+)**: A trained caster can identify it as "an external arcane influence -- ancient, non-hostile in intent but unrelenting."
+- **Behavioral observation**: Prolonged observation may reveal patterns the creature themself doesn't notice.
+
+#### Susceptibility Factors
+
+| Factor | Effect |
+|--------|--------|
+| **Wisdom score** | Higher Wisdom = more resistance. Lower Wisdom = more vulnerable. |
+| **B-touched status** | B-touched individuals (Zan, Kaelyn, Aurora, Aegon) are **more susceptible**. |
+| **Prior B-crystal exposure** | Previous exposure = lower resistance threshold. |
+| **Time spent near CMGMI** | Extended proximity to large hoards builds tolerance but deepens active infections. |
+| **Proximity to active crystals** | Being near an uncontained B-crystal accelerates infection dramatically. |
 
 ### 1.1 Monster Hoarding Escalation
 
@@ -59,7 +110,7 @@ This system runs in the background of the entire campaign. The influence grows a
 
 The influence advances through **two converging pressures**:
 
-1. **Party actions & discovery** — Every time the party (or a rival faction like the Covenant or Thormvulds) brings a new B-crystal deposit to the surface or into circulation, ambient resonance in the Weave increases globally. One small cache might nudge the needle; a major vein can push an entire stage forward.
+1. **Party actions & discovery** -- Every time the party (or a rival faction like the Covenant or Thormvulds) brings a new B-crystal deposit to the surface or into circulation, ambient resonance in the Weave increases globally. This is the **only** global amplifier. The other possible causes (Covenant experiments releasing crystal energy, the party's B-touched gathering, ritual progress) were intentionally removed -- they do not amplify the influence globally.
 
 2. **Time & inaction** — If no one actively contains deposits or purges infected areas, the influence compounds. Monsters continue hoarding. Mortals continue accumulating. The self-feeding cycle strengthens.
 
@@ -78,6 +129,27 @@ The party can slow or reverse progression locally and globally through the follo
 | 7 | **B-Touched as lightning rods** | The four B-touched PCs (Zan, Kaelyn, Aurora, Aegon) naturally resonate with B's essence. They could draw influence away from a region into themselves — acting as living anchors. | **Extremely dangerous** — accelerates their personal infection. Could cause addiction, loss of control, or permanent modification. High party-drama potential. | **Local / regional — high risk** |
 | 8 | **Containment vaults** | Physically sealing B-crystal deposits underground or in anti-magic vaults prevents ambient resonance from escaping. Doesn't destroy — contains. | Requires engineering and resources. A vault can be breached. The crystals remain dangerous if rediscovered or unearthed later. | **Local — temporary containment** |
 
+### 1.5 Lycanthropy — The B-Crystal Strain
+
+A special manifestation of B-crystal influence: the bite of a B-crystal-infected creature carries a curse that blends lycanthropy with B's lingering will. Introduced at the campaign's start (crystal wolves at the homestead siege, Session 2).
+
+**Vector**: Bite of a B-crystal-infected wolf (not normal wolves).
+**Confirmed infected**: Kaelyn, Zan, Balor (Session 2).
+
+**Mechanic**:
+1. **Incubation** — Dormant for 2 long rests. After the second rest, Constitution save (DC 14, +1 per failed save thereafter). Failure = early symptoms (restlessness, heightened senses, hunger for raw meat, faint crystal-colored veins at the bite wound).
+2. **Full Moon Trigger** — On the full-moon night, a DC 16 Constitution save determines control:
+   - Success by 5+: retain control in hybrid form (can speak/think clearly)
+   - Success: involuntary wolf form but some awareness (DC 12 Charisma save each turn to direct the beast)
+   - Failure: full wolf form, GM controls until dawn
+   - Failure by 5+: crystal-corrupted form (significantly worse)
+3. **The Whisper in the Blood** — B's lingering will colors the curse: a low hum near metal or gemstones, glowing crystal-colored veins during transformation, dreams of hoarding and of a heartbeat behind a door. Players feel *something wrong* but do not learn about B from the curse alone.
+4. **Cure** — Standard *remove curse* / *greater restoration* do NOT work. Requires a dedicated side quest: research the affliction (Weaveheart scholars or the Arcane Conclave), source a specific reagent (e.g., powdered moonstone from untouched snow, or a root that grows only in dead magic zones), and administer under specific conditions (new moon, or while magically restrained).
+
+**Narrative use**: The lycanthropy is a ticking clock (full moon ~4 days away at Session 3), a source of dread and character drama, and a hook pushing the party toward civilization (Weaveheart) — connecting to the Asterion letter, the Arcane Conclave, and the broader investigation.
+
+
+
 ---
 
 # PART 2: THE CONSPIRACY LAYERS
@@ -86,33 +158,45 @@ The campaign's secrets are organized into **four core layers + one supporting th
 
 ---
 
-### 2.1 Layer 1 — The Crimson Covenant
+### 2.1 Layer 1 — Veritas in Fractum & the Crimson Covenant (The Secret Coalition)
 
 **Core question**: *Who is hunting us and why?*
 
-**What this layer reveals**: A secret organization of dissident scholars, priests, and arcanists operates across Kythoria. They experiment with B-crystals, hunt specific individuals, and work toward resurrecting an ancient entity. Their reach extends from hidden frontier facilities to the highest levels of mortal society.
+**What this layer reveals**: Behind the Flesh Architects stands a secret coalition called **Veritas in Fractum (ViF)** — "Truth in Fragments" — founded by dissident First Alliance scholars who discovered that the gods orchestrated the monster invasion. ViF unites the **Crimson Covenant** (its most powerful member and primary action arm), the **Flesh Architects** (research division, increasingly erratic from B-crystal exposure), and the **Underdark Arcane Division** (a Drow research network with a hidden supremacy endgame). Their symbol, the **Three Curves**, represents A, B, and C — with B's broken curve marking the sacrificed Original. They experiment with B-crystals, hunt specific individuals, work toward resurrecting an ancient entity, and ultimately seek to destroy the gods and expose the Divine Conspiracy.
+
+**Structure to reveal gradually**:
+- **ViF** — a coalition of fragments. Governed by the **Convocation of Fragments** (one representative per member organization). No single leader. Consensus-based, increasingly strained as divisions' goals diverge.
+- **The Crimson Covenant** — ViF's primary action arm. Does NOT worship Khar'zul — they study and control him. Internal hierarchy: Inner Circle (7, identities secret even from Apostles), Apostles (12), Cardinals (regional control, unaware of the Inner Circle), Inquisitors, Seekers, Faithful.
+- **The Flesh Architects** — independent ViF member, increasingly erratic from B-crystal exposure. Corrupted by generations of B-crystal exposure (Fusion Doctrine, Implantation Rite). Their goal has shifted from weapons to transcendence.
+- **The Underdark Arcane Division** — Drow research network operating beneath Lolth's notice. Hidden endgame: kill the gods, then establish Drow supremacy. Kept secret from the rest of ViF. Kaelyn was held by this division -- her cell wall bore the Three Curves; she is a coalition-wide specimen, not merely a Drow outcast.
 
 **Revelation schedule** (embedded, no fixed session numbers — triggered by party actions and arc progression):
 
 | Reveal | How the Party Learns It |
 |--------|------------------------|
-| The Flesh Architects symbol belongs to an organization that experimented on living subjects | Gamma-7 records — first concrete evidence |
+| The Three Curves symbol belongs to a secret organization that experimented on living subjects | Gamma-7 records — first concrete evidence. The symbol appears throughout the facility. |
 | Zan was Subject 242 — his file exists at Gamma-7 | Gamma-7 records + Zan's recognition. Personal connection to the facility. |
 | The crystals are reactive to living tissue — they *merge* | Encounter with the live B-crystal sample at Gamma-7. Visceral, not intellectual. |
-| House Thormvuld copied this organization's research | Thormvuld agents at Gamma-7 + documents. Establishes the Thormvulds are *followers*, not originators. |
-| A larger organization exists behind the Flesh Architects — the Crimson Covenant | Covenant agent encounter, or deeper Gamma-7 records. First mention of the name. |
-| The Thormvuld experiments are a replication of Flesh Architects' work | Documents at Gamma-7 + Thormvuld agents' orders. Connects two threads. |
+| House Thormvuld copied the Flesh Architects' research -- but the Three Curves symbol they unknowingly reproduced belongs to ViF, not the Architects alone | Thormvuld agents at Gamma-7 + documents. Establishes the Thormvulds are *followers*, not originators. |
+| A larger coalition stands behind the Flesh Architects — Veritas in Fractum (ViF), of which the Crimson Covenant is also a member | Covenant agent encounter, or deeper Gamma-7 records. First mention of the name. |
+| The Flesh Architects and the Crimson Covenant are both independent members of ViF, with the Three Curves as their shared symbol | Covenant structure document + ViF markings cross-referenced. Contextualizes Gamma-7. |
 | The Crimson Covenant is real, active, and ancient | Intercepted communication, captured agent, or found records. Name and existence confirmed. |
-| The Covenant wants to resurrect something using the crystals | Interrogated agent, or Covenant researcher's journal. "Something" — not yet named. |
+| The Covenant pursues Khar'zul's resurrection -- the balor general sealed in the blade Balor carries (Project Genesis) | Interrogated agent, or Covenant researcher's journal. "Something" — not yet named. |
 | Balor is the Covenant's primary target (Project Genesis) | A Covenant agent recognizes him at sight, or Balor finds his own file. Personal stakes. |
-| Zan is also wanted (escaped Subject 242) | Same source as above. Parallel reveal for Zan. |
-| The Covenant has a network of hidden facilities across the frontier | Map or records from Gamma-7 deeper levels. Opens exploration possibilities. |
-| The Covenant is not a monolith — it has research divisions | Covenant structure document found. Contextualizes the Flesh Architects. |
+| Zan would be of interest to the Flesh Architects and ViF (escaped Subject 242), but Balor is the Covenant's priority | Same source as above. Parallel reveal for Zan. |
+| The Covenant has a network of hidden facilities across the continent | Map or records from Gamma-7 deeper levels. Opens exploration possibilities. |
+| The Covenant does NOT worship Khar'zul — they study and control him | Covenant philosophy document, or a captured Apostle's testimony. Corrects a natural assumption. |
+| The Covenant's internal structure — Inner Circle hidden from Apostles and Cardinals | Covenant structure document or defector. Explains why no one knows who truly leads. |
 | The Romeo family has ties to the Covenant (intelligence network) | Bardolemeu's investigation, or Midnight Troupe encounter. Bardolemeu's arc trigger. |
-| The Covenant's ultimate goal: resurrect B to destroy the gods | Confrontation with a Cardinal-level Covenant member. Big Layer 2 climax. |
+| The Covenant's goal is not the gods themselves -- it is Khar'zul's resurrection and a ruling role in a post-gods world (their reason for joining ViF) | Confrontation with a Cardinal-level Covenant member. Big Layer 1 climax. |
+| The Crimson Covenant is a member of ViF -- a coalition that predates it and holds the full picture (Convocation of Fragments). ViF's core objective: destroy the gods, with B's resurrection as the means | Deepest Layer 1 reveal — a defector, captured Convocation representative, or assembled intelligence. |
+
+**Open threads to seed within Layer 1**:
+- **Balor's Covenant necklace** (Session 1): A secret purchase. When it activates or is detected by Covenant agents (Arc 1), it becomes a reveal trigger and a personal crisis for Balor.
+- **The blackmail artifact**: ViF holds a contingency (designed by its founders, maintained by the Covenant) that broadcasts the truth if not reset daily. Hint at its existence within Layer 1 (the Covenant has "leverage over the gods"); full mechanics revealed in Layer 3.
+- **Flesh Architects' corruption**: Their erratic behavior, self-implantation, and loss of strategic judgment are consequences of B-crystal exposure — visible to the party when they encounter Architects directly.
 
 ---
-
 ### 2.2 Layer 2 — B-Crystals & Entity B
 
 **Core question**: *What are these crystals? What is B?*
