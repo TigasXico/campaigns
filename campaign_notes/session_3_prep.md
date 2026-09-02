@@ -16,7 +16,7 @@
 | **Absent**                 | Aegon (departed overnight - see Cold Open), Odessa (still away), Sanzo (still away)                                      |
 | **HP**                     | Fully recovered after long rest                                                                                          |
 | **Rest**                   | Long rest complete at the homestead                                                                                      |
-| **FX Provisions**          | Potions of Healing (3), antitoxin, torches, tinderbox, bedrolls, 2? tents, rope, signal whistle, sending stone, map case |
+| **FX Provisions**          | Potions of Healing (3), antitoxin, torches, tinderbox, bedrolls, 2x tents, rope, signal whistle, sending stone, map case |
 | **Healing waterskins (7)** | Fully expired now - "just water with a memory." The glow has faded entirely.                                             |
 | **Gold**                   | Intact (no purses stolen in Session 2)                                                                                   |
 
@@ -37,31 +37,8 @@
 - Standing stones - not yet visited. Marked on FX's map as a landmark before Gamma-7.
 - Wolf hideout (NW, ~1 hr) - stash mound, shackle-band clue, injured wolves - still in canon if party doubles back.
 
-### Timeline Pressure - Monster Army Pushback
-
-**Context (from Session 1 guide / world timeline):**
-- The monster army has been massing for a coordinated pushback against the frontier settlements
-- Intel indicated **6 days** until the pushback begins
-- That timeline started before Session 1
-
-**Current status:**
-- The wolf attack at the homestead and the interrupted long rest delayed departure by roughly **2 hours**
-- The party is starting on **Day 3** of the original 6-day window
-- Travel to Gamma-7 takes **1 day** (passing the standing stones, arriving late afternoon)
-- Gamma-7 exploration: **unknown duration** (could be hours or full day)
-- Return travel: **3 days** back
-
-**What this means at the table:**
-- The party has roughly **3 days** before the monster army pushback begins
-- If they spend too long exploring Gamma-7 or detouring, the pushback catches them in the open frontier
-- If they return to Stonefall in time, they arrive as the settlement is preparing for siege
-- If they are late, they arrive to find Stonefall under siege or already fallen
-- This timer is flexible - use it as a pressure tool, not a hard deadline. If the party is having fun exploring Gamma-7, let them explore. If they are dawdling, remind them of the clock.
-
-**Connections to encounter:**
-- The Monster Army Patrol (d8 table, row 6) carries cache manifests - the army is repositioning supplies for the pushback
-- The Thormvuld arrival at Gamma-7 is unrelated to the timeline (they are here for the heist, not the war)
-- If the party lingers, they may encounter monster army scouts or forward elements on the return journey
+### Timeline Pressure (table reference)
+- **Monster army pushback:** 3 days remaining. Use as a pressure tool if they dawdle.
 
 ---
 
@@ -71,7 +48,6 @@
 
 **Recap - facts to convey:**
 - 11 wolves attacked silently at ~2-3 AM - 4 crystal-grown skulls, 7 gaunt starving
-
 - Party fought through the night, killed all 11
 - Level up to 4 after the fight
 - 3 crystal-wolf skull shards extracted (Aegon and Bardolemeu succeeded; Nyra's shattered)
@@ -84,7 +60,6 @@
 
 **The note (what players find on his bedroll, weighted with a stone):**
 - He left before dawn
-
 - Wants to investigate the crystal further, before proceeding
 - He'll find them when he can
 
@@ -119,15 +94,6 @@ Before departure, give the party a moment to:
 - Low altar with a rain-basin catching morning light
 - Water impossibly clear - no debris, no algae despite years exposed
 
-**The standing stones - purpose and atmosphere (generic, PC-agnostic):**
-- Ancient funerary and divination site - predates all known religions, unconsecrat/unclaimedebyto any god
-- Life -> death -> rebirth carvings cycle: the stones mark a place where the veil between those states is th - Leyline nexus
-- The altar basin water is impossibly clear - no debris, no algae - because it's not rainwater; it condenses from ambient moisture drawn by the stones' residual magic
-- Standing within the circle: profound quiet. No wind crosses the boundary. Sounds from outside are muffled. Voices inside carry clear and sharp.
-- The stones do not speak, but they *listen* - anyone who stands in the circle feelthe a gentle pressurof a room going quiet to listen. They are a witness-place. 
-- Anointing the altar with a drop of blood or a spoken intention makes the stones *remember* you.
-- Any PC who interacts meaningfully (offers something - a lock of hair, a memory spoken aloud, a drop of blood) feels a faint resonance in return - a sense of being *seen* by something ancient and indifferent but not hostile
-
 **Investigation:**
 
 | DC  | Check                    | Result                                                                                                                     |
@@ -143,7 +109,7 @@ Before departure, give the party a moment to:
 - Valley below: collapsed dome center (stone ribs clawing sky)
 - Broken tower snapped at half-height, leaning east
 - No smoke, no movement, no sound
-- Earth that's been disturbed in a circluar pattern, campfire, waste - signs of someone having been in the are recently
+- Earth that's been disturbed in a circular pattern, campfire, waste - signs of someone having been in the area recently
 
 **Exterior - approach facts (as party descends from ridge):**
 - Perimeter wall: waist-high in most places, crumbled stone with rusted iron spikes every 10 ft
@@ -213,7 +179,7 @@ Before departure, give the party a moment to:
 **Map Layout:**
 - **Size:** 8x8 squares (40x40 ft), octagonal/circular dome chamber
 - **Entry points:**   
-  - [ ] Collapsed dome opening in ceiling - AtleticshDC  43 to climb in/out, 10 min.  
+  - [ ] Collapsed dome opening in ceiling - Athletics DC 13 to climb in/out, 10 min.  
   - [ ] Main entrance door (Method B - hidden mechanism) in south wall  
   - [ ] Spiral staircase behind false bookcase in north wall (DC 12 Perception to find) - descends to underground level.
 - **Items to draw:** 
@@ -360,14 +326,6 @@ It is addressed to "Chief Researcher, Site Gamma-7" and discusses specimen trans
 - Her cell was marked because she was **ViF property** - a specimen in a shared research program (Underdark Division + Flesh Architects)
 - She was never "just" a Drow prisoner - she was part of something much larger
 
-### What This Means for Kaelyn
-
-1. **The symbol is not Drow** - it belongs to ViF, an ancient secret coalition that predates her imprisonment
-2. **ViF has multiple divisions** - the Flesh Architects (Gamma-7) and the Underdark Arcane Division (her captors) are two branches of the same tree
-3. **Her imprisonment was part of a coalition-wide effort** - data from Kaelyn's 20 years of experiments was likely shared between the Underdark Division and the Flesh Architects
-4. **The Flesh Architects did not abandon Gamma-7 by accident** - the facility was decommissioned and consolidated into a larger ViF project (the Primary Facility, referenced in Elena Vance's journal)
-5. **The Drow who held her may still be active** - the Underdark Arcane Division continues to operate in secret
-
 ### Emotional Beat (GM-facing - facts to convey to the player)
 
 - For 150 years she believed her mother imprisoned her purely out of cruelty and curiosity about her magical powers and crystal
@@ -376,25 +334,15 @@ It is addressed to "Chief Researcher, Site Gamma-7" and discusses specimen trans
 - Somewhere - Underdark archive, hidden vault, a paper with her name on it - her file still exists
 
 ---
-## 10. PLOT HOOK - NEXT POI
-**Source:** Room 5 (Records Office) - Partial Map + Vance journal
+## 10. INTEL THREADS (Deployable During Session)
 
-**The hook:** The Flesh Architects didn't abandon their work - they *consolidated* it. Gamma-7 was a Phase II monster-study outpost. All findings were forwarded to a **Primary Facility** somewhere to the east-southeast. The partial map shows another marked location - coordinates partially legible.
+Seeds to weave into descriptions, NPC dialogue, or found documents as the session unfolds:
 
-**What the party knows:**
-- There's a larger Flesh Architects facility somewhere to the east-southeast
-- The Catalyst Project (Zan's program) was run there
-- Project Genesis (Balor's arc) is referenced in Gamma-7's records
-- The researcher Elena Vance's journal names the **Chief Architect** - a named Flesh Architect figure
-- Agent Korvus (the requesting agent for Zan's transfer) is a named NPC who could be tracked
-
-**Possible directions for the hook:**
-- The party follows the map fragment to the primary facility
-- The party returns to FX with the intel and he directs them to the next lead
-- A Thormvuld agent captured at Gamma-7 has orders related to the primary facility
-
----
-
+- **Next facility:** Primary ViF facility exists east-southeast (partial map coordinates). Catalyst Project and Project Genesis referenced there.
+- **Agent Korvus:** Named requesting agent for Zan Subject 242 transfer. Trackable lead.
+- **Chief Architect:** Named in Elena Vance journal. A named Flesh Architect figure.
+- **Thormvuld scouts:** Reported near Gamma-7 in recent days. Searching for heist traces.
+- **Monster army activity:** Supply caches positioned across the frontier. Goblin-written manifests found on patrols.
 ## 11. THORMVULD ARRIVAL - FACTION PRESSURE
 
 ### Timing
@@ -424,24 +372,14 @@ Thormvuld arrives **during the party's exploration of Gamma-7.**
 
 **They do NOT know the party is here yet.** They're arriving expecting an empty facility they can clean up in a few hours.
 
-### Party's Options
-
-| Option                | Description                                                                                                                                                                                                            | Risk                                                                                     |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **Hide**              | Find a hiding spot (DC 14 Stealth, group check) and let Thormvuld pass through. Thormvuld will discover and destroy evidence before the party can recover it, but the party avoids combat.                             | Lose some loot/intel. Thormvuld destroys the facility on their way out.                  |
-| **Escape**            | Use the alternate entrance to slip out before Thormvuld enters. Retreat to the ridge, observe, plan. Safe but gives up interior exploration time.                                                                      | Unfinished exploration. But they can watch Thormvuld's movements and intercept later.    |
-| **Ambush**            | Set up an ambush inside the facility. Use the terrain. Strike when Thormvuld splits up to search.                                                                                                                      | Combat - 6+ enemies, tactically dangerous. Party has surprise on their side if prepared. |
-| **Negotiate**         | Reveal themselves and try to talk. Unlikely to work - Thormvuld has orders to eliminate loose ends. But a clever party might bluff their way out (pretend to be Flesh Architects affiliates, or unrelated scavengers). | High DC Deception, high risk if it fails.                                                |
-| **Fortify and Fight** | Barricade themselves in a room and make a stand. Thormvuld will call for reinforcements if they can't breach.                                                                                                          | Extended combat, potential reinforcements.                                               |
-
 ### What Thormvuld Does (If Unopposed)
 
 1. Enter through the main door (hidden mechanism - they know how to open it)
 2. Quickly sweep Room 1 (Main Hall) - veteran guards secure it
 3. Head to Room 5 (Records Office) - the arcane advisor searches for specific documents, orders the rest burned
-4. Descend to underground level - sweep Rooms 3?6 for remaining research materials, set charges
+4. Descend to underground level - sweep Rooms 3-6 for remaining research materials, set charges
 5. Set timed charges or oil fires throughout the facility
-6. Depart within 45?60 minutes
+6. Depart within 45-60 minutes
 
 **The party, if hidden, can:**
 - Observe what Thormvuld prioritizes (understand their objectives)
@@ -455,40 +393,18 @@ Thormvuld arrives **during the party's exploration of Gamma-7.**
 - Lord Keylor (or the lieutenant) fights dueling-style - precise, targeted
 - Thormvuld tries to capture one party member alive for interrogation rather than kill all
 
-### Long-Term Consequences
-
-- **If Thormvuld succeeds:** The facility is destroyed. The party loses access to remaining intel. Thormvuld knows someone was investigating Gamma-7 (they'll find footprints, disturbed dust, open cabinets).
-- **If the party escapes without engaging:** Thormvuld knows someone was there. They report to the family. FX's network may pick up increased Thormvuld activity.
-- **If combat happens and Thormvuld survivors escape:** The party now has active Thormvuld hunters. Wanted posters get more accurate.
-- **If the party defeats the Thormvuld force:** They can loot the bodies (see #12), take Thormvuld's own map/orders, and learn what Thormvuld knew about the facility. But killing a noble's soldiers has consequences. 
-  
-
 ## 5. D8 TRAVEL TABLE - Frontier Travel
-### Positive (1?2)
 
-| d8    | Encounter                                                                                                                                                                                                                                                                                                                                                                 |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Cache of Supplies.** Half-buried in a hollow log or under a collapsed stone: a weathered satchel. Left by a traveler who didn't make it. Contents: 2 Potions of Healing (standard), 1 vial of antitoxin, a pouch of trail mix (2 person-days), and a tarnished silver ring worth 10 gp. Inside the ring's band: an inscription in an old dialect - *"For better days."* |
-| **8** | **Gemstone Vein.** A small exposed mineral deposit in a dry creek bed (Perception DC 12 to spot). Nothing magical - just earth minerals. A successful DC 10 Mining/Jeweler's tools check yields 2d4 rough gemstones worth 10 gp each. Alternatively, a DC 12 Strength check breaks off larger chunks worth 15 gp total as decorative stone.                               |
-
-### Neutral (3?5)
-
-| d8    | Encounter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **3** | **Battlefield Remnants.** The road passes through the overgrown remnants of a skirmish - pre-invasion or early invasion. Bones half-sunk in the mud. A rusted sword planted upright in the earth like a grave marker. A helmet with a bullet hole. Scattered fragments of a soldier's letter, still legible: *"If you're reading this, bury me facing west. I want to see the frontier one last time."* Signs of crystal influence on the dead: one skeleton's ribcage is stained with faint crystalline residue. No combat. No loot. A reminder of the war's cost and the long reach of the influence. |
-| **4** | **Encroaching Wilds.** The frontier is transforming. The party passes through a stretch where the vegetation is subtly wrong - thorns growing in spiral patterns, flowers with unnaturally vivid colors (crimson, violet, a blue that doesn't exist in nature), roots surfacing in geometric lines. The air hums faintly. A DC 13 Nature check identifies the plants as mutated - arcane residue in the soil, probably from airborne crystal dust. The effect is purely cosmetic and dissipates a mile further west. A seed of unease.                                                                  |
-| **6** | **Watchtower Ruins.** A pre-Last Stand watchtower, collapsed and overgrown. Climbing to the top (DC 10 Athletics) gives a commanding view of the surrounding land - useful for spotting the standing stones or Gamma-7 from a distance. Inside: a logbook from the tower's last stationed scout. The last few entries grow increasingly erratic - *"The lights out there... they move like they're searching for something."* Then nothing. No remains found. Purely atmospheric.                                                                                                                       |
-
-### Negative (6?8)
-
-| d8    | Encounter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **2** | **Monster Army Patrol.** A small roving unit of the monster army - 2 hobgoblins leading 3 goblins on a supply-gathering mission. They're not looking for a fight, but they won't flee from one. They carry a small locked iron box containing supply manifests and cache coordinates for **Monster Army forward caches** - written in **Goblin**. **Bardolemeu can read this** (he speaks Goblin). The caches are scattered across the frontier, hidden for monster army troop movements. CR: Easy for a level-4 party of 6. Stat blocks: standard MM hobgoblin + goblin.                                                                                                                                                                                                                                                            |
-| **5** | **Ambush from Above.** A manticore (or young wyvern - GM's call based on party strength) has claimed a territory that overlaps the party's route. It attacks from surprise - diving from behind a rock formation or from low cloud cover. It's hungry, not infected by crystals. After taking 50% HP damage, it breaks off and retreats rather than fighting to the death. Lair nearby (optional pursuit) contains remains of previous victims - 3d10 gp, a torn backpack with 1 Potion of Greater Healing, and a half-melted silver holy symbol of Aurelius.                                                                                                                                                                                                                                                                        |
-| **7** | **Ongoing Battle.** The party crests a rise and sees a skirmish unfolding in the valley below - a **Thormvuld supply caravan** (3 wagons) under attack by monster army forces (1 ogre + 6 goblins). **Why Thormvuld is here:** Lord Keylor Thormvuld is scouring the region for traces of the documents stolen in his study heist - he has dispatched supply-runners and patrols across the frontier to support a network of search-and-destroy teams. This caravan was restocking one such team when the monster army ambushed it. The Thormvuld guards (4 human veterans) are losing. The party can: (A) help the Thormvuld - risky, they'll be remembered by Thormvuld scouts, (B) help the monsters - dark-alignment choice, (C) slip past while both sides are distracted - Stealth DC 14, (D) wait and scavenge the aftermath. |
-
----
- 
+| d8 | Encounter |
+|----|-----------|
+| **1** | **Cache of Supplies.** Half-buried satchel: 2 Potions of Healing, 1 antitoxin, trail mix (2 days), silver ring (10 gp). Inscribed: *"For better days."* |
+| **2** | **Monster Army Patrol.** 2 hobgoblins + 3 goblins. Locked iron box with supply manifests in Goblin (Bardolemeu reads). CR: Easy. |
+| **3** | **Battlefield Remnants.** Pre-invasion skirmish site. Bones, rusted sword, helmet with bullet hole. Crystal-stained skeleton. No combat. Atmosphere. |
+| **4** | **Encroaching Wilds.** Wrong vegetation: spiral thorns, vivid flowers, geometric roots. DC 13 Nature: mutated from airborne crystal dust. Cosmetic. |
+| **5** | **Ambush from Above.** Manticore/young wyvern. Surprise dive, retreats at 50% HP. Lair: 3d10 gp, 1 Potion of Greater Healing, melted holy symbol. |
+| **6** | **Watchtower Ruins.** Collapsed tower. Climb (DC 10) for a view. Logbook: *"The lights out there... they move like searching for something."* |
+| **7** | **Ongoing Battle.** Thormvuld caravan (3 wagons, 4 guards) vs monster army (1 ogre + 6 goblins). Party: help, slip past (DC 14), scavenge. |
+| **8** | **Gemstone Vein.** Creek bed (Perception DC 12). DC 10 Mining: 2d4 rough gems (10 gp each). DC 12 Strength: decorative stone (15 gp). |
 ## 12. RANDOM NPCs
 
 ### NPC 1: Soren Vane - Human Male, Late 40s, Frontier Scavenger
