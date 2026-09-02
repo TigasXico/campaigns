@@ -128,16 +128,30 @@ Before departure, give the party a moment to:
 
 ---
 
+
+### FX's Sending Stone Check-In
+
+FX gave the party a **sending stone** back in Stonefall. It has been silent so far. Use these moments as scripted check-ins or if the party needs a nudge:
+
+**Scripted check-in (before entering Gamma-7, as they approach the exterior):**
+The stone warms against a belt pouch or pack. A single sentence from FX, clipped and quiet: *"I've got movement near your position. Thormvuld scouts, maybe. Stay sharp. Contact me when you're inside."* This reminds the party they have the stone, establishes FX is watching, and adds pressure.
+
+**Nudge check-in (if party is stuck, exploring without direction):**
+The stone pulses twice — FX's signal. When activated: *"Found something in the old Thormvuld files. That symbol? Three Curves. It's on every document connected to your site. Be careful what you touch down there."* This reveals FX is researching in parallel and gives the party a sense of active support.
+
+**Post-Gamma-7 (after they exit, regardless of outcome):**
+FX checks in: *"You're alive. Good. Get clear of the area — Thormvuld will have riders heading that way. We'll debrief in Stonefall."*
+
 ## 7. GAMMA-7 - INTERIOR
 
 ### 7.1 Entrance Options
 | Method                                                               | Skill Check                           | DC      | Time   | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------- | ------------------------------------- | ------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **A. Collapsed Dome (Climb in)**                                     | Athletics                             | 13      | 10 min | Climb through rubble where the dome roof caved in. Leads to **Room 1 - Main Hall**. Potential hazard: loose stone may shift (DEX save DC 10 or take 1d4 bludgeoning + alert anything inside).                                                                                                                                                                                                                                                           |
-| **B. Hidden Mechanism (Primary - Intact Door + Symbol Recognition)** | Investigation                         | 12      | 2 min  | **The main door is intact and closed - the only intact entrance.** The Three Curves (ViF) carved into the lintel above it - Zan recognizes the **broken B curve** has been deliberately defaced (chisel marks). That defacement reveals a concealed mechanism: pressing the defaced B curve opens the door silently. Requires one PC to press and hold the curve while another turns the handle. This is the intended method - the broken B is the key. |
+| **B. Hidden Mechanism (Primary - Intact Door + Symbol Recognition)** | Investigation                         | 12      | 2 min  | **The main door is intact and closed - the only intact entrance.** The ViF symbol on its face has one curve deliberately defaced (chisel marks) - Zan recognizes the **broken B curve**. Pressing the defaced curve opens the door silently. Requires one PC to press and hold the curve while another turns the handle. This is the intended method - the broken B is the key. |
 | **C. Underground Passage (Collapsed)**                               | Perception (find) + Athletics (clear) | 14 / 12 | 30 min | Drainage tunnel entrance hidden behind overgrown brush. Partially collapsed - DC 12 Strength (Athletics) to clear rubble wide enough for Medium creatures. Leads to **Room 6 - Burn Pit / Waste Disposal** (back entrance to underground level).                                                                                                                                                                                                        |
 
-**GM Note (Method B):** When Zan examines the lintel symbol, give him the spotlight. Relevant facts to convey - he's studied every detail of the Flesh Architects' facilities, but this Three Curves symbol is new. One curve broken. Someone deliberately defaced that specific curve. When he touches the defaced section, he feels it depress slightly - a mechanism. The Architects built this place for someone else, and Zan just found the evidence.
+**GM Note (Method B):** When Zan examines the door symbol, give him the spotlight. Relevant facts to convey - he's studied every detail of the Flesh Architects' facilities, but this Three Curves symbol is new. One curve broken. Someone deliberately defaced that specific curve. When he touches the defaced section, he feels it depress slightly - a mechanism. The Architects built this place for someone else, and Zan just found the evidence.
 
 ### 7.2 Facility Overview
 
@@ -189,7 +203,7 @@ Before departure, give the party a moment to:
   - [ ] 2 shattered glass cabinets
   - [ ] Large faded ViF Three Curves symbol on north wall above false bookcase
   - [ ] Footprints in dust (scattered).
-- **Lighting:** Daylight from dome opening during day, dim shadows around edges.-  #### Room 1 — Main Hall (Collapsed Dome)
+- **Lighting:** Daylight from dome opening during day, dim shadows around edges
 
 ### 7.4 Underground Level
 
@@ -201,6 +215,14 @@ Before departure, give the party a moment to:
   - East wall: Corridor continues south past doors to Rooms 3, 4
   - Corridor dead-ends at **Room 6** (Burn Pit) at far south end
 - Back entrance: Method C (collapsed drainage tunnel) opens into Room 6
+
+### Resting in Gamma-7
+
+**Short rests:** The underground level is not safe for a short rest until the Guardian Beast (Room 2) is defeated. The beast patrols the corridor and will attack any group attempting to rest. If the party attempts a short rest before defeating the beast, roll for a random encounter: on a 1-3 on a d6, the beast finds them.
+
+**Thormvuld arrival pressure:** If the party attempts a long rest anywhere in Gamma-7, Thormvuld's force will arrive before they finish. The party will be awakened by the sound of horses and shouted orders at the facility entrance.
+
+**Safe rooms post-Guardian Beast:** Once the beast is dead, Room 2 (now just empty cages and a hoard) can be used for a short rest. The reinforced door provides some security.
 
 #### Room 2 — Guardian Beast Lair
 **Map Layout:**
@@ -284,7 +306,6 @@ A junior researcher at Gamma-7, **Elena Vance**, kept a private journal. Last en
 - Orders came from the Chief Architect himself - they're being consolidated
 - All monster integration research is being folded into the "main project" (unnamed)
 - She was ordered to destroy all remaining samples but couldn't do it
-- She sealed one live crystal in the containment vault intentionally - for someone to find
 - Covenant overode access to Subject 242 - subject escaped
 - She doesn't know what the Covenant is building, but she's afraid
 
@@ -433,7 +454,7 @@ Thormvuld arrives **during the party's exploration of Gamma-7.**
 | **Age**                 | 62                                                                             |
 | **Distinctive Feature** | So drunk he sways while standing still. Red-rimmed eyes. Flask always in hand. |  |
 
-### NPC 4: Seraphine "Sera" Blackwood - Tiefling Female, 26, Courier
+### NPC 4: Seraphine "Sera" Blackwood - Halfling Female, 26, Courier
 
 | Trait                   | Detail                                                                                                               |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -600,8 +621,8 @@ For when the party searches a random drawer or cabinet and you want to toss them
 >### Crystal-Infused Guardian Beast (Gamma-7 Gatekeeper)
 >*Large monstrosity (experiment), neutral evil*
 >
->**Armor Class** 13 (natural armor). Crystal growths grant +2 AC against ranged attacks (effective 15 vs ranged).
->**Hit Points** 75 (10d10+20)
+>**Armor Class** 14 (natural armor). Crystal growths grant +2 AC against ranged attacks (effective 16 vs ranged).
+>**Hit Points** 97 (13d10+26)
 >**Speed** 40 ft.
 > 
 > ---
@@ -613,11 +634,11 @@ For when the party searches a random drawer or cabinet and you want to toss them
 > ---
 >
 >**Saving Throws** Str +7, Con +5
->**Damage Resistances**: **piercing** from *nonmagical weapons*
+>**Damage Resistances**: **bludgeoning, piercing** from *nonmagical attacks*
 >**Condition Immunities** frightened, charmed
 >**Senses** darkvision 60 ft., passive Perception 11
 >**Languages** --
->**Challenge** 3 (700 XP)
+>**Challenge** 4 (1,100 XP)
 >
 > ---
 >
@@ -625,7 +646,7 @@ For when the party searches a random drawer or cabinet and you want to toss them
 >
 >***Hoarding Instinct.*** The beast has disadvantage on Wisdom saving throws but cannot be persuaded or intimidated to leave its hoard.
 >
->***Maddened Rampage.*** When reduced to 30 hit points or fewer, the beast enters a frenzy. It discharges a ***Crystal Shard Burst*** and makes one extra attack per round but attacks at disadvantage until the end of its next turn.
+>***Maddened Rampage.*** When reduced to 30 hit points or fewer, the beast enters a frenzy. It discharges a ***Crystal Shard Burst*** and makes one extra attack per round (no disadvantage). The frenzy lasts until the end of combat.
 >
 > ---
 >
@@ -635,6 +656,6 @@ For when the party searches a random drawer or cabinet and you want to toss them
 >
 >***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d10+5) piercing damage.
 >
->***Crystal Shard Burst (Recharge 5-6).*** The beast flares its crystal growths, releasing a burst of arcane energy in a 10-foot radius. Creatures in range must make a DC 14 Dexterity saving throw, taking 14 (3d6) force damage on a failed save, or half as much on a successful one. After using this ability, the beast's crystal growths dim and it gains one level of exhaustion (reducing speed by 10 ft.) until the end of its next turn.
+>***Crystal Shard Burst (Recharge 5-6).*** The beast flares its crystal growths, releasing a burst of arcane energy in a 15-foot radius. Creatures in range must make a DC 14 Dexterity saving throw, taking 18 (4d8) force damage on a failed save, or half as much on a successful one. After using this ability, the beast's crystal growths dim and it gains one level of exhaustion (reducing speed by 10 ft.) until the end of its next turn.
 >
 > ---
