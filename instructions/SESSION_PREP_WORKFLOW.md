@@ -105,3 +105,11 @@ Per the normal commit protocol (see WORKFLOW.md Step 9):
 2. Present a change summary
 3. Propose a commit message
 4. Wait for user approval, then commit and push
+
+---
+
+### Prep Approach
+- GM has all afternoons + weekends for prep.
+- Method: define target location, sketch POIs in vicinity, build random tables (loot, travel encounters), create 2-3 NPCs per session (name, race, age, physical description, one distinct feature, one distinct behaviour), prepare 1-2 maps as needed (otherwise theater of the mind).
+- Prep is driven by session goals, not a fixed script.
+- Rule 4 enforced: no narrative/read-aloud prose in prep docs -- bullet-point fact lists only.

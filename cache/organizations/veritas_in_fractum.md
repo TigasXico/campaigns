@@ -168,3 +168,7 @@ ViF operates in layers:
 - **Faithful** — know fragments, usually believing they serve only their immediate organization
 
 The Three Curves symbol is used selectively. It appears on internal documents, facility markings, and credentials. To outsiders, it reads as a decorative emblem or an unfinished design. Only the initiated know its meaning.
+
+### Known to Test Subjects
+
+Some Flesh Architects facilities mark restricted wings with the Three Curves symbol. Test subjects who observe these markings (like Zan, Subject 242) may recognize the symbol without knowing its meaning. This creates a breadcrumb trail - survivors of Flesh Architects experiments who later encounter the Three Curves elsewhere know they are connected to something larger than the Architects alone.

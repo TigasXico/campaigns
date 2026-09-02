@@ -66,7 +66,7 @@
 | sanzo                                | character      | Sanzo                                    | draft  | 2026-08-10 |
 | satriya_merikh                       | character      | Satriya Merikh                           | draft  | 2026-08-11 |
 | shadow_elves                         | species        | Shadow Elves (Shadar-kai)                | draft  | 2026-08-13 |
-| site_gamma-7                         | location       | Site Gamma-7                             | draft  | 2026-08-18 |
+| site_gamma-7                         | location       | Site Gamma-7                             | draft  | 2026-09-01 |
 | skywatch                             | location       | Skywatch                                 | draft  | 2026-08-09 |
 | society                              | lore           | Society of Kythoria                      | draft  | 2026-08-09 |
 | society_and_culture_design           | campaign_note  | Society & Culture Design Decisions       | active | 2026-08-09 |

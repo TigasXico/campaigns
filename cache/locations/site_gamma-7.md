@@ -1,14 +1,13 @@
-﻿---
+---
 id: site_gamma-7
 type: location
 name: "Site Gamma-7"
 status: draft
-tags:
-  - location, frontier, abandoned, research_facility, Flesh Architects, flesh_architects, catalyst_project
 related:
   - stonefall: Site Gamma-7 is three days into the frontier from Stonefall
   - the_flesh_architects: Site Gamma-7 was a Flesh Architects research outpost
   - the_crimson_covenant: The Flesh Architects are a division of the Covenant
+  - veritas_in_fractum: Gamma-7 bore ViF's Three Curves symbol throughout -- it was a ViF coalition facility operated by Flesh Architects personnel
   - zan_vaelis_zandorian: The facility's layout resembles the one Zan escaped from
   - the_arcane_reactive_crystals: A single B-crystal sample remains in containment
 secrets:
@@ -16,13 +15,15 @@ secrets:
     access: gm-only
   - text: "The facility was decommissioned after the Catalyst Project moved to a larger location. Records here are older, less complete -- but they reference both 'Project Genesis' and 'the Catalyst Project' by name."
     access: gm-only
+  - text: "The Three Curves symbol of Veritas in Fractum appears on every doorframe, document, and equipment tag in Gamma-7 -- alongside the Flesh Architects' own lab crest. This was not just a Flesh Architects outpost; it was a ViF coalition facility."
+    access: gm-only
 created: 2026-08-18
-updated: 2026-08-18
+updated: 2026-09-01
 ---
 
 ## Overview
 
-An abandoned research outpost in the frontier, three days from Stonefall. Originally built by a group called the "Flesh Architects" (Architects) -- the same group whose symbol FX found in the Thormvuld documents. The facility was decommissioned decades ago.
+An abandoned research outpost in the frontier, three days from Stonefall. Originally built by the Flesh Architects (a research division of the Crimson Covenant) under the banner of **Veritas in Fractum** -- the ancient secret coalition whose Three Curves symbol appears throughout the facility. Gamma-7 was decommissioned decades ago.
 
 ## Current State
 
@@ -30,13 +31,15 @@ The facility has been abandoned for years. The surface buildings are partially c
 
 ## Known To
 
-- FX: Knows the location and that it was a Flesh Architects facility
+- FX: Knows the location and that it was a Flesh Architects facility (does not know about ViF)
 - Aegon: Has seen the facility's collapsed dome and broken tower in his dreams
 - Zan: Will recognize the architectural style and layout as similar to the Flesh Architects' facility he escaped from
+- Kaelyn: Will recognize the Three Curves symbol from her cell wall -- ViF's mark
 
 ## Secrets (GM Only)
 
-- The facility is a Flesh Architects outpost, focused on early Catalyst Project research
+- The facility was a ViF coalition outpost, not just a Flesh Architects one
 - A single B-crystal sample remains in a containment lab -- pulsing, unstable, dangerous
 - Records inside reference "Project Genesis" and "the Catalyst Project"
+- A letter from ViF's Underdark Arcane Division confirms Kaelyn was a coalition-wide specimen
 - The deeper the party explores, the more they uncover -- and the more dangerous it becomes

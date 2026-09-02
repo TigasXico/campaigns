@@ -1,4 +1,4 @@
-﻿---
+---
 id: zan_vaelis_zandorian
 type: character
 name: "Zan (Vaelis Zandorian)"
@@ -19,12 +19,15 @@ related:
   - the_arcane_reactive_crystals: The B Crystals used in the Catalyst Project permanently altered his teleportation
   - the_arcane_weave: Zan is B-touched -- the B Crystals left a permanent resonance in his body, attuning him to B's lingering will
   - the_order_of_the_raven: Shadow Elves are the primary worshippers, but Zan does not follow the Raven Queen
+  - veritas_in_fractum: Zan saw the Three Curves symbol on a door in the facility where he was held - a restricted wing he was never allowed to enter. The Flesh Architects answered to something larger.
 secrets:
   - text: "Zan's teleportation was permanently modified by B Crystals during the Catalyst Project. He can now resist damage when teleporting, and can imbue objects/people/places with his magical essence as marks, teleporting to them as a bonus action over short ranges. This is a homebrew feature unique to him."
     access: gm-only
   - text: "Zan is B-touched. The B Crystals used by the Flesh Architects left a permanent resonance in his body, attuning him to B's lingering will in the Weave. This may manifest as visions, a pull toward B essence concentrations, being sensed by other B-touched entities, or being traceable by Flesh Architects who understand B Crystal resonance signatures."
     access: gm-only
   - text: "Zan carries the Raven Queen's brand -- a mark that appears on direct bloodline descendants of the Raven Queen's mortal union. He is the youngest ever to receive it (age 7). However, Zan does NOT revere or worship the Raven Queen. His feelings toward her are complex: she saved his life at age 11, but he does not trust her motives."
+  - text: "Zan saw the Three Curves symbol of Veritas in Fractum (ViF) on a door in the Flesh Architects facility where he was held - a restricted wing. This tells him the Flesh Architects were part of a larger coalition, though he does not yet know ViF\\'s name or purpose."
+    access: gm-only
     access: gm-only
   - text: "Zan's memory of the abandonment at age 7 was magically modified by his parents. The true reason (the Raven Queen's brand, the threats from higher families, the Zandorion family's sacrifice) is buried in his mind. It could resurface through triggers."
     access: gm-only
