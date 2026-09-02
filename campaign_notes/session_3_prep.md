@@ -83,10 +83,11 @@ Before departure, give the party a moment to:
 
 **Travel pace:** Normal or slow. If they rush (fast pace), they arrive at the standing stones area by nightfall but are exhausted. Slow pace means they make camp on the prairie and reach the stones mid-morning Day 2.
 
-**Roll d8 once during morning travel**-
+**Roll d8 once during morning travel**
+
 ----
 
-## Part 1: Standing Stones (Morning to Midday)
+### Part A: Standing Stones (Morning to Midday)
 
 **Arrival facts to convey:**
 - Ridge-top: nine moss-covered stones in a circle
@@ -342,7 +343,7 @@ Seeds to weave into descriptions, NPC dialogue, or found documents as the sessio
 - **Agent Korvus:** Named requesting agent for Zan Subject 242 transfer. Trackable lead.
 - **Chief Architect:** Named in Elena Vance journal. A named Flesh Architect figure.
 - **Thormvuld scouts:** Reported near Gamma-7 in recent days. Searching for heist traces.
-- **Monster army activity:** Supply caches positioned across the frontier. Goblin-written manifests found on patrols.
+- **Monster army activity:** Supply caches positioned across the frontier. Goblin-written manifests found on patrols. Pushback timeline seen in one dispatch: "2 sunrises" — sooner than FX's intel suggests. Marginal note on hoarding behavior in the 7th cohort — a hint something is affecting the army's command structure.
 ## 11. THORMVULD ARRIVAL - FACTION PRESSURE
 
 ### Timing
@@ -398,7 +399,7 @@ Thormvuld arrives **during the party's exploration of Gamma-7.**
 | d8 | Encounter |
 |----|-----------|
 | **1** | **Cache of Supplies.** Half-buried satchel: 2 Potions of Healing, 1 antitoxin, trail mix (2 days), silver ring (10 gp). Inscribed: *"For better days."* |
-| **2** | **Monster Army Patrol.** 2 hobgoblins + 3 goblins. Locked iron box with supply manifests in Goblin (Bardolemeu reads). CR: Easy. |
+| **2** | **Monster Army Patrol.** 2 hobgoblins + 3 goblins. Locked iron box with supply manifests + a Goblin-written dispatch in Goblin (Bardolemeu reads). Cache contents: 2 Potions of Healing, 1 Potion of Fire Breath, 30 gp in mixed coin, army rations (2 days). The dispatch mentions the pushback is planned in "2 sunrises" (sooner than FX's intel — tension). A marginal note on one manifest: *"Supply runners report the 7th cohort hoards everything now. Not distributing. Taking orders from something in the hills."* — First hint of B-crystal hoarding behavior spreading through the monster army ranks. CR: Easy. |
 | **3** | **Battlefield Remnants.** Pre-invasion skirmish site. Bones, rusted sword, helmet with bullet hole. Crystal-stained skeleton. No combat. Atmosphere. |
 | **4** | **Encroaching Wilds.** Wrong vegetation: spiral thorns, vivid flowers, geometric roots. DC 13 Nature: mutated from airborne crystal dust. Cosmetic. |
 | **5** | **Ambush from Above.** Manticore/young wyvern. Surprise dive, retreats at 50% HP. Lair: 3d10 gp, 1 Potion of Greater Healing, melted holy symbol. |
