@@ -1,4 +1,4 @@
-﻿# SESSION 3 PREP — "The Flesh of Gamma-7"
+# SESSION 3 PREP - "The Flesh of Gamma-7"
 
 ---
 
@@ -9,472 +9,439 @@
 
 ### Party State
 
-| Stat | Value |
-|------|-------|
-| **Level** | **4** — leveled up at the homestead after the wolf fight |
-| **Present** | Zan, Aurora, Bardolemeu, Kaelyn, Balor, Nyra |
-| **Absent** | Aegon (departed overnight — see Cold Open), Odessa (still away), Sanzo (still away) |
-| **HP** | Fully recovered after long rest |
-| **Rest** | Long rest complete at the homestead |
-| **FX Provisions** | Potions of Healing (3), antitoxin, torches, tinderbox, bedrolls, 2× tents, rope, signal whistle, sending stone, map case |
-| **Healing waterskins (7)** | Fully expired now — "just water with a memory." The glow has faded entirely. |
-| **Gold** | Intact (no purses stolen in Session 2) |
+| Stat                       | Value                                                                                                                    |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Level**                  | **4** - leveled up at the homestead after the wolf fight                                                                 |
+| **Present**                | Zan, Aurora, Bardolemeu, Kaelyn, Balor, Nyra                                                                             |
+| **Absent**                 | Aegon (departed overnight - see Cold Open), Odessa (still away), Sanzo (still away)                                      |
+| **HP**                     | Fully recovered after long rest                                                                                          |
+| **Rest**                   | Long rest complete at the homestead                                                                                      |
+| **FX Provisions**          | Potions of Healing (3), antitoxin, torches, tinderbox, bedrolls, 2? tents, rope, signal whistle, sending stone, map case |
+| **Healing waterskins (7)** | Fully expired now - "just water with a memory." The glow has faded entirely.                                             |
+| **Gold**                   | Intact (no purses stolen in Session 2)                                                                                   |
 
 ### Active Conditions
 
-- **Kaelyn, Zan, Balor** — bitten by crystal wolves. Lycanthropy incubation begun. Full moon in ~**4 days**.
-- **Kaelyn** — wild magic surge at B-crystal residue (Session 2). Tracks with her unstable magic condition.
-- **Aegon** — Aurelius spoke to him: crystals are not divine, unknown arcane signature, dangerous, must be destroyed. Now Aegon has left to seek answers.
+- **Kaelyn, Zan, Balor** - bitten by crystal wolves. Lycanthropy incubation begun. Full moon in ~**4 days**.
+- **Kaelyn** - wild magic surge at arcane-reactive crystal residue (Session 2). Tracks with her unstable magic condition.
+- **Aegon** - Aurelius spoke to him: crystals are not divine, unknown arcane signature, dangerous, must be destroyed. Now Aegon has left to seek answers.
 
 ### Homestead Loot (Still Available at Session Start)
 
-- **4th crystal-wolf body** — untouched since the fight. Skull shard still intact. The party can extract it before departing (DC 15 Medicine, 10 min). Remind them on the cold open.
+- **4th crystal-wolf body** - untouched since the fight. Skull shard still intact. The party can extract it before departing (DC 15 Medicine, 10 min). Remind them on the cold open.
 
 ### Open Threads Going Into Session 3
 
 - What lies inside Site Gamma-7?
-- Lycanthropy timer — full moon in ~4 days. PCs may need to resolve this before or during Gamma-7.
-- Standing stones — not yet visited. Marked on FX's map as a landmark before Gamma-7.
-- Wolf hideout (NW, ~1 hr) — stash mound, shackle-band clue, injured wolves — still in canon if party doubles back.
+- Lycanthropy timer - full moon in ~4 days. PCs may need to resolve this before or during Gamma-7.
+- Standing stones - not yet visited. Marked on FX's map as a landmark before Gamma-7.
+- Wolf hideout (NW, ~1 hr) - stash mound, shackle-band clue, injured wolves - still in canon if party doubles back.
+
+### Timeline Pressure - Monster Army Pushback
+
+**Context (from Session 1 guide / world timeline):**
+- The monster army has been massing for a coordinated pushback against the frontier settlements
+- Intel indicated **6 days** until the pushback begins
+- That timeline started before Session 1
+
+**Current status:**
+- The wolf attack at the homestead and the interrupted long rest delayed departure by roughly **2 hours**
+- The party is starting on **Day 3** of the original 6-day window
+- Travel to Gamma-7 takes **1 day** (passing the standing stones, arriving late afternoon)
+- Gamma-7 exploration: **unknown duration** (could be hours or full day)
+- Return travel: **3 days** back
+
+**What this means at the table:**
+- The party has roughly **3 days** before the monster army pushback begins
+- If they spend too long exploring Gamma-7 or detouring, the pushback catches them in the open frontier
+- If they return to Stonefall in time, they arrive as the settlement is preparing for siege
+- If they are late, they arrive to find Stonefall under siege or already fallen
+- This timer is flexible - use it as a pressure tool, not a hard deadline. If the party is having fun exploring Gamma-7, let them explore. If they are dawdling, remind them of the clock.
+
+**Connections to encounter:**
+- The Monster Army Patrol (d8 table, row 6) carries cache manifests - the army is repositioning supplies for the pushback
+- The Thormvuld arrival at Gamma-7 is unrelated to the timeline (they are here for the heist, not the war)
+- If the party lingers, they may encounter monster army scouts or forward elements on the return journey
 
 ---
 
-## 2. COLD OPEN — "The Morning After"
+## 2. COLD OPEN - "The Morning After"
 
 **Setting:** Abandoned homestead. Dawn. Grey light through broken roof beams. The fire is cold ash. Eleven wolf bodies lie in the clearing where they fell.
 
-**Recap (GM, paraphrase):**
-> *"The wolves came in silence. Eleven of them — four with crystal growths on their skulls, seven gaunt and starving. They wanted your gold. They wanted Zan's pouch most of all. You fought through the night, broke their pack, and buried their bodies in the morning. You leveled up — level 4 now. The crystal wolf shards sit warm in your packs. The healing waterskins have gone inert — just water now. You've rested. You're ready."*
+**Recap - facts to convey:**
+- 11 wolves attacked silently at ~2-3 AM - 4 crystal-grown skulls, 7 gaunt starving
 
-### Aegon's Absence — Discovery Beat
+- Party fought through the night, killed all 11
+- Level up to 4 after the fight
+- 3 crystal-wolf skull shards extracted (Aegon and Bardolemeu succeeded; Nyra's shattered)
+- Healing waterskins: glow gone, inert - just water now
+- Long rest complete. Fully healed. Ready to move.
 
-Dawn. Balor, Bardolemeu, or whoever took first watch notices Aegon's bedroll is empty. Cold. Has been for hours. His gear is gone. His armor. His weapons.
+### Aegon's Absence - Discovery Beat
 
-A note, weighted with a stone, on his bedroll:
+**Setup:** First to rise notices Aegon's bedroll empty, cold - gone for hours. His gear, armor, weapons all missing.
 
-> *"I left before dawn. Aurelius spoke again in my dreams — not in words, in images. I need to understand what he showed me before I walk into that facility. I'll find you when I can. Trust the stones. — Aegon"*
+**The note (what players find on his bedroll, weighted with a stone):**
+- He left before dawn
 
-**"Trust the stones"** — cryptic reference to the standing stones marked on FX's map. He's suggesting they visit them. He may or may not meet them there.
-
-**GM Note:** Aegon's player is absent. The note gives an in-character reason. If the player returns for a future session, Aegon can rejoin naturally.
-
-### Homestead — Final Inventory Beat
+- Wants to investigate the crystal further, before proceeding
+- He'll find them when he can
 
 Before departure, give the party a moment to:
-- **Extract the 4th skull shard** (if they remember — prompt if they don't): *"One crystal wolf body remains untouched by the clearing. The skull crest still gleams in the morning light."*
-- Gather their gear
-- Decide their route
-
-**FX's map** shows the route:
-- **Day 1** — Head west through frontier grasslands. No marked POI.
-- **Day 2** — Reach a circle of standing stones on a ridge. Past that: Gamma-7 in the valley below.
-
+- **Extract the 4th skull shard** - if they don't remember, prompt with relevant info: one wolf body remains untouched, skull crest still intact, dawn light catching it
+- **FX's map** shows the route:
+  - **Day 3 - morning** - Head west through frontier grasslands. Reach a circle of standing stones on a ridge  
+  - **Day 3 - afternoon** - Gamma-7
 ---
 
-## 3. TRAVEL DAY 1 — Homestead to Frontier
+## 3. TRAVEL DAY - Homestead to Standing Stones
 
-**Terrain:** Open frontier grasslands, transitioning from cultivated land (farms, fences, irrigation ditches — all abandoned) to wild prairie.
+**Terrain:** Open frontier grasslands, transitioning from cultivated land (farms, fences, irrigation ditches - all abandoned) to wild prairie
 
-**Duration:** Full day of walking (~8-10 hours with breaks).
-
-**Atmosphere:** The land grows quieter the further west they go. No birdsong in the afternoon. The grass is tall, brown, rustling in the wind. Old fence posts lean at angles with no wire left. A farmhouse chimney stands alone — the rest collapsed years ago. This was once settled land. Now it's being reclaimed.
+**Atmosphere - facts to convey:**
+- Quieter the further west - no birdsong by afternoon
+- Tall brown grass rustling, old fence posts leaning (no wire)
+- Lonely farmhouse chimney standing - rest collapsed long ago
+- Ashen-gray sky - smoke from frontier fight and corpses burning
+- Once-settled land being reclaimed by wild frontier
 
 **Travel pace:** Normal or slow. If they rush (fast pace), they arrive at the standing stones area by nightfall but are exhausted. Slow pace means they make camp on the prairie and reach the stones mid-morning Day 2.
 
-**Roll d8 once during Day 1 travel** (see §5 — Travel Table).
+**Roll d8 once during morning travel**-
+----
 
----
+## Part 1: Standing Stones (Morning to Midday)
 
-## 4. TRAVEL DAY 2 — Standing Stones & Arrival
+**Arrival facts to convey:**
+- Ridge-top: nine moss-covered stones in a circle
+- Carvings: life -> death -> rebirth patterns
+- Low altar with a rain-basin catching morning light
+- Water impossibly clear - no debris, no algae despite years exposed
 
-### Part A: Standing Stones (Morning to Midday)
-
-The party reaches the standing stones at the edge of a ridge. Nine stones in a circle, moss-covered, carved with life→death→rebirth patterns. A low altar with a rain-basin catches the morning light. The water in the basin is impossibly clear — no debris, no algae, despite years of exposure.
-
-**GM Note:** Session 2 did not run this encounter. It happens now, at the end of the journey, before Gamma-7.
-
-**Per-PC beats (30s each, let them pull):**
-
-- **Aurora** — The carving grammar on the stones matches the Elarwyn shrine from her past. Her people's traditions run deeper than she knew. One of her hidden constellations — the Broken Crown — pulses faintly overhead, visible even in daylight.
-- **Zan** — Shadows pool oddly around the stones. His teleportation marks itch gently — not a threat, but a recognition. The air here has a different texture.
-- **Kaelyn** — Her crystal heart warms near the altar water — the same warmth she felt from the wolf shards. The water reflects an image for just a moment: a shadow of a cell, a wall, a familiar symbol.
-- **Balor** — Khar'zul's blade goes completely silent for the first time since Skallfang burned. Pure peace. It won't last, but for now, he can breathe.
-- **Nyra** — The wind circles against the gradient here. Old-prayer taste in the air. Her air soul crystal atop her staff glows faintly.
-- **Bardolemeu** — The stones have perfect acoustics. Any note he plays rings twice, harmonized with a harmonic he didn't create.
+**The standing stones - purpose and atmosphere (generic, PC-agnostic):**
+- Ancient funerary and divination site - predates all known religions, unconsecrat/unclaimedebyto any god
+- Life -> death -> rebirth carvings cycle: the stones mark a place where the veil between those states is th - Leyline nexus
+- The altar basin water is impossibly clear - no debris, no algae - because it's not rainwater; it condenses from ambient moisture drawn by the stones' residual magic
+- Standing within the circle: profound quiet. No wind crosses the boundary. Sounds from outside are muffled. Voices inside carry clear and sharp.
+- The stones do not speak, but they *listen* - anyone who stands in the circle feelthe a gentle pressurof a room going quiet to listen. They are a witness-place. 
+- Anointing the altar with a drop of blood or a spoken intention makes the stones *remember* you.
+- Any PC who interacts meaningfully (offers something - a lock of hair, a memory spoken aloud, a drop of blood) feels a faint resonance in return - a sense of being *seen* by something ancient and indifferent but not hostile
 
 **Investigation:**
 
-| DC | Check | Result |
-|----|-------|--------|
-| 12 | Nature/Religion | Funerary rite site. Pre-dates all known religions. Not consecrated to any god. Safe. |
-| 15 | Perception/Investigation | Beneath the altar, nestled in a dry recess: **3 bone tokens** (skull, leaf, star). Taking one marks the bearer for a boon. |
+| DC  | Check                    | Result                                                                                                                     |
+| --- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| 12  | Nature/Religion          | Funerary rite site. Pre-dates all known religions. Not consecrated to any god. Safe.                                       |
+| 15  | Perception/Investigation | Beneath the altar, nestled in a dry recess: **3 bone tokens** (skull, leaf, star). Taking one marks the bearer for a boon. |
 
-**Boon:** Any PC who takes a token and offers something symbolically (a lock of hair, a memory spoken aloud, a drop of blood) gains: ★ reroll any one d20 before next dawn (keep the new result).
-
-**Anyone who takes a token** — Aegon's note said "Trust the stones." This is why.
+**Boon:** Any PC who takes a token and offers something symbolically (a lock of hair, a memory spoken aloud, a drop of blood) gains: - reroll any one d20 before next dawn (keep the new result).
 
 ### Part B: Gamma-7 Arrival (Late Afternoon)
 
-From the ridge: the valley below. Site Gamma-7.
+**Arrival facts - convey from the ridge:**
+- Valley below: collapsed dome center (stone ribs clawing sky)
+- Broken tower snapped at half-height, leaning east
+- No smoke, no movement, no sound
+- Earth that's been disturbed in a circluar pattern, campfire, waste - signs of someone having been in the are recently
 
-> *"The facility crouches in the valley like a wounded animal. A collapsed dome at its center — stone ribs clawing at the sky. A broken tower snapped at half height, leaning east. Geometric scars cross the valley floor — old foundations, embankments, tree lines planted too straight. No smoke. No movement. No sound. Just a dead facility in a dead valley, waiting."*
+**Exterior - approach facts (as party descends from ridge):**
+- Perimeter wall: waist-high in most places, crumbled stone with rusted iron spikes every 10 ft
+- Main gate: double iron doors, one hanging from a single hinge, the other propped open - forced entry, not decay
+- Facility exterior: grey stone darkened by weather, ViF symbol in golden detail carved into an intact, large, black marble stone door
+- Grounds: overgrown courtyard with a rusted well, an overturned wagon (wheels missing, salvage picked clean), and the skeletal remains of a horse in harness
 
-**Zan (private):** *"You've never been to this place. But the way the buildings sit — the proportions, the way everything centers on a single axis — you recognize the hand that drew these plans. Someone from the Flesh Architects built this. An outpost. A smaller version of the place you escaped from."*
+**Zan's recognition (private):**
+- He's never been here, but the layout is familiar. And the Three Curves - he saw them on a door in the facility where he was held. A restricted wing
+- Proportions, single-axis centering: Flesh Architects design
+- An outpost - smaller version of the facility he escaped
+- Someone from the Flesh Architects built this
 
-**Roll d8 once during Day 2 travel** (see §5 — Travel Table). The standing stones encounter replaces one roll opportunity.
-
----
-
-## 5. D8 TRAVEL TABLE — Frontier Travel
-
-Roll **once per travel day** (2 rolls total for Session 3). If the same result comes up twice, re-roll or pick the closest fit. Adjust flavor to match whether they're on Day 1 (open frontier) or Day 2 (approaching Gamma-7).
-
-### Positive (1–2)
-
-| d8 | Encounter |
-|----|-----------|
-| **1** | **Cache of Supplies.** Half-buried in a hollow log or under a collapsed stone: a weathered satchel. Left by a traveler who didn't make it. Contents: 2 Potions of Healing (standard), 1 vial of antitoxin, a pouch of trail mix (2 person-days), and a tarnished silver ring worth 10 gp. Inside the ring's band: an inscription in an old dialect — *"For better days."* |
-| **2** | **Gemstone Vein.** A small exposed mineral deposit in a dry creek bed (Perception DC 12 to spot). Nothing magical — just earth minerals. A successful DC 10 Mining/Jeweler's tools check yields 2d4 rough gemstones worth 10 gp each. Alternatively, a DC 12 Strength check breaks off larger chunks worth 15 gp total as decorative stone. |
-
-### Neutral (3–5)
-
-| d8 | Encounter |
-|----|-----------|
-| **3** | **Battlefield Remnants.** The road passes through the overgrown remnants of a skirmish — pre-invasion or early invasion. Bones half-sunk in the mud. A rusted sword planted upright in the earth like a grave marker. A helmet with a bullet hole. Scattered fragments of a soldier's letter, still legible: *"If you're reading this, bury me facing west. I want to see the frontier one last time."* Signs of B-crystal influence on the dead: one skeleton's ribcage is stained with faint crystalline residue. No combat. No loot. A reminder of the war's cost and the long reach of the influence. |
-| **4** | **Encroaching Wilds.** The frontier is transforming. The party passes through a stretch where the vegetation is subtly wrong — thorns growing in spiral patterns, flowers with unnaturally vivid colors (crimson, violet, a blue that doesn't exist in nature), roots surfacing in geometric lines. The air hums faintly. A DC 13 Nature check identifies the plants as mutated — arcane residue in the soil, probably from airborne crystal dust. The effect is purely cosmetic and dissipates a mile further west. A seed of unease. |
-| **5** | **Watchtower Ruins.** A pre-Last Stand watchtower, collapsed and overgrown. Climbing to the top (DC 10 Athletics) gives a commanding view of the surrounding land — useful for spotting the standing stones or Gamma-7 from a distance. Inside: a logbook from the tower's last stationed scout. The last few entries grow increasingly erratic — *"The lights out there... they move like they're searching for something."* Then nothing. No remains found. Purely atmospheric. |
-
-### Negative (6–8)
-
-| d8 | Encounter |
-|----|-----------|
-| **6** | **Monster Army Patrol.** A small roving unit of the monster army — 2 hobgoblins leading 3 goblins on a supply-gathering mission. They're not looking for a fight, but they won't flee from one. They carry a small locked iron box containing maps and written orders (Thormvuld-related: supply caches in the frontier). CR: Easy for a level-4 party of 6. If defeated, the maps reveal a nearby Thormvuld supply cache — possible secondary objective. Stat blocks: standard MM hobgoblin + goblin. |
-| **7** | **Ambush from Above.** A manticore (or young wyvern — GM's call based on party strength) has claimed a territory that overlaps the party's route. It attacks from surprise — diving from behind a rock formation or from low cloud cover. It's hungry, not infected by crystals. After taking 50% HP damage, it breaks off and retreats rather than fighting to the death. Lair nearby (optional pursuit) contains remains of previous victims — 3d10 gp, a torn backpack with 1 Potion of Greater Healing, and a half-melted silver holy symbol of Aurelius. |
-| **8** | **Ongoing Battle.** The party crests a rise and sees a skirmish unfolding in the valley below — a Thormvuld supply caravan (3 wagons) under attack by monster army forces (1 ogre + 6 goblins). The Thormvuld guards (4 human veterans) are losing. The party can: (A) help the Thormvuld — risky, they'll be remembered by Thormvuld scouts, (B) help the monsters — dark-alignment choice, (C) slip past while both sides are distracted — Stealth DC 14, (D) wait and scavenge the aftermath. |
+**Roll d8 once during afternoon 2 travel**
 
 ---
 
-## 6. RANDOM NPCs (3–4 Unaffiliated)
-
-Encountered during travel. Adjust to fit the terrain and roll results. Present as the party travels — not mandatory to interact, but available if players seek conversation.
-
-### NPC 1: Soren Vane — Human Male, Late 40s, Frontier Scavenger
-
-| Trait | Detail |
-|-------|--------|
-| **Race** | Human |
-| **Gender** | Male |
-| **Age** | Late 40s |
-| **Distinctive Feature** | Missing left ear — a clean cut, old scar. Wears a brass earring on the remaining ear. |
-| **Role** | Lone scavenger picking through ruined structures |
-| **Demeanor** | Wary but not hostile. Speaks in short sentences, watches the horizon while talking. |
-| **Knows** | Which ruins are safe to camp in. Has seen "lights in the valley" near Gamma-7 on three separate nights. Doesn't know what they mean but avoids the area. Will trade information for coin or rations. |
-| **Hook** | If the party mentions Gamma-7, he stiffens. *"That place? Stay out of the basement. Something's still breathing down there."* He's never been inside — he heard the sounds from a nearby ridge. |
-
-### NPC 2: Mira Stonebrook — Half-Elf Female, Early 30s, Wandering Healer
-
-| Trait | Detail |
-|-------|--------|
-| **Race** | Half-Elf |
-| **Gender** | Female |
-| **Age** | Early 30s |
-| **Distinctive Feature** | Her left hand is wrapped in clean white bandages — always. She never says why. |
-| **Role** | Traveling herbalist and healer, heading east toward Stonefall |
-| **Demeanor** | Warm, curious, a little sad. Carries a satchel of dried herbs and poultices. |
-| **Knows** | Frontier rumors: monster army movements, safe watering holes, which roads are watched. She can identify the lycanthropy symptoms in the bitten PCs if they speak with her. She'll offer advice (not a cure — she doesn't have one) and warn them: *"Four days to the full moon. You'll want to be somewhere safe. And maybe have silver on hand."* |
-| **Hook** | She's heading east because her frontier village was overrun last week. She lost patients. She's trying not to think about it. If the party helps her (escort to the waystation, give supplies), she gives them 2 Potions of Healing from her own stores. |
-
-### NPC 3: Grimbok "Grim" Ironhide — Dwarf Male, 62, Degenerate Prospector
-
-| Trait | Detail |
-|-------|--------|
-| **Race** | Dwarf |
-| **Gender** | Male |
-| **Age** | 62 |
-| **Distinctive Feature** | So drunk he sways while standing still. Red-rimmed eyes. Flask always in hand. |
-| **Role** | Failed frontier prospector, now wandering aimlessly |
-| **Demeanor** | Slurred speech, maudlin, occasionally sharp when talking about his old profession. |
-| **Knows** | Geology of the frontier. He can identify mineral deposits, including B-crystal fragments (he calls them "hell-gems" and won't touch them). He claims there's a "big one" somewhere underground near Gamma-7 — a vein, not a sample. *"They built that place on top of a motherlode. Idiots. You don't build on top of a sleeping bear."* He's 70% right — there are trace deposits deeper under the facility. |
-| **Hook** | He's a sad figure — once a respected prospector, his luck ran out. If the party shares their fire and food with him, he sobers up enough to sketch a rough geological map of the Gamma-7 area. It shows an underground drainage tunnel that *might* connect to the facility's lower levels. |
-
-### NPC 4: Seraphine "Sera" Blackwood — Tiefling Female, 26, Courier
-
-| Trait | Detail |
-|-------|--------|
-| **Race** | Tiefling (ashen skin, ram's horns filed short, golden eyes) |
-| **Gender** | Female |
-| **Age** | 26 |
-| **Distinctive Feature** | A leather courier's satchel with a wax-sealed letter sticking out. She's fast — lightning-quick movements, restless. |
-| **Role** | Independent message-runner operating between frontier outposts |
-| **Demeanor** | Anxious but professional. Keeps glancing over her shoulder. She's carrying a letter she was paid well to deliver — and she suspects she's being followed. |
-| **Knows** | The frontier routes intimately. Recent Thormvuld activity near Gamma-7 — she spotted a camp on a ridge two nights ago, ~8 riders, well-equipped. She avoided them. *"They weren't hiding. That's what scared me — they wanted to be seen."* |
-| **Hook** | She's on a tight schedule but will trade information for a hot meal and a safe place to sleep for a few hours. If the party protects her while she rests, she shares what she saw. The letter she carries could be a minor plot hook (not involving Gamma-7) — maybe a love letter to a frontier soldier, or a business correspondence between frontier traders. Purely setting color. |
-
----
-
-## 7. GAMMA-7 — INTERIOR
+## 7. GAMMA-7 - INTERIOR
 
 ### 7.1 Entrance Options
+| Method                                                               | Skill Check                           | DC      | Time   | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------- | ------------------------------------- | ------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **A. Collapsed Dome (Climb in)**                                     | Athletics                             | 13      | 10 min | Climb through rubble where the dome roof caved in. Leads to **Room 1 - Main Hall**. Potential hazard: loose stone may shift (DEX save DC 10 or take 1d4 bludgeoning + alert anything inside).                                                                                                                                                                                                                                                           |
+| **B. Hidden Mechanism (Primary - Intact Door + Symbol Recognition)** | Investigation                         | 12      | 2 min  | **The main door is intact and closed - the only intact entrance.** The Three Curves (ViF) carved into the lintel above it - Zan recognizes the **broken B curve** has been deliberately defaced (chisel marks). That defacement reveals a concealed mechanism: pressing the defaced B curve opens the door silently. Requires one PC to press and hold the curve while another turns the handle. This is the intended method - the broken B is the key. |
+| **C. Underground Passage (Collapsed)**                               | Perception (find) + Athletics (clear) | 14 / 12 | 30 min | Drainage tunnel entrance hidden behind overgrown brush. Partially collapsed - DC 12 Strength (Athletics) to clear rubble wide enough for Medium creatures. Leads to **Room 6 - Burn Pit / Waste Disposal** (back entrance to underground level).                                                                                                                                                                                                        |
 
-Three ways in. The party can attempt any or all. Success on one method makes the others unnecessary.
-
-| Method | Skill Check | DC | Time | Notes |
-|--------|-------------|----|------|-------|
-| **A. Collapsed Dome (Climb in)** | Athletics | 13 | 10 min | Climb through rubble where the dome roof caved in. Leads to **Room 1 — Main Hall**. Potential hazard: loose stone may shift (DEX save DC 10 or take 1d4 bludgeoning + alert anything inside). |
-| **B. Hidden Mechanism (Zan / Architect Recognition)** | Investigation | 15 | 5 min | Zan recognizes a decorative seam in the doorframe that doesn't match the architectural style — it's a concealed pressure plate. Requires two points of pressure simultaneously (two PCs, or one creative solution). Opens the main door silently. |
-| **C. Underground Passage (Collapsed)** | Perception (find) + Athletics (clear) | 14 / 12 | 30 min | Drainage tunnel entrance hidden behind overgrown brush. Partially collapsed — DC 12 Strength (Athletics) to clear rubble wide enough for Medium creatures. Leads to **Room 6 — Burn Pit / Waste Disposal** (back entrance to underground level). |
-
-**GM Note:** If the party finds and uses the hidden mechanism (B), give Zan a moment — this is his expertise paying off. *"You've walked through doors like this before. The Architects built to a pattern. Your captors never knew how much you observed."*
+**GM Note (Method B):** When Zan examines the lintel symbol, give him the spotlight. Relevant facts to convey - he's studied every detail of the Flesh Architects' facilities, but this Three Curves symbol is new. One curve broken. Someone deliberately defaced that specific curve. When he touches the defaced section, he feels it depress slightly - a mechanism. The Architects built this place for someone else, and Zan just found the evidence.
 
 ### 7.2 Facility Overview
 
 **Two levels:**
-- **Surface Level** (Rooms 1–2) — Former administrative and research areas. Partial collapse from the dome.
-- **Underground Level** (Rooms 3–6) — Operational areas. Better preserved. No natural light.
+- **Surface Level** (Room 1 only) - Former research area. Partial collapse from the dome
+- **Underground Level** (Rooms 2 - 6) - Operational areas. Better preserved. No natural light.
 
-**Facility atmosphere:** Dead. Cold. Still. The air is dry and tastes of old dust. the Flesh Architects symbol appears on every doorframe, every piece of stationary, every equipment tag. Whoever built this place was methodical — and wanted everyone to know who owned it.
+**Facility atmosphere - facts to convey:**
+- Dead, cold, still air 
+- Air is dry, tastes of old dust
+- **Three Curves (ViF)** on every doorframe, document, equipment tag - often alongside the Flesh Architects' own lab crest
 
 ### 7.3 Surface Level
 
-#### Room 1 — Main Hall (Collapsed Dome)
+#### Room 1 - Main Hall (Collapsed Dome)
 
-**Description:** The central chamber. The dome collapsed inward, leaving a jagged opening to grey sky. Rubble pile in the center. Old operating tables, rusted, pushed against the walls. Glass cabinets, shattered. A large faded Flesh Architects symbol on the far wall — the circle with three sweeping curves, one broken.
+**Description - facts to convey:**
+- Central chamber, dome collapsed inward - jagged opening to grey sky
+- Rubble pile at center
+- Rusted operating tables pushed against walls
+- Shattered glass cabinets
+- Large faded **Three Curves (ViF)** on the far wall
 
 **Investigation:**
 
-| DC | Check | Result |
-|----|-------|--------|
-| 10 | Perception | Footprints in the dust — old, months to years. Several sets. Different sizes. |
-| 13 | Investigation | Among the rubble: broken vials, a crushed microscope, fragments of glass slides labeled with specimen numbers. The slides are too damaged to read fully, but the prefix "MON-" appears on several. |
-| 15 | Medicine/Arcana | The operating tables show signs of use — restraint anchor points, dried biological residue in the seams. This was a procedure room. Not human subjects — the table dimensions are wrong. Too long, too narrow. Monster subjects. |
+| DC  | Check           | Result                                                                                                                                                                                                                           |
+| --- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10  | Perception      | Footprints in the dust - old, months to years. Several sets. Different sizes.                                                                                                                                                    |
+| 13  | Investigation   | Among the rubble: broken vials, a crushed microscope, fragments of glass slides labeled with specimen numbers. The slides are too damaged to read fully, but the prefix "MON-" appears on several.                               |
+| 15  | Medicine/Arcana | The operating tables show signs of use - restraint anchor points, dried biological residue in the seams. This was a procedure room. Not human subjects - the table dimensions are wrong. Too long, too narrow. Monster subjects. |
 
-**Contents:** Nothing of immediate value. The equipment is too damaged or rusted to salvage. A sense of cold purpose lingers.
+**Contents:** Nothing of immediate value. The equipment is too damaged or rusted to salvage
 
-**Zan (private):** *"This room isn't right. The place you escaped from had operating theaters like this — but those fit humanoid bodies. These are wrong. Built for something with four legs. Or too many limbs."*
+**Zan's observation (private):**
+- These operating tables are wrong - not built for humanoids
+- The facility he escaped had similar theaters, but those fit human bodies
+- These dimensions: too long, too narrow - built for creatures with four legs, or too many limbs
+- Whatever was operated on here wasn't humanoid  
 
-#### Room 2 — Records Office
-
-**Description:** A side room off the Main Hall. Water damage from the collapsed dome has ruined part of the ceiling. Filing cabinets, some overturned, papers scattered like dead leaves. A desk in the corner with a chair, a dead oil lamp, and a mug with something dried at the bottom.
-
-**THIS IS THE KEY ROOM.** The party finds:
-
-1. **Subject Transfer Ledger** — A leather-bound book, partially water-damaged but legible. Lists subject numbers, specimen types, and transfer dates. One entry stands out:
-
-> *"Subject 242 — Shadar-kai, male, juvenile. Anomalous teleportation response to B-crystal exposure. Transferred to Primary Facility [name scratched out] for full Catalyst Project induction. Date: [illegible]. Escort: Agent Korvus."*
-
-**Zan's beat:** He reads the entry. He goes quiet. This is the first time he's seen his own subject number in an official document. The first confirmation that the Flesh Architects had a system, a process, a paper trail. They didn't just torture him — they *documented* it. And the file proves he was flagged for something bigger. The Catalyst Project wasn't random — he was *selected* for it.
-
-2. **Gamma-7 Research Summary** — A half-burned folder titled *"Gamma-7: Monster Physiology & B-Crystal Integration Trials — Phase II."* Contents:
-- The facility studied monsters native to the frontier — wolves, giant spiders, manticores, griffons
-- Goal: understand how B-crystal exposure affected non-humanoid physiology
-- Findings: monster subjects integrated crystals faster than humanoids. Behavioral changes (hoarding, aggression) were more pronounced and more immediate.
-- Conclusion: monsters were *better vectors* for B-crystal influence. This finding was forwarded to a separate project team (name redacted).
-
-3. **Partial Map** — Tucked inside the folder: a hand-drawn map fragment. It shows a section of the continent with Gamma-7 marked, and another facility marked with a question mark, further west and north. Scrawled note in the margin: *"Primary Operations — coordinates verified. Forward all Phase II data."*
-
-**This is the plot hook to the next POI** — the party now knows there's at least one more Flesh Architects facility, and it's bigger than this one.
-
-4. **Kaelyn's Connection** — Among the papers: a sealed envelope with the Flesh Architects symbol. Inside: a letter written in Undercommon, addressed to "Chief Researcher, Gamma-7." The letter is from a Drow signatory (name partially burned off). It thanks Gamma-7 for "specimen transfers" and mentions "continued cooperation between our respective institutions." The symbol was on the letterhead. Kaelyn saw this symbol on her cell wall because the Drow researchers who held her *were cooperating with the Flesh Architects.*
-
-**[Flagged for review]:** This is a draft beat for Kaelyn's connection. Needs refinement — the exact nature of the Drow-Flesh Architects relationship, why the symbol was specifically on her cell wall, and what this means for her backstory. Discuss with GM.
-
-**Loot in Records Office:**
-
-| Item | Details |
-|------|---------|
-| **Potion of Healing (2)** | Stored in a locked drawer (DC 13 Sleight of Hand to pick) |
-| **Gold** | 25 gp in a desk lockbox (DC 13) |
-| **Flesh Architects Signet Ring** | A signet ring with the Flesh Architects symbol. Worth 25 gp to a collector. Could serve as a prop or pass-credential if they encounter Thormvuld agents. |
-| **Research Notes (bulky)** | The folder and ledger are too large to carry stealthily but contain vital intel. The party will need to decide: take the key pages, try to carry the whole thing, or copy what they can. |
-
-**GM Note:** When the party is in this room, they find the really important stuff. This is also likely when Thormvuld arrives (see §11).
-
----
+**Map Layout:**
+- **Size:** 8x8 squares (40x40 ft), octagonal/circular dome chamber
+- **Entry points:**   
+  - [ ] Collapsed dome opening in ceiling - AtleticshDC  43 to climb in/out, 10 min.  
+  - [ ] Main entrance door (Method B - hidden mechanism) in south wall  
+  - [ ] Spiral staircase behind false bookcase in north wall (DC 12 Perception to find) - descends to underground level.
+- **Items to draw:** 
+  - [ ] Collapsed dome center (remove center 4x4, difficult terrain rubble)
+  - [ ] 3 rusted operating tables against walls
+  - [ ] 2 shattered glass cabinets
+  - [ ] Large faded ViF Three Curves symbol on north wall above false bookcase
+  - [ ] Footprints in dust (scattered).
+- **Lighting:** Daylight from dome opening during day, dim shadows around edges.-  #### Room 1 — Main Hall (Collapsed Dome)
 
 ### 7.4 Underground Level
 
-Access either from the Main Hall (staircase behind the far wall, hidden behind a false bookcase — DC 12 Perception to find) or through the underground passage entrance (Room 6).
+**Underground Level Layout (Reference Map):**
+- **Spiral staircase** from Room 1 descends 30 ft, landing in a **narrow corridor** between Rooms 2 and 3
+- **Corridor:** 2 squares wide (10 ft), runs ~16 squares (80 ft) southward. Stone walls, dust floor.
+- Room access (southward from stairs landing):
+  - West wall (immediately south of stairs): Door to **Room 2** (Guardian Beast Lair)
+  - East wall: Corridor continues south past doors to Rooms 3, 4
+  - Corridor dead-ends at **Room 6** (Burn Pit) at far south end
+- Back entrance: Method C (collapsed drainage tunnel) opens into Room 6
 
-#### Room 3 — Containment Vault
+#### Room 2 — Guardian Beast Lair
+**Map Layout:**
+- **Size:** 6x6 squares (30x30 ft), square room
+- **Entry:** Single reinforced door from corridor (west/southwest wall). Thicker door than standard, scarred with deep claw marks.
+- **Items to draw:** 
+  - [ ] Cages torn from within (northwest corner). 
+  - [ ] Broken chain anchor point on north wall. 
+  - [ ] Gnawed bones scattered across floor. 
+  - [ ] Hoard pile in southeast corner (coins, cup, vials, gemstones). 
+  - [ ] Creature in center-east shadows — mark as "?" until revealed.
+- **Terrain:** Confined. Cages and debris provide half cover (AC +2). Creature knows every hiding spot.
+- **Lighting:** Dark. Creature has darkvision. Party needs light source.
+- **Note:** Former containment vault — walls are reinforced stone.
 
-**Description:** Reinforced door (heavier than the others). A single B-crystal sample floats in a containment field — a sphere of translucent arcane energy that hums with a low, throbbing frequency. The crystal is the size of a fist, deep red, pulsing in a rhythm like a heartbeat. The containment field flickers irregularly.
+#### Room 3 — Creature Pens
+**Map Layout:**
+- **Size:** 4x12 squares (20x60 ft), long rectangular corridor with cells along east wall
+- **Entry:** Single door from main underground corridor (west wall, near north end)
+- **Items to draw:** 
+  - [ ] 7 cells along east wall. 
+  - [ ] Cells 1-4 are smaller (2x2 squares each), doors open. 
+  - [ ] Cells 5-6 larger (3x3 squares each). 
+  - [ ] Skeletal remains in Cells 5-6 (manticore bones in 5, unidentifiable large bones in 6).
+  - [ ] Cell 7 at south end (3x3 sq), door CLOSED, bolted from outside, viewing slot at eye level. 
+  - [ ] Small hoard pile visible inside Cell 7 (coins, belt buckle, hair ribbon).
+- **Lighting:** Dark. No natural light.
 
-**The crystal:** This is the remaining sample the facility kept. It's unstable. The containment is old enchantment, maintained by a now-depleted power source. It could fail at any moment.
+#### Room 4 — Operating Theater
+**Map Layout:**
+- **Size:** 6x8 squares (30x40 ft), rectangular room
+- **Entry:** Single door from main corridor (west wall, near center)
+- **Items to draw:** 
+  - [ ] Tiered observation seating along north half (3 rows, rising 1 sq per row). 
+  - [ ] Central operating pit (2x2 sq in room center). 
+  - [ ] Iron table with restraints in pit. 
+  - [ ] Surgical instrument racks along south wall (scalpels, saws, forceps, needles). 
+  - [ ] Anatomical charts on east wall (wolves, manticores, griffons with crystal integration points marked). 
+  - [ ] Specimen cabinets with jars along west wall.
+- **Lighting:** Dark. Shadowy.
 
-**Approaching the crystal:**
-
-| Action | Effect |
-|--------|--------|
-| **Touch the containment field** | DC 14 Arcana check to assess stability. Success: the field will hold for a few more hours. Failure: the field flickers violently, the crystal's pulse quickens. |
-| **Bardolemeu / Kaelyn** | Arcane casters sense the crystal's hunger — not a conscious will, but a raw, animal need. B's echo. |
-| **Zan / Aurora** (B-touched) | The crystal *resonates* with them. Zan's teleportation marks hum. Aurora's constellations pulse in response. The crystal is *aware* of them. |
-| **Attempt to take the crystal** | Requires disabling the containment (DC 15 Arcana). On failure: the field collapses violently — 3d6 force damage (DEX save half, DC 13) to everyone in 10 ft, and the crystal falls to the floor, uncontained. The party now has a dangerous, pulsing, active B-crystal sample. What do they do with it? |
-
-**GM Note:** This room is the source of the "something breathing in the basement" rumor Soren Vane mentioned (NPC 1). The pulsing containment sounds vaguely like breathing if heard from a distance through stone.
-
-#### Room 4 — Creature Pens
-
-**Description:** A long corridor lined with cells. Heavy iron bars. Thick stone walls. Most cell doors are open — hanging on broken hinges or slid open. Signs of struggle in some — claw marks on the walls, dried black stains on the floor.
-
-**What remains:**
-- Cells 1–4: Empty. Clean. These held smaller specimens (wolves, spiders).
-- Cells 5–6: Skeletal remains of larger creatures. A manticore in one (collapsed, bones cracked, the skull missing a horn). In the other, something unidentifiable — too large, wrong bone structure. A creature that didn't occur in nature. The Flesh Architects were *creating* things.
-- Cell 7 (end of the hall): Door is **still closed** — heavy iron, bolted from the outside. A small viewing slot at eye level.
-
-**Cell 7 — The Survivor:**
-
-Behind the door: nothing. The cell is empty. But there are fresh scratches on the floor — days old, not years. And a pile of small, shiny objects in the corner: coins, a belt buckle, a silver fork, a child's hair ribbon. The hoarding instinct. Something was *living* here recently.
-
-**What was in Cell 7:** A creature that survived the facility's abandonment. It broke out (the bolt was on the outside — someone or something slid it open from inside using an improvised tool) and escaped into the frontier. The party won't encounter it now, but they'll see its tracks outside — leading northwest, toward the wilderness.
-
-**Loot:**
-- In the pile (Cell 7): 2d10 gp, a silver belt buckle (5 gp), and a small carved bone whistle that, when blown, produces a sound only beasts can hear (flavor item).
-
-#### Room 5 — Operating Theater
-
-**Description:** The most disturbing room in the facility. Tiered seating (observation) looking down on a central operating pit. The pit contains a large iron table with heavy restraints — sized for a creature the mass of a bear or larger. Surgical instruments hang on racks: scalpels, saws, forceps, needles — some rusted, some still with residue. The walls are stained. The floor drains are crusted with old deposits.
-
-**Charts on the wall:** Anatomical drawings of monster physiology — wolves, manticores, griffons — with Flesh Architects notation labeling "crystal integration points" (places where B-crystals were implanted into muscle and bone). The notation is clinical, precise, and deeply unsettling.
-
-**Investigation:**
-
-| DC | Check | Result |
-|----|-------|--------|
-| 12 | Medicine | The integration points on the charts correspond to nerve clusters. The Architects weren't just implanting crystals — they were *wiring them into the nervous system.* |
-| 15 | Investigation | Among the instruments: a small, clean scalpel — not rusted, recently used. Someone has been here. Recently. Working. |
-
-**Loot:** The clean scalpel is masterwork (15 gp). A cabinet contains preserved specimens in jars — pickled organs, deformed limbs, one jar with a partially crystalized wolf heart. Worth 20 gp to a medical researcher (if the party is willing to carry a jar of pickled monster parts).
-
-**Zan (private):** *"This room is worse than the one where they held you. At least your torturers had a theory. This room is just... butchery. They were cutting things open to see what happened, with no idea what they'd find."*
-
+#### Room 5 — Records Office
+**Map Layout:**
+- **Size:** 4x6 squares (20x30 ft), rectangular side room
+- **Entry:** Collapsed tunnel (DC 20 Athletics (reduce by 2 for each person helping) to unearth), coming from Room 2
+- **Items to draw:** 
+  - [ ] Filing cabinets along north and east walls (some overturned). 
+    - [ ] Sealed ViF letter (in filing cabinet). 
+  - [ ] Papers scattered across floor. 
+    - [ ] Research folder (among scattered papers). 
+    - [ ] Partial map fragment (tucked inside research folder).
+  - [ ] Desk in southeast corner with chair, dead oil lamp, mug with dried residue, locked drawer
+    - [ ] Locked drawer (DC 13 Sleight of Hand) under desk — 2 Potions of Healing
+    - [ ] Subject Transfer Ledger (on desk)
+  - [ ] Water damage in northeast corner from dome collapse
+- **Lighting:** Dim — daylight filtering through water-damaged ceiling.
+- **GM Notes:** 
+  - Thormvuld arrives at facility (enter Room 1) when party is in this room.
+  
 #### Room 6 — Burn Pit / Waste Disposal
+**Map Layout:**
+- **Size:** 3x4 squares (15x20 ft), small rectangular room
+- **Entry points:** 
+  - [ ] (1) Door from main corridor at south end. 
+  - [ ] (2) Drainage tunnel entrance in east wall (Method C — partially rubble-filled).
+- **Items to draw:** 
+  - [ ] Large iron furnace against north wall (cold, 3x2 sq). 
+  - [ ] Bone fragments visible in ash. 
+  - [ ] Ventilation shaft/chimney from furnace goes up (not accessible from ground floor). 
+  - [ ] Loose stone in furnace wall (DC 14 Investigation) 
+    - [ ] Hidden compartment with **oilcloth-wrapped journal - Elena Vance's**. 
+  - [ ] Rubble pile near drainage tunnel entrance.
+- **Lighting:** Complete darkness. Party needs light source.
+- **Note:** Very cramped if combat happens here. Drain tunnel is emergency escape route.
 
-**Description:** A small room at the back of the underground level, accessible from a narrow corridor or from the surface via the collapsed underground passage. A large iron furnace, cold, with an ash-filled pit beneath it. Bone fragments in the ash — humanoid and otherwise. A ventilation shaft leads up to the surface (chimney).
+### **The Journal:**
+A junior researcher at Gamma-7, **Elena Vance**, kept a private journal. Last entry: day the facility was decommissioned.
 
-**Contents:** Nothing of value. The furnace is cold. The ash is deep and dry. But a DC 14 Investigation reveals a small compartment behind a loose stone in the furnace wall. Inside: a personal journal, wrapped in oilcloth to protect it from the elements.
-
-**The Journal (A Scientist's Confession):**
-A junior researcher at Gamma-7, name of **Elena Vance**, kept a private journal. The last entry is dated the day the facility was decommissioned:
-
-> *"They're shutting us down. Moving operations north. The orders came from the Chief Architect himself — we're being consolidated. Everything we learned about monster integration is being folded into the main project. They won't say what the main project is. They never do.*
->
-> *"I've been ordered to destroy all remaining samples. I can't do it. I've sealed one in the containment vault — a live crystal. If someone finds this place, they need to see what we were working with. They need to understand.*
->
-> *"I don't know what the Covenant is building. But they're using our work for it. And I'm afraid of what comes next."*
+**Key facts from the journal:**
+- They're shutting Gamma-7 down, moving operations north
+- Orders came from the Chief Architect himself - they're being consolidated
+- All monster integration research is being folded into the "main project" (unnamed)
+- She was ordered to destroy all remaining samples but couldn't do it
+- She sealed one live crystal in the containment vault intentionally - for someone to find
+- Covenant overode access to Subject 242 - subject escaped
+- She doesn't know what the Covenant is building, but she's afraid
 
 **This journal:**
-- Confirms the Flesh Architects were a Covenant division
+- Confirms the Flesh Architects were a ViF division
 - Confirms Gamma-7 was decommissioned and consolidated into a larger project
-- Names the "Chief Architect" (for the first time — a named figure)
-- Hints that the researcher intentionally preserved the B-crystal sample for future discoverers
+- Names the "Chief Architect" (for the first time - a named figure)
 
 ---
 
-## 8. ZAN'S REVEAL — SUBJECT 242
+## 8. ZAN'S REVEAL - SUBJECT 242
 
-The core beat is in **Room 2 — Records Office** (see §7.3).
+The core beat is in **Room 5 - Records Office**
 
 **What Zan learns concretely:**
 1. He was **Subject 242** in a formal, documented numbering system
-2. He was **transferred** from this outpost to the main facility — Gamma-7 identified him first, then sent him up the chain
-3. His unusual response to B-crystals at Gamma-7 was what flagged him for the Catalyst Project
-4. The name "Catalyst Project" appears in official documents — this was a real program with a real name
-5. There is a primary facility somewhere else. Bigger. More important.
+2. He was **scheduled for transfer** to Gamma-7 from the Primary Facility - the Catalyst Project flagged him for Phase II work, but he escaped before the transfer
+3. The name "Catalyst Project" appears in official documents - this was a real program with a real name
+4. There is a primary facility somewhere else. Bigger. More important.
 
-**Emotional beat:** Zan has spent 16 years believing he was a random victim. This proves he was *selected*. Identified. Catalogued. The paperwork of his suffering exists. And it proves the Flesh Architects are still out there — they just moved to a bigger facility.
+**Emotional beat:** Zan has spent 16 years believing he was a random victim. This proves he was *selected*. Identified. Catalogued. The paperwork of his suffering exists. And it proves the Flesh Architects are still out there - they just moved to a bigger facility.
 
-**Player-facing prompt (if needed):** *"Zan — you've known for sixteen years what they did to you. But you've never seen it written down. This is different. Your number. Your classification. Your transfer order. They had a system. A process. And you were processed. What do you do?"*
+**Player-facing prompt (GM, to Zan's player):** Facts to communicate - he's known for 16 years what they did, but this is the first time seeing it written down. His number, his classification, his transfer order - they had a system, a process, and he was processed. Ask: what does he do?
 
 **What Zan can do with this intel:**
-- The transfer order names an escort: **Agent Korvus** — a name to track
-- The partial map shows the general direction of the primary facility (north-west)
-- The journal in Room 6 mentions "consolidation north" — confirming the direction
+- The transfer order names the requesting agent: **Agent Korvus** - a name to track
+- The partial map shows the general direction of the primary facility (east-southeast)
 
 ---
 
-## 9. KAELYN'S CONNECTION — DRAFT BEAT (FLAGGED FOR REVIEW)
+## 9. KAELYN'S CONNECTION - VERITAS IN FRACTUM
 
-**Location:** Room 2 — Records Office.
+**The find:** A sealed envelope stamped with the **Three Curves** symbol. Inside: a letter written in Undercommon, signed by the *"Arch-Liaison, Underdark Research Compact"* 
+It is addressed to "Chief Researcher, Site Gamma-7" and discusses specimen transfer protocols and integrated physiology studies under ViF's unified research mandate.
 
-**The find:** A sealed envelope, Flesh Architects seal, addressed to the Chief Researcher at Gamma-7. Written in Undercommon. The sender is a Drow researcher — the name is partially burned off, but the title is legible: *"Chief Liaison, Underdark Research Compact."*
+**Kaelyn's recognition (GM-facing - facts to convey to the player):**
+- She stared at that symbol on her cell wall for 20 years
+- She assumed Drow - a House crest, a Lolthite rite - she was wrong
+- The Drow researchers who held her weren't working for Lolth; they were a **division** of a continent-spanning coalition
+- Her cell was marked because she was **ViF property** - a specimen in a shared research program (Underdark Division + Flesh Architects)
+- She was never "just" a Drow prisoner - she was part of something much larger
 
-The letter thanks Gamma-7 for "specimen transfers" and expresses interest in "continued cooperation regarding integrated physiology studies." The letterhead bears the Flesh Architects symbol — the exact same symbol Kaelyn saw carved into her cell wall.
+### What This Means for Kaelyn
 
-**Kaelyn's recognition:** *"You stared at that symbol for twenty years. You always assumed it was Drow — a House crest, a Lolthite insignia. But it wasn't Drow. It was *theirs*. The Drow who held you were *working with* the Architects. The symbol was on your cell wall because the cell was part of a shared project. You were never just a Drow prisoner. You were a *specimen.*"*
+1. **The symbol is not Drow** - it belongs to ViF, an ancient secret coalition that predates her imprisonment
+2. **ViF has multiple divisions** - the Flesh Architects (Gamma-7) and the Underdark Arcane Division (her captors) are two branches of the same tree
+3. **Her imprisonment was part of a coalition-wide effort** - data from Kaelyn's 20 years of experiments was likely shared between the Underdark Division and the Flesh Architects
+4. **The Flesh Architects did not abandon Gamma-7 by accident** - the facility was decommissioned and consolidated into a larger ViF project (the Primary Facility, referenced in Elena Vance's journal)
+5. **The Drow who held her may still be active** - the Underdark Arcane Division continues to operate in secret
 
-**[Flagged for review]** — This beat connects Kaelyn to the broader conspiracy but needs refinement:
-- What was the exact nature of the Drow-Flesh Architects cooperation?
-- Why was the symbol specifically on Kaelyn's cell wall (was her cell part of a shared facility, or was it marked for other reasons)?
-- What does this mean for her backstory going forward?
-- Discuss with GM before committing to canon.
+### Emotional Beat (GM-facing - facts to convey to the player)
+
+- For 150 years she believed her mother imprisoned her purely out of cruelty and curiosity about her magical powers and crystal
+- But the symbol tells her something else: her mother was not acting alone
+- She was part of something larger - Kaelyn's suffering served a purpose she never knew existed
+- Somewhere - Underdark archive, hidden vault, a paper with her name on it - her file still exists
 
 ---
+## 10. PLOT HOOK - NEXT POI
+**Source:** Room 5 (Records Office) - Partial Map + Vance journal
 
-## 10. PLOT HOOK — NEXT POI
-
-**Source:** Room 2 — Partial Map + Room 6 — Journal
-
-**The hook:** The Flesh Architects didn't abandon their work — they *consolidated* it. Gamma-7 was a Phase II monster-study outpost. All findings were forwarded to a **Primary Facility** somewhere northwest. The partial map shows another marked location — coordinates partially legible.
+**The hook:** The Flesh Architects didn't abandon their work - they *consolidated* it. Gamma-7 was a Phase II monster-study outpost. All findings were forwarded to a **Primary Facility** somewhere to the east-southeast. The partial map shows another marked location - coordinates partially legible.
 
 **What the party knows:**
-- There's a larger Flesh Architects facility somewhere northwest
+- There's a larger Flesh Architects facility somewhere to the east-southeast
 - The Catalyst Project (Zan's program) was run there
 - Project Genesis (Balor's arc) is referenced in Gamma-7's records
-- The researcher Elena Vance's journal names the **Chief Architect** — a named Covenant figure
-- Agent Korvus (Zan's transfer escort) is a named NPC who could be tracked
+- The researcher Elena Vance's journal names the **Chief Architect** - a named Flesh Architect figure
+- Agent Korvus (the requesting agent for Zan's transfer) is a named NPC who could be tracked
 
 **Possible directions for the hook:**
 - The party follows the map fragment to the primary facility
 - The party returns to FX with the intel and he directs them to the next lead
-- A Thormvuld agent captured at Gamma-7 has orders related to the primary facility (see §11)
+- A Thormvuld agent captured at Gamma-7 has orders related to the primary facility
 
 ---
 
-## 11. THORMVULD ARRIVAL — FACTION PRESSURE
+## 11. THORMVULD ARRIVAL - FACTION PRESSURE
 
 ### Timing
 
 Thormvuld arrives **during the party's exploration of Gamma-7.**
 
-**Trigger:** The party enters Room 2 (Records Office) — or alternatively, any room that produces a significant discovery.
+**Trigger:** The party explores Room 5 and finds relevant documentation
 
-**The Arrival:**
-> *"You hear it first as a vibration in the stone floor. Then as a sound — multiple horses, approaching at a canter. Voices, muffled by distance and stone. Then a sharp order, shouted in clear Common: 'Secure the perimeter. Two on the dome entrance. Two on the tower. The rest with me — we're going in.'"*
+**The Arrival - facts to convey:**
+- First: vibration in the stone floor
+- Then: sound of multiple horses approaching at a canter
+- Voices and footsteps, muffled by distance and stone
+- Then a sharp order shouted in Common: "Secure the perimeter. Two on the entrance. The rest with me - we're going in."
 
 **Thormvuld Force:**
 
-| Member | Role |
-|--------|------|
-| **Lord Keylor Thormvuld** (or a lieutenant) | Commander. Carries a torch and a sheathed rapier. Speaks with authority. |
-| **4 Veteran Guards** | Human fighters, chainmail, swords and crossbows. Efficient, no-nonsense. |
-| **1 Arcane Advisor** | Human wizard or warlock. Carries a satchel of documents and an Arcane Focus. Here to identify and retrieve specific documents. |
+| Member                                      | Role                                                                                                                           |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Lord Keylor Thormvuld** (or a lieutenant) | Commander. Carries a torch and a sheathed rapier. Speaks with authority.                                                       |
+| **4 Veteran Guards**                        | Human fighters, chainmail, swords and crossbows. Efficient, no-nonsense.                                                       |
+| **1 Arcane Advisor**                        | Human wizard or warlock. Carries a satchel of documents and an Arcane Focus. Here to identify and retrieve specific documents. |
 
 **Their objective:**
 - Burn the facility (destroy evidence)
-- Recover any remaining Thormvuld-linked documents (they left traces during their earlier copy-operation)
-- Retrieve any remaining B-crystal samples
+- Recover any remaining documents
 - Eliminate witnesses
 
 **They do NOT know the party is here yet.** They're arriving expecting an empty facility they can clean up in a few hours.
 
 ### Party's Options
 
-| Option | Description | Risk |
-|--------|-------------|------|
-| **Hide** | Find a hiding spot (DC 14 Stealth, group check) and let Thormvuld pass through. Thormvuld will discover and destroy evidence before the party can recover it, but the party avoids combat. | Lose some loot/intel. Thormvuld destroys the facility on their way out. |
-| **Escape** | Use the alternate entrance to slip out before Thormvuld enters. Retreat to the ridge, observe, plan. Safe but gives up interior exploration time. | Unfinished exploration. But they can watch Thormvuld's movements and intercept later. |
-| **Ambush** | Set up an ambush inside the facility. Use the terrain. Strike when Thormvuld splits up to search. | Combat — 6+ enemies, tactically dangerous. Party has surprise on their side if prepared. |
-| **Negotiate** | Reveal themselves and try to talk. Unlikely to work — Thormvuld has orders to eliminate loose ends. But a clever party might bluff their way out (pretend to be Flesh Architects affiliates, or unrelated scavengers). | High DC Deception, high risk if it fails. |
-| **Fortify and Fight** | Barricade themselves in a room and make a stand. Thormvuld will call for reinforcements if they can't breach. | Extended combat, potential reinforcements. |
+| Option                | Description                                                                                                                                                                                                            | Risk                                                                                     |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Hide**              | Find a hiding spot (DC 14 Stealth, group check) and let Thormvuld pass through. Thormvuld will discover and destroy evidence before the party can recover it, but the party avoids combat.                             | Lose some loot/intel. Thormvuld destroys the facility on their way out.                  |
+| **Escape**            | Use the alternate entrance to slip out before Thormvuld enters. Retreat to the ridge, observe, plan. Safe but gives up interior exploration time.                                                                      | Unfinished exploration. But they can watch Thormvuld's movements and intercept later.    |
+| **Ambush**            | Set up an ambush inside the facility. Use the terrain. Strike when Thormvuld splits up to search.                                                                                                                      | Combat - 6+ enemies, tactically dangerous. Party has surprise on their side if prepared. |
+| **Negotiate**         | Reveal themselves and try to talk. Unlikely to work - Thormvuld has orders to eliminate loose ends. But a clever party might bluff their way out (pretend to be Flesh Architects affiliates, or unrelated scavengers). | High DC Deception, high risk if it fails.                                                |
+| **Fortify and Fight** | Barricade themselves in a room and make a stand. Thormvuld will call for reinforcements if they can't breach.                                                                                                          | Extended combat, potential reinforcements.                                               |
 
 ### What Thormvuld Does (If Unopposed)
 
-1. Enter through the main door (hidden mechanism — they know how to open it)
-2. Quickly sweep Room 1 (Main Hall) — veteran guards secure it
-3. Head to Room 2 (Records Office) — the arcane advisor searches for specific documents, orders the rest burned
-4. Descend to underground level — locate the containment vault (Room 3) and retrieve the B-crystal sample
+1. Enter through the main door (hidden mechanism - they know how to open it)
+2. Quickly sweep Room 1 (Main Hall) - veteran guards secure it
+3. Head to Room 5 (Records Office) - the arcane advisor searches for specific documents, orders the rest burned
+4. Descend to underground level - sweep Rooms 3?6 for remaining research materials, set charges
 5. Set timed charges or oil fires throughout the facility
-6. Depart within 45–60 minutes
+6. Depart within 45?60 minutes
 
 **The party, if hidden, can:**
 - Observe what Thormvuld prioritizes (understand their objectives)
@@ -485,7 +452,7 @@ Thormvuld arrives **during the party's exploration of Gamma-7.**
 **If combat breaks out:**
 - Thormvuld guards are trained, disciplined, and use tactical formations
 - The arcane advisor hangs back and controls the battlefield (crowd control spells)
-- Lord Keylor (or the lieutenant) fights dueling-style — precise, targeted
+- Lord Keylor (or the lieutenant) fights dueling-style - precise, targeted
 - Thormvuld tries to capture one party member alive for interrogation rather than kill all
 
 ### Long-Term Consequences
@@ -493,7 +460,70 @@ Thormvuld arrives **during the party's exploration of Gamma-7.**
 - **If Thormvuld succeeds:** The facility is destroyed. The party loses access to remaining intel. Thormvuld knows someone was investigating Gamma-7 (they'll find footprints, disturbed dust, open cabinets).
 - **If the party escapes without engaging:** Thormvuld knows someone was there. They report to the family. FX's network may pick up increased Thormvuld activity.
 - **If combat happens and Thormvuld survivors escape:** The party now has active Thormvuld hunters. Wanted posters get more accurate.
-- **If the party defeats the Thormvuld force:** They can loot the bodies (see §12), take Thormvuld's own map/orders, and learn what Thormvuld knew about the facility. But killing a noble's soldiers has consequences.
+- **If the party defeats the Thormvuld force:** They can loot the bodies (see #12), take Thormvuld's own map/orders, and learn what Thormvuld knew about the facility. But killing a noble's soldiers has consequences. 
+  
+
+## 5. D8 TRAVEL TABLE - Frontier Travel
+### Positive (1?2)
+
+| d8    | Encounter                                                                                                                                                                                                                                                                                                                                                                 |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Cache of Supplies.** Half-buried in a hollow log or under a collapsed stone: a weathered satchel. Left by a traveler who didn't make it. Contents: 2 Potions of Healing (standard), 1 vial of antitoxin, a pouch of trail mix (2 person-days), and a tarnished silver ring worth 10 gp. Inside the ring's band: an inscription in an old dialect - *"For better days."* |
+| **8** | **Gemstone Vein.** A small exposed mineral deposit in a dry creek bed (Perception DC 12 to spot). Nothing magical - just earth minerals. A successful DC 10 Mining/Jeweler's tools check yields 2d4 rough gemstones worth 10 gp each. Alternatively, a DC 12 Strength check breaks off larger chunks worth 15 gp total as decorative stone.                               |
+
+### Neutral (3?5)
+
+| d8    | Encounter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **3** | **Battlefield Remnants.** The road passes through the overgrown remnants of a skirmish - pre-invasion or early invasion. Bones half-sunk in the mud. A rusted sword planted upright in the earth like a grave marker. A helmet with a bullet hole. Scattered fragments of a soldier's letter, still legible: *"If you're reading this, bury me facing west. I want to see the frontier one last time."* Signs of crystal influence on the dead: one skeleton's ribcage is stained with faint crystalline residue. No combat. No loot. A reminder of the war's cost and the long reach of the influence. |
+| **4** | **Encroaching Wilds.** The frontier is transforming. The party passes through a stretch where the vegetation is subtly wrong - thorns growing in spiral patterns, flowers with unnaturally vivid colors (crimson, violet, a blue that doesn't exist in nature), roots surfacing in geometric lines. The air hums faintly. A DC 13 Nature check identifies the plants as mutated - arcane residue in the soil, probably from airborne crystal dust. The effect is purely cosmetic and dissipates a mile further west. A seed of unease.                                                                  |
+| **6** | **Watchtower Ruins.** A pre-Last Stand watchtower, collapsed and overgrown. Climbing to the top (DC 10 Athletics) gives a commanding view of the surrounding land - useful for spotting the standing stones or Gamma-7 from a distance. Inside: a logbook from the tower's last stationed scout. The last few entries grow increasingly erratic - *"The lights out there... they move like they're searching for something."* Then nothing. No remains found. Purely atmospheric.                                                                                                                       |
+
+### Negative (6?8)
+
+| d8    | Encounter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **2** | **Monster Army Patrol.** A small roving unit of the monster army - 2 hobgoblins leading 3 goblins on a supply-gathering mission. They're not looking for a fight, but they won't flee from one. They carry a small locked iron box containing supply manifests and cache coordinates for **Monster Army forward caches** - written in **Goblin**. **Bardolemeu can read this** (he speaks Goblin). The caches are scattered across the frontier, hidden for monster army troop movements. CR: Easy for a level-4 party of 6. Stat blocks: standard MM hobgoblin + goblin.                                                                                                                                                                                                                                                            |
+| **5** | **Ambush from Above.** A manticore (or young wyvern - GM's call based on party strength) has claimed a territory that overlaps the party's route. It attacks from surprise - diving from behind a rock formation or from low cloud cover. It's hungry, not infected by crystals. After taking 50% HP damage, it breaks off and retreats rather than fighting to the death. Lair nearby (optional pursuit) contains remains of previous victims - 3d10 gp, a torn backpack with 1 Potion of Greater Healing, and a half-melted silver holy symbol of Aurelius.                                                                                                                                                                                                                                                                        |
+| **7** | **Ongoing Battle.** The party crests a rise and sees a skirmish unfolding in the valley below - a **Thormvuld supply caravan** (3 wagons) under attack by monster army forces (1 ogre + 6 goblins). **Why Thormvuld is here:** Lord Keylor Thormvuld is scouring the region for traces of the documents stolen in his study heist - he has dispatched supply-runners and patrols across the frontier to support a network of search-and-destroy teams. This caravan was restocking one such team when the monster army ambushed it. The Thormvuld guards (4 human veterans) are losing. The party can: (A) help the Thormvuld - risky, they'll be remembered by Thormvuld scouts, (B) help the monsters - dark-alignment choice, (C) slip past while both sides are distracted - Stealth DC 14, (D) wait and scavenge the aftermath. |
+
+---
+ 
+## 12. RANDOM NPCs
+
+### NPC 1: Soren Vane - Human Male, Late 40s, Frontier Scavenger
+
+| Trait                   | Detail                                                                                |
+| ----------------------- | ------------------------------------------------------------------------------------- |
+| **Race**                | Human                                                                                 |
+| **Gender**              | Male                                                                                  |
+| **Age**                 | Late 40s                                                                              |
+| **Distinctive Feature** | Missing left ear - a clean cut, old scar. Wears a brass earring on the remaining ear. |
+### NPC 2: Mira Stonebrook - Half-Elf Female, Early 30s, Wandering Healer
+
+| Trait                   | Detail                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| **Race**                | Half-Elf                                                                       |
+| **Gender**              | Female                                                                         |
+| **Age**                 | Early 30s                                                                      |
+| **Distinctive Feature** | Her left hand is wrapped in clean white bandages - always. She never says why. |
+### NPC 3: Grimbok "Grim" Ironhide - Dwarf Male, 62, Degenerate Prospector
+
+| Trait                   | Detail                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| **Race**                | Dwarf                                                                          |
+| **Gender**              | Male                                                                           |
+| **Age**                 | 62                                                                             |
+| **Distinctive Feature** | So drunk he sways while standing still. Red-rimmed eyes. Flask always in hand. |  |
+
+### NPC 4: Seraphine "Sera" Blackwood - Tiefling Female, 26, Courier
+
+| Trait                   | Detail                                                                                                               |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Race**                | Halfling (ashen skin, short hair, golden eyes)                                                                       |
+| **Gender**              | Female                                                                                                               |
+| **Age**                 | 26                                                                                                                   |
+| **Distinctive Feature** | A leather courier's satchel with a wax-sealed letter sticking out. She's fast - lightning-quick movements, restless. |
 
 ---
 
@@ -501,68 +531,49 @@ Thormvuld arrives **during the party's exploration of Gamma-7.**
 
 ### 12.1 Thormvuld Guard Loot (Post-Combat)
 
-| d6 | Find |
-|----|------|
-| 1 | Healing Potion (standard) — each guard carries 1 |
-| 2 | 2d10 gp in mixed coin |
-| 3 | Thormvuld signet ring (worth 5 gp, or 20 gp to a fence who deals with noble-house memorabilia) |
-| 4 | A sealed order (map to a Thormvuld supply cache in the frontier — future POI) |
-| 5 | Masterwork dagger (non-magical, 25 gp) |
-| 6 | Small pouch of diamond dust (50 gp value, material component for Revivify) |
+| d6  | Find                                                                                           |
+| --- | ---------------------------------------------------------------------------------------------- |
+| 1   | Healing Potion (standard) - each guard carries 1                                               |
+| 2   | 2d10 gp in mixed coin                                                                          |
+| 3   | Thormvuld signet ring (worth 5 gp, or 20 gp to a fence who deals with noble-house memorabilia) |
+| 4   | A sealed order (map to a Thormvuld supply cache in the frontier - future POI)                  |
+| 5   | Masterwork dagger (non-magical, 25 gp)                                                         |
+| 6   | Small pouch of diamond dust (50 gp value, material component for Revivify)                     |
 
-### 12.2 General Loot Table — Gamma-7 (Uncommon Items, Level 4 Party)
+### 12.2 General Loot Table - Gamma-7 (Uncommon Items, Level 4 Party)
 
 Roll 1d20 for each significant location searched:
 
-| d20 | Item | Type | Notes |
-|-----|------|------|-------|
-| 1–3 | Nothing useful | — | Rusted, broken, decayed |
-| 4–5 | 1d4 × 10 gp in old coinage | Currency | Pre-invasion minting — worth more to collectors (double value in cities) |
-| 6 | Small rough gemstone (10 gp) | Gem | Amethyst or garnet |
-| 7 | Medium cut gemstone (25 gp) | Gem | Citrine or jade |
-| 8–9 | Potion of Healing (standard) | Consumable | 2d4+2 HP |
-| 10 | Potion of Climbing | Consumable | 1 hour, climbing speed |
-| 11 | Scroll of *Cure Wounds* (1st level) | Consumable | Single use |
-| 12 | Smokesticks (2) | Consumable | Obscures 10-ft radius for 1 round |
-| 13 | Healer's Kit (10 uses) | Gear | Standard |
-| 14 | Thieves' Tools (basic) | Gear | Standard |
-| 15 | Flesh Architects signet ring | Trinket | Worth 15 gp. Has the triple-curve symbol. Could be used as a bluff credential. |
-| 16 | A child's drawing, preserved in a frame | Trinket | A crayon drawing of a family — dated to before the invasion. Found in a desk drawer. No connection to the plot. Just humanity. |
-| 17 | Vial of holy water (Aurelius-blessed) | Consumable | Against undead/fiends |
-| 18 | A B-crystal shard (tiny, inert) | Trinket | No magical energy left. Warm to the touch. Hummed once. Now silent. A keepsake. |
-| 19 | Potion of Resistance (choose: fire, cold, or poison) | Consumable | 10 minutes resistance |
-| 20 | Potion of Invisibility | Consumable | Rare find — mark this as significant |
+| d20 | Item                                                 | Type       | Notes                                                                                                                          |
+| --- | ---------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1-3 | Nothing useful                                       | -          | Rusted, broken, decayed                                                                                                        |
+| 4-5 | 1d4 - 10 gp in old coinage                           | Currency   | Pre-invasion minting - worth more to collectors (double value in cities)                                                       |
+| 6   | Small rough gemstone (10 gp)                         | Gem        | Amethyst or garnet                                                                                                             |
+| 7   | Medium cut gemstone (25 gp)                          | Gem        | Citrine or jade                                                                                                                |
+| 8-9 | Potion of Healing (standard)                         | Consumable | 2d4+2 HP                                                                                                                       |
+| 10  | Potion of Climbing                                   | Consumable | 1 hour, climbing speed                                                                                                         |
+| 11  | Scroll of *Cure Wounds* (1st level)                  | Consumable | Single use                                                                                                                     |
+| 12  | Smokesticks (2)                                      | Consumable | Obscures 10-ft radius for 1 round                                                                                              |
+| 13  | Healer's Kit (10 uses)                               | Gear       | Standard                                                                                                                       |
+| 14  | Thieves' Tools (basic)                               | Gear       | Standard                                                                                                                       |
+| 15  | ViF signet ring                                      | Trinket    | Worth 15 gp. Bears the Three Curves symbol. Could be used as a bluff credential by anyone claiming to be a ViF operative.      |
+| 16  | A child's drawing, preserved in a frame              | Trinket    | A crayon drawing of a family - dated to before the invasion. Found in a desk drawer. No connection to the plot. Just humanity. |
+| 17  | Vial of holy water (Aurelius-blessed)                | Consumable | Against undead/fiends                                                                                                          |
+| 18  | A crystal shard (tiny, inert)                        | Trinket    | No magical energy left. Warm to the touch. Hummed once. Now silent. A keepsake.                                                |
+| 19  | Potion of Resistance (choose: fire, cold, or poison) | Consumable | 10 minutes resistance                                                                                                          |
+| 20  | Potion of Invisibility                               | Consumable | Rare find - mark this as significant                                                                                           |
 
-### 12.3 Random Trinket Table — Setting Depth
-
+### 12.3 Random Trinket Table - Setting Depth
 For when the party searches a random drawer or cabinet and you want to toss them something small:
 
-| d6 | Trinket |
-|----|---------|
-| 1 | A broken pocket watch, stopped at 4:37. The glass is cracked. |
-| 2 | A small leather coin pouch with a child's name stitched in: "Liam." Empty. |
-| 3 | A dried flower pressed between two pages of an old logbook. Still faintly blue. |
-| 4 | A single playing card — the Queen of Ravens. Worn at the edges. |
-| 5 | A half-melted candle stamped with the Flesh Architects symbol. |
-| 6 | A pebble with a naturally occurring hole through the center. Frontier folklore says it wards against nightmares. |
-
----
-
-## 13. SESSION STRUCTURE (Estimated 4-Hour Runtime)
-
-| Phase | Scene | Content | Time |
-|-------|-------|---------|------|
-| **1** | Cold Open | Homestead dawn. Aegon's note. Long rest aftermath. 4th skull shard. Departure. | 15–20 min |
-| **2** | Travel Day 1 | Frontier travel. Random encounter (d8). Campfire RP. Lycanthropy tension. | 30 min |
-| **3** | Standing Stones | Arrival at stones. Per-PC beats. Boon tokens. Lore/atmosphere. | 20–25 min |
-| **4** | Travel Day 2 / Gamma-7 Arrival | Frontier travel. Random encounter (d8). Descend into valley. Arrival at dusk. | 15–20 min |
-| **5** | Gamma-7 Exterior | Survey the facility. Choose entrance method. Skill checks. | 15–20 min |
-| **6** | Gamma-7 Interior (Before Thormvuld) | Rooms 1–2. Zan's reveal. Kaelyn's connection. Loot. | 30–40 min |
-| **7** | Thormvuld Arrives | Sounds, discovery, tension. Party decision: hide/fight/flee/talk. | 10–15 min |
-| **8** | Gamma-7 Interior (Under Pressure) | Rooms 3–6. Racing against Thormvuld. Time pressure. Pick what matters. | 30–40 min |
-| **9** | Resolution | Party escapes (or defeats Thormvuld). Consequences set. Plot hook established. | 10–15 min |
-
-**Estimated total:** ~165–230 minutes = **4 hours comfortably** with room for tangents.
+| d6  | Trinket                                                                                                          |
+| --- | ---------------------------------------------------------------------------------------------------------------- |
+| 1   | A broken pocket watch, stopped at 4:37. The glass is cracked.                                                    |
+| 2   | A small leather coin pouch with a child's name stitched in: "Liam." Empty.                                       |
+| 3   | A dried flower pressed between two pages of an old logbook. Still faintly blue.                                  |
+| 4   | A single playing card - the Queen of Ravens. Worn at the edges.                                                  |
+| 5   | A half-melted candle stamped with the Three Curves - ViF's symbol.                                               |
+| 6   | A pebble with a naturally occurring hole through the center. Frontier folklore says it wards against nightmares. |
 
 ---
 
@@ -570,111 +581,94 @@ For when the party searches a random drawer or cabinet and you want to toss them
 
 ### Thormvuld Veteran Guard
 
-*Medium humanoid (human), lawful evil — CR 2 (450 XP)*
+*Medium humanoid (human), lawful evil - CR 2 (450 XP)*
 
-| AC | HP | Speed |
-|----|----|-------|
+| AC             | HP          | Speed |
+| -------------- | ----------- | ----- |
 | 16 (chainmail) | 45 (7d8+14) | 30 ft |
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 16 (+3) | 12 (+1) | 14 (+2) | 10 (0) | 12 (+1) | 10 (0) |
 
-**Actions:** Multiattack (2). Longsword +5 (1d8+3). Heavy Crossbow +3 (1d10+1).
+**Actions:** Multiattack (2). Longsword +5 (1d8+3). Heavy Crossbow1+3 (1d12+1).
 
 **Tactics:** Fight in pairs. One engages melee, one provides ranged cover. Use crossbow for opportunity attacks when enemies flee.
 
 ### Thormvuld Arcane Advisor
 
-*Medium humanoid (human), lawful evil — CR 3 (700 XP)*
+*Medium humanoid (human), lawful evil - CR 3 (700 XP)*
 
-| AC | HP | Speed |
-|----|----|-------|
-| 12 | 32 (7d8+7) | 30 ft |
+| AC  | HP         | Speed |
+| --- | ---------- | ----- |
+| 12  | 32 (7d8+7) | 30 ft |
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 8 (-1) | 14 (+2) | 12 (+1) | 17 (+3) | 12 (+1) | 14 (+2) |
 
-**Spells (DC 14, +6):** Cantrips: Fire Bolt, Mage Hand, Minor Illusion. 1st (4 slots): Shield, Magic Missile, *Identify* (ritual). 2nd (3 slots): Misty Step, Web, Suggestion.
+**Spells (DC 14, +6):** 
+- Cantrips: Fire Bolt, Mage Hand, Minor Illusion. 
+- 1st (4 slots): Shield, Magic Missile, *Identify* (ritual). 
+- 2nd (3 slots): Misty Step, Web, Suggestion
 
 **Tactics:** Stays behind guards. Uses Web to control the battlefield. Misty Step to escape danger. Shield defensively.
 
-### Lord Keylor Thormvuld (Lieutenant — Optional)
+### Lord Keylor Thormvuld (Lieutenant - Optional)
 
-*Medium humanoid (half-elf), lawful evil — CR 4 (1,100 XP)*
+*Medium humanoid (dwarf), lawful evil - CR 4 (1,100 XP)*
 
-| AC | HP | Speed |
-|----|----|-------|
+| AC                           | HP          | Speed |
+| ---------------------------- | ----------- | ----- |
 | 17 (studded leather + parry) | 58 (9d8+18) | 35 ft |
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 14 (+2) | 18 (+4) | 14 (+2) | 12 (+1) | 14 (+2) | 16 (+3) |
 
-**Actions:** Rapier +7 (1d8+4 + 2d6 poison). Dagger +7 (1d4+4). Parry (reaction): +3 to AC against one melee attack.
+**Actions:** 
+- Multi-attack - 2 Rapier attacks per turn
+- Rapier, +7, (1d8+4 piercing + 2d6 poison)
+- Dagger, +7, (1d4+4)
+  
+**Reactions:**
+- Parry (reaction): +3 to AC against one melee attack.
 
-**Tactics:** Duels intelligently — uses Parry, targets casters and squishy-looking PCs. Carries a Potion of Invisibility for escape.
-
----
-
-## 15. FAIL-FORWARD — IF THE PARTY GOES OFF-SCRIPT
-
-| Off-Script Action | Fail-Forward |
-|-------------------|-------------|
-| **Party doubles back to the wolf hideout** | The hideout is still there. The wolves are dead (from their fight at the homestead). The stash mound is unguarded. They find the shackle-band clue. This takes 2+ hours of session time — Gamma-7 becomes the next session's opener. |
-| **Party refuses to enter Gamma-7** | They have FX's mission. They saw Thormvuld approach. They can observe from the ridge, see Thormvuld enter and exit, then decide. Thormvuld destroys the facility. The party salvages what they can from the smoking ruins (reduced loot, burned records, still-intact B-crystal that Thormvuld missed). |
-| **Party tries to capture a Thormvuld agent alive** | Good plan! The arcane advisor knows the least about Thormvuld operations but has a sending stone to Lord Keylor. If captured and interrogated, they reveal: (A) Thormvuld was here to clean up their tracks, (B) they've been monitoring the facility since the heist, (C) they know someone stole documents — but they don't know it was this party specifically. |
-| **Party triggers the B-crystal containment failure** | The crystal falls to the floor, pulsing and exposed. It begins resonating with the nearest B-touched PC (Zan, Aurora). It *talks* — not in words, but in raw emotional push: *hunger, cold, solitude, the desire to rejoin.* The party must contain it quickly (DC 13 Arcana) or it begins attracting ambient monster attention (roars from outside, approaching). |
-| **Party sets a fire before Thormvuld arrives** | The fire spreads faster than expected through the dry facility. The party must race to escape. The Thormvuld force sees smoke from the ridge and changes their approach — they now rush to the burning facility. Chaos. Time pressure. Good drama. |
+**Tactics:** Duels intelligently - uses Parry, targets casters and squishy-looking PCs. Carries a Potion of Invisibility for escape.
 
 ---
 
-## 16. QUICK REFERENCE CARD (Printable)
+## 13. GUARDIAN BEAST STAT BLOCK
 
-### Key NPCs
+### Crystal-Infused Guardian Beast (Gamma-7 Gatekeeper)
 
-| Name | Role | Notes |
-|------|------|-------|
-| **Soren Vane** | Scavenger | Missing ear. Warns about Gamma-7 basement. |
-| **Mira Stonebrook** | Healer | Bandaged hand. Recognizes lycanthropy symptoms. |
-| **Grimbok "Grim" Ironhide** | Prospector | Drunk dwarf. Knows about underground vein near Gamma-7. |
-| **Seraphine Blackwood** | Courier | Tiefling. Saw Thormvuld camp near Gamma-7. |
+*Medium/Large monstrosity (experiment), neutral evil - CR 3 (700 XP)*
 
-### Gamma-7 Rooms
+| AC                                   | HP            | Speed |
+| ------------------------------------ | ------------- | ----- |
+| 14 (natural armor + crystal growths) | 75 (10d10+20) | 30 ft |
 
-| # | Room | Key Content |
-|---|------|-------------|
-| 1 | Main Hall (Collapsed Dome) | Operating tables, faded symbol. Ath 13 climb-in. |
-| 2 | Records Office | **Subject 242 transfer order. Kaelyn's Drow letter. Partial map. Loot.** |
-| 3 | Containment Vault | Active B-crystal sample. Flickering field. Dangerous. |
-| 4 | Creature Pens | Cells. Cell 7: survivor's tracks + hoard pile. |
-| 5 | Operating Theater | Charts of crystal integration. Clean scalpel. Disturbing. |
-| 6 | Burn Pit | Elena Vance's journal. Confirms Covenant + Chief Architect. |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 12 (+1) | 15 (+2) | 4 (-3) | 13 (+1) | 6 (-2) |
 
-### Entrance DCs
+**Saving Throws:** STR +6, CON +4
+**Damage Resistances:** piercing from non-magical weapons
+**Condition Immunities:** frightened, charmed
+**Senses:** darkvision 60 ft, passive Perception 13
 
-| Method | Check | DC |
-|--------|-------|----|
-| Collapsed Dome | Athletics | 13 |
-| Hidden Mechanism | Investigation | 15 |
-| Underground Passage | Perception + Athletics | 14 / 12 |
+**Traits:**
+- **Crystal-Infused Hide:** Crystal growths across the beast's shoulders and skull grant +2 AC against ranged attacks.
+- **Hoarding Instinct:** The beast has disadvantage on WIS saves but cannot be persuaded or intimidated to leave its hoard.
+- **Maddened Rampage:** When reduced to 30 HP or fewer, the beast enters a frenzy - it makes one extra attack per round but attacks at disadvantage until the end of its next turn.
 
-### Travel Table (d8)
+**Actions:**
+- **Multiattack:** Two attacks - one Claw and one Bite.
+- **Claw:** +6, reach 5 ft, one target. Hit: 11 (2d6+4) slashing damage.
+- **Bite:** +6, reach 5 ft, one target. Hit: 9 (1d10+4) piercing damage.
+- **Crystal Shard Burst (Recharge 5-6):** The beast flares its crystal growths, releasing a burst of arcane energy in a 10-ft radius. Creatures in range must make DC 12 DEX save or take 3d6 force damage. Half on success. After using this ability, the beast's crystal growths dim , creature is exhausted, reducing speed by 10 ft, until the end of its next turn.
 
-| Roll | Type | Encounter |
-|------|------|-----------|
-| 1–2 | Positive | Cache of supplies / Gemstone vein |
-| 3–5 | Neutral | Battlefield remnants / Encroaching wilds / Watchtower ruins |
-| 6–8 | Negative | Monster patrol / Ambush from above / Ongoing battle |
-
-### Thormvuld Force
-- Lord Keylor (or lieutenant) — CR 4 duelist
-- 4 Veteran Guards — CR 2 each
-- 1 Arcane Advisor — CR 3
-- Arrive during Room 2 discovery
-
-### Loot Tables
-- **General (d20):** Consumables (4–13), gems (6–7), trinkets (15–18), rare potions (19–20)
-- **Thormvuld (d6):** Potions, coin, signet ring, sealed orders, masterwork weapon, diamond dust
-- **Trinket (d6):** Setting color items
+**Tactics:**
+- The beast fights defensively - it knows the room and will use the confined space to prevent the party from surrounding it.
+- It prioritizes anyone carrying shiny metal objects or gold (hoarding instinct).
+- If cornered or reduced to 30 HP, it unleashes Crystal Shard Burst and then tries to flee (triggering a chase encounter).
