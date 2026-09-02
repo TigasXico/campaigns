@@ -1,16 +1,16 @@
-﻿# WA Lore Keeper - Local Workflow Rules
+# WA Lore Keeper - Local Workflow Rules
 
-## Rule 1: Direct-Push Workflow for WA Content (revised 2026-08-22)
+## GOLDEN RULE - ALWAYS REMEMBER - ALWAYS ENFORCE
+NEVER generate lore content autonomously. NEVER make up lore. NEVER allucinate lore content. ONLY store lore content that was reviewed and approved by the user.
 
-Content is NO LONGER pre-approved. Instead:
-
+## Rule 1: Direct-Push Workflow for WA Content
 1. **Generate** article content from cache (strictly derived from existing lore; flag inconsistencies).
 2. **Push immediately** via MCP (`worldanvilCreateArticle` / `worldanvilUpdateArticle`). Choose and apply the visibility class yourself per the defaults in `instructions/ARTICLE_FORMAT.md`; DM notes always go in the GM Only container.
 3. **Reply with the edit-view link** plus applied settings (template, category, visibility class).
 4. **User edits directly on WA** (Advanced Editor/Euclid ONLY -- never Visual Editor).
 5. When the user says they are done, **fetch the final version from WA**, save it as the canonical local copy under `articles/output/`, and update `state_files/wa_article_registry.md`.
 
-Still require explicit user approval: deleting ANY WA resource; creating/deleting categories or subscriber groups.
+Requires explicit user approval: deleting ANY WA resource; creating/deleting categories or subscriber groups.
 
 **Never need approval:**
 - Querying/reading data from WA (e.g., listing articles, getting article details)
@@ -27,27 +27,11 @@ Before making decisions:
 
 ## Rule 3: Audit Gate for Lore Actions
 
-## Terminology (Campaign-Specific)
+## Rule 4: Narrative Text Prohibited in Prep
 
-| Term | Meaning |
-|------|---------|
-| **CMGMI** | Currency Metals, Gemstones, and Magical Items -- the three categories of matter that B-crystal-influenced creatures seek out and hoard. |
-| **B-Crystals / Arcane-Reactive Crystals** | Condensed physical remnants of Entity B's essence. Auto-connect to the natural arcane energy in all living things upon proximity, infecting them with B's hoarding influence. |
-| **B-Touched** | A mortal who has been permanently modified by or attuned to B's essence. Examples: Zan (Catalyst Project), Kaelyn (crystal heart), Aurora (hidden constellations), Aegon (shifting visions). |
-| **The Weave** | The permeating field of magical energy across all planes. Literally the residual body of B after the Great Sacrifice. |
-| **The Symbol (Three Curves)** | The symbol found in Thormvuld documents. A circle with three sweeping curves, one broken. Associated with Site Gamma-7. Its true origin is not yet known to the party. Belongs to a coalition (Veritas in Fractum) that predates the campaign. |
-| **The Catalyst Project** | Flesh Architects program using heated B-Crystals on Shadar-kai subjects to modify teleportation abilities. Subject 242 (Zan) is the only known escapee. |
-| **Project Genesis** | Crimson Covenant's centuries-spanning program to breed a mortal vessel for Khar'zul's essence. Culminated in Balor Skallfang. |
-| **The Great Sacrifice** | Entity B's self-sacrifice, shattering its essence across all planes, giving mortals magic, the Weave, and CMGMI. |
-| **The Abominable End** | The monster invasion that began ~400 years ago via planar breaches. Publicly blamed on three "banned gods." Truly orchestrated by all 10 gods. |
-| **CP** | Campaign Progression -- used in the roadmap for session ranges relative to campaign progress, not real-world time. |
+**NEVER** generate text meant to be narrated directly to players in session prep documents. Instead, present bullet-point lists of information to transmit (key facts, sensory details, NPC dialogue beats, revelations). The DM weaves these into their own narration at the table.
 
-When creating or modifying lore content (entities, relationships, timelines):
-1. Run audits A1-A4
-2. Report results in your reply alongside the push
-3. Never silently fix inconsistencies -- flag them; the user corrects wording during their WA editing pass
-
-## Rule 4: Session Prep Workflow
+## Rule 5: Session Prep Workflow
 
 Before preparing a session, follow `instructions/SESSION_PREP_WORKFLOW.md`:
 
@@ -60,3 +44,29 @@ Before preparing a session, follow `instructions/SESSION_PREP_WORKFLOW.md`:
 7. Draft session_X_prep.md
 8. Update continuity snapshot and delete used idea bank entries
 9. Commit
+
+## Terminology (Campaign-Specific)
+
+| Term                                      | Meaning                                                                                                                                                                                                                                                      |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **CMGMI**                                 | Currency Metals, Gemstones, and Magical Items -- the three categories of matter that B-crystal-influenced creatures seek out and hoard.                                                                                                                      |
+| **B-Crystals / Arcane-Reactive Crystals** | Condensed physical remnants of Entity B's essence. Auto-connect to the natural arcane energy in all living things upon proximity, infecting them with B's hoarding influence.                                                                                |
+| **B-Touched**                             | A mortal who has been permanently modified by or attuned to B's essence. Examples: Zan (Catalyst Project), Kaelyn (crystal heart), Aurora (hidden constellations), Aegon (shifting visions).                                                                 |
+| **The Weave**                             | The permeating field of magical energy across all planes. Literally the residual body of B after the Great Sacrifice.                                                                                                                                        |
+| **The Symbol (Three Curves)**             | The symbol found in Thormvuld documents. A circle with three sweeping curves, one broken. Associated with Site Gamma-7. Its true origin is not yet known to the party. Belongs to Veritas in Fractum (ViF) -- a secret coalition that predates the campaign. |
+| **ViF (Veritas in Fractum)**              | "Truth in Fragments" -- ancient secret coalition uniting Crimson Covenant, Flesh Architects, and Underdark Arcane Division. Core goal: destroy gods, expose Divine Conspiracy. Symbol: Three Curves.                                                         |
+| **The Crimson Covenant**                  | ViF's member. Seeks to resurrect Khar'zul. Sides with ViF to secure power, status, and a ruling role in post-gods society.                                                                                                                     |
+| **The Flesh Architects**                  | ViF's member. Increasingly mad from B-crystal exposure. Pursue the Fusion Doctrine: merging magic with flesh.                                                                                                                                  |
+| **The Fusion Doctrine**                   | Flesh Architects' corrupted philosophy -- surgically implanting B-crystals and enchanted items into living tissue to merge mortal with the Weave. Driven by B-crystal madness.                                                                               |
+| **The Implantation Rite**                 | Flesh Architects' practice of fusing magical items into their own and others' bodies. Senior members self-implant.                                                                                                                                           |
+| **The Underdark Arcane Division**         | ViF's Drow research network operating in secret beneath Lolth's notice. Hidden endgame: kill the gods and establish Drow supremacy.                                                                                                                          |
+| **The Catalyst Project**                  | Flesh Architects program using B-Crystals on Shadar-kai subjects to modify teleportation abilities. Subject 242 (Zan) is the only known escapee.                                                                                                      |
+| **Project Genesis**                       | Crimson Covenant's decades-spanning program to breed a mortal vessel for Khar'zul's essence. Culminated in Balor Skallfang.                                                                                                                                |
+| **The Great Sacrifice**                   | Entity B's self-sacrifice, shattering its essence across all planes, giving mortals magic, the Weave, and CMGMI.                                                                                                                                             |
+| **The Abominable End**                    | The monster invasion that began ~400 years ago via planar breaches. Publicly blamed on three "banned gods." Truly orchestrated by all 10 gods.                                                                                                               |
+
+When creating or modifying lore content (entities, relationships, timelines):
+1. GOLDEN RULE!!!!
+2. Run audits A1-A4
+3. Summary report with changes done
+4. Never silently fix inconsistencies -- flag them; the user corrects wording during their WA editing pass
