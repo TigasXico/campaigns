@@ -229,7 +229,6 @@ FX checks in: *"You're alive. Good. Get clear of the area — Thormvuld will hav
 - **Size:** 6x6 squares (30x30 ft), square room
 - **Entry:** Single reinforced door from corridor (west/southwest wall). Thicker door than standard, scarred with deep claw marks.
 - **Items to draw:** 
-  - [ ] Cages torn from within (northwest corner). 
   - [ ] Broken chain anchor point on north wall. 
   - [ ] Gnawed bones scattered across floor. 
   - [ ] Hoard pile in southeast corner (coins, cup, vials, gemstones). 
@@ -313,6 +312,79 @@ A junior researcher at Gamma-7, **Elena Vance**, kept a private journal. Last en
 - Confirms the Flesh Architects were a ViF division
 - Confirms Gamma-7 was decommissioned and consolidated into a larger project
 - Names the "Chief Architect" (for the first time - a named figure)
+### Document Summary — Gamma-7 Records
+
+A consolidated reference for the five key documents found in the facility.
+
+---
+
+#### 1. Elena Vance's Journal (Room 6 — Burn Pit)
+*Where:* Hidden behind loose stone in furnace wall (DC 14 Investigation)
+*Writer:* Junior researcher assigned to Gamma-7
+
+**Key facts:**
+- Gamma-7 is being shut down — operations moving north
+- Orders came from the **Chief Architect** himself — consolidation directive
+- All monster integration research is being folded into the unnamed "main project"
+- She was ordered to destroy all remaining samples but couldn't bring herself to do it
+- Covenant overrode access to Subject 242 — subject escaped
+- She doesn't know what the Covenant is building, but she's afraid
+
+**Confirms:**
+- The Flesh Architects were a ViF division (Three Curves appears throughout)
+- Gamma-7 was decommissioned and consolidated into a larger project
+- Names the "Chief Architect" (first named Flesh Architect figure)
+
+---
+
+#### 2. Sealed ViF Letter (Room 5 — Records Office, filing cabinet)
+*Where:* Filing cabinet, north or east wall
+*Format:* Sealed envelope stamped with the **Three Curves** symbol
+*Language:* Undercommon
+*Sender:* "Arch-Liaison, Underdark Research Compact"
+*Recipient:* "Chief Researcher, Site Gamma-7"
+
+**Key facts:**
+- Discusses specimen transfer protocols between Underdark Division and Flesh Architects
+- Details integrated physiology studies under ViF's unified research mandate
+- Confirms Kaelyn's Drow captors were a **ViF division** — not Lolth agents
+- Confirms Kaelyn was a coalition-wide specimen shared between divisions
+
+---
+
+#### 3. Research Folder (Room 5 — Records Office, scattered papers)
+*Where:* Among papers scattered across the floor
+
+**Key facts:**
+- Contains monster integration research data from Gamma-7's operations
+- References both **Project Genesis** and the **Catalyst Project** by name
+- Notes on crystal integration trials — explains why the operating tables (Room 1) were built for non-humanoid creatures
+
+---
+
+#### 4. Partial Map Fragment (Room 5 — Records Office, inside research folder)
+*Where:* Tucked inside the research folder
+
+**Key facts:**
+- Shows general direction of a larger facility **east-southeast** of Gamma-7
+- Labels the destination as the "Primary Facility"
+- No exact coordinates — directional only, enough to guide future travel
+
+---
+
+#### 5. Subject Transfer Ledger (Room 5 — Records Office, on desk)
+*Where:* Desk in southeast corner
+
+**Key facts:**
+- Formal documentation of test subjects by number
+- **Subject 242 (Zan):** Scheduled for transfer **TO** Gamma-7 **FROM** the Primary Facility
+- Requesting agent: **Agent Korvus** — a trackable name
+- Status: "DENIED — Covenant already requested — (UNFULFILLED — Subject escaped)"
+- Proves Zan was **selected, catalogued, and processed** — not a random victim
+- Confirms the **Catalyst Project** as the program that flagged his transfer
+
+---
+
 
 ---
 
