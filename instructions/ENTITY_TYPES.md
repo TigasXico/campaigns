@@ -28,7 +28,7 @@ Present all audit results to the user before making changes.
 | **Item** | `cache/items/` | Artifacts, magic items, relics, legendary weapons |
 | **Lore/Concept** | `cache/lore/` | Magic systems, cultural practices, prophecies, laws, philosophies |
 | **Species** | `cache/species/` | Races, subspecies, lineages, creature types |
-| **Campaign Note** | `cache/campaign_notes/` | GM-facing design decisions, worldbuilding rationale, meta-lore, session continuity |
+| **Campaign Note** | `cache/design_notes/` | GM-facing design decisions, worldbuilding rationale, meta-lore, session continuity |
 
 ---
 

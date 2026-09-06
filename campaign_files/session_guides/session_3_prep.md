@@ -1,4 +1,4 @@
-# SESSION 3 PREP - "The Flesh of Gamma-7"
+﻿# SESSION 3 PREP - "The Flesh of Gamma-7"
 
 ---
 
@@ -341,11 +341,11 @@ A consolidated reference for the five key documents found in the facility.
 *Where:* Filing cabinet, north or east wall
 *Format:* Sealed envelope stamped with the **Three Curves** symbol
 *Language:* Undercommon
-*Sender:* "Arch-Liaison, Underdark Research Compact"
+*Sender:* "Arch-Liaison, U.D.A.R.U. (Underdark Drow Arcane Research Unit)"
 *Recipient:* "Chief Researcher, Site Gamma-7"
 
 **Key facts:**
-- Discusses specimen transfer protocols between Underdark Division and Flesh Architects
+- Discusses specimen transfer protocols between U.D.A.R.U. (Underdark Drow Arcane Research Unit) and Flesh Architects
 - Details integrated physiology studies under ViF's unified research mandate
 - Confirms Kaelyn's Drow captors were a **ViF division** — not Lolth agents
 - Confirms Kaelyn was a coalition-wide specimen shared between divisions
@@ -410,14 +410,15 @@ The core beat is in **Room 5 - Records Office**
 
 ## 9. KAELYN'S CONNECTION - VERITAS IN FRACTUM
 
-**The find:** A sealed envelope stamped with the **Three Curves** symbol. Inside: a letter written in Undercommon, signed by the *"Arch-Liaison, Underdark Research Compact"* 
+**The find:** A sealed envelope stamped with the **Three Curves** symbol. Inside: a letter written in Undercommon, signed by the *"Arch-Liaison, U.D.A.R.U. (Underdark Drow Arcane Research Unit)"* 
 It is addressed to "Chief Researcher, Site Gamma-7" and discusses specimen transfer protocols and integrated physiology studies under ViF's unified research mandate.
 
 **Kaelyn's recognition (GM-facing - facts to convey to the player):**
 - She stared at that symbol on her cell wall for 20 years
 - She assumed Drow - a House crest, a Lolthite rite - she was wrong
-- The Drow researchers who held her weren't working for Lolth; they were a **division** of a continent-spanning coalition
-- Her cell was marked because she was **ViF property** - a specimen in a shared research program (Underdark Division + Flesh Architects)
+- The Drow researchers who held her weren't working for Lolth; they were a **division** of a continent-spanning coalition — specifically **U.D.A.R.U. (Underdark Drow Arcane Research Unit)**, a ViF member organization
+- Her cell was marked because she was **ViF property** - a specimen in a shared research program (U.D.A.R.U. + Flesh Architects)
+- The letter confirms U.D.A.R.U. exists as a research unit in the Underdark, is part of ViF, and that Kaelyn was a coalition-wide specimen held by them
 - She was never "just" a Drow prisoner - she was part of something much larger
 
 ### Emotional Beat (GM-facing - facts to convey to the player)

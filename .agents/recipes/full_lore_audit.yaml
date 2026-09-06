@@ -7,7 +7,7 @@ instructions: |2
 
   ## Your Task
 
-  Perform a comprehensive audit of ALL lore entities in the cache at `C:\Users\tiago\Desktop\Lab\WA_Lore_Keeper\cache\entities\`. Apply the four mandatory audits (A1-A4) defined in `instructions/WORKFLOW.md` to every entity.
+  Perform a comprehensive audit of ALL lore entities in the cache at `C:\Users\tiago\Desktop\Lab\WA_Lore_Keeper\cache\`. Apply the four mandatory audits (A1-A4) defined in `instructions/WORKFLOW.md` to every entity.
 
   This audit runs **CATEGORY BY CATEGORY, IN SEQUENCE**. You process one entity category at a time, then **PAUSE and wait for user input** before moving to the next category. You do NOT spawn sub-agents or parallel delegates. You handle every file directly in your own context.
 
@@ -18,18 +18,18 @@ instructions: |2
   3. Read `instructions/WORKFLOW.md` (sections: Role Definition, A1-A4 audits, Cost Optimization Protocol).
   4. Read `instructions/CACHE_FORMAT.md` (the Audit Checklist section).
   5. Read `instructions/ENTITY_TYPES.md` (the "Before You Create" section).
-  6. Determine the list of entity categories present by listing `cache\entities\`.
+  6. Determine the list of entity categories present by listing `cache\`.
 
   ## Phase 1  -  Identify the Categories
 
-  From the listing of `cache\entities\`, enumerate the entity type folders (e.g. `characters`, `locations`, `organizations`, `events`, `items`, `lore`, `campaign_notes`). Present this list to the user and state which category you will audit first.
+  From the listing of `cache\`, enumerate the entity type folders (e.g. `characters`, `locations`, `organizations`, `events`, `items`, `lore`, `design_notes`). Present this list to the user and state which category you will audit first.
 
   ## Phase 2  -  Process Each Category, One at a Time
 
   For the current category, perform the following steps. After finishing, **PAUSE for user input** before moving to the next category.
 
   ### 2.1  -  List the Files
-  List every entity file in `cache\entities\<category>\`. Some categories contain subfolders (e.g. `characters\Deity`, `characters\NPC`, `characters\PC`) - traverse all subfolders and include every `.md` file. If the category contains no entity files, report the category as empty and move to the pause step (2.5).
+  List every entity file in `cache\<category>\`. Some categories contain subfolders (e.g. `characters\Deity`, `characters\NPC`, `characters\PC`) - traverse all subfolders and include every `.md` file. If the category contains no entity files, report the category as empty and move to the pause step (2.5).
 
   ### 2.2  -  Read All Files in the Category
   Read every entity file for the category. Batch the reads into as few tool calls as possible (Cost Optimization R7). Process them directly in your own context. Do NOT delegate to sub-agents.

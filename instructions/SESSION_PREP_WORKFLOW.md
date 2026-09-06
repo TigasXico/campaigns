@@ -11,9 +11,9 @@ Repeatable process for preparing a campaign session. Ensures nothing slips throu
 Load the following into context:
 
 - `state_files/_session_continuity.md` -- Current state snapshot, open questions
-- `campaign_notes/campaign_roadmap.md` -- High-level campaign structure and revelations
-- `campaign_notes/idea_bank.md` -- Loose idea seeds, notes, and ToDos
-- `campaign_notes/resources.md` -- External DM resources to **suggest** to the user (donjon, Sly Flourish, etc.) -- I recommend, user executes
+- `campaign_files/campaign_resources/campaign_roadmap.md` -- High-level campaign structure and revelations
+- `campaign_files/campaign_resources/idea_bank.md` -- Loose idea seeds, notes, and ToDos
+- `campaign_files/campaign_resources/resources.md` -- External DM resources to **suggest** to the user (donjon, Sly Flourish, etc.) -- I recommend, user executes
 
 ## Step 2 -- Review Continuity
 
@@ -34,7 +34,7 @@ Identify where the party is on the campaign roadmap:
 
 ## Step 4 -- Scan the Idea Bank
 
-Spin through every entry in `campaign_notes/idea_bank.md`. For each entry, ask:
+Spin through every entry in `campaign_files/campaign_resources/idea_bank.md`. For each entry, ask:
 
 - Does this fit the current campaign phase?
 - Does this connect to the current location or situation?
@@ -74,7 +74,7 @@ If the user's direction requires new or modified lore entities:
 
 ## Step 7 -- Draft Session Prep
 
-Write `campaign_notes/session_X_prep.md`. The document is organized by **location/scene order**, not by clock. The GM adjusts pacing at the table.
+Write `campaign_files/session_guides/session_X_prep.md`. The document is organized by **location/scene order**, not by clock. The GM adjusts pacing at the table.
 
 ### Table-Ready Formatting Rules
 
