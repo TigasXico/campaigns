@@ -107,13 +107,13 @@
 | the_order_of_the_scales              | organization   | The Order of the Scales                  | draft  | 2026-08-09 |
 | the_originals                        | lore           | The Originals                            | draft  | 2026-08-22 |
 | the_pack_of_tyra                     | organization   | The Pack of Tyra                         | draft  | 2026-08-11 |
-| the_protective_shield                | lore           | The Protective Shield                    | active | 2026-08-22 |
+| the_romeo_family                     | organization   | The Romeo Family                         | draft  | 2026-09-05 |
 | the_raven_queen                      | character      | The Raven Queen                          | draft  | 2026-08-09 |
 | the_sealing_of_kharzul               | event          | The Sealing of Khar'zul                  | draft  | 2026-08-09 |
 | the_skallfang_clan                   | organization   | The Skallfang Clan                       | draft  | 2026-08-09 |
 | the_southeastern_port                | location       | The Southeastern Port                    | draft  | 2026-08-09 |
 | the_thormvuld_family                 | organization   | House Thormvuld                          | active | 2026-08-16 |
-| the_underdark_forest                 | location       | The Underdark                            | draft  | 2026-08-10 |
+| u.d.a.r.u.                           | organization   | U.D.A.R.U. (Underdark Drow Arcane Research Unit) | draft  | 2026-09-05 |
 | the_venom_weavers                    | organization   | The Venom-Weavers                        | draft  | 2026-08-11 |
 | the_verdant_reaches                  | location       | The Verdant Reaches                      | draft  | 2026-08-10 |
 | the_vigil_of_the_dusk                | organization   | The Vigil of the Dusk                    | draft  | 2026-08-09 |

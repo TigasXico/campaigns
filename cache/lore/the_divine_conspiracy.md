@@ -1,4 +1,4 @@
-﻿---
+---
 id: the_divine_conspiracy
 type: lore
 name: "The Divine Conspiracy"
@@ -8,7 +8,9 @@ secrets:
     access: gm-only
   - text: "B's lingering will (the hoarding instinct) is a subconscious counter-force to the gods' plans that the gods did not anticipate and are now desperately managing."
     access: gm-only
-  - text: "The Crimson Covenant's blackmail contingency artifact would broadcast the truth about the gods' conspiracy to all mortals if not reset daily."
+  - text: "ViF's blackmail artifact — designed by the coalition's founders — would broadcast the truth about the gods' conspiracy to all mortals if not reset daily by all 7 Convocation representatives. This protects ALL ViF member organizations equally."
+    access: gm-only
+  - text: "The gods' deeper motivation for the invasion: sustain their power through an expanded worship base and control. As A/C fragments, their power depletes over time; worship replenishes it. The invasion was meant to concentrate mortals under divine rule, maximizing faith harvest."
     access: gm-only
   - text: "The resurrection ritual is not yet possible. The race to complete or prevent it defines the campaign's strategic landscape."
     access: gm-only
@@ -20,40 +22,47 @@ related:
   - the_originals: A and C subdivided into gods
   - the_arcane_reactive_crystals: Crystals connected to B's essence
   - the_arcane_weave: The Weave is B's lingering arcane network
+  - veritas_in_fractum: ViF holds the blackmail artifact; 7 Convocation representatives maintain daily reset
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-09-05
 ---
 
 ## The Originals' Regret
 A and C never wanted mortals to have free will or magic. After B's sacrifice gave mortals both, A and C's fear and rage transformed into a cold determination: **destroy mortalkind and start over.** Unable to act directly (their power is creation, not destruction), they chose proxy war.
 
 ## B's Sacrifice
-B scattered its essence across all planes, infusing existence with arcane energy. This was the source of all mortal magic  -  the ultimate act of defiance against A and C's plan. The physical remnants: The Weave (arcane network), currency metals, arcane-reactive crystals, and material components for spells.
+B scattered its essence across all planes, infusing existence with arcane energy. This was the source of all mortal magic — the ultimate act of defiance against A and C's plan. The physical remnants: The Weave (arcane network), currency metals, arcane-reactive crystals, and material components for spells.
+
+## The Gods' Deeper Motivation
+
+The gods' power is not infinite. As fragments of A and C, each god received a vast but **limited** amount of power when the Originals subdivided. This power **depletes over time** as they use it to create and affect reality. Prayer, faith, and worship from mortals **restores** their power — the arcane energy inside the mortal is transferred to the god, extending their lifespan and making them stronger.
+
+This is the entire reason the monster invasion was conceived. The gods needed an expanded worship base and tighter control over mortal populations to maximize their faith harvest. Genocide through overwhelming force would concentrate survivors under divine rule, ensuring an endless supply of worship to sustain their existence.
 
 ## The Planar Pact
 All ten gods knew and agreed with the plan — they are united in wanting to end mortalkind and start over. But only four gods personally negotiated with the planes, each selected by domain affinity:
 
-- **Vorn** (War, Conquest)  ->  **Nine Hells**  -  paid souls + power for infernal hierarchy and disciplined devil legions
-- **Lolth** (Trickery, War)  ->  **Abyss**  -  paid souls for demonic chaos and an endless tide of battle-hungry fiends
-- **Aloria** (Light, Life)  ->  **Feywild**  -  paid territory + power for fey lords and their magical beasts
-- **Raven Queen** (Death, Grave)  ->  **Shadowfell**  -  paid territory on the Material Plane for shadow-beasts and shadar-kai
+- **Vorn** (War, Conquest) -> **Nine Hells** — paid souls + power for infernal hierarchy and disciplined devil legions
+- **Lolth** (Trickery, War) -> **Abyss** — paid souls for demonic chaos and an endless tide of battle-hungry fiends
+- **Aloria** (Light, Life) -> **Feywild** — paid territory + power for fey lords and their magical beasts
+- **Raven Queen** (Death, Grave) -> **Shadowfell** — paid territory on the Material Plane for shadow-beasts and shadar-kai
 
 The other six gods (Kaelthor, Aurelius, Vesper, Thalkis, Crassian, Tyra) were aware and approved, but did not personally negotiate — their domains had no natural alignment with any of the four planes.
 
 ### The Planar Breaches
-Breaches opened along Kythoria's coast. Monster hordes poured through  -  **The Abominable End** began. Monsters were not told why they invaded; the gods' involvement was hidden from all sides.
+Breaches opened along Kythoria's coast. Monster hordes poured through — **The Abominable End** began. Monsters were not told why they invaded; the gods' involvement was hidden from all sides.
 
 ### Breaches Sealed
-When reconquering pushed too close to breach sources, the gods sealed them to hide involvement. Made to look natural. Arcanists studying seal locations now uncover the truth  -  the gods **dispatch paladins/clerics to silence them** (active plot hook).
+When reconquering pushed too close to breach sources, the gods sealed them to hide involvement. Made to look natural. Arcanists studying seal locations now uncover the truth — the gods **dispatch paladins/clerics to silence them** (active plot hook).
 
-## B's Lingering Will  -  The Hoarding Instinct
+## B's Lingering Will — The Hoarding Instinct
 
 B's scattered remnants retain a subconscious desire to **become whole again**. This manifests as a hoarding instinct affecting those near large concentrations of B's essence (crystals, magic items, currency metals).
 
 ### How It Spread
-- **Weaker monsters first**  -  naturally drawn to shiny, magical objects
-- **Stronger monsters follow**  -  hoarding instinct scales with proximity to B's essence
-- **Self-feeding cycle**  -  larger hoards = stronger pull = more creatures affected
+- **Weaker monsters first** — naturally drawn to shiny, magical objects
+- **Stronger monsters follow** — hoarding instinct scales with proximity to B's essence
+- **Self-feeding cycle** — larger hoards = stronger pull = more creatures affected
 - **Dragons** especially susceptible due to deep arcane connection
 
 ### Discovery
@@ -74,19 +83,25 @@ The Crimson Covenant discovered the theoretical possibility while studying Khar'
 B's scattered essence (Weave, metals, crystals, magic items) could theoretically be **gathered and reconstituted** into a weakened but still-godlike form. Even weakened, B would be stronger than A or C's fragments (the gods).
 
 ### Requirements
-- **All currency metals**  -  fractions of B's physical body scattered across all planes
-- **Undiscovered crystals**  -  containing concentrated essence
-- **The Weave as anchor**  -  central component needed to stabilize the ritual
-- **Refined ritual method**  -  being actively researched
+- **All currency metals** — fractions of B's physical body scattered across all planes
+- **Undiscovered crystals** — containing concentrated essence
+- **The Weave as anchor** — central component needed to stabilize the ritual
+- **Refined ritual method** — being actively researched
 
 ### Who Knows
-- **The gods**  -  know and are desperate to prevent it
-- **Crimson Covenant**  -  actively researching, closest to completion
-- **Intelligent monster leadership**  -  knows the ritual exists, investigating
-- **A handful of mortal arcanists**  -  discovering fragments independently
+- **The gods** — know and are desperate to prevent it
+- **Crimson Covenant** — actively researching, closest to completion
+- **Intelligent monster leadership** — knows the ritual exists, investigating
+- **A handful of mortal arcanists** — discovering fragments independently
 
 ### Current Status
-Not yet possible  -  too many requirements out of reach. The race is on: gods hunt researchers and destroy hoards; Covenant gathers components; monsters investigate.
+Not yet possible — too many requirements out of reach. The race is on: gods hunt researchers and destroy hoards; Covenant gathers components; monsters investigate.
+
+## The Blackmail Standoff
+
+ViF holds a contingency artifact — designed by the coalition's original founders. Every one of the 7 Convocation representatives must perform a daily check-in to reset it. If not reset daily, it broadcasts the truth about the Divine Conspiracy to every mortal across all planes.
+
+This mutual deterrent protects all 7 ViF member organizations equally. The gods cannot destroy any single member without risking universal exposure. The standoff is a cold war: gods hunt ViF operatives and destroy facilities, but cannot strike at organizational leadership directly.
 
 ## The Trio of Power
 
@@ -94,9 +109,9 @@ Three-way standoff defining the campaign's strategic landscape:
 
 | Faction | Goal | Leverage | Fear |
 |---------|------|----------|------|
-| **The Gods** | Destroy mortalkind; prevent B's resurrection | Religious control; monster army as proxy | Mortals discovering the ritual; B resurrected |
-| **Crimson Covenant** | Destroy gods by resurrecting B | Blackmail (truth about invasion); embedded in monster army | Gods silencing them before completing research |
+| **The Gods** | Destroy mortalkind; prevent B's resurrection | Religious control; monster army as proxy | Mortals discovering the ritual; B resurrected; ViF's blackmail artifact triggering |
+| **ViF (led by Crimson Covenant)** | Destroy gods; member-specific post-gods ambitions | Blackmail artifact (truth broadcast); embedded in monster army | Gods silencing them before completing research; coalition fracturing |
 | **Monster Army** | Destroy mortal races; potentially gods | Raw military power | Being pawns in divine conspiracy |
 
 ### The Monster Army's Ambition
-Intelligent monster leaders are not content being pawns. They investigate the crystals, hoarding instinct, and the ritual  -  seeking leverage against both mortals and gods. Some factions may ally with the Covenant temporarily, others may pursue their own agenda entirely.
+Intelligent monster leaders are not content being pawns. They investigate the crystals, hoarding instinct, and the ritual — seeking leverage against both mortals and gods. Some factions may ally with the Covenant temporarily, others may pursue their own agenda entirely.

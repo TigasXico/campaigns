@@ -41,5 +41,5 @@ The facility has been abandoned for years. The surface buildings are partially c
 - The facility was a ViF coalition outpost, not just a Flesh Architects one
 - A Guardian Beast prowls the old containment vault -- a crystal-infused gatekeeper left behind
 - Records inside reference "Project Genesis" and "the Catalyst Project"
-- A letter from ViF's Underdark Arcane Division confirms Kaelyn was a coalition-wide specimen
+- A letter from ViF's U.D.A.R.U. (Underdark Drow Arcane Research Unit) confirms Kaelyn was a coalition-wide specimen
 - The deeper the party explores, the more they uncover -- and the more dangerous it becomes

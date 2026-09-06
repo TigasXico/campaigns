@@ -71,7 +71,7 @@ Last updated: 2026-09-01
 - The Weave = residual body of Entity B after the Great Sacrifice.
 - Arcane-reactive crystals = condensed essence of B; cause hoarding instinct.
 - Flesh Architects = Covenant research division; pursue Fusion Doctrine.
-- ViF = "Truth in Fragments" -- Coalition of Covenant, Flesh Architects, Underdark Arcane Division. Goal: destroy gods. Symbol: Three Curves.
+- ViF = "Truth in Fragments" -- Coalition of Covenant, Flesh Architects, U.D.A.R.U. (Underdark Drow Arcane Research Unit). Goal: destroy gods. Symbol: Three Curves.
 - Crimson Covenant seeks to resurrect Khar'zul; sides with ViF for post-gods power.
 - Gamma-7 = decommissioned ViF monster-study outpost.
 

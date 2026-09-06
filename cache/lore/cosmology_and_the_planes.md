@@ -38,7 +38,7 @@ The cosmos follows the Great Wheel structure, but its origins lie with A, B, and
 ## The Originals' Experiments
 
 ### Inner Planes (Elemental)
-First experiments. Raw Fire, Water, Earth, Air. Unstable and primordial. These elements were later used to build the Material Plane.
+First experiments. Raw Fire, Water, Earth, Air. Unstable and primordial. These elements were later used to build the Material Plane as its foundational layer. B's lingering will resonates more intensely in the elemental planes than on the Material Plane — the foundational layers of reality are saturated with echoes of the third Original's sacrifice. Genasi, through their elemental heritage, are naturally sensitive to this presence.
 
 ### Outer Planes
 Experiments in consciousness, free will, morality, and ethics. Each plane tests a different hypothesis about the ideal framework for mortal souls.

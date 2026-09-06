@@ -11,19 +11,19 @@ related:
   - the_raven_queen: Shadow Elves revere the Raven Queen, though she did not create them
   - the_last_stand: Originated from dissident scholars of the First Alliance; operates in shadows
   - monsters_and_ecology: Researches B's crystals, Khar'zul's essence, and the resurrection ritual within the monster army
-  - the_gods_and_the_deception: Holds blackmail knowledge over gods
+  - the_gods_and_the_deception: Protected by ViF's blackmail artifact — mutual deterrent against divine retaliation
   - the_arcane_reactive_crystals: Studies crystals' connection to B
   - paul: Framed for Paul's murder  -  the Order of the Scales killed him under Aurelius's command
   - aegon: Aegon's father figure was killed and framed on the Covenant; the truth is the opposite
   - the_originals: Researches B's essence to destroy the gods
   - balor_skallfang: Seeks to recover Balor and the blade
-  - the_flesh_architects: The Flesh Architects are a research division of the Covenant, responsible for the Catalyst Project
+  - the_flesh_architects: Fellow ViF founding member — independent organization, NOT a division of the Covenant. Collaborates as an equal within ViF's coalition. Responsible for the Catalyst Project.
 secrets:
   - text: "Ultimate goal: resurrect Entity B in weakened form to destroy the gods. Knows about the resurrection ritual."
     access: gm-only
   - text: "Members embedded in monster army researching crystals with test subjects provided by intelligent monsters."
     access: gm-only
-  - text: "Holds blackmail leverage over gods via contingency artifact broadcasting truth if not reset daily."
+  - text: "The Covenant is protected by ViF's blackmail artifact — a contingency device accessible to all 7 Convocation representatives. Every representative must perform a daily reset. If not reset, it broadcasts the truth about the Divine Conspiracy to every mortal across all planes. The Covenant does NOT own or control this artifact — ViF as a coalition does."
     access: gm-only
   - text: "Connected to at least one PC backstory (Balor Skallfang)."
     access: gm-only
@@ -43,18 +43,18 @@ A shadowy organization with two faces: known for horrific experiments creating D
 
 ## Structure
 
-- **Inner Circle (7)**  -  True leaders. Only ones who know Khar'zul's full history and Project Genesis. Identities: most guarded secret.
+- **Inner Circle (5)**  -  True leaders. Only ones who know Khar'zul's full history and Project Genesis. Identities: most guarded secret. One Inner Circle member sits on ViF's Convocation of Fragments as the Covenant's representative.
 - **Apostles (12)**  -  Execute Inner Circle's will. Permanent missions: recover artifacts, eliminate witnesses, infiltrate, hunt Balor. Extremely powerful, semi-independent.
 - **Cardinals**  -  Regional control. Recruit, finance, build safehouses. Do not know Inner Circle exists.
 - **Inquisitors**  -  Elite assassins, hunters, detectives.
 - **Seekers**  -  Ruin specialists, ancient tongues, magic seals, demons. Recover forbidden knowledge.
 - **Faithful**  -  Common cultists, guards, mercenaries. Know only fragments.
 
-### Research Divisions
+### ViF Allies
 
-The Covenant maintains specialized research divisions. The most notable is:
+The Covenant shares ViF membership with several independent organizations. The most notable are:
 
-- **The Flesh Architects**  -  A dedicated research division focused on the study, modification, and weaponization of mortal physiology through arcane experimentation. Responsible for the **Catalyst Project** which studied Shadar-kai teleportation using B Crystals. Subject 242 (Zan) was their most notable escapee. See `organizations/the_flesh_architects.md` for full details.
+- **The Flesh Architects** — Fellow ViF founding member. An independent organization focused on the study, modification, and weaponization of mortal physiology through arcane experimentation. The Architects and the Covenant are equals within ViF, collaborating as coalition partners. The Architects were responsible for the **Catalyst Project** which studied Shadar-kai teleportation using B Crystals. Subject 242 (Zan) was their most notable escapee. See `organizations/the_flesh_architects.md` for full details.
 
 ## Recruitment
 
@@ -62,7 +62,7 @@ From three sources: disillusioned scholars/arcanists who uncover truth fragments
 
 ## Headquarters
 
-No single HQ. Hidden sanctuaries: beneath Weaveheart (vault of records), deep frontier outposts (research stations in monster territory), safehouses in major settlements. Inner Circle sanctum location known only to its 7 members.
+No single HQ. Hidden sanctuaries: beneath Weaveheart (vault of records), deep frontier outposts (research stations in monster territory), safehouses in major settlements. Inner Circle sanctum location known only to its 5 members.
 
 ## Goals
 
@@ -126,8 +126,8 @@ Intelligent monster leadership has **recruited Covenant members** into their ran
 
 ### Blackmail Leverage
 
-The Covenant knows the gods orchestrated the invasion, knows about B and the resurrection ritual. They hold this as blackmail: *"If you move against us, we reveal everything to the monster army."*
+The Covenant knows the gods orchestrated the invasion, knows about B and the resurrection ritual. They are protected by **ViF's blackmail artifact** — a coalition-wide deterrent, not controlled by any single member organization.
 
-**The Contingency Artifact**: A magical device reset **daily** by all higher-ranking members' combined magical signatures. If reset fails, it broadcasts worldwide to every mortal: the truth about Originals, the invasion conspiracy, Entity B, the resurrection ritual, and that gods can be brought down by ceasing worship.
+**The Contingency Artifact**: Designed by ViF's original founders. Accessible to all 7 Convocation representatives. Every representative must perform a daily check-in to reset it. If reset fails, it broadcasts worldwide to every mortal: the truth about Originals, the invasion conspiracy, Entity B, the resurrection ritual, and that gods can be brought down by ceasing worship. All 7 member organizations are protected equally by this mutual deterrent.
 
 The gods have **searched centuries** without finding it. The standoff is a cold war  -  neither side can push too hard without triggering mutually assured revelation.

@@ -21,7 +21,7 @@ related:
   - the_azure_boneyard: Gained her powers by touching a blue dragon skeleton there; the cave where Kaelyn touched a dragon skull and awakened her powers
   - solyn_velkyn: Twin sister; rival in the Trial of Lolth, savior in the cave-in; presumed dead but actually alive (Kaelyn does not know)
   - lyndale_velkyn: Kaelyn's mother, High Matron of the Drow community; presumed dead in the fire, but actually alive (Kaelyn does not know)
-  - veritas_in_fractum: Kaelyn's cell wall bore the Three Curves symbol — she was a specimen of ViF's Underdark Arcane Division, not merely a Drow prisoner
+  - veritas_in_fractum: Kaelyn's cell wall bore the Three Curves symbol — she was a specimen of U.D.A.R.U. (Underdark Drow Arcane Research Unit), not merely a Drow prisoner
   - aurora_asteria: Fellow B-touched individual  -  Aurora perceives B through the stars, Kaelyn carries B physically
   - aegon: Fellow B-touched individual  -  Aegon receives B's visions, Kaelyn bears B's crystalized essence
 secrets:
@@ -39,7 +39,9 @@ secrets:
     access: gm-only
   - text: "Solyn and Lyndale Velkyn both survived the cave-in and fire respectively. Kaelyn does not know this. Their current activities and fates are TBD by the DM."
     access: gm-only
-  - text: "The symbol on Kaelyn's cell wall was the Three Curves of Veritas in Fractum (ViF), not a Drow crest. She was held by ViF's Underdark Arcane Division, which operates in secret beneath Lolth's theocratic surveillance. The Drow researchers who imprisoned her were part of a coalition-wide research program, not acting on Lolth's orders alone."
+  - text: "The symbol on Kaelyn's cell wall was the Three Curves of Veritas in Fractum (ViF), not a Drow crest. She was held by U.D.A.R.U. (Underdark Drow Arcane Research Unit), which operates in secret beneath Lolth's theocratic surveillance. U.D.A.R.U. is led by Lyndale and Solyn Velkyn — her mother and twin sister. The 20 years of imprisonment, torture, and experimentation were conducted by her own family, not some anonymous Drow institution. The Drow researchers who imprisoned her were part of a coalition-wide research program, not acting on Lolth's orders alone."
+    access: gm-only
+  - text: "U.D.A.R.U. is led by Lyndale and Solyn Velkyn — her mother and twin sister. The 20 years of imprisonment, torture, and experimentation were conducted by her own family, not some anonymous Drow institution. This secret is separate from the broader ViF revelation; the family connection is a later, more personal gut-punch for Kaelyn's arc."
     access: gm-only
   - text: "Seraphine the tiefling nanny taught the twins to question Lolth's faith because she carried hidden knowledge  -  she knew the Drow were not created by Lolth, but were the result of Crimson Covenant experiments. She may have passed on fragments of this truth before her death."
     access: gm-only

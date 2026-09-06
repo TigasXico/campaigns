@@ -4,7 +4,7 @@ type: character
 name: "Nyra"
 status: draft
 tags:
-  - pc, player_character, air_genasi, ranger, khelvin, mystery_box, missing_parents, elemental_essence, cavern_of_discovery, ghavel
+  - pc, player_character, air_genasi, ranger, khelvin, mystery_box, missing_parents, elemental_essence, cavern_of_discovery, ghavel, b_will, genasi_connection
 related:
   - khelvin: Half-blue, half-white dragon companion; bonded through air essence resonance
   - the_azure_boneyard: Khel'vin's blue dragon mother; connected to Kaelyn
@@ -14,6 +14,9 @@ related:
   - ghavel: Old woman entrusted with Nyra's parents' mystery box
   - vesper: Falsely claims to have created genasi
   - primal_nature_magic: Rangers draw absorbed arcane energy from nature
+  - the_arcane_weave: B's will resonates more strongly in the elemental planes — Nyra's parents were researching this ethereal connection that all Genasi feel
+  - the_originals: The elemental planes were the foundational layer the Originals built the Material Plane upon; elemental essence predates both arcane and divine power
+  - the_gods_and_the_deception: Nyra's parents' research into the Genasi connection to B's will threatened both the gods' deception and the Covenant's plans
   - monsters_and_ecology: Blue dragons and elementals as native magical beings
   - the_crimson_covenant: Likely responsible for Nyra's parents' disappearance
   - the_divine_conspiracy: Khel'vin wounded by a divine agent
@@ -27,7 +30,7 @@ secrets:
     access: gm-only
   - text: "Khel'vin's father was a white dragon of unknown status. This mixed heritage grants Khel'vin Cold Breath."
     access: gm-only
-  - text: "Nyra's parents were researching elemental convergence -- the theory that the Material Plane was built upon the four elemental planes as a foundation."
+  - text: "Nyra's parents were researching the ethereal will, voice, and presence that all Genasi seem to feel — a resonance with B's lingering consciousness that is stronger in the elemental planes than on the Material Plane. They theorized that because the Originals built the Material Plane upon the four elemental planes as a foundation, B's essence permeates those foundational layers more intensely. Their research was dangerous to both the gods (who suppress any knowledge of B) and the Crimson Covenant (whose resurrection plans could be threatened or aided by elemental convergence theory). They were disappeared to protect Nyra from further persecution — the organization responsible hid their trail and left Nyra with the caretaker."
     access: gm-only
 created: 2026-08-10
 updated: 2026-08-14
@@ -128,14 +131,12 @@ Pale blue-grey skin. Hair drifts as if stirred by an unfelt breeze. Eyes the col
 ## DM Decisions (Pending)
 
 ### 1. What were Nyra's parents researching?
-**Suggested direction**: Elemental Convergence Theory -- the hypothesis that the Material Plane was built upon the four elemental planes (Air, Fire, Water, Earth) as a foundational layer by the Originals. Elemental essence fragments, when combined, could form a metaphysical key.
-**Alternative**: They discovered the Crimson Covenant manipulating elemental forces and began investigating the Covenant's activities.
-**Status**: [hourglass] Pending GM decision
+**Resolved**: B's lingering consciousness is more strongly felt in the elemental planes than on the Material Plane. Because the Originals built the Material Plane upon the four elemental planes as a foundation, B's essence permeates those foundational layers more intensely. All Genasi feel an ethereal will, voice, and presence — a subtle pull — due to their elemental heritage connecting them to these foundational planes. Nyra's parents were researching this phenomenon: what the voice is, why Genasi feel it, and what it implies about the nature of magic and the planes.
+**Status**: Resolved
 
-### 2. Why did the Crimson Covenant capture them?
-**Suggested direction**: Their elemental research intersected with the Covenant's work on B's resurrection ritual. The Covenant believed their knowledge of elemental essence manipulation could interfere with or counteract the ritual. They were captured alive for interrogation.
-**Alternative**: They simply discovered the Covenant's existence and got too close to a facility.
-**Status**: [hourglass] Pending GM decision
+### 2. Why were Nyra's parents disappeared?
+**Resolved**: Their research was dangerous to both the gods (who suppress any knowledge of B's lingering existence) and the Covenant (whose resurrection plans could be threatened or aided by elemental convergence knowledge). They were disappeared to protect Nyra from further persecution — the organization responsible hid their trail and left Nyra with the unnamed caretaker. Whether it was the gods' agents, the Covenant, or a third party that disappeared them remains ambiguous — but whoever did it acted to shield Nyra, not harm her.
+**Status**: Resolved
 
 ### 3. What is inside the smaller locked box? How does it unlock?
 **Suggested direction**: The box is an **Elemental Resonance Lockbox** -- it only opens when all four elemental soul crystals are brought into proximity. Inside: a final message from Nyra's parents revealing what they discovered, the location of a hidden research cache, and a map to where they are being held.

@@ -14,8 +14,8 @@ related:
   - cosmology_and_the_planes: The hidden constellations map onto the Material Plane's night sky; hidden patterns reveal truths about B's sacrifice
   - the_gods_and_the_deception: As a B-touched individual, she is a threat to the gods' deception; the gods fear B-touched individuals like Aurora, who can perceive B's lingering will directly
   - the_crimson_covenant: Her twin brother Polaris was captured by the Covenant and experimented on; they experiment on B-touched individuals
-  - kaelyn: Polaris may have been experimented into a Drow  -  potential tie to the Underdark
-  - zan_vaelis_zandorian: Polaris may have been experimented into a Shadow Elf  -  potential tie to Shadowfell
+  - kaelyn: Polaris was experimented on by the Covenant and became a Tiefling — connecting Aurora to the Covenant's species creation experiments
+  - zan_vaelis_zandorian: Fellow B-touched individual — Zan's teleportation modification and Aurora's celestial vision are both expressions of B's lingering will
   - the_circle_of_the_wild: Her druidic tradition is loosely connected to the broader druidic order
 secrets:
   - text: "The hidden constellations Aurora sees are NOT figments or delusions  -  they are the actual positions of B's lingering consciousness projected through the Arcane Weave onto the night sky. Following them leads to locations where B's essence is concentrated: arcane-reactive crystal deposits, monster hoards, and sites connected to the Resurrection Ritual."
@@ -24,7 +24,7 @@ secrets:
     access: gm-only
   - text: "The white fox that led Aurora to the skylight cave was a manifestation of B's subconscious will  -  an animal form taken by B's lingering consciousness to guide a sensitive mortal toward understanding. The cave itself sits on a ley line convergence, where the Weave is dense enough for B's essence patterns to become visible as constellations."
     access: gm-only
-  - text: "Polaris, Aurora's twin brother, was captured by the Crimson Covenant after leaving Elarwyn. He was subjected to the same experimental grafting that created Drow and Shadow Elves. If he survived, he may now be a Drow or Shadow Elf  -  potentially tying Aurora to Kaelyn (Drow) or Zan (Shadow Elf). The experiments may have also drawn him toward B's influence; he could now be leading a hoarding pack of monsters, unconsciously following the same celestial pull his sister follows knowingly."
+  - text: "Polaris, Aurora's twin brother, was captured by the Crimson Covenant after leaving Elarwyn. He also felt B's pull through visions — stronger and earlier than Aurora, which is why he was so driven to leave the village. The Covenant subjected him to the same experimental grafting that created Tieflings from human stock. He became a Tiefling — his elven features twisted by Khar'zul's demonic essence. The experiments amplified his B-touched connection; he may now be drawn toward the same celestial pull Aurora follows, but without understanding. The twin resonance between them through the matching pearl earrings persists even across their transformation."
     access: gm-only
   - text: "Twins share a rare resonance with B's essence. If both Aurora and Polaris are alive and B-touched, their connection through the matching pearl earrings could serve as a unique anchor  -  potentially useful for scrying, locating each other, or even as a component in rituals involving B's essence."
     access: gm-only
@@ -84,7 +84,7 @@ Aurora still wears the pearl earring. She still follows the stars. One constella
 ---
 
 ## Goals
-1. Find Polaris  -  her twin brother, who disappeared after crossing Elarwyn's barrier (GM note: likely captured by Covenant)
+1. Find Polaris  -  her twin brother, who disappeared after crossing Elarwyn's barrier. He is now a Tiefling, transformed by the Covenant's experiments — but Aurora does not know this yet.
 2. Decipher the celestial language  -  understand what the hidden constellations are telling her and why she alone sees them
 3. Understand why she is B-touched  -  why did the white fox (B's will) choose her?
 4. Follow where the stars lead  -  they reveal paths, warnings, and locations
@@ -103,11 +103,12 @@ Aurora still wears the pearl earring. She still follows the stars. One constella
 
 ## GM Notes  -  Plot Hooks
 
-### Polaris  -  Possible Fates
-Captured by **Crimson Covenant** shortly after leaving Elarwyn. Recognized as B-touched (twins share rare resonance). Subjected to same experimental grafting that created Drow/Shadow Elves.
-- **If Drow:** Taken to Underdark -> ties to Kaelyn's Drow heritage
-- **If Shadow Elf:** Taken to Shadowfell -> ties to Zan's origins
-- **B-touched amplification:** Experiments may have amplified his connection to B's will. Could now be leading a **hoarding pack of monsters**  -  unconsciously following the same celestial pull as Aurora, but without understanding. A tragic figure: monster pack leader who doesn't know why he's drawn to certain locations.
+### Polaris  -  Fate
+
+Captured by **Crimson Covenant** shortly after leaving Elarwyn. Polaris felt B's pull before Aurora did — his visions were stronger and came earlier, which is why he was so driven to cross the barrier and see the world. Recognized as B-touched (twins share rare resonance with B's essence). Subjected to the same experimental grafting that creates Tieflings from human stock — his elven body twisted by Khar'zul's demonic essence. He is now a **Tiefling**.
+
+- **B-touched amplification:** The experiments amplified his connection to B's will. He may be drawn toward the same celestial pull Aurora follows, but without her understanding — a tragic mirror: she knowingly follows the stars; he is pulled by them blindly.
+- **Twin resonance:** The matching pearl earrings still connect them. If both are alive, their B-touched twin resonance could serve as a unique anchor — potentially useful for scrying, locating each other, or even as a component in rituals involving B's essence.
 
 ### The White Fox
 B's manifestation. May return at key moments  -  when Aurora is about to discover something important, in danger, or making a choice aligned with B's purpose. Never speaks. Only leads.
@@ -127,7 +128,7 @@ B's manifestation. May return at key moments  -  when Aurora is about to discove
 ---
 
 ## Open Questions
-1. [?] **What happened to Polaris?** Captured by Covenant? Turned Drow/Shadow Elf? Leading monster pack? GM to define.
+1. [ok] **What happened to Polaris?** Captured by Covenant, experimented on, now a Tiefling. His current location and status are TBD.
 2. [?] **Where exactly is Elarwyn?** The Verdant Reaches are vast  -  specific location unmapped.
 3. [?] **Will the white fox return?** When will B's manifestation appear again, and what will it lead to?
 4. [?] **What do the hidden constellations spell out?** As she learns the celestial language, the constellations may form a larger picture  -  a map to something important.

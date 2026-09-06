@@ -33,8 +33,8 @@ All 5e classes needed logical explanations tying to the setting's cosmology (Ori
 ### Power Source Paths
 - Weave Manipulation: Wizard, Artificer
 - Weave + Inner Expression: Bard
-- Divine Channeling: Cleric (gods as conduits hiding the truth)
-- Oath-Sworn Channeling: Paladin (god validates oath, power flows through conviction)
+- Divine Channeling: Cleric (mortal manipulates the Weave themselves; god only adds arcane signature, then claims credit)
+- Oath-Sworn Channeling: Paladin (god validates oath, power flows through mortal's own conviction and weave access)
 - Primal Attunement: Druid, Ranger
 - Innate Bloodline: Sorcerer
 - Pact Bond: Warlock (any entity can make pacts via the Weave)

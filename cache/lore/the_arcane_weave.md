@@ -12,7 +12,7 @@ related:
   - the_originals: B's essence forms the weave
   - the_arcane_reactive_crystals: Crystals interact with and disrupt the weave
   - primal_nature_magic: Nature magic draws from arcane energy absorbed by the natural world
-  - the_gods_and_the_deception: Gods act as conduits for the weave
+  - the_gods_and_the_deception: "Divine" casters also use the Weave — the god merely adds their arcane signature and claims credit. The mortal's inner spark is the true source.
 secrets:
   - text: "The weave is literally the body of a primordial entity that sacrificed itself so mortals could defy the gods."
     access: gm-only
@@ -34,6 +34,18 @@ Some arcanists whisper of a crystal cluster deep beneath the capitals that has a
 
 ### Arcane Magic (Wizards, Sorcerers, Bards)
 Arcane spellcasters draw directly from the weave. Wizards do so through **study and precision**  -  learning formulas, patterns, and techniques to shape arcane energy with their will. Sorcerers draw from the weave **innately**  -  their connection comes from a bloodline, an accident, or an external source that has attuned them to magic naturally.
+
+### Divine Magic — The Hidden Truth
+
+"Divine" spellcasters (clerics, paladins) also draw from the Weave — the same Weave everyone uses for arcane magic. The mechanism:
+
+- **The mortal's inner spark** is the source (every living being has arcane energy from B's sacrifice)
+- **The Weave** is the flame (available to all)
+- **Spell components** are fuel
+- **The god adds their arcane signature** to make the spell feel "divine"
+- **The god claims credit** for magic the mortal performed themselves
+
+The mortal already had the power. The god merely brands it. This is the cornerstone of the False Firmament — keeping mortals dependent on gods for what they could access themselves.
 
 ### Ley Lines
 The weave is not uniform. Over time, arcane energy began to flow through paths of least resistance, forming **ley lines**  -  concentrated highways of magical energy that traverse the world. Magic is easier to channel near ley line convergences, and areas far from them may feel magically impoverished.
