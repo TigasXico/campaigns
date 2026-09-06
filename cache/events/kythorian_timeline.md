@@ -142,7 +142,9 @@ updated: 2026-08-20
 - **Year**: 126
 - **Visibility**: [PUBLIC]
 - **Category**: War
-- **Description**: A fourth of the continent has fallen. Death toll is in the tens of millions -- around 15% of the population is dead. Five names emerge as figureheads behind the dread monster army: Khar'Zul (an ancient Balor from the Nine Hells) + 4 others.
+- **Description**: A fourth of the continent has fallen. Death toll is in the tens of millions -- around 15% of the population is dead. Five figureheads emerge behind the dread monster army. Their names and origins remain unknown to the general public.
+- **Secret**: One of the five was Khar'Zul, an ancient Balor from the Nine Hells. The other four remain undefined.
+- **Visibility**: [PUBLIC]
 
 ## E19 - B's Crystals Affect Monster Army
 - **Year**: 129 to 500
@@ -260,7 +262,7 @@ updated: 2026-08-20
 
 ## E38 - Sealing of Khar'Zul
 - **Year**: 296
-- **Visibility**: [PUBLIC]
+- **Visibility**: [SECRET]
 - **Category**: Battle
 - **Description**: Khar'Zul's physical form is destroyed, but his essence endures. His own sword (having absorbed his blood, victories, and hatred) becomes the only vessel. The greatest sealing ritual binds Khar'Zul within the blade. The blade is entrusted to the Skallfang Clan.
 

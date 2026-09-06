@@ -17,7 +17,7 @@ related:
   - society: Adventurers' role in society
 ---
 
-## The Last Stand Army  -  Class Composition
+## The Dawn Guard  -  Class Composition
 
 - **Frontline**: Fighter, Paladin, Barbarian, Monk
 - **Support**: Cleric, Druid, Ranger
@@ -32,7 +32,7 @@ related:
 | **Skywatch War College** | Skywatch | Fighters, Paladins, Rangers, strategic officers |
 | **Emberforge Engineering Halls** | Emberforge | Artificers |
 | **Church Seminaries** | All capitals | Clerics, Paladins (religious education) |
-| **Scouts' & Rangers' Guild** | Skywatch | Rangers, Rogues (scout path) |
+| **Guiding Hand** | Skywatch | Rangers, Rogues (scout path) |
 
 ## Informal Training
 

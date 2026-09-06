@@ -47,7 +47,7 @@ The cluster consists of **one major settlement and three minor ones**: the major
 
 ### Mining & Prospecting
 
-The **northeast settlement cluster** is the heart of mining operations, producing the bulk of precious metals and gemstones that fuel the economy. Additional mines exist in the recovered south and east. Operations are managed by the Miners' & Prospectors' Guild with strict quotas and safety regulations.
+The **northeast settlement cluster** is the heart of mining operations, producing the bulk of precious metals and gemstones that fuel the economy. Additional mines exist in the recovered south and east. Operations are managed with strict quotas and safety regulations.
 
 ### Metalworking & Smithing
 
@@ -80,9 +80,9 @@ The **Thormvuld** family  -  dwarven arcane engineers established in a one-shot 
 
 The continent-wide adventurers' guild (Drakh Ix'thar) is the primary controller of this industry. Settlements, caravans, and military outposts contract the guild to clear monster nests, eliminate threats, and reclaim dangerous sites. This is one of the largest economic sectors, as the reconquering effort relies on it for frontier expansion.
 
-### The Last Alliance Military
+### The Dawn Guard
 
-The unified army of the three capitals functions as a major economic force in its own right. Beyond its direct military role, it contracts local mercenary companies for specific operations  -  reconquering a settlement, securing a resource outpost, or reinforcing a frontier position. These contracts inject significant coin into local economies.
+The unified army of the three capitals (the Dawn Guard) functions as a major economic force in its own right. Beyond its direct military role, it contracts local mercenary companies for specific operations  -  reconquering a settlement, securing a resource outpost, or reinforcing a frontier position. These contracts inject significant coin into local economies.
 
 ### Sea Trade & Ports
 

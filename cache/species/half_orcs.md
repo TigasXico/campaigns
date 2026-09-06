@@ -30,7 +30,7 @@ Half-Orcs exist through natural interbreeding. They are one of the two hybrid ra
 
 ## Origins
 
-Half-Orcs are the natural offspring of interbreeding between races. **Vorn**, the god of war and conquest, falsely claims them as his "conquering children" -- a label that has become a source of prejudice rather than pride.
+Half-Orcs are the natural offspring of Orcs and Humans. **Vorn**, the god of war and conquest, falsely claims dominion over the Orc race -- a claim that taints Half-Orcs by association. The label of "conquering children" has become a source of prejudice rather than pride.
 
 ---
 
@@ -38,9 +38,9 @@ Half-Orcs are the natural offspring of interbreeding between races. **Vorn**, th
 
 | God | Domains | Falsely Claims |
 |-----|---------|----------------|
-| **Vorn** | War & Conquest | Half-Orcs |
+| **Vorn** | War & Conquest | Orcs |
 
-Vorn is the god of war and conquest. His church, the **Iron Host**, is a banned organization in Last Stand territories. His claim over Half-Orcs has damaged their reputation, even though he is one of the three gods publicly blamed for the invasion.
+Vorn is the god of war and conquest. His church, the **Iron Host**, is a banned organization in Last Stand territories. His claim over the Orc race taints their Half-Orc offspring, even though Half-Orcs themselves fought bravely in the First Alliance.
 
 ---
 

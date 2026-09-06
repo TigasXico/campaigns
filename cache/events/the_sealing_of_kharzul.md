@@ -54,3 +54,6 @@ The sealing had two major consequences:
 2. **The Crimson Covenant**: Some scholars who witnessed the sealing saw the truth  -  the ritual had not destroyed Khar'zul but preserved him. They saw the prison as a chrysalis. These dissidents fled with fragments of the ritual and forbidden knowledge, eventually becoming the Crimson Covenant. 
 
 Centuries later, through Project Genesis, the Covenant created **Balor Skallfang**  -  a tiefling bred to be the perfect vessel for Khar'zul's essence. The blade now lives with Balor, and the sealing's legacy continues to unfold. Khar'zul has already demonstrated that the prison can be breached  -  through the **Avatar of the Living Prison** state, triggered for the first time during the blackout at the Skallfang village.
+
+## Visibility
+- This entity is NOT public knowledge. WA article: Class 1 (fully private, no subscriber groups).

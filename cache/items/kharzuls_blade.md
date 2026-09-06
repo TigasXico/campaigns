@@ -241,3 +241,6 @@ The stages represent Khar'zul's progressive **integration** with Balor, not Balo
 2. [ok] **Where was the blade hidden?**  -  **Resolved.** Initially hidden in the **Whispering Glacier** in the Frostmaw and later moved to **Fanghold's Vault**. [emoji] **TODO**: The full journey from the Skallfang Clan to the Covenant's possession and back to Hrothgar needs to be resolved after reviewing the timeline.
 3. [ok] **Did the blade follow Balor?**  -  **Resolved.** Yes. From the moment Balor was born, the blade's eye turned toward him. Balor's mother discovered that she could not leave the blade behind  -  it would follow the baby. This was the first sign that the blade had chosen its vessel.
 4. [hourglass] **What are the exact requirements for the Rite of Ash?**  -  Known as a prayer in Old Abyssal spoken over the blade while meditating. Full parameters (duration, cost, failure conditions) remain undefined for campaign flexibility.
+
+## Visibility
+- This entity is NOT public knowledge. WA article: Class 1 (fully private, no subscriber groups).

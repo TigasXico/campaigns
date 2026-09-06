@@ -55,9 +55,10 @@ This setting includes the standard D&D common and uncommon races, with origins t
 | Dragonborn | `species/dragonborn.md` | Claimed by Tyra |
 | Gnomes (forest, rock) | `species/gnomes.md` | Claimed by Aurelius |
 | Half-Elves | `species/half_elves.md` | Unclaimed hybrid |
-| Half-Orcs | `species/half_orcs.md` | Claimed by Vorn; discriminated |
+| Half-Orcs | `species/half_orcs.md` | Unclaimed hybrid (Orc parentage); discriminated |
 | Tieflings | `species/tieflings.md` | Covenant-created; unclaimed; godless |
 | Genasi (air, earth, fire, water) | `species/genasi.md` | Only uncommon race; claimed by Vesper |
+| Orcs | `species/orcs.md` | Claimed by Vorn |
 
 ---
 
@@ -69,6 +70,7 @@ This setting includes the standard D&D common and uncommon races, with origins t
 - **Human**
 - **Dragonborn**
 - **Gnome** (forest and rock)
+- **Orc**
 - **Half-Elf**
 - **Half-Orc**
 - **Tiefling**
@@ -77,7 +79,7 @@ Drow and Shadow Elves are elven subraces with unique origins tied to the Crimson
 
 ## Uncommon Races
 
-Only **Genasi** exist among the uncommon races. All other exotic races (Aarakocra, Goliath, Firbolg, Tabaxi, Kenku, Tortle, Goblinoids, Orc, Yuan-ti, etc.) are excluded from this setting for now.
+Only **Genasi** exist among the uncommon races. All other exotic races (Aarakocra, Goliath, Firbolg, Tabaxi, Kenku, Tortle, Goblinoids, Yuan-ti, etc.) are excluded from this setting for now.
 
 ---
 
@@ -101,7 +103,7 @@ Three races were NOT created by the Originals. They are the result of experiment
 
 ## Half-Races
 
-Half-Elves and Half-Orcs exist through natural interbreeding between races. No custom hybrid races exist at this time.
+Half-Elves exist through natural interbreeding between Elves and Humans. Half-Orcs are the offspring of Orcs and Humans. No custom hybrid races exist at this time.
 
 ---
 
@@ -119,12 +121,13 @@ The gods each claim to have created a specific mortal race. This is a deliberate
 | **Vesper** | Peace & Twilight | Genasi |
 | **Lolth** | Trickery & War | Drow |
 | **The Raven Queen** | Death & Grave | Shadow Elves |
-| **Vorn** | War & Conquest | Half-Orcs |
+| **Vorn** | War & Conquest | Orcs |
 | **Tyra** | Hunt & Nature | Dragonborn |
 
 **Unclaimed Races:**
 - **Tieflings**  -  No god claims them. This fuels prejudice: tieflings are seen as "godless" or "abandoned," and some devout communities distrust them outright. The Crimson Covenant's true origin for tieflings is unknown to the general public.
 - **Half-Elves**  -  Fall naturally between whoever claims Elves (Kaelthor) and Humans (Aloria). No god claims them directly.
+- **Half-Orcs**  -  Offspring of Orcs and Humans. Not claimed by any god directly; they inherit the stigma of Vorn's claim over Orcs.
 
 ---
 
@@ -164,9 +167,9 @@ Drow never participated in the First Alliance or helped found the Last Stand. Th
 
 See **`species/shadow_elves.md`** for full details on Shadow Elf origins, culture, racial traits, and the Raven Queen's brand. Shadow Elves fled to the Shadowfell during the Abominable End and never joined the mortal alliance. Like the Drow, they are distrusted on the surface. Their connection to death and the Shadowfell fuels prejudice  -  many believe they serve the Raven Queen's dark designs. Shadow Elf visitors to Last Stand cities are rare and typically watched.
 
-### Half-Orcs (Claimed by Vorn)
+### Half-Orcs (Descended from Orcs, claimed by Vorn)
 
-Half-Orcs occupy a unique and painful position. They **did** fight in the First Alliance. They **did** help found the Last Stand. Their warriors bled alongside humans, dwarves, and elves against the monster hordes. Yet because Vorn claims them as his "conquering children," they are mistrusted and looked down upon in nearly every settlement.
+Half-Orcs occupy a unique and painful position. They **did** fight in the First Alliance. They **did** help found the Last Stand. Their warriors bled alongside humans, dwarves, and elves against the monster hordes. Yet because Vorn claims the Orc race and Half-Orcs share that bloodline, they are mistrusted and looked down upon in nearly every settlement.
 
 - **Public perception**: Half-Orcs are seen as brutish, prone to violence, and tainted by their "war god." They face discrimination in housing, employment, and social standing.
 - **Vorn worship**: Half-Orcs who follow Vorn must do so in secret. The Iron Host operates underground within Last Stand territory. Open worship of Vorn can lead to persecution, exile, or worse.

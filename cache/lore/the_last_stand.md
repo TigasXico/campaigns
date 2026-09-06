@@ -28,7 +28,7 @@ The Last Stand is not a single city but a cluster of **three capital cities** fo
 
 ## The First Alliance
 
-After the three capitals were established, the mortal races formed an unprecedented military alliance known as **The First Alliance**  -  the army of the Last Stand itself. Kings, archmages, high priests, ancient monster hunters, and knightly orders united to drive the reconquering and push back the monster invasion. Their remarkable victory marked the beginning of **The Rise of the Mortals** era.
+After the three capitals were established, the mortal races formed an unprecedented military alliance known as **The First Alliance**. Its army, named the **Dawn Guard**, united kings, archmages, high priests, ancient monster hunters, and knightly orders under a single banner to drive the reconquering and push back the monster invasion. Their remarkable victory marked the beginning of **The Rise of the Mortals** era.
 
 ### The War Against the Five Generals
 

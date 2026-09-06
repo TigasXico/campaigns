@@ -82,3 +82,6 @@ Known Keepers:
 ## Current Status
 
 The clan is now fractured. After the village was destroyed and Balor was found unconscious amidst the ruins, the clan elders made the painful decision to exile him. They knew the truth about his origins  -  that he was the culmination of Project Genesis  -  and feared that keeping him would bring destruction upon what remained of the clan.
+
+## Visibility
+- This entity is NOT public knowledge. WA article: Class 1 (fully private, no subscriber groups).

@@ -57,12 +57,12 @@ Beyond the Code, each settlement governs itself. Patchwork of local customs crea
 Earned through **concrete contributions to reconquering**  -  monsters slain, territory reclaimed, communities protected. No rigid caste system. Reputation is local.
 
 ### Authorities
-- Frontier: strength-based leadership
+- Frontier: 3S's merit-based leadership (those who have strength, strategy, and soul lead)
 - Heartland: traditional authorities (guild leaders, old families)
 - Settlement-specific (deferred to location development)
 
 ### Guild System
-Major guilds: Smiths' & Crafters', Scouts' & Rangers', Mages' & Scholars', Farmers' & Herders', Merchants' & Traders', Miners' & Prospectors', plus the continent-wide Adventurers' Guild (Drakh Ix'thar). Each provides training, representation, and social safety net.
+Major guilds: Thalkis Ember (metalworkers, artisans), Guiding Hand (intelligence and frontier navigation), Weaveheart Academy of Arcane Arts (arcane research and education), Sons of Crassian (commerce and trade), plus the continent-wide Adventurers' Guild (Drakh Ix'thar). Each provides training, representation, and social safety net.
 
 ### Tensions
 - Who really contributes vs. who holds power

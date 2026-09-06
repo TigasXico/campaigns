@@ -25,7 +25,7 @@ updated: 2026-08-11
 
 ## Overview
 
-The First Alliance is the unprecedented military and political alliance of the mortal races, formed after the three capitals of the Last Stand were established. Kings, archmages, high priests, ancient monster hunters, and knightly orders united under a single banner to drive the reconquering and push back the monster invasion. Their remarkable victory against the Five Monster Generals marked the beginning of **The Rise of the Mortals** era.
+The First Alliance is the unprecedented military and political alliance of the mortal races, formed after the three capitals of the Last Stand were established. Kings, archmages, high priests, ancient monster hunters, and knightly orders united under a single banner as the **Dawn Guard** to drive the reconquering and push back the monster invasion. Their remarkable victory against the Five Monster Generals marked the beginning of **The Rise of the Mortals** era.
 
 Unlike a temporary wartime coalition, the Alliance **never disbanded**. After defeating the monster generals, it adapted from a purely military command into a permanent governing body overseeing the reconquering effort. Its legacy endures in every reconquered territory, every sealed vessel of power, and the governing structures of the three capitals today.
 

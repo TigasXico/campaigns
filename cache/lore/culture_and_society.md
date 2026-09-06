@@ -27,7 +27,7 @@ updated: 2026-08-09
 Two centuries of shared struggle forged a unified identity: **survival, unity, defiance**. Racial differences persist in traditions and cuisine, but the overarching culture is shared.
 
 ### Core Values
-- **Unity**  -  "Together we stand." Racism unacceptable; individual biases still exist.
+- **Unity**  -  "Divided we fight but united we stand." No exclusion, no discrimination.
 - **Resilience**  -  Hardship met with determination. Stoicism admired, complaint = weakness.
 - **Contribution**  -  Every citizen must do their part. Laziness heavily stigmatized.
 - **Curiosity**  -  Desire to recover lost knowledge and innovate drives progress.
@@ -59,7 +59,7 @@ Ten gods dominate religious life. Churches cooperate through the **Ecumenical Co
 
 ## Calendar & Festivals
 
-**System**: 10 months (god-named, creation order), 2 weeks/month (20 days), 10-day week (4 work / 2 rest / 3 work / 1 rest). 200 days/year. The calendar has existed for approximately **800 years** - established by the first mortal kingdoms soon after the species appeared and organized into societies. It has been in continuous use ever since, surviving the Abominable End and the reconquering.
+**System**: 10 months (god-named, creation order), 2 weeks/month (20 days), 10-day week (4 work / 2 rest / 3 work / 1 rest). 200 days/year. The calendar has existed for approximately **500 years** - established by the first mortal kingdoms soon after the species appeared and organized into societies. It has been in continuous use ever since, surviving the Abominable End and the reconquering.
 
 **Weekdays**: Wildtide, Lawrest, Duskfall, Life-dawn, Fangrest, Gravefall, Sparktide, Cointide, Warmorn, Shadowrest
 
