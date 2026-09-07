@@ -659,4 +659,4 @@ Every Kythorian knows that **Crassian's Dust Circle** earned its name honestly: 
 
 ---
 
-*This document represents the boundary of what an average, educated citizen of Kythoria would know about their world at the start of the campaign. The truths beyond this boundary -- the secrets of the gods, the hidden hand behind the invasion, the true nature of magic and the crystals -- are known only to a few, and are not yet the stuff of common knowledge.*
+*This document represents the boundary of what an average, educated citizen of Kythoria would know about their world at the start of the campaign. The knowledge beyond this boundary is known only by a few, and are not yet the stuff of common knowledge.*
