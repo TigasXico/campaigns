@@ -2150,3 +2150,280 @@ Siblings: -
 Status: Unknown to Party (resolution arc)
 
 ---
+## 29 - Nyra
+*(Prefix: NYR)*
+
+### NYR-01 - Nyra's genasi ranger parents were researching B's lingering consciousness in the elemental planes — an ethereal will, voice, and presence that all Genasi feel due to the elemental planes being the foundational layer the Originals built the Material Plane upon. Their research threatened both the gods (who suppress knowledge of B) and ViF (whose plans could be impacted by elemental convergence theory). They were captured and are held as forced researchers in a ViF facility.
+Prerequisites: -
+
+Unlocks: NYR-02, NYR-03
+
+Siblings: GEN-01, BTG-03, VIF-01
+
+Status: Unknown to Nyra (she knows they disappeared, not why or by whom)
+
+### NYR-02 - On Nyra's 18th birthday, Ghavel delivered a mystery box containing encrypted manuscripts, riddles, unrecognizable photographs, and a smaller Elemental Resonance Lockbox. The lockbox only opens when all four elemental soul crystals are brought into proximity. The encrypted journal revealed Nyra must collect the essence of four elementals (Air, Fire, Water, Earth) to unlock the truth.
+Prerequisites: NYR-01
+
+Unlocks: NYR-03
+
+Siblings: -
+
+Status: Known to Nyra (she has the box and deciphered the journal)
+
+### NYR-03 - The four elemental soul crystals combine within the Elemental Resonance Lockbox to generate the Primal Resonance Key — capable of opening almost any arcane lock. The box opens, revealing a final message from Nyra's parents: what they discovered about B's consciousness in the elemental planes, instructions for using the Key to extract hidden information from ViF (Veritas in Fractum) locations, and a map of discovered ViF facilities. Nyra's parents are alive — held as forced researchers in one of these ViF locations.
+Prerequisites: NYR-02
+
+Unlocks: NYR-10
+
+Siblings: VIF-01, VIF-04
+
+Status: Unknown to Nyra (she knows the crystals must be collected, not what they unlock)
+
+### NYR-04 - Ghavel was Nyra's childhood caretaker — the beautiful black-haired woman who looked after her when her parents visited the city. Time aged her into the gray-haired woman Nyra met in Moonlight Alley. She has been watching over Nyra her entire life, entrusted by her parents with both the mystery box and Nyra's safety.
+Prerequisites: NYR-01
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Nyra (she knows Ghavel only as the old woman who delivered the box)
+
+### NYR-05 - Khel'vin was not crushed by a random rockslide. A divine agent caused it, sent to silence him after he discovered dangerous truths about the gods' conspiracy — that the monster invasion was orchestrated. Khel'vin has never told Nyra. The agent's identity remains unknown.
+Prerequisites: -
+
+Unlocks: NYR-06
+
+Siblings: CON-01, CON-02
+
+Status: Unknown to Nyra (GM secret)
+
+### NYR-06 - Khel'vin's mother is the blue dragon whose skeleton lies in the Azure Boneyard — the same dragon Kaelyn touched during her awakening ~135 YA. Khel'vin does not know his mother's fate.
+Prerequisites: NYR-05
+
+Unlocks: -
+
+Siblings: KAE-01
+
+Status: Unknown to Nyra (GM secret)
+
+### NYR-07 - Khel'vin's father was a white dragon of unknown status. This mixed heritage grants Khel'vin Cold Breath, learned ~100 YA. The father's fate — alive, dead, or hidden — is unknown.
+Prerequisites: -
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Nyra (GM secret)
+
+### NYR-08 - Khel'vin discovered fragments of the truth about the divine conspiracy — that the monster invasion was orchestrated by the gods — but does not know the full scope. After parting ways with Nyra post-Cavern of Discovery, his current whereabouts are unknown. He may be recovering, investigating his past, or watching from a distance.
+Prerequisites: NYR-05
+
+Unlocks: -
+
+Siblings: CON-01
+
+Status: Unknown to Nyra (GM secret — Khel'vin keeps the divine attack secret)
+
+### NYR-09 - Nyra's awakened air genasi powers, combined with the Air Elemental Soul Crystal, make her sensitive to B's lingering will — not B-touched in the same way as Zan or Kaelyn, but through elemental resonance. As she collects more crystals, this sensitivity may grow, attracting unwanted attention from entities that sense B's resonance.
+Prerequisites: NYR-01
+
+Unlocks: -
+
+Siblings: BTG-01, BTG-03
+
+Status: Unknown to Nyra (she feels the genasi pull but does not understand it)
+
+### NYR-10 - The Primal Resonance Key's ability to extract information from ViF locations makes Nyra a target or asset for both the Covenant and ViF factions. The Covenant may try to capture her; ViF may try to recruit her. Nyra's quest is directly entangled with the deepest conspiracy layer.
+Prerequisites: NYR-03
+
+Unlocks: -
+
+Siblings: VIF-01, VIF-04, CON-03
+
+Status: Unknown to Nyra
+
+### NYR-11 - The remaining three elemental soul crystals (Fire, Water, Earth) are located at ley line convergences or sites of significance to the broader conspiracy. Fire may be near a volcanic site (Emberforge region); Water in a coastal or deep-sea location; Earth in a cavern linked to the Underdark or the elemental foundation of the Material Plane.
+Prerequisites: NYR-03
+
+Unlocks: -
+
+Siblings: MAG-01, BBS-04
+
+Status: Unknown to Nyra (she knows they exist, not where)
+
+### NYR-12 - Nyra trades regularly with Skywatch, the air genasi-favored city. Skywatch's Council of Eyes holds two centuries of scouting records — including observations of elemental activity and ley line disturbances. Nyra's parents may have accessed these records during their research, leaving breadcrumbs for Nyra to find.
+Prerequisites: NYR-01
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Nyra
+
+---
+
+## 30 - Aegon
+*(Prefix: AEG)*
+
+### AEG-01 - Aegon was raised by Paul, a paladin of the Order of the Protectors. Paul recognized his visions and healing as signs of a Paragon — a paladin with an extraordinary connection to the Weave, interpreted as divine favour. Aegon swore his oath at the High Septon and chose his warhammer as his holy symbol.
+
+  Prerequisites: -
+
+  Unlocks: AEG-02, AEG-05, AEG-14
+
+  Siblings: -
+
+  Status: Known to Aegon (player knows)
+
+### AEG-02 - Paul was killed in his own chapel. His last words: "Do not trust the Order... Trust your oath and your visions." The official investigation produced no named culprit and was quietly buried.
+
+  Prerequisites: AEG-01
+
+  Unlocks: AEG-03, AEG-06
+
+  Siblings: -
+
+  Status: Known to Aegon (player knows)
+
+### AEG-03 - Aegon's visions began to shift after Paul's death. Where once Aurelius's voice was clear, a new whisper grows — older, stranger, pulling him toward a truth the Order does not want him to find.
+
+  Prerequisites: AEG-02
+
+  Unlocks: AEG-04, AEG-11
+
+  Siblings: BTG-01, BTG-02
+
+  Status: Known to Aegon (player knows the shift; does not know its source)
+
+### AEG-04 - Aegon refused a direct order from the High Council to execute an innocent man. Condemned as a traitor, he invoked Trial by Combat. He and four allies (the Four Blood Brothers) fought five of the Order's champions. Three champions died; Aegon was declared innocent by divine will in front of hundreds of witnesses.
+
+  Prerequisites: AEG-03
+
+  Unlocks: AEG-05
+
+  Siblings: -
+
+  Status: Known to Aegon (player knows)
+
+### AEG-05 - The High Council sent an assassin to kill Aegon after his trial victory. A fragmentary vision warned him in time. He captured and interrogated the killer, who confessed the Council's order. This was the turning point — Aegon formally renounced his post and founded a rebel chapter.
+
+  Prerequisites: AEG-04
+
+  Unlocks: AEG-07, AEG-08
+
+  Siblings: -
+
+  Status: Known to Aegon (player knows)
+
+### AEG-06 - Paul was not killed by the Crimson Covenant. He was killed by agents of the Order of the Scales acting on divine command from Aurelius. The evidence pointing to the Covenant was a deliberate frame.
+
+  Prerequisites: AEG-02, DEC-02
+
+  Unlocks: AEG-10, AEG-12
+
+  Siblings: DEC-02
+
+  Status: Unknown to Party
+
+### AEG-07 - The new Order of the Protectors is a fledgling rebellion of ~20 scattered members: 8 warriors, 7 scholars, 5 spies inside the Scales. No stronghold. One compromised spy could collapse the network. The Four Blood Brothers are separated on different missions.
+
+  Prerequisites: AEG-05
+
+  Unlocks: -
+
+  Siblings: -
+
+  Status: Known to Aegon (player knows the Protectors exist; does not yet know their fragility)
+
+### AEG-08 - The Order of the Scales' High Council has become deeply corrupt — extortion, contract killings, and alliances with dark forces are routine. Paul's murder and Aegon's assassination attempt are visible cracks in a deeper institutional rot.
+
+  Prerequisites: AEG-05, AEG-06
+
+  Unlocks: -
+
+  Siblings: -
+
+  Status: Unknown to Party (Aegon suspects; has no proof)
+
+### AEG-09 - The "Paragon" legend is an in-world belief — paladins exceptionally favoured by Aurelius. The truth: Paragons are mortals with an unusually strong natural connection to the Weave. Other Paragons have existed in history, but Aegon has no proof he is one. The title is a belief, not a fact.
+
+  Prerequisites: AEG-01, BCR-05
+
+  Unlocks: AEG-11, BTG-01
+
+  Siblings: BTG-01
+
+  Status: Unknown to Party
+
+### AEG-10 - Paul died knowing the divine conspiracy. His visions shifted from Aurelius to B's consciousness in the Weave. He realized the gods are fragments of A and C, that the monster invasion was their doing, and that the Order unknowingly serves a false divinity. His dying words were a confession and warning.
+
+  Prerequisites: AEG-06, ORG-04
+
+  Unlocks: AEG-12
+
+  Siblings: BBS-07, DEC-02
+
+  Status: Unknown to Party
+
+### AEG-11 - Aegon is B-touched. His Paragon powers, visions, and magical sensitivity are all manifestations of attunement to B's essence, not divine favour. He is one of four B-touched party members (alongside Zan, Kaelyn, and Aurora).
+
+  Prerequisites: AEG-03, AEG-09, BTG-01
+
+  Unlocks: AEG-13, AEG-15
+
+  Siblings: BTG-01, BTG-02
+
+  Status: Unknown to Party
+
+### AEG-12 - Aegon swore the oath — "Always speak the truth, even if it leads to your death" — yet has already hidden and lied to party members about Paul's dying words, his visions, and the true reasons for his break from the Order. This contradiction must surface during gameplay.
+
+  Prerequisites: AEG-10
+
+  Unlocks: -
+
+  Siblings: -
+
+  Status: Unknown to Party (dramatic tension — Aegon knows he has broken his oath)
+
+### AEG-13 - Paladin powers do not require a god. Paladins channel power through their oath and the Weave. If Aegon rejects Aurelius, his powers should still function — becoming personal proof of the divine deception.
+
+  Prerequisites: AEG-11, MAG-02
+
+  Unlocks: -
+
+  Siblings: MAG-02, MAG-04
+
+  Status: Unknown to Party
+
+### AEG-14 - Aegon's biological father disappeared before his birth — no name, no trace. His mother died in childbirth. This may be deliberate erasure connected to the wider conspiracy. Paul may have known the truth and taken it to his grave.
+
+  Prerequisites: AEG-01
+
+  Unlocks: -
+
+  Siblings: -
+
+  Status: Unknown to Party (open mystery)
+
+### AEG-15 - B's lingering consciousness in the Weave is reaching out to Aegon through his shifting visions. As a B-touched individual strong of conviction, he could become a conduit for B's lingering will — potentially revealing the truth of the Originals and the gods' deception directly.
+
+  Prerequisites: AEG-11, BBS-07
+
+  Unlocks: -
+
+  Siblings: BBS-07, BTG-05
+
+  Status: Unknown to Party
+
+### AEG-16 - The High Septon in Drakhaven holds secrets beneath its foundations — chambers that predate the temple itself. The sealed chamber where the Scales' High Council meets (and where Paul's death was ordered) sits above these vaults. The tournament field where the Trial by Combat was held still bears the bloodstains.
+
+  Prerequisites: AEG-06, AEG-04
+
+  Unlocks: -
+
+  Siblings: -
+
+  Status: Unknown to Party (location — the High Septon)
+
+---
