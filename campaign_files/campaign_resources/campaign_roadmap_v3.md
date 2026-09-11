@@ -1,5 +1,5 @@
-﻿# CAMPAIGN ROADMAP V3
-## Levels 3→20 | Four Conspiracy Layers + Interleaved PC Arcs | No Fixed Timeline
+# CAMPAIGN ROADMAP V3
+## Levels 3?20 | Four Conspiracy Layers + Interleaved PC Arcs | No Fixed Timeline
 
 **Last updated**: 2026-08-29
 **Status**: In progress - built part by part
@@ -1810,3 +1810,343 @@ Status: Unknown (the full recipe is a campaign-scale quest line)
 
 ---
 
+## 26 - Balor
+*(Prefix: BAL)*
+
+### BAL-01 - The blade chose Balor from birth - the great yellow eye turned toward the infant before Hrothgar even realized the child was alive. Balor's bloodline makes him both prison and key: only he can fully unleash or contain Khar'zul's essence. The blade recognized a bloodline uniquely attuned to Khar'zul from the moment of Balor's birth.
+
+Prerequisites: KHZ-03
+
+Unlocks: KHZ-07
+
+Siblings: KHZ-07
+
+Status: Hinted (the blade spoke "DESTROY" in combat - Balor does not yet know the full choosing story from Hrothgar's journal)
+
+### BAL-02 - Khar'zul's blade is physically evolving - approximately 50 years ago, Skalda Frost-Beard noted a small slit in the blade's flat. Over months it widened into the great yellow eye. The prison is slowly *becoming a body* - Khar'zul is growing within the blade.
+
+Prerequisites: KHZ-03
+
+Unlocks: KHZ-08
+
+Siblings: KHZ-08
+
+Status: Known to Balor (read in Hrothgar's journal - does not know what it means)
+
+### BAL-03 - During the blackout at the Skallfang village, Khar'zul fully manifested through Balor's body in the "Avatar of the Living Prison" state - the ultimate power Project Genesis was designed to create. Balor's consciousness was trapped in an ashen-field vision while Khar'zul controlled his body. The cage has been opened once and will never be as strong again.
+
+Prerequisites: KHZ-03
+
+Unlocks: -
+
+Siblings: -
+
+Status: Partially known (Balor knows the blackout happened - does not know Khar'zul took control)
+
+### BAL-04 - The fiend that struck the Skallfang village was a Nalfeshnee controlled by the Crimson Covenant's Apostles through a binding ritual. It was sent specifically to retrieve Balor and the blade. The blade severed the fiend's connection to its Covenant controller, which is why the Nalfeshnee was destroyed despite its power.
+
+Prerequisites: CC-01, KHZ-07
+
+Unlocks: -
+
+Siblings: CC-01
+
+Status: Hinted (Balor knows the fiend attacked with intelligent purpose - does not know it was Covenant-controlled)
+
+### BAL-05 - Balor's mother killed three Covenant guards who came to collect the infant, retrieved Khar'zul's blade from the Covenant's vault, and fled into the northern wilderness. She had spent years memorizing guard rotations and mapping passages - she knew the facility inside out. She survived three weeks with the infant and the blade before leaving him with Hrothgar, then disappeared drawing the Covenant's hunters away.
+
+Prerequisites: KHZ-07
+
+Unlocks: BAL-06, BAL-07
+
+Siblings: CC-06
+
+Status: Known to Balor (he knows the broad story - details of her captivity are unknown)
+
+### BAL-06 - Balor's mother left an intelligence cache hidden in an ancient dragon burial repurposed as a Covenant research outpost deep in the northeastern mountains. The crude map in Balor's satchel pinpoints its location. What she left there - evidence, records, her own testimony - is waiting to be discovered.
+
+Prerequisites: BAL-05
+
+Unlocks: -
+
+Siblings: -
+
+Status: Hinted (Balor has the map and knows the location - contents unknown)
+
+### BAL-07 - Balor's mother's fate after vanishing into the wilderness is unknown. She fled drawing the Covenant's hunters away from her son. She may still be alive, or she may have been captured or killed - this is an open question for player discovery.
+
+Prerequisites: BAL-05
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Party
+
+### BAL-08 - The Skallfang Clan were the original guardians of Khar'zul's blade after the Sealing War, entrusted by the First Alliance. At some point during the following century, the blade passed from the Skallfang Clan to the Crimson Covenant. How and why - "The Lost Century" - is a blank page in clan history. Hrothgar's journal marks it as a TODO.
+
+Prerequisites: KHZ-02, FAL-01
+
+Unlocks: -
+
+Siblings: FAL-01
+
+Status: Known to Balor (he knows the gap exists from Hrothgar's journal - the answer is unknown)
+
+### BAL-09 - Hrothgar's journal records fragmentary sightings of cloaked figures in the Frostmaw - Covenant agents were watching the Skallfang territory. The Covenant has known Balor's location since childhood and was monitoring the clan, waiting for the right moment to strike. The Nalfeshnee attack was not random - it was a targeted retrieval operation years in the planning.
+
+Prerequisites: CC-01
+
+Unlocks: -
+
+Siblings: -
+
+Status: Known to Balor (read in Hrothgar's journal - not yet confirmed or acted upon)
+
+### BAL-10 - Balor does not yet know that the Crimson Covenant is only one member of a larger secret coalition: Veritas in Fractum (ViF) - "Truth in Fragments." The Covenant's goals and resources are backed by seven organizations acting in concert. Balor's enemies are far more connected than he realizes. The Three Curves symbol that ViF uses is not just the Covenant's - it belongs to the entire coalition.
+
+Prerequisites: VIF-01, CC-01
+
+Unlocks: -
+
+Siblings: VIF-01, CC-01
+
+Status: Unknown to Party
+
+### BAL-11 - Khar'zul's essence within the blade accelerated Balor's lycanthropy infection when he was bitten by the crystal wolves - he was the first of the bitten party members to require a Constitution saving throw. Khar'zul recognized the wolf-borne essence as a foreign invader encroaching on *his* vessel and lashed out, speeding incubation. At the full moon, Khar'zul may attempt to claim the transformation for himself.
+
+Prerequisites: BTG-01, BCR-04
+
+Unlocks: -
+
+Siblings: BTG-02
+
+Status: Unknown to Party
+
+### BAL-12 - When Khar'zul's blade reaches its next stage of unlocking, one drawback manifests: Balor must take his next level as Warlock instead of Barbarian. Khar'zul's influence is reshaping Balor's class progression, pulling him from the Skallfang tradition's disciplined rage toward a pact-bound connection. The blade does not merely offer power - it demands *alignment*.
+
+Prerequisites: KHZ-08
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Party
+
+---
+
+## 27 - Aurora
+*(Prefix: AUR)*
+
+### AUR-01 - Aurora is B-touched - naturally attuned to B's lingering will in the Arcane Weave. This is the same phenomenon that gave Paul his visions of B and drives the hoarding instinct in monsters. Paul perceived B through visions; Aurora perceives B through the stars. This attunement makes her a direct threat to the gods' entire deception - a B-touched mortal who can perceive B's will directly.
+Prerequisites: -
+
+Unlocks: AUR-06, AUR-07, AUR-13
+
+Siblings: BTG-01, BTG-02
+
+Status: Unknown to Party
+
+### AUR-02 - The hidden constellations Aurora sees are NOT figments or delusions - they are the actual positions of B's lingering consciousness projected through the Arcane Weave onto the night sky. Following them leads to locations where B's essence is concentrated: arcane-reactive crystal deposits, monster hoards, and sites connected to the Resurrection Ritual.
+Prerequisites: -
+
+Unlocks: AUR-08, AUR-09, AUR-10
+
+Siblings: BCR-01
+
+Status: Unknown to Party
+
+### AUR-03 - The white fox that led Aurora to the skylight cave was a manifestation of B's subconscious will - an animal form taken by B's lingering consciousness to guide a sensitive mortal toward understanding. The fox may return at key moments (discovery, danger, choice aligned with B's purpose). It never speaks - only leads.
+Prerequisites: -
+
+Unlocks: AUR-11
+
+Siblings: -
+
+Status: Unknown to Party
+
+### AUR-04 - Polaris, Aurora's twin brother, was captured by the Crimson Covenant after leaving Elarwyn. He felt B's pull before Aurora did - his visions were stronger and came earlier, which is why he was so driven to cross the barrier. The Covenant subjected him to the same experimental grafting that created Tieflings from human stock - his elven body twisted by Khar'zul's demonic essence. He is now a Tiefling. The experiments amplified his B-touched connection; he may be drawn toward the same celestial pull Aurora follows, but without understanding - a tragic mirror: she knowingly follows the stars; he is pulled by them blindly. As a Tiefling, he bears the "godless" stigma - no god claims Tieflings, making him a target of prejudice across Kythoria.
+Prerequisites: -
+
+Unlocks: AUR-05
+
+Siblings: -
+
+Status: Unknown to Party
+
+### AUR-05 - Twins share a rare resonance with B's essence. If both Aurora and Polaris are alive and B-touched, their connection through the matching pearl earrings could serve as a unique anchor - potentially useful for scrying, locating each other, or even as a component in rituals involving B's essence.
+Prerequisites: AUR-04
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Party
+
+### AUR-06 - Aurora's celestial attunement allows her (and other B-touched beings) to sense concentrations of B's essence across the Weave - including fellow B-touched individuals. The party's B-touched members (Zan, Kaelyn, Aegon, Aurora) are magnetically drawn together whether they want to be or not. Aurora's constellations can point toward other B-touched entities.
+Prerequisites: AUR-01
+
+Unlocks: -
+
+Siblings: KAE-17, BTG-01
+
+Status: Unknown to Party
+
+### AUR-07 - If the Order of the Scales or any church aligned with the divine conspiracy discovers Aurora is B-touched and can perceive B's will directly, they will seek to silence her. She threatens their entire deception. The Crimson Covenant would want her captured and studied as an invaluable B-touched asset.
+Prerequisites: AUR-01
+
+Unlocks: -
+
+Siblings: CON-01
+
+Status: Unknown to Party
+
+### AUR-08 - The hidden constellations serve as campaign-scope tools: they reveal locations of arcane-reactive crystal deposits, point toward monster hoards, may show the path to components of the Resurrection Ritual, and reveal safe paths through monster-held territory.
+Prerequisites: AUR-02
+
+Unlocks: -
+
+Siblings: BCR-01, BCR-02
+
+Status: Unknown to Party
+
+### AUR-09 - The hidden constellations may flicker or go silent near divine magic or temples - the gods suppress B's influence in consecrated ground. This could serve as a discovery trigger, alerting Aurora that something is consecrated or temple-associated before any other clue.
+Prerequisites: AUR-02
+
+Unlocks: -
+
+Siblings: CON-05
+
+Status: Unknown to Party
+
+### AUR-10 - The celestial language Aurora hears whispered by the stars is the fragmented consciousness of B speaking through the Weave. As she learns to decipher it, the constellations may form a larger picture - a map to something important, possibly the path to B's reassembly or a message from the last moments of the Great Sacrifice.
+Prerequisites: AUR-02
+
+Unlocks: -
+
+Siblings: MAG-01
+
+Status: Unknown to Party
+
+### AUR-11 - The skylight cave where Aurora first saw the hidden constellations sits directly on a ley line convergence. The Weave is thick enough there that B's essence patterns become visible - but prolonged exposure may cause visions or attract the attention of B-touched entities. This site could be revisited for a ritual, a vision quest, or as a location other factions may discover.
+Prerequisites: AUR-03
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Party
+
+### AUR-12 - Elarwyn, Aurora's hidden home in the Verdant Reaches, is currently undiscovered by all outside factions (gods' churches, Crimson Covenant, monster army). The ley line convergences and B-saturated environment in the Reaches make it valuable: the Covenant would want it for crystal research, the gods for suppression. If Aurora draws attention to her B-touched nature, her origin could be exposed and Elarwyn threatened.
+Prerequisites: -
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Party
+
+### AUR-13 - As a B-touched individual, Aurora could theoretically act as a living anchor - drawing B's influence away from an entire region into herself. This could stabilize areas affected by the hoarding crisis, but is extremely dangerous: it accelerates her personal infection, risks addiction, loss of control, or permanent modification. All four B-touched PCs (Zan, Kaelyn, Aegon, Aurora) share this potential.
+Prerequisites: AUR-01
+
+Unlocks: -
+
+Siblings: BTG-01, BTG-02
+
+Status: Unknown to Party
+
+---
+## 28 - Bardolemeu
+*(Prefix: BAR)*
+
+### BAR-01 - Jilton Marboia was Bardolemeu's mentor - an old musician in his 50s with green eyes, gray hair tied at the nape, scars on his hands, and a calm, almost whimsical presence. He vanished without a trace when Bardolemeu was 17. Bardolemeu believes he was silenced for knowing the family's secrets - censored plays, silenced artists, and possibly the Romeo family's ties to darker networks
+Prerequisites: -
+
+Unlocks: BAR-02, BAR-03, BAR-04
+
+Siblings: -
+
+Status: Discovered (player knows - backstory)
+
+### BAR-02 - Jilton's lute is magically attuned to Bardolemeu - on the night Jilton vanished, Bardolemeu tried to play Jilton's unfinished song, and the lute played the final notes by itself. This was Bardolemeu's bardic awakening: the instrument responded to him, completing the melody on its own as if alive with magic
+Prerequisites: BAR-01
+
+Unlocks: BAR-09
+
+Siblings: MAG-02
+
+Status: Discovered (player knows - bardic awakening)
+
+### BAR-03 - Jilton's lute has a hidden compartment containing a folded paper with a strange mark and the word "Remember" - the note may hold the key to Jilton's fate and the secrets he was silenced for. The paper's mark may connect to symbols Bardolemeu has yet to encounter
+Prerequisites: BAR-01
+
+Unlocks: BAR-05, BAR-08
+
+Siblings: ROM-03
+
+Status: Discovered (player knows - planted Session 1)
+
+### BAR-04 - Jilton always wore an unexplained necklace or ring that Bardolemeu never deciphered - the jewelry may identify Jilton's secret affiliation, serve as a key to something he protected, or hold a message Bardolemeu was meant to find
+Prerequisites: BAR-01
+
+Unlocks: BAR-08
+
+Siblings: -
+
+Status: Unknown to Party (meaning undeciphered)
+
+### BAR-05 - A Romeo theatre troupe performing near the frontier warns Bardolemeu that his father Forte has "debts" coming due - people are asking dangerous questions about the family's finances and obligations. This is the entry point into the family's hidden world
+Prerequisites: BAR-03
+
+Unlocks: BAR-06, ROM-01
+
+Siblings: ROM-01
+
+Status: Unknown to Party (hook placed in Arc 1 sandbox)
+
+### BAR-06 - Forte Romeo's debts are connected to the family's ViF obligations - the intelligence network requires resources, political favours, and information deliveries. If the Romeos cannot deliver, their standing with the Covenant - and their post-gods ambitions - are at risk
+Prerequisites: BAR-05, ROM-02
+
+Unlocks: ROM-03
+
+Siblings: ROM-02, ROM-04
+
+Status: Unknown to Party
+
+### BAR-07 - Bardolemeu's younger sister Melodia Romeo (24 at campaign start) was 14 when he left - her relationship with him and her awareness of the family's ViF secrets are unknown. She may be an unwitting pawn, a complicit agent, or a potential ally
+Prerequisites: ROM-03
+
+Unlocks: -
+
+Siblings: ROM-02
+
+Status: Unknown to Party
+
+### BAR-08 - The "Remember" note and Jilton's necklace/ring together point toward the truth Jilton was silenced for - the Romeo family's ViF involvement and the hidden network behind their theatres. Jilton may have left a trail for Bardolemeu to follow when he was ready
+Prerequisites: BAR-03, BAR-04, ROM-03
+
+Unlocks: -
+
+Siblings: ROM-03
+
+Status: Unknown to Party
+
+### BAR-09 - Bardolemeu's bardic magic draws directly from the Weave - bards manipulate arcane energy through artistic expression without divine intermediaries. His music is an act of unconscious defiance against the gods' control of magic. He may be able to sense B's presence near ley line convergences through musical intuition
+Prerequisites: BAR-02, MAG-01
+
+Unlocks: -
+
+Siblings: MAG-02, MAG-04
+
+Status: Unknown to Party
+
+### BAR-10 - Bardolemeu may eventually return to his family's theatres - not to reclaim his inheritance, but to open the stage to all who were excluded, transforming the Romeo theatres from instruments of control into spaces of free expression
+Prerequisites: ROM-03, BAR-06
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Party (resolution arc)
+
+---
