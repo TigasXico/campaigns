@@ -16,6 +16,7 @@ related:
   - the_first_alliance: The Skallfang Clan fought in the Alliance against the Five Generals and were entrusted with the blade
   - kharzuls_blade: Unwilling bearer of the blade containing Khar'zul's essence
   - the_last_stand: The Skallfang Clan (his adoptive family) fought in the First Alliance
+  - veritas_in_fractum: The Crimson Covenant is a member of ViF — a coalition Balor does not yet know exists
 secrets:
   - text: "Balor is the culmination of Project Genesis  -  bred over centuries as a vessel for Khar'zul."
     access: gm-only
@@ -55,7 +56,7 @@ Balor was the culmination: the final product of decades of forced breeding and a
 
 She survived three weeks with the infant and the blade. She discovered the blade would not leave Balor's side  -  it followed him, drawn as though it had already chosen its bearer. Exhausted and hunted, she left Balor wrapped in furs beside a trail that **Hrothgar Skallfang**  -  the clan's greatest hunter  -  was known to patrol. She tucked her family's medallion into his wrappings and disappeared into the wilderness, drawing the Covenant's hunters away.
 
-What became of her after that remains open - she left intelligence caches across the north, but her fate is reserved for player development.
+What became of her after that remains open - she left an intelligence cache hidden in the northeast, but her fate is reserved for player development.
 
 ### Discovery by the Skallfang Clan
 **Hrothgar Skallfang** discovered an abandoned infant beside a demonic greatsword in the frozen north. Footprints and blood trailed away. He took both child and sword. No one could lift the blade but when the infant touched it  -  a great yellow eye opened in the sword. The blade began floating, following the baby.
@@ -90,15 +91,15 @@ Searching the ruins, Balor found a worn leather satchel containing:
 **The Journal of Hrothgar Skallfang**  -  Over 200 densely written pages spanning decades:
 - **On the blade's choosing:** The blade chose Balor from birth  -  the eye turned toward the infant before Hrothgar noticed the child was alive. The blade recognized a bloodline uniquely attuned to Khar'zul's essence.
 - **The emergence of the eye:** ~50 years ago, Skalda Frost-Beard noted a small slit in the blade's flat. Over months it widened into the great yellow eye  -  the prison becoming a body.
-- **Observing the ritual:** The Rite of Ash learned from clan elders. Chilling observation: *"The Rite does not silence Khar'zul. It only convinces him to be silent."*
+- **Observing the ritual:** The Rite of Ash learned from clan elders. Observation: the rite calms Khar'zul, who is often in a stupor within his prison — not fully present or aware. The rite reinforces his torpor.
 - **The Covenant in the north:** Fragmentary reports of cloaked figures in the Frostmaw  -  Covenant agents watching the Skallfang territory.
 - **[TODO] The Lost Century:** How the blade passed from Skallfang Clan to the Covenant  -  to be defined.
 - **His mother's medallion:** Hrothgar recognized its significance  -  he found references to similar symbols in old Skallfang records of the sealing war  -  sketches of crescent-and-gem design, Infernal phrases partially translated: *"Key..." "...the Apostle's seal..." "...a name spoken in fire..."*
 - **Final entry:** *"The whispers have grown louder. The eye watches Balor more intently. I fear the blade knows something I do not."*
 
-**Crude Map**  -  Hand-drawn on cracked animal hide, marking a location deep in the northeastern mountains. Notes in elegant hand (his mother's) identify the site as an ancient dragon burial repurposed as a Covenant research outpost. Pinpoints where she left her primary intelligence cache.
+**Crude Map**  -  Hand-drawn on cracked animal hide, marking a location deep in the northeastern mountains. Notes in elegant hand (his mother's) identify the site as an ancient dragon burial repurposed as a Covenant research outpost. Pinpoints where she left her intelligence cache.
 
-**The Medallion of Vex**  -  Silver crescent-moon medallion with crimson gem. His mother's heirloom, left with him as an infant. Opens Covenant vaults keyed to high-ranking access. Contains hidden compartment accessible by pressing the crescent's tip while speaking his mother's name in Infernal.
+**The Medallion of Vex**  -  Silver crescent-moon medallion with crimson gem. His mother's heirloom, left with him as an infant. Opens Covenant vaults keyed to high-ranking access.
 
 **Wolf's-Head Carving**  -  Small obsidian wolf's head worn smooth by decades of handling. Hrothgar's personal totem. Symbol of the Skallfang hunting tradition.
 
@@ -121,6 +122,15 @@ A living weapon  -  steel transformed into organic matter with veins, muscles, a
 
 Grows in power as Balor does, unlocking new abilities and greater temptations.
 
+### Khar'zul's Influence on Lycanthropy
+Khar'zul's essence within the blade accelerated the lycanthropy infection when Balor was bitten by the crystal wolves. Balor was the first of the bitten party members to require a Constitution saving throw — Khar'zul recognized the infection as a foreign essence encroaching on *his* vessel and lashed out, speeding the incubation. The interaction between Khar'zul's demonic essence and lycanthropic infection is unpredictable. At the full moon, Khar'zul may attempt to claim any transformation for himself.
+
+### Next Blade Stage — The Warlock Drawback
+When Khar'zul's blade reaches its next stage of unlocking, one of the drawbacks will manifest: Balor must take his next level as Warlock instead of Barbarian. Khar'zul's influence is reshaping Balor's very class progression, pulling him away from the disciplined rage of the Skallfang tradition and toward a pact-bound connection. This is the first sign that the blade does not merely offer power — it demands *alignment*.
+
+### ViF — The Covenant's Deeper Alliance
+Balor does not yet know that the Crimson Covenant is only one member of a larger secret coalition: **Veritas in Fractum (ViF)** — "Truth in Fragments." The Covenant's goals and resources are backed by the coalition's combined network. Balor's enemies are far more connected and far-reaching than he realizes. This truth may surface during the party's exploration of Site Gamma-7.
+
 ---
 
 ## Personality & Traits
@@ -142,11 +152,13 @@ Grows in power as Balor does, unlocking new abilities and greater temptations.
 ---
 
 ## Open Questions
-1. [?] **Balor's mother**  -  Backstory reserved for player development. Name, family, and fate pending player input; currently referenced only as "Balor's mother". Left intelligence caches across the north.
+1. [?] **Balor's mother**  -  Backstory reserved for player development. Name, family, and fate pending player input; currently referenced only as "Balor's mother". Left an intelligence cache in the northeast.
 2. [OK] **The blackout**  -  Resolved. Khar'zul fully manifested through Balor in Avatar of the Living Prison state. Khar'zul controlled Balor's body while Balor's consciousness was trapped in the ashen field vision. Fiend and much of village destroyed.
 3. [OK] **Leather pouch contents**  -  Resolved. Hrothgar's journal, crude map (NE Covenant ruins  -  his mother's cache), Medallion of Vex, wolf's-head carving, promise-knot (3 knots = "I will return"), recurring name, final note.
-4. [?] **His mother's secondary intelligence cache**  -  Hidden in NE ruins. What exactly did she leave?
-5. [?] **The Medallion's hidden compartment**  -  Coordinates written in Old Abyssal  -  where do they lead?
-6. [?] **Did Balor ask the clan elders about the blackout?**  -  He did. They found him unconscious. None saw what happened. Guilt unresolved  -  character exploration opportunity.
-7. [?] **The Avatar state**  -  Can Balor trigger it intentionally? Or only when Khar'zul seizes control?
-8. [OK] **The promise-knot**  -  Resolved. Hrothgar tied it morning of attack as silent vow. Three knots = "I will return." Kept by fighting to last breath.
+4. [?] **The mother's intelligence cache**  -  Hidden in NE ruins. What exactly did she leave?
+5. [?] **Did Balor ask the clan elders about the blackout?**  -  He did. They found him unconscious. None saw what happened. Guilt unresolved  -  character exploration opportunity.
+6. [?] **The Avatar state**  -  Can Balor trigger it intentionally? Or only when Khar'zul seizes control?
+7. [OK] **The promise-knot**  -  Resolved. Hrothgar tied it morning of attack as silent vow. Three knots = "I will return." Kept by fighting to last breath.
+8. [?] **Lycanthropy and Khar'zul**  -  Khar'zul's essence accelerated the lycanthropy incubation. Balor was the first of the bitten party members to require a Constitution saving throw. What happens at the full moon if the infection progresses under Khar'zul's influence?
+9. [?] **Next blade stage drawback**  -  When Khar'zul's blade reaches its next stage, one of the drawbacks will be that Balor must take his next level as Warlock instead of Barbarian — Khar'zul's influence reshaping his class progression.
+10. [?] **ViF connection**  -  Balor does not yet know that the Crimson Covenant is part of a larger secret coalition called Veritas in Fractum (ViF). The Covenant's membership in ViF means Balor's enemies are far more connected than he realizes.

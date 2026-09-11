@@ -1,58 +1,83 @@
-﻿---
+---
 id: the_order_of_the_protectors
 type: organization
 name: "The Order of the Protectors"
 status: draft
 tags:
-  - organization, knightly_order, paladins, aurelius, high_septon, old_capital
+  - organization, knightly_order, paladins, aurelius, high_septon, rebel_order
 related:
-  - the_order_of_the_scales: Sibling order  -  mutually assisting chapters under Aurelius
-  - aurelius: Serves Aurelius, god of wisdom and justice; church of Aurelius
-  - aegon: Aegon is a member of this order
-  - paul: Paul was a senior member of this order
-  - the_ecumenical_council: Represented indirectly through the Order of the Scales
-  - the_high_septon: Main temple is the High Septon in the old capital
+  - the_order_of_the_scales: Enemy — the Scales' High Council ordered Aegon's execution; the Protectors now openly rebel against them
+  - aurelius: Serves Aurelius, god of wisdom and justice; claims the Scales have betrayed his true purpose
+  - aegon: Founder and leader of the new Protectors
+  - paul: Paul was a senior member of the original Protectors sub-chapter; his death is the cause of the schism
+  - the_ecumenical_council: The Order of the Scales is a member; the Protectors are unrecognized
+  - the_high_septon: Main temple is the High Septon in the old capital — currently inaccessible to the Protectors
 secrets:
-  - text: "The Protectors were founded centuries ago by the first Paragons  -  paladins with an extraordinary connection to the Weave. The true purpose of the order has been lost to time, buried under layers of dogma and institutional control."
+  - text: "The original Protectors sub-chapter was founded centuries ago by the first Paragons — paladins with an extraordinary connection to the Weave. Aegon's new Protectors claim this legacy, but the true history has been buried by the Scales."
     access: gm-only
-  - text: "The High Council of the Protectors is unaware that the Order of the Scales killed Paul. Only a select few within the Scales' inner circle know the truth. If the Protectors discovered this, it could trigger a schism."
+  - text: "The new Protectors are fragile — 20 scattered members, no permanent stronghold, hunted by the Scales. Aegon overestimates their reach. One compromised spy could collapse the network."
     access: gm-only
 created: 2026-08-10
-updated: 2026-08-10
+updated: 2026-09-11
 ---
 
 ## Overview
 
-The **Order of the Protectors** is a knightly chapter of paladins and warriors who serve **Aurelius**, the god of wisdom and justice. They operate as a **sibling order** to the **Order of the Scales**  -  independent in their internal hierarchy and traditions, but bound by mutual assistance and shared faith.
+The **Order of the Protectors** as it exists today is a **rebel chapter** founded by **Aegon, The Rogue Paragon**, after his formal break from the **Order of the Scales**. It claims the legacy of the original Protectors — the knightly sub-chapter that served Aurelius for centuries — but stands in open opposition to the Scales' corrupted High Council.
+
+The original Protectors were a knightly sub-chapter within the broader Order of the Scales, founded centuries ago by the first **Paragons**. The new Protectors arise from the ashes of that original purpose, restored by a Paragon who believes the Scales have betrayed Aurelius's true intent.
 
 ---
 
 ## Relationship with the Order of the Scales
 
-- The **Order of the Scales** (the main church of Aurelius) provides monetary support and requests missions from the Protectors
-- The **Order of the Protectors** answers those calls but maintains its own hierarchy, traditions, and autonomy
-- Both orders share the **High Septon**  -  the central temple of Aurelius in the old capital
-- They are sibling orders, not subordinate to one another
+- **ENEMY**. The Scales' High Council ordered Aegon's execution and sent an assassin to kill him.
+- The Scales control the High Septon and the institutional resources of Aurelius's church.
+- The Protectors operate in shadow, using safehouses and secret meeting sites.
+- The Scales know the Protectors exist and hunt them actively.
+
+---
 
 ## Structure
 
-The Protectors follow a traditional knightly hierarchy:
-- **The High Council**  -  Senior paladins who guide the order's decisions
-- **Chapter Masters**  -  Leaders of individual chapters across Kythoria
-- **Knights**  -  Fully sworn paladins who have completed their trials
-- **Initiates**  -  Trainees undergoing the three-year preparation before swearing the oath
+The new Protectors are small and fragile:
 
-## The Oath
+- **Aegon** — Founder and leader
+- **The Four Blood Brothers** — James, John, Henry, Roderick. Commanders of the warriors and counsellors. Currently separated from Aegon on different missions.
+- **8 Warriors** — Veteran fighters committed to the cause
+- **7 Maesters and Scholars** — Healers, historians, and archivists preserving the true faith
+- **5 Infiltrated Spies** — Agents embedded within the Order of the Scales
 
-> *"Do not fear your enemies. Be courageous and upright so that Aurelius may love you. Always speak the truth, even if it leads to your death. Safeguard the defenceless and stop evil in this world. This is your oath."*
+**Total Membership:** Approximately 20 individuals, scattered across safehouses.
 
-After completing three years of training  -  in combat, war, history, and religion  -  initiates undergo a series of tests and trials. Those who pass swear the oath before Aurelius at the High Septon, choose a holy symbol to accompany them for life, and depart to serve.
+---
+
+## The New Oath (Five Tenets)
+
+Aegon distilled the original oath into five sacred principles — see his character file for the full text:
+
+1. **The Shield of the Innocents** — Protect life, not dogma
+2. **The Blade of Truth** — Confront deceit and corruption
+3. **Redeemed Trust** — Loyalty to companions above institutions
+4. **The Active Will** — Change the future, do not accept it passively
+5. **The Shared Light** — Share the burden of truth with those who fight beside you
+
+---
 
 ## Headquarters
 
-The Protectors share the **High Septon**, the central temple of Aurelius, with the Order of the Scales. The High Septon is located in the **old capital** of Kythoria  -  the pre-invasion seat of power that has yet to be fully detailed. Individual chapters exist throughout the recovered territories.
+No permanent stronghold. The Protectors operate from scattered safehouses across the frontier and the old territories. The **High Septon** remains their spiritual home, but it is currently controlled by the Order of the Scales and inaccessible.
+
+---
 
 ## Known Members
 
-- **Paul** (deceased)  -  Senior member, mentor to Aegon
-- **Aegon, The Rogue Paragon**  -  Current member, one of the strongest paladins of the order
+- **Aegon, The Rogue Paragon** — Founder and leader
+- **James, John, Henry, Roderick** — The Four Blood Brothers
+- **Paul** (deceased) — Senior member of the original Protectors, mentor to Aegon
+
+---
+
+## Current Status
+
+Hunted. Fragile. Scattered. The Scales know of their existence and are actively working to dismantle them before the rebellion gains momentum. The Five Spies embedded within the Scales are the Protectors' first line of defense — and their most vulnerable point of failure.

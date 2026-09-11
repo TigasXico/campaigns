@@ -17,7 +17,7 @@ secrets:
   - text: "The Romeo family's strategy is to position themselves as subservient information gatherers — making themselves so useful that every ViF member depends on them. When the gods fall, they intend to cash in on that dependence for real power."
     access: gm-only
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-09-11
 ---
 
 ## Overview
@@ -25,6 +25,22 @@ updated: 2026-09-05
 The **Romeo family** is a wealthy noble house with extensive political influence and economic resources. To the outside world, they are merchants, patrons of the arts, and minor political players. In truth, they are a full member of **Veritas in Fractum (ViF)**, serving as the coalition's primary intelligence network.
 
 The Romeo family joined ViF later than the founding members, brought in through a Crimson Covenant invitation. They have positioned themselves as subservient information gatherers for all ViF members — making themselves indispensable while quietly pursuing their own ambition: power in a post-gods world.
+
+---
+
+## Key Members
+
+### Forte Romeo (Father)
+Patriarch and head of the Romeo family. Oversees the family's theatre empire and -- unknown to Bardolemeu -- its intelligence operations and ViF commitments.
+
+### Serena Romeo (Mother)
+Matriarch of the Romeo family. Manages the family's social and political networks.
+
+### Melodia Romeo (Sister, 24)
+Bardolemeu's younger sister by three years. At campaign start she is 24 years old. Her awareness of the family's true nature and her relationship with Bardolemeu are currently unknown.
+
+### Bardolemeu Romeo (Estranged son, 27)
+Left the family at age 17, now estranged. Knows **NOTHING** about the family's ViF involvement. He was always treated as an immature sentimentalist, a music lover with no right to family business. His family's intelligence network, political dealings, and ViF membership are completely hidden from him.
 
 ---
 
@@ -58,6 +74,8 @@ His family's intelligence network, political dealings, and ViF membership are co
 
 ## Open Questions
 
-1. **Who represents the Romeo family on the Convocation?** — *TBD by GM*
+1. **Who represents the Romeo family on the Convocation?** — *TBD by GM (Forte? Serena? Another member?)*
 2. **What are the three unnamed ViF organizations?** — *TBD by GM*
 3. **How will Bardolemeu react when he discovers the truth?** — Major character arc potential
+4. **Does Melodia know the family's secrets?** — *TBD by GM/player input*
+5. **What is Melodia's relationship with Bardolemeu?** — Ally? Neutral? Following orders to find him?

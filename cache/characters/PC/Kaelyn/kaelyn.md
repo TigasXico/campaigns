@@ -4,7 +4,7 @@ type: character
 name: "Kaelyn"
 status: draft
 tags:
-  - pc, player_character, drow, sorcerer, dragon_magic, blue_dragon, draconic_bloodline, lolth, b_touched, crystal_heart, house_velkyn, the_underdark
+  - pc, player_character, drow, sorcerer, dragon_magic, blue_dragon, dracolich, necromantic, draconic_bloodline, lolth, b_touched, crystal_heart, house_velkyn, the_underdark
 related:
   - races_and_ancestries: Drow  -  created by Crimson Covenant experiments on elves ~500-600 years ago
   - the_coven_of_the_spider: Church of Lolth  -  Drow society is theocratic and matriarchal
@@ -29,11 +29,11 @@ secrets:
     access: gm-only
   - text: "The overheating sensation Kaelyn experiences when using too much magic is her crystal heart overdrawing B's essence from the Weave. If pushed too far, the crystal could grow, spread across her body, or even begin to consume her. This is both a limitation and a potential character arc  -  learning to control her connection to B's essence before it overwhelms her."
     access: gm-only
-  - text: "The Black Willow's growth and its ability to cast perpetual shadow over the forest was an unintended byproduct of B's lingering consciousness responding to the Crimson Covenant's artificial creation of the Drow. The ley line convergence beneath the tree reacted to the unnatural act of race-creation, and B's essence caused the willow to grow massive and block the sun. Lolth later stepped in and claimed credit for this phenomenon, using it to bind the Drow to her worship."
+  - text: "The Black Willow's growth and its ability to cast perpetual shadow over the forest was caused by a ley line convergence and a cluster of B-crystals near its roots. B's essence accelerated the tree's growth to gigantic proportions. Lolth later discovered these new sunlight-sensitive Drow, opportunistically claimed she created them, gave them sanctuary under the Willow, and seeded the forest with Abyssal spider-creatures from the Demonweb Pits to bind the Drow to her worship."
     access: gm-only
   - text: "The crystal heart turns violet (red + blue merged) when Kaelyn experiences strong emotions. This is the visual manifestation of her original Drow essence (red) mixing with the dragon-borne B essence (blue)  -  a reflection of her dual nature as both a created being (Drow) and a B-touched vessel."
     access: gm-only
-  - text: "The Crimson Covenant would consider Kaelyn their most valuable discovery if they learned of her  -  a living, breathing B-touched artifact that formed naturally outside their experiments. They would stop at nothing to capture, study, and potentially harness her."
+  - text: "The Crimson Covenant would take significant interest in Kaelyn if they learned of her — a living B-touched artifact formed naturally with a hybrid B-essence + necromantic signature. They might offer a cure for her corruption if she agreed to submit to study. However, their primary focus remains Balor as Khar'zul's vessel and the blade that binds him."
     access: gm-only
   - text: "Other B-touched entities (Aurora, Aegon, Paul's lingering influence) may sense Kaelyn's crystal heart as a beacon  -  a concentration of B's essence calling to them across the Weave."
     access: gm-only
@@ -43,7 +43,7 @@ secrets:
     access: gm-only
   - text: "U.D.A.R.U. is led by Lyndale and Solyn Velkyn — her mother and twin sister. The 20 years of imprisonment, torture, and experimentation were conducted by her own family, not some anonymous Drow institution. This secret is separate from the broader ViF revelation; the family connection is a later, more personal gut-punch for Kaelyn's arc."
     access: gm-only
-  - text: "Seraphine the tiefling nanny taught the twins to question Lolth's faith because she carried hidden knowledge  -  she knew the Drow were not created by Lolth, but were the result of Crimson Covenant experiments. She may have passed on fragments of this truth before her death."
+  - text: "Seraphine the tiefling nanny taught the twins to question Lolth's faith. Her reasons and what she truly knew about the Drow's origins are unclear — she may have carried hidden knowledge, or she may simply have been a rare voice of compassion in a cruel theocracy. Whether she left any records behind is unknown."
     access: gm-only
 created: 2026-08-10
 updated: 2026-08-14
@@ -51,7 +51,7 @@ updated: 2026-08-14
 
 ## Overview
 
-**Kaelyn** is a Drow sorcerer who awakened her powers by touching a blue dragon skeleton saturated with B's essence. Her hair turned black, her left eye went black, and a red crystalized heart formed in her chest  -  a unique physical B-touched manifestation. Exiled at 11 after refusing to kill her nanny in the Trial of Lolth, she survived alone, gained power, was captured and tortured for 20 years by her mother, and escaped believing she killed her family. She now wanders Kythoria as a bounty hunter, hiding behind a charismatic, hedonistic mask. She is B-touched physically (crystal heart)  -  vs Aurora (spiritual/stars) and Aegon (visionary).
+**Kaelyn** is a Drow sorcerer who awakened her powers by touching a blue dragon dracolich skeleton — a creature once raised by one of the five invasion generals, later captured and studied by U.D.A.R.U. The dragon's bones carried two energies: centuries of B-saturated essence and residual necromantic corruption from the general who raised it. Her hair turned black, her left eye went black, and a red crystalized heart formed in her chest — a unique physical B-touched manifestation. But the necromantic residue also infected her, creating a progressive "disease" that causes her magic to surge uncontrollably under emotional stress. Exiled at 11 after refusing to kill her nanny in the Trial of Lolth, she survived alone, gained power, was captured and tortured for 20 years by her mother, and escaped believing she killed her family. She now wanders Kythoria as a bounty hunter, hiding behind a charismatic, hedonistic mask, seeking a cure for the corruption spreading through her magic. She is B-touched physically (crystal heart) — vs Aurora (spiritual/stars) and Aegon (visionary).
 
 ---
 
@@ -77,7 +77,7 @@ Color palette: black and red. Blue tint when dragon essence surges.
 ## Background
 
 ### The Underdark  -  Forest of Shadows
-Deep in **south-west Kythoria**, a forest where sunlight never reaches the ground. At its center: a **massive Black Willow** whose roots run throughout the forest, serving as foundation and natural border for the Drow community. The tree grows upon a **ley line convergence** (B's essence flows close to surface), allowing it to grow beyond natural proportions. When the Crimson Covenant artificially created Drow through demonic tissue grafting, B's lingering consciousness reacted, causing the Black Willow to surge and consume the sky. Lolth later claimed credit, binding Drow to her worship.
+Deep in **south-west Kythoria**, a forest where sunlight never reaches the ground. At its center: a **massive Black Willow** whose roots run throughout the forest, serving as foundation and natural border for the Drow community. The tree grows upon a **ley line convergence** with a cluster of B-crystals near its roots, allowing it to grow beyond natural proportions and cast the forest in perpetual shadow. When Lolth discovered this shadowed sanctuary and the new sunlight-sensitive Drow who inhabited it, she opportunistically claimed she created them, gave them a home beneath the Willow, and seeded the forest with Abyssal spider-creatures from the Demonweb Pits to bind the Drow to her worship.
 
 **Three Entrances:** North (hidden gate beneath leaves, well-guarded, primary), West (community sanitation system, secondary), South (abandoned cemetery, grave as secret passage, escape route).
 
@@ -119,13 +119,20 @@ Five challenges to determine which twin would lead:
 Three days at the gate crying for help. No one opened it. Eventually walked away, found abandoned cabin, learned to hunt and hide from Drow scouts. Scars never faded.
 
 ### The Azure Boneyard (Age 15)
-Spotted by Drow scouts while hunting. Fled toward mountains, fell through a fissure into a deep cave. Walls lined with **blue crystals** (arcane-reactive, condensed essence of B). At center: a **complete blue dragon skeleton**. Touched the dragon's skull. A bolt of blue electrical energy surged through her  -  heart externalized and crystallized into red pulsing crystal, left eye turned black, hair turned black. The dragon skeleton had been saturated with B's essence for centuries. Her Drow blood (from demonic tissue grafting) allowed her to survive the transfer.
+
+The cave Kaelyn fell into was not a natural formation — it was a **U.D.A.R.U. containment site**. Years earlier, U.D.A.R.U. had captured a **blue dragon dracolich** — an undead dragon raised by one of the five generals who led the monster invasion. After defeating the dracolich alongside allied forces, U.D.A.R.U. relocated the creature's remains to this cave for study, where the skeleton continued to pulse with two distinct energies: the dragon's original B-saturated essence (from centuries of exposure to arcane-reactive crystals) and residual necromantic power left by the general who raised it.
+
+Spotted by Drow scouts while hunting, Kaelyn fled toward the mountains and fell through a fissure into this deep cave. Walls lined with **blue crystals** (arcane-reactive, condensed essence of B). At center: a **complete blue dragon dracolich skeleton**, its bones still humming with trapped energy. Touched the dragon's skull. A bolt of blue electrical energy surged through her — heart externalized and crystallized into a red pulsing crystal, left eye turned black, hair turned black. The dragon skeleton had been saturated with B's essence for centuries. Her Drow blood (from demonic tissue grafting) allowed her to survive the transfer.
+
+However, the necromantic residue within the dracolich's bones also bled into her. The power that crystallized her heart was not purely B's — it was a **hybrid of B's essence and necromantic corruption**. This twin infection would manifest over the following century as what Kaelyn calls her "disease": a progressive loss of control over her magic when strong emotions surface.
 
 ### Solitude and Discovery (Ages 15-30)
-Explored her powers in isolation for 15 years  -  lightning control, arcane shaping, studying black lightning patterns, crystal heart behavior, strange pull toward ley lines. At age 30 (Year 380), visited a surface village  -  first contact with the outside world in 19 years.
+
+Explored her powers in isolation for 15 years — lightning control, arcane shaping, studying black lightning patterns, crystal heart behavior, strange pull toward ley lines. During this period, she began noticing the first signs of the **necromantic corruption**: her spells would occasionally misfire or behave unpredictably under emotional stress. She attributed this to inexperience and trained harder to suppress her emotions — unknowingly feeding the very control issues that would worsen over time. At age 30 (Year 380), visited a surface village — first contact with the outside world in 19 years.
 
 ### Capture and Imprisonment (Ages 30-50)
-Drow spies recognized her despite altered appearance. Lyndale saw an opportunity. Kaelyn was captured and imprisoned in the Underdark Caves for **20 years**. Systematic interrogation and torture: The Silence (prolonged isolation), False Freedom (staged escapes + recapture), The Mirror (illusions of Seraphine), The Twin (Solyn involved in psychological tests). Experiments: researchers discovered strong emotions cause unpredictable lightning discharges and turn crystal heart **violet** (red Drow essence + blue dragon B essence). Over two decades, Kaelyn learned to control emotions and rely on cold logic.
+
+Drow spies recognized her despite altered appearance. Lyndale — through U.D.A.R.U. — saw an opportunity. Kaelyn was captured and imprisoned in the Underdark Caves for **20 years**. Systematic interrogation and torture: The Silence (prolonged isolation), False Freedom (staged escapes + recapture), The Mirror (illusions of Seraphine), The Twin (Solyn involved in psychological tests). Experiments: researchers discovered strong emotions cause unpredictable spell surges — the necromantic corruption reacting to emotional states — and turn the crystal heart **violet** (red Drow essence + blue dragon B essence). U.D.A.R.U. was intensely interested in the hybrid nature of her power (B-essence + necromantic), documenting how the two energies interacted. Over two decades, Kaelyn learned to suppress emotions and rely on cold logic — a survival mechanism that masked but never cured the underlying corruption.
 
 ### The Escape (Age 50)
 During an intense experiment, containment failed. Kaelyn released a massive electrical discharge  -  destroyed equipment, killed researchers, freed herself. Fled toward Mountain Passage. Lyndale confronted her  -  no longer seeing a daughter, only a threat and a failed experiment. Solyn stood beside her mother. The discharge had ignited a spreading fire. Kaelyn **pushed Lyndale into the fire** to clear the exit. Ceiling began to collapse. **Solyn pushed Kaelyn out** of the mountain, taking her place beneath the rubble. Kaelyn fled believing both were dead. (GM note: Both survived. Kaelyn does not know.)
@@ -136,21 +143,24 @@ For 100 years, Kaelyn wandered Kythoria. Joined rogue groups, worked as a **boun
 ---
 
 ## Abilities
-- **Draconic Sorcery:** Blue dragon lineage  -  lightning, thunder, storm magic infused with B's essence
-- **Crystal Heart:** Physical manifestation of B's essence bonded to body. Pulses with power, turns violet with strong emotion, overheats with overuse
+- **Draconic Sorcery:** Blue dragon lineage — lightning, thunder, storm magic infused with B's essence and tainted by necromantic corruption from the dracolich
+- **Crystal Heart:** Physical manifestation of B's essence bonded to body. Pulses with power, turns violet with strong emotion, overheats with overuse. The hybrid nature of the energy (B-essence + necromantic) makes her magic fundamentally unstable
+- **Wild Magic Surge (adapted):** When strong emotions override her control (fear, rage, grief, euphoria), Kaelyn must roll on an adapted wild magic surge table (percentile). This represents the necromantic corruption destabilizing her spellcasting — a "disease" she has been losing control over. One of her primary motivations for adventuring is seeking a cure
 - **Drow Heritage:** Darkvision (superior), fey ancestry (advantage on charm saves), innate cantrips, stealth training
 - **B-Touched Instinct:** Unconscious sensitivity to ley lines, arcane-reactive crystals, B's essence concentrations
-- **Bounty Hunter Skills:** Tracking, stealth, persuasion, intimidation, combat  -  honed over a century
-- **Controlled Emotions:** 20 years of torture taught emotional suppression  -  a survival mechanism that limits power output
+- **Bounty Hunter Skills:** Tracking, stealth, persuasion, intimidation, combat — honed over a century
+- **Controlled Emotions:** 20 years of torture taught emotional suppression — a survival mechanism that limits power output. However, suppression is not a cure — the instability has been worsening regardless
 
 ---
 
 ## Goals
-1. Hide her true nature (crystal heart, black lightning, B-touched essence)
-2. Understand her power's instability (why overheating? Is crystal growing? Can it be controlled?)
-3. Outrun her past (faces of Seraphine, Solyn, Lyndale haunt her  -  drowned in hedonism)
-4. Find belonging (exiled from Drow, distrustful of surface society  -  a wanderer without home)
-5. The truth about her power (unbeknownst to her: lies in B's essence, the Arcane Weave, and the gods' conspiracy)
+1. **Find a cure for the "disease"** — the necromantic corruption is progressively worsening, causing wild magic surges she can no longer fully suppress. This is her primary motivation for seeking knowledge, allies, and arcane expertise
+2. **Use the vial of dragon bone dust** — acquired from the Thormvuld vault during the heist, this dust was scraped from the same dracolich skeleton that gave her powers. It is likely a key reagent for stabilizing or curing the corruption
+3. Hide her true nature (crystal heart, black lightning, B-touched essence, necromantic taint)
+4. Understand her power's full nature (why overheating? Is the crystal growing? Is the necromantic corruption spreading?)
+5. Outrun her past (faces of Seraphine, Solyn, Lyndale haunt her — drowned in hedonism)
+6. Find belonging (exiled from Drow, distrustful of surface society — a wanderer without home)
+7. The truth about her power (unbeknownst to her: lies in B's essence, the Arcane Weave, the gods' conspiracy, and the dracolich general who started it all)
 
 ---
 
@@ -161,6 +171,7 @@ For 100 years, Kaelyn wandered Kythoria. Joined rogue groups, worked as a **boun
 - **The Drow of the Underdark**  -  Her people who cast her out. No loyalty, but identity inseparable from theirs.
 - **The Azure Boneyard (place)**  -  Cave where everything changed. Never returned, but feels its pull in dreams.
 - **The Crystal Heart**  -  Constant companion. Pulses with heartbeat, warms with emotions, reminds her she is no longer what she was born as.
+- **Vial of Dragon Bone Dust**  -  Taken from the Thormvuld vault during the heist. Dust scraped from the same dracolich skeleton that gave Kaelyn her powers. Likely a key ingredient for a cure — but she doesn't yet know how to use it or what other components are needed.
 
 ---
 
@@ -168,7 +179,7 @@ For 100 years, Kaelyn wandered Kythoria. Joined rogue groups, worked as a **boun
 
 ### The Crystal Heart  -  A Living B-Touched Artifact
 First known case of B's essence crystallizing inside a living being. Threats:
-- **Covenant** learns of her -> highest-priority acquisition (more valuable than Balor's blade)
+- **Covenant** learns of her -> significant interest; would offer a cure in exchange for study access. However, their primary focus remains Balor as Khar'zul's vessel
 - **Gods' agents** learn of her -> Order of the Scales seeks to silence her (living testament to B's presence)
 - **Other B-touched** (Aurora, Aegon) encounter her -> may sense her instinctively. Aurora's constellations might point toward Kaelyn. Aegon's visions might show her crystal heart
 - **Hoarding instinct:** May unconsciously feel drawn to collect magic items/currency/arcane artifacts  -  same B-influence as monsters
@@ -183,7 +194,7 @@ Giant crystal cave at the Black Willow's roots  -  immense B-essence concentrati
 Possible fates: Solyn leads Drow community, scarred, seeking Kaelyn for answers/revenge. Solyn found by Covenant who recognize latent B-touched potential. Lyndale horribly burned, consumed by vengeance, pursues Kaelyn through agents. Lyndale weakened, deposed by rivals within House Velkyn.
 
 ### Seraphine's Hidden Knowledge
-Seraphine knew Drow were created by Covenant, not Lolth. May have left journals/hidden messages. If connected to Balor's mother (TBD), creates a direct link between Kaelyn and Balor.
+Seraphine taught the twins to question. What she truly knew and why remains unclear. She may have known fragments of the truth about Drow origins, or she may simply have been a rare compassionate voice in a cruel theocracy. Whether she left any journals, messages, or records is unknown.
 
 ### Magic Instability  -  The Crystal's Growth
 Overheating may be early warning: crystal heart is **growing**. If pushed further: spread across body, involuntarily draw B's essence, attract monsters/B-touched entities, eventually consume her. Character arc: find a way to stabilize, control, or reverse growth.

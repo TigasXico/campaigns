@@ -1,5 +1,5 @@
 # Idea Bank
-Last updated: 2026-09-01
+Last updated: 2026-09-10
 
 A loose collection of campaign seeds, scattered notes, and pending ToDos.
 Entries are deleted when used (the session prep or cache file they informed becomes the permanent record).
@@ -111,5 +111,20 @@ Prefix entries with `[TODO]` for actionable tasks vs loose ideas/notes.
 **Description:** Kaelyn has a disease that's making her magic unstable -- part of why she's out in the world exploring. Design a custom Wild Magic Surge table tied to her condition. Not a full Wild Magic Sorcerer subclass, but a curated table of ~20-30 effects that trigger on a d20 roll (maybe on a 1 after casting a spell, scaling with symptom severity). Effects should feel thematic to her backstory (crystal heart, unstable magic, memory gaps, connection to the Weave / B's essence). Some should be beneficial, some chaotic, some dangerous -- but none so punishing they make the player afraid to cast spells.
 
 **Related:** [PC:Kaelyn] [lore:The Arcane Weave] [lore:The Arcane Reactive Crystals] [item:Kaelyn's Crystal Heart]
+
+---
+
+## State file: "Next Time" event triggers
+
+**Description:** Create a state file (e.g. `state_files/_next_triggers.md`) that stores conditional events to be resolved the next time a specific trigger occurs. Examples of what it would track:
+- **Next long rest:** Balor rolls a Wisdom saving throw if he uses Khar'zul's ability X; Kaelyn and Zan roll Constitution saving throws or progress another stage in the lycanthropy curse.
+- **Next battle:** Whether Balor uses Khar'zul's ability X (and consequences thereof).
+- **Next dawn/dusk:** A vision or dream sequence for a specific PC.
+- **Next visit to town:** An NPC approaches the party with news.
+- **Next short rest:** A conversation trigger between two specific PCs.
+
+The file would be checked at session start and updated as triggers fire. Entries are deleted once resolved. Keeps the DM from having to remember everything in the moment.
+
+**Related:** [workflow:Session Prep] [state:Party State] [meta:DM Tools]
 
 ---

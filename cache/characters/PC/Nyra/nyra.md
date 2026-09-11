@@ -11,7 +11,7 @@ related:
   - kaelyn: Shared connection -- Kaelyn touched Khel'vin's mother's skeleton
   - cavern_of_discovery: Location of Nyra's battle against the air elemental
   - air_elemental_soul_crystal: First of four elemental essence crystals
-  - ghavel: Old woman entrusted with Nyra's parents' mystery box
+  - ghavel: Old woman entrusted with Nyra's parents' mystery box; Nyra's childhood caretaker
   - vesper: Falsely claims to have created genasi
   - primal_nature_magic: Rangers draw absorbed arcane energy from nature
   - the_arcane_weave: B's will resonates more strongly in the elemental planes — Nyra's parents were researching this ethereal connection that all Genasi feel
@@ -30,7 +30,7 @@ secrets:
     access: gm-only
   - text: "Khel'vin's father was a white dragon of unknown status. This mixed heritage grants Khel'vin Cold Breath."
     access: gm-only
-  - text: "Nyra's parents were researching the ethereal will, voice, and presence that all Genasi seem to feel — a resonance with B's lingering consciousness that is stronger in the elemental planes than on the Material Plane. They theorized that because the Originals built the Material Plane upon the four elemental planes as a foundation, B's essence permeates those foundational layers more intensely. Their research was dangerous to both the gods (who suppress any knowledge of B) and the Crimson Covenant (whose resurrection plans could be threatened or aided by elemental convergence theory). They were disappeared to protect Nyra from further persecution — the organization responsible hid their trail and left Nyra with the caretaker."
+  - text: "Nyra's parents were researching the ethereal will, voice, and presence that all Genasi seem to feel — a resonance with B's lingering consciousness that is stronger in the elemental planes than on the Material Plane. They theorized that because the Originals built the Material Plane upon the four elemental planes as a foundation, B's essence permeates those foundational layers more intensely. Their research was dangerous to both the gods (who suppress any knowledge of B) and the Crimson Covenant (whose resurrection plans could be threatened or aided by elemental convergence theory). They were captured by ViF (Veritas in Fractum) and are being held as forced researchers in a ViF facility. Ghavel (Nyra's childhood caretaker) was entrusted with the mystery box and Nyra's safety."
     access: gm-only
 created: 2026-08-10
 updated: 2026-08-14
@@ -95,7 +95,7 @@ Pale blue-grey skin. Hair drifts as if stirred by an unfelt breeze. Eyes the col
 
 **Ghavel**: Elderly woman with gray hair, wrinkled skin, bright eyes. Entrusted with Nyra's parents' mystery box. Source of information about Nyra's parents' research.
 
-**Caretaker (unnamed)**: Beautiful woman with bright eyes, long black hair, 50s. Cared for Nyra when parents were in city. Identity unknown.
+**Ghavel (also Nyra's childhood caretaker)**: The same woman. When Nyra was a child, she was a beautiful well-preserved woman in her 50s with bright eyes and long black hair, who cared for Nyra when her parents visited the city. By the time Nyra was 18, time had aged her into the gray-haired, wrinkled woman who delivered the mystery box in Moonlight Alley. Ghavel has been watching over Nyra her entire life — entrusted by Nyra's parents with both the box and Nyra's safety.
 
 ---
 
@@ -135,18 +135,16 @@ Pale blue-grey skin. Hair drifts as if stirred by an unfelt breeze. Eyes the col
 **Status**: Resolved
 
 ### 2. Why were Nyra's parents disappeared?
-**Resolved**: Their research was dangerous to both the gods (who suppress any knowledge of B's lingering existence) and the Covenant (whose resurrection plans could be threatened or aided by elemental convergence knowledge). They were disappeared to protect Nyra from further persecution — the organization responsible hid their trail and left Nyra with the unnamed caretaker. Whether it was the gods' agents, the Covenant, or a third party that disappeared them remains ambiguous — but whoever did it acted to shield Nyra, not harm her.
+**Resolved**: Their research into B's lingering consciousness in the elemental planes threatened both the gods (who suppress any knowledge of B) and the Covenant/ViF (whose resurrection plans could be threatened or aided by elemental convergence knowledge). They were captured by ViF (Veritas in Fractum) and are being held as forced researchers in a ViF facility. Ghavel (Nyra's childhood caretaker) was entrusted with the mystery box and Nyra's safety — she hid the box and watched over Nyra from a distance, waiting until she was ready.
 **Status**: Resolved
 
 ### 3. What is inside the smaller locked box? How does it unlock?
-**Suggested direction**: The box is an **Elemental Resonance Lockbox** -- it only opens when all four elemental soul crystals are brought into proximity. Inside: a final message from Nyra's parents revealing what they discovered, the location of a hidden research cache, and a map to where they are being held.
-**Alternative**: The box contains a key to a secondary location (vault/sanctuary). The elemental essences attune the key.
-**Status**: [hourglass] Pending GM decision
+**Resolved**: The box is an **Elemental Resonance Lockbox** -- it absorbs all four elemental soul crystals when brought into proximity, which generates the **Primal Resonance Key** (capable of opening almost any arcane lock). The box then opens, revealing a final message from Nyra's parents: what they discovered about B's lingering consciousness in the elemental planes, how to use the Primal Resonance Key to reveal additional information from ViF (Veritas in Fractum) locations, and a map of discovered ViF locations. Her parents are alive -- being held as forced researchers in one of these locations.
+**Status**: Resolved
 
 ### 4. Why are the four elemental essences required?
-**Suggested direction**: The four soul crystals combine to form a **Primal Resonance Key** -- a metaphysical skeleton key attuned to the Material Plane's fundamental building blocks. It can open magically sealed locations, pierce concealment wards, and locate extra-dimensional prisons.
-**Alternative**: The combined essence powers a ritual to reveal the truth about the Originals' creation of the Material Plane.
-**Status**: [hourglass] Pending GM decision
+**Resolved**: The four soul crystals combine to generate the **Primal Resonance Key** -- capable of opening almost any arcane lock. Additionally, the Key can be used to reveal hidden information from ViF (Veritas in Fractum) locations, making it a unique tool for penetrating ViF's secrets and locating Nyra's parents.
+**Status**: Resolved
 
 ---
 
@@ -154,6 +152,6 @@ Pale blue-grey skin. Hair drifts as if stirred by an unfelt breeze. Eyes the col
 
 1. [hourglass] **Who were Nyra's parents?** Genasi rangers. Still unnamed.
 2. [hourglass] **Where is Khel'vin now?** Parted ways. Nearby? In hiding? Seeking answers?
-3. [hourglass] **Who is the caretaker?** Beautiful woman with bright eyes, long black hair, 50s.
+3. [resolved] **Who is the caretaker?** Ghavel — the elderly woman who delivered the mystery box on Nyra's 18th birthday. She was younger and well-preserved when she cared for Nyra as a child (beautiful, bright eyes, long black hair, 50s); time has aged her into the gray-haired, wrinkled woman Nyra met in Moonlight Alley. She has been watching over Nyra her entire life.
 4. [hourglass] **Khel'vin's white dragon father** -- alive, dead, or hidden?
 5. [hourglass] **Remaining three elementals** -- where are Fire, Water, Earth located?

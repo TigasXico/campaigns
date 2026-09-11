@@ -15,29 +15,23 @@ Last updated: 2026-09-01
 ### Pending User Review (RESOLVED)
 - **Agent Korvus** - approved. Keep as named NPC (Flesh Architects agent).
 - **Elena Vance** - approved. Keep as Gamma-7 journal writer.
-- **"Chief Architect"** - approved. Keep as named Covenant figure.
+- **"Chief Architect"** - approved. Keep as named FA figure.
 - **"Primary Facility"** - approved. Keep as consolidation site (east-southeast).
 
 ## Party State
 
 - **Level 4**, 6 present (Aegon absent; Odessa & Sanzo still away).
 - **HP:** Fully recovered after long rest at homestead.
-- **FX's provisions:** 3 Potions of Healing, antitoxin, torches, tinderbox, bedrolls, 2x tents, rope, signal whistle, sending stone (unused), map case.
-- **Healing waterskins (7):** EXPIRED.
+- **FX's provisions:** 2 Potions of Healing, antitoxin, torches, tinderbox, bedrolls, 2x tents, rope, signal whistle, sending stone (unused), map case.
 - **Gold:** Intact.
-- **Crystal-wolf skull shards:** 3 extracted. 4th unextracted at homestead.
+- **Crystal-wolf skull shards:** 4 extracted. 2 broke, 2 extracted (with Aegon and Bardolemeu)
 
 ## Active Conditions
 
 - **Kaelyn, Zan, Balor** -- bitten by crystal wolves. Lycanthropy incubation begun. Full moon in ~4 days.
-- **Kaelyn** -- wild magic surge at crystal residue in Session 2.
+- **Kaelyn** -- wild magic surge due to emotions getting out of hand + disease.
 - **Aegon** -- Aurelius spoke to him. Departed alone to seek answers.
 
-## Key Assets
-
-- **Khar'zul's blade** -- spoke ("DESTROY") in combat. Carried by Balor.
-- **FX's sending stone** -- unused.
-- **Partial map to Gamma-7** -- from FX.
 
 ## Next Up (Session 3)
 

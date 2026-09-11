@@ -1,8 +1,8 @@
-# CAMPAIGN ROADMAP V3
-## Levels 3→20 | Six Parallel Revelation Tracks + Interleaved PC Arcs | No Fixed Timeline
+﻿# CAMPAIGN ROADMAP V3
+## Levels 3→20 | Four Conspiracy Layers + Interleaved PC Arcs | No Fixed Timeline
 
-**Last updated**: 2026-09-06
-**Status**: Parts 0-2 complete. Part 3-4 in progress.
+**Last updated**: 2026-08-29
+**Status**: In progress - built part by part
 
 ---
 
@@ -14,10 +14,10 @@ This campaign is built on **five pillars**:
 3-4 active quests at all times. The party chooses which to pursue. The world reacts to their choices. Quests escalate, expire, or resolve based on what the party does and doesn't do.
 
 ### 2. Conspiracy layer cake
-The truth is buried in layers. Each arc peels back one or two, but never all at once. Lore beats from the same conspiracy topic are **distributed and interleaved** — no two back-to-back. The party assembles the picture piece by piece, not exposition dump by exposition dump.
+The truth is buried in layers. Each arc peels back one or two, but never all at once. Lore beats from the same conspiracy topic are **distributed and interleaved** - no two back-to-back. The party assembles the picture piece by piece, not exposition dump by exposition dump.
 
 ### 3. PC arcs are the main plot
-Every player character's backstory connects directly to one or more conspiracy layers. PC arcs are not side quests — they *are* the path through the campaign. The party discovers the world's secrets by discovering each other's.
+Every player character's backstory connects directly to one or more conspiracy layers. PC arcs are not side quests - they *are* the path through the campaign. The party discovers the world's secrets by discovering each other's.
 
 ### 4. Living war
 The monster army is active and responsive. Travel is dangerous. The frontier shifts. The monster hoarding escalation and wave timing depend on **player actions**, not a fixed script. The party can accelerate, delay, redirect, or trigger entirely new outcomes.
@@ -25,66 +25,17 @@ The monster army is active and responsive. Travel is dangerous. The frontier shi
 ### 5. The B-Crystal influence escalates
 B-Crystals are not static threats. As the campaign progresses and more deposits are unearthed, ambient resonance in the Weave grows stronger. This manifests in two parallel tracks:
 
-**Monster side**: Hoarding behavior becomes more intense and aggressive. The monster army gains momentum — small packs become coordinated raiding parties, raiding parties become siege forces, siege forces become capital-scale invasions. The monsters' goal shifts from mindless destruction to **plundering**: gather as much CMGMI as possible.
+**Monster side**: Hoarding behavior becomes more intense and aggressive. The monster army gains momentum - small packs become coordinated raiding parties, raiding parties become siege forces, siege forces become capital-scale invasions. The monsters' goal shifts from mindless destruction to **plundering**: gather as much CMGMI as possible.
 
-**Mortal side**: Progressive infection creates fractures within mortal society. Frontier tension becomes town-level conflict becomes settlement infighting becomes city-wide paranoia. If left unchecked, the influence reaches a point where no mortal institution can be trusted — everyone becomes a potential vector.
-
-### Table Realities
-
-- **Party size**: 7 players in one group. Odessa and Sanzo are sporadic/absent.
-- **Leveling**: Milestone. The Gamma-7 threshold trigger (crossing the door -> Level 4) is NOT YET approved.
-- **Main plot ratio**: 30% main plot (conspiracy layers), 30% backstory arcs (PC spotlights), 20% exploration/travel, 20% downtime/character moments.
+**Mortal side**: Progressive infection creates fractures within mortal society. Frontier tension becomes town-level conflict becomes settlement infighting becomes city-wide paranoia. If left unchecked, the influence reaches a point where no mortal institution can be trusted - everyone becomes a potential vector.
 
 ---
 
 # PART 1: THE B-CRYSTAL INFLUENCE SYSTEM
 
-This system runs in the background of the entire campaign. The influence grows and evolves based on party actions, world events, and the passage of game time. It is not a script — it is a pressure that the party can accelerate, slow, or redirect.
+This system runs in the background of the entire campaign. The influence grows and evolves based on party actions, world events, and the passage of game time. It is not a script - it is a pressure that the party can accelerate, slow, or redirect.
 
 ---
-
-### 1.0 Fundamentals
-
-#### Key Terminology: CMGMI
-
-**CMGMI** (Currency Metals, Gemstones, and Magical Items) are the three categories of matter that B-crystal-influenced creatures seek out and hoard. All three are **fragments of B's physical remains** scattered across the Material Plane during the Great Sacrifice:
-
-- **Currency Metals** -- Gold, silver, copper, platinum
-- **Gemstones** -- Diamonds, rubies, emeralds, and all precious stones
-- **Magical Items** -- Any enchanted or magically active object
-
-The hoarding instinct is not random greed -- it is a subconscious pull to **reunite scattered fragments of B's body**.
-
-#### The Infection Mechanism
-
-**Step 1: Exposure** -- A creature comes within range of an active B-crystal. The crystal's arcane field automatically connects to the creature's innate magical energy.
-
-**Step 2: Initial Influence** -- Very weak, barely perceptible as a faint preference toward CMGMI. The creature may hold onto a coin a moment longer, or feel a slight satisfaction near a hoard.
-
-**Step 3: The Self-Feeding Cycle** -- B-crystal exposure -> influence activated -> creature hoards CMGMI -> proximity to larger hoard = stronger influence -> more hoarding -> cycle continues.
-
-**Step 4: Escalation** -- From "preference" to "mild compulsion" to "obsession" to "total subordination."
-
-**Step 5: Recovery via Isolation** -- If removed from B-crystals AND CMGMI, influence gradually fades. After complete recovery, the creature returns to baseline. Reinfection possible at same threshold. **No permanent scarring** -- clean slate.
-
-#### Detection
-
-A creature **cannot tell** they are infected. The compulsion feels like their own thoughts.
-
-External detection:
-- **Detect Evil and Good or similar spells**: Reveals the influence as a faint, non-aligned resonance.
-- **Arcana check (DC 18+)**: A trained caster can identify it as "an external arcane influence -- ancient, non-hostile in intent but unrelenting."
-- **Behavioral observation**: Prolonged observation may reveal patterns the creature themself doesn't notice.
-
-#### Susceptibility Factors
-
-| Factor | Effect |
-|--------|--------|
-| **Wisdom score** | Higher Wisdom = more resistance. Lower Wisdom = more vulnerable. |
-| **B-touched status** | B-touched individuals (Zan, Kaelyn, Aurora, Aegon) are **more susceptible**. |
-| **Prior B-crystal exposure** | Previous exposure = lower resistance threshold. |
-| **Time spent near CMGMI** | Extended proximity to large hoards builds tolerance but deepens active infections. |
-| **Proximity to active crystals** | Being near an uncontained B-crystal accelerates infection dramatically. |
 
 ### 1.1 Monster Hoarding Escalation
 
@@ -93,7 +44,7 @@ External detection:
 | **1. Scattered hoards** | Individual monsters or small packs guard treasure caches. Random finds for adventurers. | A pack of crystal wolves drags shiny rocks back to its den. A lone ettercap hoards gems in a hollow tree. A wyvern's nest is lined with copper pieces. |
 | **2. Coordinated raids** | Monster groups attack settlements specifically to steal CMGMI. Frontier villages under pressure. | A goblin warband hits a mining outpost, ignores the workers, makes off with the payroll. A manticore tears the roof off a general store to get at the lockbox. |
 | **3. Settlement sieges** | Organized monster forces target towns and trade routes. The Last Stand army mobilizes. | A hobgoblin legion lays siege to a frontier town, demanding tribute in gold. A dragon demands a kingdom's treasury or it will burn the capital. |
-| **4. Capital-scale invasion** | A massive, hoarding-driven army push targets one or more Last Stand capitals. | A coordinated assault on Skywatch, Emberforge, or Weaveheart — the party must choose which to defend. The monster army's commanders are themselves deeply infected. |
+| **4. Capital-scale invasion** | A massive, hoarding-driven army push targets one or more Last Stand capitals. | A coordinated assault on Skywatch, Emberforge, or Weaveheart - the party must choose which to defend. The monster army's commanders are themselves deeply infected. |
 
 ### 1.2 Mortal Infection Progression
 
@@ -102,15 +53,15 @@ External detection:
 | **1. Subtle** | Frontier settlers, miners, adventurers with large personal hoards develop mild attachment to their possessions. | A miner refuses to sell a particularly pretty geode. A farmer hides his savings under the floorboards and grows paranoid. A merchant hoards gold instead of reinvesting. |
 | **2. Noticeable** | Town officials, local crime bosses, wealthy merchants prioritize wealth accumulation over duty. | A mayor redirects relief funds into his personal vault. A crime boss's thugs carry crystal-tipped weapons. A merchant guild hoards trade goods, causing shortages. |
 | **3. Significant** | Military captains, city council members, powerful guild leaders are compromised. Trust erodes. | A city guard captain hoards the armory's best weapons. A council member votes against spending coin on public defense. Internal investigations are stonewalled by infected officials. |
-| **4. Acute** | Capital kings, high clergy, the Council Accord itself are under influence. No mortal institution is trustworthy. | A king's treasury grows while the army goes unpaid. The Ecumenical Council demands tithes in gemstones. Infected leaders begin infighting — cities turn on each other. |
+| **4. Acute** | Capital kings, high clergy, the Council Accord itself are under influence. No mortal institution is trustworthy. | A king's treasury grows while the army goes unpaid. The Ecumenical Council demands tithes in gemstones. Infected leaders begin infighting - cities turn on each other. |
 
 ### 1.3 How Stages Progress
 
 The influence advances through **two converging pressures**:
 
-1. **Party actions & discovery** -- Every time the party (or a rival faction like the Covenant or Thormvulds) brings a new B-crystal deposit to the surface or into circulation, ambient resonance in the Weave increases globally. This is the **only** global amplifier.
+1. **Party actions & discovery** - Every time the party (or a rival faction like the Covenant or Thormvulds) brings a new B-crystal deposit to the surface or into circulation, ambient resonance in the Weave increases globally. One small cache might nudge the needle; a major vein can push an entire stage forward.
 
-2. **Time & inaction** — If no one actively contains deposits or purges infected areas, the influence compounds. Monsters continue hoarding. Mortals continue accumulating. The self-feeding cycle strengthens.
+2. **Time & inaction** - If no one actively contains deposits or purges infected areas, the influence compounds. Monsters continue hoarding. Mortals continue accumulating. The self-feeding cycle strengthens.
 
 ### 1.4 Counter-Pressure Mechanisms
 
@@ -118,807 +69,1744 @@ The party can slow or reverse progression locally and globally through the follo
 
 | # | Mechanism | What It Does | Cost / Risk | Scope |
 |---|-----------|-------------|-------------|-------|
-| 1 | **Destroy B-crystals** | Physically destroying a B-crystal deposit removes its ambient resonance from the Weave. The influence weakens in that region. | Dangerous — crystals can discharge violently when destroyed (wild magic zones, explosions). May attract attention from the Covenant or Thormvulds. | **Local — immediate** |
-| 2 | **Clear monster nests / hoards** | Breaking up monster encampments and scattering their CMGMI hoards removes concentrated sources of influence. Combat-driven, classic adventuring. | Combat risk. Hoards must be truly scattered — merely stealing the treasure and keeping it concentrated elsewhere just moves the problem. | **Local — immediate** |
-| 3 | **Wealth redistribution** | Breaking up large CMGMI concentrations by distributing them across many people and holdings. Counter-intuitive — the party actively gives treasure away. | Requires a trustworthy institution to distribute through. Hoarders may fight back. The party forfeits monetary reward. | **Local — immediate** |
-| 4 | **B-Crystal research (long-term countermeasure)** | Studying the crystals to develop a lasting magical effect — a ward, an enchantment, or a ritual that filters B's subconscious echo from the Weave in a region. | Requires rare components, high-level arcane knowledge, dedicated research time, and a facility (Weaveheart is ideal). Draws attention from Covenant and gods' agents. | **Regional — permanent once developed** |
-| 5 | **Covenant-derived countermeasures** | The Covenant has centuries of B-crystal research. They may already have containment fields, tuned containers, or resonance-dampening technology. Steal, trade for, or reverse-engineer. | Requires engaging with the Covenant — risky. Acquired countermeasures may be incomplete, booby-trapped, or require ongoing maintenance. | **Variable** |
-| 6 | **Rite parallel / monastic cleansing** | Meditative practices (like Balor's Rite of Ash, or Sanzo's monastic ki) can quiet B's influence on individuals. Monasteries become sanctuaries where infected can recover. | Requires time and isolation. Can't be mass-deployed easily. Monasteries may not trust outsiders. Recovery takes extended periods. | **Individual — slow** |
-| 7 | **B-Touched as lightning rods** | The four B-touched PCs (Zan, Kaelyn, Aurora, Aegon) naturally resonate with B's essence. They could draw influence away from a region into themselves — acting as living anchors. | **Extremely dangerous** — accelerates their personal infection. Could cause addiction, loss of control, or permanent modification. High party-drama potential. | **Local / regional — high risk** |
-| 8 | **Containment vaults** | Physically sealing B-crystal deposits underground or in anti-magic vaults prevents ambient resonance from escaping. Doesn't destroy — contains. | Requires engineering and resources. A vault can be breached. The crystals remain dangerous if rediscovered or unearthed later. | **Local — temporary containment** |
-
-### 1.5 Lycanthropy — The B-Crystal Strain
-
-A special manifestation of B-crystal influence: the bite of a B-crystal-infected creature carries a curse that blends lycanthropy with B's lingering will. Introduced at the campaign's start (crystal wolves at the homestead siege, Session 2).
-
-**Vector**: Bite of a B-crystal-infected wolf (not normal wolves).
-**Confirmed infected**: Kaelyn, Zan, Balor (Session 2).
-
-**Mechanic**:
-1. **Incubation** — Dormant for 2 long rests. After the second rest, Constitution save (DC 14, +1 per failed save thereafter). Failure = early symptoms (restlessness, heightened senses, hunger for raw meat, faint crystal-colored veins at the bite wound).
-2. **Full Moon Trigger** — On the full-moon night, a DC 16 Constitution save determines control:
-   - Success by 5+: retain control in hybrid form (can speak/think clearly)
-   - Success: involuntary wolf form but some awareness (DC 12 Charisma save each turn to direct the beast)
-   - Failure: full wolf form, GM controls until dawn
-   - Failure by 5+: crystal-corrupted form (significantly worse)
-3. **The Whisper in the Blood** — B's lingering will colors the curse: a low hum near metal or gemstones, glowing crystal-colored veins during transformation, dreams of hoarding and of a heartbeat behind a door. Players feel *something wrong* but do not learn about B from the curse alone.
-4. **Cure** — Standard *remove curse* / *greater restoration* do NOT work. Requires a dedicated side quest: research the affliction (Weaveheart scholars or the Arcane Conclave), source a specific reagent (e.g., powdered moonstone from untouched snow, or a root that grows only in dead magic zones), and administer under specific conditions (new moon, or while magically restrained).
-
-**Narrative use**: The lycanthropy is a ticking clock (full moon ~4 days away at Session 3), a source of dread and character drama, and a hook pushing the party toward civilization (Weaveheart) — connecting to the Asterion letter, the Arcane Conclave, and the broader investigation.
+| 1 | **Destroy B-crystals** | Physically destroying a B-crystal deposit removes its ambient resonance from the Weave. The influence weakens in that region. | Dangerous - crystals can discharge violently when destroyed (wild magic zones, explosions). May attract attention from the Covenant or Thormvulds. | **Local - immediate** |
+| 2 | **Clear monster nests / hoards** | Breaking up monster encampments and scattering their CMGMI hoards removes concentrated sources of influence. Combat-driven, classic adventuring. | Combat risk. Hoards must be truly scattered - merely stealing the treasure and keeping it concentrated elsewhere just moves the problem. | **Local - immediate** |
+| 3 | **Wealth redistribution** | Breaking up large CMGMI concentrations by distributing them across many people and holdings. Counter-intuitive - the party actively gives treasure away. | Requires a trustworthy institution to distribute through. Hoarders may fight back. The party forfeits monetary reward. | **Local - immediate** |
+| 4 | **B-Crystal research (long-term countermeasure)** | Studying the crystals to develop a lasting magical effect - a ward, an enchantment, or a ritual that filters B's subconscious echo from the Weave in a region. | Requires rare components, high-level arcane knowledge, dedicated research time, and a facility (Weaveheart is ideal). Draws attention from Covenant and gods' agents. | **Regional - permanent once developed** |
+| 5 | **Covenant-derived countermeasures** | The Covenant has centuries of B-crystal research. They may already have containment fields, tuned containers, or resonance-dampening technology. Steal, trade for, or reverse-engineer. | Requires engaging with the Covenant - risky. Acquired countermeasures may be incomplete, booby-trapped, or require ongoing maintenance. | **Variable** |
+| 6 | **Rite parallel / monastic cleansing** | Meditative practices (like Balor's Rite of Ash, or Sanzo's monastic ki) can quiet B's influence on individuals. Monasteries become sanctuaries where infected can recover. | Requires time and isolation. Can't be mass-deployed easily. Monasteries may not trust outsiders. Recovery takes extended periods. | **Individual - slow** |
+| 7 | **B-Touched as lightning rods** | The four B-touched PCs (Zan, Kaelyn, Aurora, Aegon) naturally resonate with B's essence. They could draw influence away from a region into themselves - acting as living anchors. | **Extremely dangerous** - accelerates their personal infection. Could cause addiction, loss of control, or permanent modification. High party-drama potential. | **Local / regional - high risk** |
+| 8 | **Containment vaults** | Physically sealing B-crystal deposits underground or in anti-magic vaults prevents ambient resonance from escaping. Doesn't destroy - contains. | Requires engineering and resources. A vault can be breached. The crystals remain dangerous if rediscovered or unearthed later. | **Local - temporary containment** |
 
 ---
 
-# PART 2: THE CONSPIRACY LAYERS — SIX PARALLEL TRACKS
+# PART 2: THE CONSPIRACY - REVELATION CATALOG
 
-## Design Philosophy
+The campaign's secrets are organized into **23 categories**. Each category groups reveals about a specific entity, faction, or concept. Beats are designed to be discovered in overlapping, interleaved fashion. Each beat includes metadata for dependency tracking, making this catalog graph-ready for session planning.
 
-The old Layer-based system (Layer 1-4) has been replaced with **six parallel revelation tracks**, interleaved across the campaign. Each track answers a different question about the world. They are designed to be discovered in overlapping fashion — the party assembles the whole picture across multiple arcs, with PC backstories serving as the primary entry points.
-
-### 6-Track Structure
-
-| Track | Focus | Reveals | Core Question |
-|-------|-------|---------|---------------|
-| **A** | Crystals & Hoarding | 3 | *What are these crystals? Why do monsters hoard?* |
-| **B** | ViF & Organizations | 14 | *Who is hunting us and why? What is the coalition behind them?* |
-| **C** | B-Touched & Genasi | 6 | *Why are some individuals uniquely connected to the crystals?* |
-| **D** | False Firmament | 7 | *Are the gods even real gods? Is divine magic a lie?* |
-| **E** | Originals & Divine Conspiracy | 5 | *What really happened before the gods? Who caused the invasion?* |
-| **F** | CMGMI, Resurrection & Endgame | 6 | *What is the endgame? Can B come back?* |
-
-### Beat Counts
-- **41 core reveals** across all 6 tracks (3 + 14 + 6 + 7 + 5 + 6)
-- **8 structural/connector beats** from the Excalidraw dependency graph
-- **49 total narrative beats** drafted (detailed below)
-
-### Inter-Track Dependencies
-
-Reveals in later tracks often depend on reveals in earlier tracks. The general dependency flow:
-
-```
-A1 → A2 → A3
-     ↓
-B1 → B2 → B3 → B4 → B5 → B6 → B7 → B8 → B9 → B10 → B11 → B12 → B13 → B14
-          ↓
-     C1 → C2 → C3 → C4 → C5 → C6
-                    ↓
-               D1 → D2 → D3 → D4 → D5 → D6 → D7
-                         ↓
-                    E1 → E2 → E3 → E4 → E5
-                              ↓
-                         F1 → F2 → F3 → F4 → F5 → F6
-```
-
-Reveals **within** a track are sequential. Reveals **across** tracks can interleave freely once the prerequisite dependency is met.
+**How to read a beat entry:**
+- **Prerequisites**: Beats that must be known before this one can be discovered
+- **Unlocks**: Beats that become available after this one is known
+- **Siblings**: Related beats that lead to the same conclusion or share a discovery path
+- **Status**: Free-text field tracking current state (e.g., *"Discovered Gamma-7 Session 3"*, *"Planned for Arc 4"*, *"Unknown to Party"*, *"Hinted via constellation fragment"*)
 
 ---
 
-## TRACK A — Crystals & Hoarding (3 Reveals)
+## 1 - Thormvuld
+(Prefix: THM)
 
-**Core question**: *What are these crystals? Why do monsters hoard?*
+### THM-01 - Thormvuld discovered crystals in a cave on their settlement
 
-**Entry points**: Direct monster observation (Session 2+), Gamma-7 records, Aurora's constellations, Aegon's visions.
+Prerequisites: -
 
-### A1 — THE HOARDING CONNECTION
-**Beat**: Monsters exposed to arcane-reactive crystals develop a compulsive hoarding instinct for CMGMI (Currency Metals, Gemstones, Magical Items). This is observable, repeatable, and affects all monster species.
-**How party learns**: Direct observation across multiple encounters (crystal wolves at homestead, d8 travel encounters, Gamma-7 beast). Crystal wolf shards resonate near treasure. Data accumulates into confirmed pattern.
-**Prerequisites**: None — visible from Session 1.
-**PC entry points**: Any (general observation).
 
-### A2 — THE LINGERING WILL
-**Beat**: The crystals are not inert — they carry the lingering subconscious will of an entity. The hoarding is not random greed; it is B's scattered consciousness seeking to become whole again. Every coin, gem, and magic item collected is a fragment being called home.
-**How party learns**: Aurora's fully-deciphered constellations, deep Covenant research documents, or Aegon's expanded visions. A conceptual leap — the party must have encountered B-crystals + hoarding behavior + hints of the Originals.
-**Prerequisites**: A1, early E-track context (Originals exist).
-**PC entry points**: Aurora (constellations), Aegon (shifting visions), Kaelyn (crystal heart sensitivity).
+Unlocks: THM-02
 
-### A3 — THE DIVINE COLD WAR
-**Beat**: The gods know about B's lingering will. They fear B's resurrection above all else — because if B returns, the Weave (B's body) collapses, ending all mortal magic. The gods command their religious orders to destroy crystal deposits, hoards, and anyone researching resurrection. The party's actions destroying crystals are — unwittingly — aligned with the gods' agenda.
-**How party learns**: Church documents ordering crystal destruction, intercepted Covenant intelligence about divine counter-operations, or Aurelius/Vesper directing a cleric to destroy a nest. The gods' fear becomes visible through their agents.
-**Prerequisites**: A2, D2 (gods are not creators — they have agendas), E3 (scapegoats are still gods).
-**PC entry points**: Aegon (Aurelius's commands), any character interacting with church authorities.
 
----
+Siblings: BCR-01, BCR-06
 
-## TRACK B — ViF & Organizations (14 Reveals)
 
-**Core question**: *Who is hunting us and why? What is the secret coalition?*
+Status: Unknown to Party
 
-**Entry points**: Gamma-7 discovery (Session 3), Covenant agent encounters, Bardolemeu's family investigation, captured Thormvuld documents.
+### THM-02 - Thormvuld's stolen Gamma-7 documents bear the Three Curves symbol, confirming that the Flesh Architects' research was connected to a larger organization (ViF)
 
-### B1 — THE THREE CURVES
-**Beat**: A symbol — a circle with three sweeping curves, one broken — appears on documents, doors, and equipment tags throughout Gamma-7. This symbol belongs to a secret organization. It is not the Flesh Architects' crest. The broken curve is deliberate, not damage.
-**How party learns**: Gamma-7 exploration — the symbol is on every doorframe, document, and equipment tag. Zan recognizes the style but not the symbol itself (new since his escape).
-**Prerequisites**: None — found at Session 3.
-**PC entry points**: Zan (Flesh Architects facility recognition), Kaelyn (the symbol was on her cell wall — personal connection).
+Prerequisites: THM-01
 
-### B2 — GAMMA-7'S OPERATORS
-**Beat**: Gamma-7 belonged to the Flesh Architects — a research division studying monster physiology and B-crystal integration. They operated on non-humanoid subjects. The Three Curves appears alongside the Flesh Architects' own lab crest — the facility served TWO organizational masters.
-**How party learns**: Operating theater (Room 4), creature pens (Room 3), Elena Vance's journal (Room 6). The Flesh Architects' methodology is visible in every room.
-**Prerequisites**: B1 (symbol recognition must precede organizational attribution).
-**PC entry points**: Zan (Architects' methods — he lived through them).
 
-### B3 — VERITAS IN FRACTUM
-**Beat**: Standing behind the Flesh Architects is a larger coalition — Veritas in Fractum (ViF), "Truth in Fragments." ViF is a secret coalition founded by First Alliance scholars who discovered the truth about the gods. The Three Curves is ViF's symbol. The Flesh Architects are a member, not the whole.
-**How party learns**: Deeper Gamma-7 records (Sealed ViF Letter in Room 5), Elena Vance's cross-referenced journal entries, or captured Thormvuld documents that name ViF explicitly.
-**Prerequisites**: B2 (must know Flesh Architects are part of something larger).
-**PC entry points**: Zan, Kaelyn (both were ViF property — the organization's existence recontextualizes their suffering).
+Unlocks: THM-03, VIF-01
 
-### B4 — VI FOUNDING: CRIMSON COVENANT
-**Beat**: The Crimson Covenant is a founding member of ViF — not the leader, not the creator, but one of three equal founding organizations. The Covenant is ViF's primary action arm. They are ancient, powerful, and organized.
-**How party learns**: Covenant structure document at Gamma-7 or deeper records, captured Covenant agent testimony, or intercepted communication between Covenant and ViF.
-**Prerequisites**: B3 (must know ViF exists), Covenant's existence must be established.
-**PC entry points**: Balor (Project Genesis — the Covenant created him), Zan (Covenant overrode his transfer).
 
-### B5 — FLESH ARCHITECTS INDEPENDENCE
-**Beat**: The Flesh Architects are an independent ViF member, not a sub-division of the Covenant. They joined ViF at the founding alongside the Covenant. Generations of B-crystal exposure have gradually corrupted their priorities — their research grows more extreme, less strategic. They self-implant arcane artifacts. ViF tolerates them for their discoveries but considers them unstable.
-**How party learns**: Contrasting Flesh Architects documents vs Covenant documents at Gamma-7. The Architects' self-implantation becomes visible if the party encounters an Architect field agent. Elena Vance's journal hints at the tension.
-**Prerequisites**: B3 (ViF exists), some visibility of Flesh Architects methodology.
-**PC entry points**: Zan (escaped their facility — knows their methods firsthand).
+Siblings: FA-01, VIF-03
 
-### B6 — U.D.A.R.U.
-**Beat**: A third founding member: U.D.A.R.U. (Underdark Drow Arcane Research Unit) — a top-secret Drow research network operating beneath Lolth's theocratic surveillance. They frame their work as serving Lolth's interests. In truth, they are a ViF division and share the same anti-god agenda.
-**How party learns**: The sealed ViF letter at Gamma-7 (Room 5) — written in Undercommon, signed by "Arch-Liaison, U.D.A.R.U." to Flesh Architects. Kaelyn's cell wall symbol is confirmed as ViF property marking.
-**Prerequisites**: B3 (know ViF exists), B1 (symbol recognition).
-**PC entry points**: Kaelyn (she was an U.D.A.R.U. specimen — her own family ran the program).
 
-### B7 — THE ROMEO FAMILY JOINS
-**Beat**: The Romeo family joined ViF later, via a Crimson Covenant invitation. They serve as the coalition's intelligence network — wealthy, well-connected, politically influential. Their post-gods ambition: be indispensable to everyone.
-**How party learns**: Bardolemeu's family investigation, Midnight Troupe encounter, or intercepted Romeo correspondence. Bardolemeu discovers his family has secrets his uncle never told him.
-**Prerequisites**: B3 (ViF exists), Bardolemeu's personal investigation.
-**PC entry points**: Bardolemeu (his family is a ViF member — and he knows nothing about it).
+Status: Discovered
 
-### B8 — THE CONVOCATION OF FRAGMENTS
-**Beat**: ViF has no single leader. It is governed by the Convocation of Fragments — a council of one representative per member organization, 7 seats total. Decisions require consensus, which grows harder as members' endgames diverge.
-**How party learns**: Deep ViF records, a captured Convocation member, or assembled intelligence from multiple sources. The structure is abstract until someone from within explains it.
-**Prerequisites**: B3 (ViF exists), B4-B7 (at least 3-4 members known).
-**PC entry points**: Any — system-level knowledge.
+### THM-04 - Through research, Thormvuld found a way to make the crystals obtain anti-gravity propertiess
+Prerequisites: BCR-01
 
-### B9 — THE BLACKMAIL ARTIFACT
-**Beat**: ViF holds a magical contingency designed by its original founders. All 7 Convocation representatives have access to it. Every representative must perform a daily check-in to reset it. If not reset daily, it broadcasts the truth about the Divine Conspiracy to every mortal across all planes. This is why the gods cannot destroy any ViF member — all 7 organizations are protected equally by this mutual deterrent.
-**How party learns**: Deepest ViF records, a Convocation defector's testimony, or a dramatic moment where the artifact's daily reset is witnessed. The cold war structure is revealed.
-**Prerequisites**: B8 (must understand Convocation structure), E2 (must know the Divine Conspiracy exists).
-**PC entry points**: Any — big-picture reveal.
+Unlocks: -
 
-### B10 — COVENANT DOES NOT WORSHIP KHAR'ZUL
-**Beat**: A critical correction to a natural player assumption: the Crimson Covenant does NOT worship Khar'zul. They study him. They control him. They seek to resurrect him as a weapon — a tool for post-gods power. Khar'zul is a resource, not a deity.
-**How party learns**: Covenant philosophy document, captured Apostle's testimony, or Balor's Covenant necklace activation revealing operational intent rather than religious devotion.
-**Prerequisites**: B4 (Covenant existence), Covenant-Khar'zul connection suspected.
-**PC entry points**: Balor (Project Genesis vessel — the Covenant's intentions with Khar'zul directly involve him).
 
-### B11 — PROJECT GENESIS AND BALOR
-**Beat**: Balor is not a random half-orc who found a cursed blade. He is the culmination of Project Genesis — the Covenant's decades-spanning program to breed a mortal vessel for Khar'zul's essence. His mother was not an Apostle; she was a prisoner who escaped. The "Apostle" story is a Covenant cover. His forced Warlock level (if it triggers) is the Covenant's bind taking effect.
-**How party learns**: Covenant records naming Balor as the Genesis vessel, his mother's escape documented, or the Covenant necklace activating and speaking through him. A Covenant agent recognizes him on sight.
-**Prerequisites**: B10 (must understand Covenant's relationship to Khar'zul), Covenant tracking the party.
-**PC entry points**: Balor (this is his personal arc).
+Siblings: -
 
-### B12 — THE THREE UNSEATED SEATS
-**Beat**: ViF has 7 member organizations, but only 4 are known (Covenant, Flesh Architects, U.D.A.R.U., Romeo). Three seats on the Convocation are filled by organizations whose identities, resources, and motivations are unknown — even to most ViF operatives. These are wild cards in the coalition's endgame.
-**How party learns**: ViF records showing 7 seats with 3 masked/redacted, or a Convocation meeting witnessed indirectly. The three unknowns become a mystery within the mystery.
-**Prerequisites**: B8 (must understand 7-seat structure).
-**PC entry points**: Any — mystery seeding.
 
-### B13 — THE THREE CURVES DECODED
-**Beat**: The ViF symbol's full meaning: the circle is existence. Three curves are A, B, C — the three Originals. The broken curve is B, the sacrificed one. Seven dots = 7 member organizations (3 connected = founding members, 4 separate = later joiners). The message: "Existence is fractured. The truth must be assembled from its fragments."
-**How party learns**: ViF lore documents, an initiated member's explanation, or piecing together the symbol's meaning after learning about the Originals.
-**Prerequisites**: E1-E5 (must understand A, B, C), B8 (7 dots = 7 organizations).
-**PC entry points**: Any — ceremonial/emblematic reveal.
+Status: Discovered
 
-### B14 — VI'S CORE OBJECTIVE AND FATAL TENSION
-**Beat**: ViF exists to destroy the gods and expose the Divine Conspiracy. That shared goal unites them. But their post-gods visions are incompatible: Covenant wants power. Flesh Architects want transcendence. U.D.A.R.U. wants Drow supremacy. The Romeo family wants to be indispensable. The three unknown seats have their own agendas. When the gods fall — if they fall — the coalition will shatter.
-**How party learns**: The full ViF charter + individual org documents, a Convocation meeting observed, or a ViF defector explaining the tension. The party realizes the alliance they've been fighting is fragile — and that creates opportunities.
-**Prerequisites**: B4-B7, B8, B12 (must know all/most members and the Convocation structure).
-**PC entry points**: Any — capstone ViF reveal.
+### THM-05 - Thormvuld built a mansion on top of the crystal cave and made the entire chunk of land float - creating their flying island
+Prerequisites: THM-04
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Discovered
 
 ---
 
-## TRACK C — B-Touched & Genasi (6 Reveals)
+## 2 - B-Crystals
+(Prefix: BCR)
 
-**Core question**: *Why are some individuals uniquely connected to the crystals?*
 
-**Entry points**: Party's B-touched PCs (Zan, Kaelyn, Aurora, Aegon), Nyra's elemental connection, U.D.A.R.U. research files.
+### BCR-01 - Arcane-reactive crystals exist
 
-### C1 — B-TOUCHED EXIST
-**Beat**: Certain individuals carry a permanent connection to B's essence, making them more susceptible to crystal influence. Zan (Catalyst Project), Kaelyn (crystal heart), Aurora (hidden constellations), and Aegon (shifting visions) are all B-touched. This is not random — each was specifically marked, modified, or born with the connection.
-**How party learns**: Self-discovery as lycanthropy symptoms worsen (B's whisper is louder for them), Gamma-7 records classifying subjects by B-resonance level, or Aegon's visions shifting from Aurelius to B.
-**Prerequisites**: A1 (must have encountered B-crystal influence).
-**PC entry points**: All B-touched PCs.
+Prerequisites: -
 
-### C2 — ELEMENTAL PLANE AFFINITY
-**Beat**: B-touched individuals have a stronger connection to the Elemental Planes than normal mortals. Their B-resonance creates a bridge between the Material Plane and elemental chaos. This manifests as heightened sensitivity to elemental energies, easier attunement to elemental magic, and — in extreme cases — limited elemental manipulation.
-**How party learns**: Nyra's research into her own powers, B-touched PCs experiencing elemental phenomena near natural thresholds, or U.D.A.R.U. research notes categorizing this as a secondary trait.
-**Prerequisites**: C1 (must know B-touched exists).
-**PC entry points**: Nyra (Genasi), Aurora (star/constellation connection), any B-touched PC.
 
-### C3 — GENASI ORIGIN
-**Beat**: Genasi are not just "children of thresholds" or planar-touched mortals. They carry more of B's essence than any other mortal race. Elemental convergence theory: when B's essence scattered, it concentrated in elemental nexuses, and Genasi are born where those nexuses touch the Material Plane. They are walking pieces of B's consciousness, filtered through elemental alignment.
-**How party learns**: Ancient pre-god texts, U.D.A.R.U.'s B-connection research (Room 5 documents may hint), or Nyra's parents' research notes — they were investigating this before they disappeared.
-**Prerequisites**: C2 (elemental affinity concept established), A2 (B's lingering will).
-**PC entry points**: Nyra (her parents disappeared investigating this), Aurora (her twin story — Polaris may have been targeted for this).
+Unlocks: BCR-02, BCR-04, BCR-06, BCR-07, BCR-08 
 
-### C4 — U.D.A.R.U.'S B-CONNECTION RESEARCH
-**Beat**: U.D.A.R.U. actively studies B-touched creatures and Genasi to understand the B-connection. Kaelyn's 20-year imprisonment was part of this research program. Her crystal heart is the most advanced B-touched manifestation U.D.A.R.U. has documented. The organization has files on other B-touched individuals they've identified — including possibly Zan and Aurora.
-**How party learns**: The sealed ViF letter at Gamma-7 discussing B-connection research, Kaelyn's personal files, or deeper U.D.A.R.U. archives discovered later.
-**Prerequisites**: B6 (U.D.A.R.U. exists), C1 (B-touched concept).
-**PC entry points**: Kaelyn (her imprisonment was U.D.A.R.U. research — run by her own family).
 
-### C5 — THE GODS HUNT B-TOUCHED
-**Beat**: The 10 gods know B-touched individuals exist and actively hunt them. A B-touched mortal is a conduit through which B's lingering will could act on the Material Plane, and a potential focal point for B's consciousness to re-form. The gods fear this above almost everything except the blackmail artifact. Divine agents have standing orders to capture or eliminate known B-touched.
-**How party learns**: A divine agent (paladin of Aurelius, cleric of Vesper) specifically targets a B-touched PC, or church documents ordering the capture of "crystal-touched heretics."
-**Prerequisites**: A3 (gods fear B's resurrection), C1 (B-touched exist).
-**PC entry points**: Any B-touched PC (Zan's Raven Queen bloodline adds complexity — she may want to protect him).
+Siblings: THM-01
 
-### C6 — RECEIVING B'S CONSCIOUSNESS
-**Beat**: B-touched individuals can, under specific conditions (ley line convergence, near massive crystal deposits, at sites of the Great Sacrifice), receive glimpses or impressions from B's scattered consciousness. These are not commands — they are fragments of memory, emotion, and intent. B does not want to be reassembled. B wants to be left scattered, because B's sacrifice was an act of defiance and B does not trust itself.
-**How party learns**: A B-touched PC experiences a vision at a power site — a ley line convergence, a massive deposit, or Weaveheart itself. The experience is personal, intimate, and ambiguous.
-**Prerequisites**: A2 (B's lingering will understood), D5 (divine magic is branding — mortals have their own power).
-**PC entry points**: All B-touched PCs — each experiences B differently (Zan: the heartbeat behind the door; Kaelyn: the crystal heart humming; Aurora: constellations rearranging; Aegon: visions shifting from Aurelius to B).
 
----
+Status: Discovered
 
-## TRACK D — False Firmament (7 Reveals)
 
-**Core question**: *Are the gods even real gods? Is divine magic a lie?*
+### BCR-02 - Crystals surgically implanted in creatures' bodies by an external hand (the Flesh Architects)
 
-**Entry points**: Sanzo's monastery (ki), Weaveheart research, deep Covenant records, Aegon's visions.
+Prerequisites: BCR-01, FA-01
 
-### D1 — FAITH AS FUEL
-**Beat**: Prayer, worship, and faith are not for spiritual salvation — they transfer arcane energy from the mortal worshipper to the god, replenishing the god's power. Every prayer whispered, every tithe offered, every hymn sung is a power transfer. The gods need worship to survive. Without enough faith, a god can disappear from reality entirely.
-**How party learns**: Deep research into the nature of divine power (Weaveheart, ancient texts), a god's power visibly faltering (a cleric's spell fails), or ViF documents that have reverse-engineered the mechanism.
-**Prerequisites**: None directly — but benefits from D7 context.
-**PC entry points**: Any — system-level theological reveal.
 
-### D2 — THE GODS DID NOT CREATE THE WORLD
-**Beat**: The pantheon's creation myth — the 10 gods shaping the world, planes, and life in sequence — is a complete fabrication. No god created the world. No god created the planes. No god created mortal races. The Originals (A, B, C) did all of this, and the gods inherited it.
-**How party learns**: Cross-referencing Covenant records with ancient pre-god sites (standing stones, pre-invasion ruins). The foundation of all religious authority is a lie.
-**Prerequisites**: None directly — the standing stones at Session 3 hint at pre-god worship.
-**PC entry points**: Any — paradigm-shifting reveal.
+Unlocks: BCR-03, BCR-04
 
-### D3 — GODS ARE A/C FRAGMENTS
-**Beat**: The 10 gods are not original beings. They were created when A and C subdivided themselves into smaller entities after B's sacrifice. The gods are fragments of the two Originals who wanted genocide. They are not the top of the hierarchy — they are middle management between the Originals and mortals.
-**How party learns**: Deepest lore — Weaveheart archives, Underdark texts, or Shadowfell records. A theology-shattering discovery.
-**Prerequisites**: D2 (must know gods didn't create anything), E1-E3 (must know about A, C, and the Divine Conspiracy).
-**PC entry points**: Any — cosmic scale reveal.
 
-### D4 — THE TRUE ORIGIN OF RACES
-**Beat**: No god created any mortal race. All mortal races were created by the Originals (A, B, C). The gods' "creation claims" are lies. Additionally, three races — Drow, Shadow Elves (Shadar-kai), and Tieflings — are unintended byproducts of the Crimson Covenant's Project Genesis: experiments using Khar'zul's demonic essence grafted onto mortal captives. Elven leadership knew and surrendered their own people.
-**How party learns**: Kaelyn's U.D.A.R.U. archives or deep Covenant records. Eryx's proof (Odessa's arc) links elven leadership surrender.
-**Prerequisites**: D2 (gods didn't create anything), B4/B6 (Covenant/U.D.A.R.U. context).
-**PC entry points**: Kaelyn (Drow origin), Odessa (elven leadership surrender — personal family history), Zan (Shadow Elf), Aurora's twin Polaris (turned Tiefling).
+Siblings: FA-01
 
-### D5 — DIVINE MAGIC IS BRANDING
-**Beat**: "Divine magic" is the mortal manipulating the Weave themselves. The god adds their arcane signature to the spell, making it feel divine, then claims credit. The mortal already had the power. The process: mortal's inner arcane spark → manipulates the Weave → spell takes shape → god adds signature → god claims credit. The mortal could access magic without the god at any time.
-**How party learns**: Independent experiments separating divine magic from the god (Weaveheart research), Ki demonstration (Sanzo's monastery), or a god's blessing visibly failing when the mortal's faith wavers — proving the mortal, not the god, is the source.
-**Prerequisites**: D2 (gods are not creators — they have limited actual power).
-**PC entry points**: Sanzo (Ki is proof — if Sanzo is present), any divine caster in the party (their own powers come from themselves).
 
-### D6 — KI AS INDEPENDENT PROOF
-**Beat**: Ki is the ability to harness the inner arcane spark without external components, without Weave manipulation, and without divine intermediaries. Monasteries teach that Ki comes from within — proof that the divine magic system is a lie. Monks have been accessing magic independently for centuries without knowing they're proving the gods wrong.
-**How party learns**: Sanzo's monastery, a monk NPC demonstrating Ki, or Weaveheart research comparing Ki to divine magic. Sanzo's personal experience becomes evidence.
-**Prerequisites**: D5 (must know divine magic is branding — Ki provides independent corroboration).
-**PC entry points**: Sanzo (his entire class feature is evidence), any PC who visits a monastery.
+Status: Discovered
 
-### D7 — POWER DEPLETION AND GOD DISAPPEARANCE
-**Beat**: Each god received a vast but limited amount of power when A/C subdivided. This power depletes as the gods use it to create, transform, and destroy. Worship restores it — but not infinitely. If a god's power drops too low, they can disappear from reality entirely. The False Firmament is not just a lie for control — it is a survival mechanism. The gods are desperate.
-**How party learns**: A god's power visibly waning (a temple's magic fails, a cleric can't cast above a certain level, a god's voice grows faint), or deep ViF records calculating divine power curves.
-**Prerequisites**: D1 (faith as fuel — must understand the mechanism), D3 (gods are A/C fragments — limited starting power).
-**PC entry points**: Any — the gods become sympathetically vulnerable.
+### BCR-03 - Some creatures self-inflict the crystals - driven by an internal urge they don't understand (the hoarding instinct)
 
----
+Prerequisites: BCR-02, BCR-04
 
-## TRACK E — Originals & Divine Conspiracy (5 Reveals)
 
-**Core question**: *What really happened before the gods? Who caused the monster invasion?*
+Unlocks: BCR-05
 
-**Entry points**: Deepest research, Aegon's visions, Covenant's own documentation, the blackmail artifact's existence.
 
-### E1 — THE PLANAR PACT
-**Beat**: The monster invasion was not a natural disaster or divine punishment. It was a planned, coordinated invasion. ~400 years ago, the gods made pacts with four planes — the Abyss, the Nine Hells, the Shadowfell, and the Feywild — to open planar breaches and unleash monsters upon Kythoria. The gods negotiated personally: Vorn with the Nine Hells, Lolth with the Abyss, Aloria with the Feywild, the Raven Queen with the Shadowfell. The other six approved.
-**How party learns**: Evidence at a sealed breach site, recovered historical records that contradict the public story, or Covenant documentation that names the planar pacts.
-**Prerequisites**: None directly — available mid-campaign.
-**PC entry points**: Any — invasion is the campaign's inciting event.
+Siblings: -
 
-### E2 — ALL 10 GODS APPROVED
-**Beat**: Every single one of the 10 gods knew about and approved the monster invasion. Not one dissented. Not one warned mortals. The invasion was a planned genocide by unanimous divine vote.
-**How party learns**: Same source as E1 — the full list of divine signatures on the planning documents. Or a captured divine agent's confession.
-**Prerequisites**: E1 (must know it was planned — the approval is the next layer).
-**PC entry points**: Any — the biggest theological betrayal.
 
-### E3 — THE THREE SCAPEGOATS
-**Beat**: Lolth, the Raven Queen, and Vorn are not the villains. They were framed as the cause — made scapegoats to absorb public rage while secretly coordinating with the other seven gods. They still operate, still receive worship in shadows, and still sit at the divine table. The "banned" status is theater designed to deepen the deception.
-**How party learns**: Evidence that "enemy" churches coordinate, a banned god's temple operating with protection from the other seven, or Vaora's true nature (if she exists).
-**Prerequisites**: E2 (must know all 10 approved — identifying the scapegoats requires knowing none opposed).
-**PC entry points**: Zan (Raven Queen bloodline — personal connection), any PC interacting with underworld temples.
+Status: Unknown to Party
 
-### E4 — A AND C'S ORIGINAL INTENT
-**Beat**: B's sacrifice gave mortals magic. This act offset the balance of reality — for the first time, power existed beyond A and C's control. A and C's response: destroy mortals. The Divine Conspiracy — the monster invasion — was their solution. The gods are fragments of A and C, carrying this original intent. B sacrificed itself not as a gift, but as an act of defiance.
-**How party learns**: Deepest lore — Weaveheart archives, Underdark texts, Shadowfell records, or direct communication with B's consciousness. The Originals' original conflict is the bedrock truth.
-**Prerequisites**: D3 (gods are A/C fragments), F5 (glimpse of B — B's perspective is needed for this beat).
-**PC entry points**: Aegon (visions shifting to B — may witness this), any PC accessing the deepest lore.
+### BCR-04 - The crystals cause uncontrollable hoarding syndrome - a compulsive pull toward CMGMI (Currency Metals, Gemstones, and Magical Items)
 
-### E5 — THE GREAT SACRIFICE AS DEFIANCE
-**Beat**: B's Great Sacrifice was not an accident, not a gift, not a mistake. It was a deliberate act of defiance. B knew that by shattering its essence and distributing it across all mortal life, it would give mortals the tools to resist A and C. The Weave, CMGMI, the arcane spark — all of it is B's legacy. B did not want to be a god. B wanted mortals to have the power that gods hoarded. B's lingering consciousness does not want to be resurrected — it wants mortals to be free.
-**How party learns**: Direct communication with B's consciousness at a ley line convergence or massive crystal deposit. A B-touched PC receives B's memory of the sacrifice. The truth reframes everything.
-**Prerequisites**: E4 (A and C wanted genocide — B's sacrifice was in response), F5 (glimpse of B).
-**PC entry points**: All B-touched PCs — each may receive a different fragment of this memory.
+Prerequisites: BCR-01
 
----
 
-## TRACK F — CMGMI, Resurrection & Endgame (6 Reveals)
+Unlocks: BCR-03, BCR-05
 
-**Core question**: *What is the endgame? Can Entity B come back?*
 
-**Entry points**: Economic observations, Weaveheart research, B-crystal lore, deep Covenant/Architects documents.
+Siblings: BBS-06
 
-### F1 — CMGMI ARE B'S BODY
-**Beat**: Currency metals, gemstones, and magical items are not just resources — they are fragments of B's physical remains. Every gold coin, every diamond, every +1 sword is a piece of a dead primordial being. When mortals trade, hoard, spend, and enchant, they are handling B's scattered body.
-**How party learns**: Weaveheart scholar (Asterion?), ancient texts, or Aegon's visions showing the connection. The economic implications are staggering — every treasury is a burial ground.
-**Prerequisites**: A2 (B's lingering will understood — this is the physical counterpart).
-**PC entry points**: Aegon (visions may show this), Aurora (constellations may map the connection).
 
-### F2 — MAGIC FUELED BY CMGMI
-**Beat**: Every spell cast consumes trace amounts of CMGMI. The material components of spells — diamond dust for Raise Dead, ruby for Forcecage, gold dust for Identify — are fuel, not just traditional components. Magic is powered by consuming B's physical remains. The Weave provides the field; CMGMI provides the energy.
-**How party learns**: Arcane research showing component consumption correlates with spell power, or Covenant research documents on "arcane fuel efficiency." A subtle, almost philosophical reveal.
-**Prerequisites**: A2 (A lingering will — B-relevance), F1 (CMGMI are B's body).
-**PC entry points**: Any arcane caster.
+Status: Unknown to Party
 
-### F3 — THE THREE ENERGY SOURCES
-**Beat**: Magic operates on three energy sources: (1) the Internal Arcane Spark — every living being's innate connection to B's essence; (2) the Weave — the ambient arcane field, B's scattered consciousness; (3) CMGMI — B's physical remains as fuel. Spark + Weave + Fuel = Magic. Remove any one, and magic fails.
-**How party learns**: Weaveheart's foundational research, or a Covenant theologist's treatise on "the architecture of mortal magic."
-**Prerequisites**: F2 (CMGMI as fuel), D5 (divine magic is branding — the mortal's spark is the source).
-**PC entry points**: Any — system-level magic reveal.
+### BCR-05 - The crystals carry a lingering will - a fragment of consciousness, a pull toward riches and magic
 
-### F4 — B RESURRECTION MECHANICS
-**Beat**: B's scattered essence can, in theory, be recollected. The mechanism: gather enough CMGMI in a single location, channel ambient Weave energy through it at a ley line convergence, and use a B-touched mortal as a focal point. The Weave collapses inward, B's consciousness re-forms, and B returns. The cost: all mortal magic ends, because the Weave is B's body and if B reassembles, the field collapses. The Covenant and Architects pursue this — the Covenant for the power vacuum it creates, the Architects for transcendence.
-**How party learns**: Deep Covenant/Architects research documents (Gamma-7 or Primary Facility), a captured resurrection researcher's testimony, or ViF intelligence that the Covenant is approaching completion.
-**Prerequisites**: A3 (gods fear B's resurrection), F3 (the three energy sources — prerequisite for understanding).
-**PC entry points**: Any — endgame-level reveal.
+Prerequisites: BCR-04
 
-### F5 — GLIMPSE OF B AT LEY LINES
-**Beat**: At ley line convergences or near massive crystal deposits, B's lingering consciousness can manifest. These are not full appearances — they are impressions: a heartbeat beneath the earth, a whisper of gratitude and warning, a vision of the Great Sacrifice from B's perspective. B-touched individuals experience these more intensely. B does not want to return. B wants mortals to use the power B gave them to stand free.
-**How party learns**: A B-touched PC experiences B at a ley line — the party sees it through their reaction. The experience is deeply personal and cannot be replicated or documented.
-**Prerequisites**: C6 (receiving B's consciousness — B-touched gateway), A2 (B's lingering will).
-**PC entry points**: All B-touched PCs — each encounters B differently. The encounter changes their relationship to their own power.
 
-### F6 — THE ENDGAME PARADOX
-**Beat**: If B returns, all mortal magic ends — the Weave collapses into B's re-formed consciousness. No arcane casters. No divine casters (the lie is moot). No Ki. No enchantment. The Covenant doesn't care (they want raw power in the post-magic world). The Architects want it (they believe they can preserve their implants). ViF is divided (some oppose, some see it as a necessary cost). The gods fear it above all. And the party — who rely on magic — must choose: leave B scattered and keep magic, or reunite B and lose everything. There may be a third option.
-**How party learns**: The logic becomes inescapable once F4 (resurrection mechanics) and F5 (B's own will not to return) are understood. The choice crystallizes through the campaign's endgame.
-**Prerequisites**: F4 (resurrection mechanics), F5 (B's perspective), E5 (B's sacrifice was defiance — resurrection would undo B's choice).
-**PC entry points**: All — the campaign-defining choice.
+Unlocks: BCR-06, BCR-07, BTG-01
+
+
+Siblings: BBS-01, BBS-07
+
+
+Status: Unknown to Party
+
+### BCR-06 - The crystals' arcane signature feels simultaneously new and ancient - a paradox that suggests both recent formation and primordial origin
+
+Prerequisites: BCR-05
+
+
+Unlocks: -
+
+
+Siblings: THM-01
+
+
+Status: Discovered
+
+### BCR-07 - The gods want crystals destroyed - they actively work against crystal-bearing creatures and large hoards
+
+Prerequisites: BCR-05
+
+
+Unlocks: CON-01, CON-06
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### BCR-08 - Arcane-reactive crystals are found in specific locations, often near ley line convergences
+
+Prerequisites: -
+
+
+Unlocks: BCR-02, BCR-04, BCR-06
+
+
+Siblings: THM-01
+
+
+Status: Unknown to Party
+
+--- 
+
+## 3 - Flesh Architects
+(Prefix: FA)
+
+### FA-01 - The Flesh Architects experimented on humans and beasts with B-crystals, studying monster physiology and crystal integration
+
+Prerequisites: BCR-01
+
+
+Unlocks: FA-02, BCR-02
+
+
+Siblings: THM-02
+
+
+Status: Started to discover
+
+### FA-02 - Prolonged exposure to B-crystals has corrupted the Flesh Architects - they feel the hoarding pull more intensely than others and have become increasingly erratic and extreme in their research
+
+Prerequisites: FA-01, BCR-04
+
+
+Unlocks: VIF-01
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### FA-03 - The Flesh Architects are a member of Veritas in Fractum (ViF) - they are not a sub-division of the Covenant but an independent founding member
+
+Prerequisites: FA-01, VIF-01
+
+
+Unlocks: VIF-02
+
+
+Siblings: CC-01, UDA-01
+
+
+Status: Unknown to Party
 
 ---
 
-## INTER-TRACK DEPENDENCY MAP (Full Graph)
+## 4 - ViF
+(Prefix: VIF)
 
-```
-A1: Hoarding Connection
-├── A2: Lingering Will (needs A1)
-│   ├── A3: Divine Cold War (needs A2)
-│   └── C1: B-Touched Exist (needs A1)
-│       ├── C2: Elemental Affinity (needs C1)
-│       │   └── C3: Genasi Origin (needs C2 + A2)
-│       │       └── C4: U.D.A.R.U. Research (needs C1 + B6)
-│       ├── C5: Gods Hunt B-Touched (needs C1 + A3)
-│       └── C6: Receiving B's Consciousness (needs C1 + A2 + D5)
-│
-B1: Three Curves Symbol
-└── B2: Gamma-7 Operators (needs B1)
-    └── B3: ViF Exists (needs B2)
-        ├── B4: Covenant Founding (needs B3)
-        │   ├── B10: Covenant Doesn't Worship (needs B4)
-        │   │   └── B11: Project Genesis/Balor (needs B10)
-        │   └── B14: ViF Core Objective (needs B4-B7 + B8 + B12)
-        ├── B5: Architects Independence (needs B3)
-        ├── B6: U.D.A.R.U. (needs B3)
-        ├── B7: Romeo Family (needs B3)
-        └── B8: Convocation (needs B3 + B4-B7 [3+ known])
-            ├── B9: Blackmail Artifact (needs B8 + E2)
-            └── B12: Three Unseated (needs B8)
-                └── B13: Symbol Decoded (needs B8 + E1-E5)
+### VIF-01 - Veritas in Fractum (ViF) - "Truth in Fragments" - is a secret coalition founded by First Alliance scholars who discovered the truth about the gods. The Three Curves is their symbol.
 
-D1: Faith as Fuel
-├── D2: Gods Didn't Create (no prereq — early hint at standing stones)
-│   ├── D3: Gods are A/C Fragments (needs D2 + E1-E3)
-│   │   ├── D4: True Origin of Races (needs D2 + B4/B6)
-│   │   ├── D5: Divine Magic is Branding (needs D2)
-│   │   │   ├── D6: Ki as Proof (needs D5)
-│   │   │   └── C6: Receiving B (needs D5 + C1 + A2)
-│   │   └── D7: Power Depletion (needs D1 + D3)
+Prerequisites: FA-03 or THM-02
 
-E1: Planar Pact
-├── E2: All 10 Approved (needs E1)
-│   ├── E3: Three Scapegoats (needs E2)
-│   └── B9: Blackmail Artifact (needs E2 + B8)
-├── E4: A/C's Original Intent (needs D3 + F5)
-│   └── E5: Great Sacrifice as Defiance (needs E4 + F5)
 
-F1: CMGMI are B's Body (needs A2)
-├── F2: Magic Fueled by CMGMI (needs A2 + F1)
-│   └── F3: Three Energy Sources (needs F2 + D5)
-│       └── F4: Resurrection Mechanics (needs F3 + A3)
-│           ├── F5: Glimpse of B (needs F4 + C6 + A2)
-│           │   ├── E4: A/C Intent (needs F5 + D3)
-│           │   └── F6: Endgame Paradox (needs F4 + F5 + E5)
-│           └── F6: Endgame Paradox (needs F4 + F5 + E5)
-```
+Unlocks: VIF-02, VIF-03, FA-03
 
----
 
-# PART 3: ARC SCAFFOLDING
+Siblings: FA-03, CC-01
 
-This section defines the structural framework for all campaign arcs. An arc is a multi-session story segment with a defined start, middle, and end. Each arc is driven by a combination of PC backstory threads, conspiracy layer reveals, and world events.
 
----
+Status: Unknown to Party - planned discovery of ViF (not full name) in Gamma-7
+### VIF-02 - ViF is governed by the Convocation of Fragments - one representative per member organization, 7 seats total. Decisions require consensus.
 
-### 3.1 Arc Overview Table
+Prerequisites: VIF-01
 
-| Arc | Name | Levels | Primary Focus | Conspiracy Tracks | PC Spotlights | Status |
-|-----|------|--------|---------------|-------------------|---------------|--------|
-| **1** | The Flesh of Gamma-7 | 4 | Gamma-7 exploration, ViF discovery | A1, B1-B3, B6 | Zan, Kaelyn | **Prepped, not played** |
-| **2** | Lycanthropy & Weaveheart | 4-5 | Cure quest, introduction to civilization | A1, D1-D2 | Kaelyn, Zan, Balor | Not built |
-| **3** | Bardolemeu's Family | 5-6 | Romeo family connection, viF intelligence | B7, B4 | Bardolemeu | Not built |
-| **4** | Aegon's Visions | 5-6 | Aurelius vs B, Paul's murder | C1, C6, E1 | Aegon | Not built |
-| **5** | Balor's Heritage | 6-7 | Project Genesis, Covenant pursuit | B10-B11, B4 | Balor | Not built |
-| **6** | Nyra's Elementals | 6-7 | Elemental convergence, parents' disappearance | C2-C3, F1 | Nyra | Not built |
-| **7** | Odessa's Return | 7-8 | Eryx's proof, elven surrender | D4, B4 | Odessa | Not built |
-| **8** | Aurora's Twin | 7-8 | Polaris, Covenant Tiefling experiments | C4-C5, B6 | Aurora | Not built |
-| **9** | The Primary Facility | 8-9 | Covenant main base, Catalyst Project | B5, B9, F2 | Zan, Kaelyn, Balor | Not built |
-| **10** | The Truth Unveiled | 9-10 | Deep lore arc — Originals, Divine Conspiracy | D3-D7, E1-E5, F3-F6 | All | Not built |
 
-> **Note**: Arcs 2-10 are structural outlines, not session-specific prep. Each will be fully prepped when the party approaches that content. The 2-Session Spotlight Rule (3.2) determines pacing.
+Unlocks: VIF-05, VIF-06
 
----
 
-### 3.2 PC Spotlight Schedule & 2-Session Spotlight Rule
+Siblings: -
 
-**2-Session Spotlight Rule**: Each PC arc receives exactly two consecutive sessions of primary focus, after which the spotlight rotates. This ensures every player gets meaningful screen time without any character dominating the narrative for extended periods.
 
-The spotlight schedule below shows the **primary** PC focus per arc. Secondary threads for other PCs are woven through each arc as sub-plots.
+Status: Unknown to Party
 
-| Arc | Sessions | Spotlight PCs | Secondary Threads |
-|-----|----------|---------------|-------------------|
-| **1** Gamma-7 | 2-3 | Zan, Kaelyn | Balor (blade), Bardolemeu (family hooks), Nyra (constant questions about elemental stuff), Aegon (visions — though absent) |
-| **2** Lycanthropy | 2 | Kaelyn, Zan, Balor | All (shared condition), Nyra (elemental cure component?), Bardolemeu (connections in Weaveheart) |
-| **3** Romeo Family | 2 | Bardolemeu | Zan (Raven Queen lead?), Kaelyn (ViF context) |
-| **4** Aegon's Visions | 2 | Aegon | Aurora (twin connection — both touched by gods), Kaelyn (B-crystal heart vs visions) |
-| **5** Balor's Heritage | 2 | Balor | Zan (Flesh Architects parallel), Kaelyn (both were experiments), Bardolemeu (family intel) |
-| **6** Nyra's Elementals | 2 | Nyra | Aurora (elemental plane connection), Kaelyn (research methodology) |
-| **7** Odessa's Return | 2 | Odessa | Balor (Covenant enemies), all (elven leadership revelation affects everyone) |
-| **8** Aurora's Twin | 2 | Aurora | Zan (both subjects of experiments), Kaelyn (U.D.A.R.U. — similar captivity), Bardolemeu (Covenant intelligence) |
-| **9** Primary Facility | 2 | Zan, Kaelyn, Balor | All (main plot climax) |
-| **10** The Truth Unveiled | 3-4 | All | N/A — campaign culmination |
+### VIF-03 - The Three Curves symbol represents ViF: three arcs for A, B, and C (the three Originals); seven dots for the seven member organizations (three connected for founding members, four separate for later joiners). The broken curve is .
 
-### Spotlight Rotation Principles
-1. **Two consecutive sessions** per primary PC arc focus.
-2. During those two sessions, 60-70% of narrative beats connect to the spotlight PC's thread.
-3. The remaining 30-40% advance other PCs' sub-threads and the main conspiracy timeline.
-4. After the two spotlight sessions, that PC's arc reaches a milestone (not necessarily a conclusion — threads continue).
-5. If a spotlight PC's player is absent, swap with the next scheduled PC and maintain the rotation.
-6. Odessa and Sanzo: When absent, their threads advance off-screen. When present, they receive focused catch-up beats.
+Prerequisites: VIF-01, ORG-01
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### VIF-04 - ViF has continent-wide political, social and economic influence through the Romeo family's intelligence network
+
+Prerequisites: VIF-01, ROM-02
+
+
+Unlocks: -
+
+
+Siblings: ROM-01, ROM-02
+
+
+Status: Unknown to Party
+
+### VIF-05 - ViF created a blackmail device that broadcasts the truth about the Divine Conspiracy to all mortals if not reset daily - this stops the gods from destroying ViF. All 7 Convocation representatives have access and must perform a daily reset.
+
+Prerequisites: VIF-02, CON-02
+
+
+Unlocks: VIF-06
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### VIF-06 - Each ViF member has its own incompatible post-gods vision - the coalition will shatter when the gods fall
+
+Prerequisites: VIF-02, VIF-05
+
+
+Unlocks: -
+
+
+Siblings: CC-04, ROM-04, UDA-05
+
+
+Status: Unknown to Party
 
 ---
 
-### 3.3 Monster Wave Timing Matrix
+## 5 - The Originals (A, B, C)
+(Prefix: ORG)
 
-Monster army activity escalates based on party actions and world events. The party can accelerate, delay, or redirect outcomes.
+### ORG-01 - At the beginning there were three primordial entities - simply called A, B, and C. Together they created everything that exists.
 
-**Baseline Timeline** (if party does nothing):
+Prerequisites: -
 
-| Campaign Timeline | Monster Behavior | Impulse Driver |
-|------------------|------------------|----------------|
-| **Session 3** (Gamma-7) | Monster army pushback: 3 days remaining. 7th cohort shows hoarding behavior. No visible coordination yet. | Goblins hoard supplies; hobgoblin chain of command eroding. |
-| **After Arc 1** | Frontier villages report coordinated raids — not scattered attacks. Monsters target CMGMI specifically. | B-crystal influence reaches Stage 2 (Coordinated raids) in the frontier. |
-| **After Arc 2-3** | Town-level sieges begin. The Last Stand mobilizes defensive forces. Trade routes disrupted. | Influence reaches Stage 3 (Settlement sieges) in frontier regions. |
-| **After Arc 4-5** | Capital cities face pressure. Emberforge, Weaveheart, Skywatch all report monster concentrations near walls. | Influence approaches Stage 4 (Capital-scale invasion) if unchecked. |
-| **After Arc 6-7** | One capital falls to coordinated assault (which one depends on party choices). | Stage 4 partially triggered — limited to one target. |
-| **After Arc 8-9** | Multiple capitals under siege. The Council Accord fractures under hoarding influence. | Stage 4 fully triggered if party hasn't actively counter-pressured. |
-| **Arc 10** | Endgame: the monster army becomes background to the cosmic conflict. | The invasion is a symptom, not the root cause. |
 
-**Acceleration Factors** (each event moves the timeline forward by one position):
-- Party destroys B-crystal deposits without containing the energy (disperses into Weave)
-- Party leaves monster nests intact after clearing them
-- Covenant successfully opens a new crystal mine
-- A major CMGMI hoard is moved rather than scattered
-- A PC with active crystal influence grows significantly stronger
+Unlocks: ORG-02, ORG-04
 
-**Deceleration Factors** (each event moves the timeline back by one position or stalls progression):
-- Party destroys B-crystals AND contains the energy scatter
-- Party clears monster nests and scatters hoards properly
-- Party disrupts Covenant crystal operations (Gamma-7 documents help identify supply routes)
-- Party uses wealth redistribution (high impact, costs treasure)
-- Party develops or acquires a regional countermeasure
 
----
+Siblings: VIF-03
 
-### 3.4 Gamma-7 Three-Way Collision
 
-Session 3's defining structural tension: three factions converge on Gamma-7 simultaneously.
+Status: Unknown to Party
 
-| Faction | Objective | Awareness of Others | Entry Method | Exit Goal |
-|---------|-----------|-------------------|--------------|-----------|
-| **The Party** | Explore Gamma-7, uncover ViF secrets, find Zan/Kaelyn connections | Know Thormvuld may come (FX warning). Unaware of Covenant interest. | Hidden mechanism (Method B) or rubble (Method A) | Escape with documents, avoid or defeat Thormvuld |
-| **Thormvuld Force** (Lord Keylor + 4 veterans + 1 arcane advisor) | Destroy evidence, recover specific documents, eliminate witnesses | Expect empty facility. Unaware of party's presence initially. | Hidden mechanism (they know the code) | Burn facility, depart within 45-60 min |
-| **Covenant / Flesh Architects** (optional — triggered if party triggers alarm or spends too long) | Recover Subject 242 data, seize crystal samples, eliminate party | Aware of Thormvuld movement. May arrive during or after. | Unknown — may have secondary entrance | Secure Zan's data, capture or eliminate party |
+### ORG-02 - A and C came to believe creation was flawed. They wanted to destroy all mortal species and start over - free will was unacceptable to them. B disagreed but was outnumbered.
 
-**Collision Sequence** (default — party can alter by triggering earlier/later):
+Prerequisites: ORG-01
 
-1. Party enters Gamma-7 (Method A, B, or C)
-2. Party explores Rooms 1-4
-3. Party reaches Room 5 (Records Office) — finds key documents
-4. **Thormvuld arrives** at facility entrance (heard via vibration/footsteps)
-5. Thormvuld sweeps Room 1, heads underground
-6. Party and Thormvuld meet in corridor or Room 5
-7. **Three options**: (a) Combat, (b) Negotiation/Deception, (c) Stealth/Escape
-8. Resolution determines what documents the party keeps and whether Thormvuld pursues them back to Stonefall
 
-**If party triggers an alarm or spends excessive time**: Covenant/Flesh Architects response team arrives within 2 hours after Thormvuld, creating a second-wave crisis that complicates escape.
+Unlocks: ORG-03, BBS-01
 
----
 
-### 3.5 Hook State Table
+Siblings: -
 
-Tracks all active and pending quest hooks. Updated after each session.
 
-| Hook | Source | Status | PC Connection | Priority | Reward | Expiry |
-|------|--------|--------|---------------|----------|--------|--------|
-| **Investigate Gamma-7** | FX, Stonefall | **Active** | Zan, Kaelyn (primary), all (main plot) | ⭐ Main | ViF intel, Zan/Kaelyn backstory | Must be completed before monster pushback (~3 days) |
-| **Lycanthropy Cure** | Crystal wolf bites | **Active** | Kaelyn, Zan, Balor (infected), all (affected) | ⭐ Urgent | Cure, Weaveheart introduction | Full moon ~4 days |
-| **Find Aegon** | Aegon's departure | **Active** | Aegon (absent), all (party cohesion) | Medium | Reunited party | None (but worsens each session) |
-| **Standing Stones Visit** | FX's map | **Active** | All (general) | Low | Bone token boon | None |
-| **Wolf Hideout Investigation** | Homestead aftermath | **Inactive** | All (general) | Low | Stash, shackle-band clue | None |
-| **Khar'zul's Blade Progression** | Session 2 unlock | **Ongoing** | Balor | ⭐ Main | Power (Stage 2+) | Ongoing — no timer |
-| **Bardolemeu's Mentor Note** | Session 1/2 | **Pending** | Bardolemeu | Medium | Family intel | None |
-| **Balor's Mother's Cache** | Balor's backstory | **Pending** | Balor | Medium | Backstory reveal | None |
-| **Odessa's Proof of Surrender** | Eryx, family lore | **Dormant** | Odessa (absent) | High | Elven leadership war crime proof | None — but requires Odessa's presence |
-| **Aurora's Twin (Polaris)** | Aurora's backstory | **Dormant** | Aurora (player hasn't activated) | High | Personal arc trigger | None — but active searching required |
-| **Nyra's Elemental Crystals** | Nyra's quest | **Dormant** | Nyra | High | Elemental convergence, parents' fate | None — but active searching required |
-| **Sanzo's Monastery** | Sanzo's backstory | **Dormant** | Sanzo (absent) | Medium | Ki lore, divine magic truth | None |
-| **Aegon's Visions (Aurelius)** | Session 2 communion | **Ongoing** | Aegon (absent) | ⭐ Main | Divine conspiracy entry | Vision may fade |
-| **Covenant Necklace (Balor)** | Session 1 purchase | **Dormant** | Balor (player chose to keep it) | ⭐ Main | Covenant tracking, arc trigger | Activates when Covenant arrives |
-| **Kaelyn's Thormvuld Book** | Session 1 vault heist | **Pending** | Kaelyn (with FX for decoding) | Medium | Backstory reveal | FX decoding time |
+Status: Unknown to Party
+
+### ORG-03 - B sacrificed itself - the Great Sacrifice - shattering its essence across all creation to give mortals independent access to magic and a fighting chance against A and C.
+
+Prerequisites: ORG-02
+
+
+Unlocks: ORG-04, BBS-02, BBS-04
+
+
+Siblings: BBS-01
+
+
+Status: Unknown to Party
+
+### ORG-04 - After B's sacrifice, A and C subdivided themselves into lesser celestial beings - what would become the 10 gods. The gods carry A and C's original intent to destroy mortals.
+
+Prerequisites: ORG-03
+
+
+Unlocks: TRU-01
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+### ORG-05- Along with it's sacrifice, B also placed a protective effect on all planes that stoped any intervention coming from an Original power souce
+
+Prerequisites: O3-023
+
+
+Unlocks: ORG-04, BBS-02, BBS-04
+
+
+Siblings: BBS-01
+
+
+Status: Unknown to Party
+
 
 ---
 
-### 3.6 Travel & Encounter Design Framework
+## 6 - Crimson Covenant
+(Prefix: CC)
 
-Travel between locations uses a **pressure-based encounter system**, not random tables:
+### CC-01 - The Crimson Covenant is a founding member of ViF - not the leader, not the creator, but one of three equal founding organizations. It is ViF's primary action arm.
 
-1. **Set the distance**: Determine travel time in days (base pace)
-2. **Set the pressure**: Check current monster wave stage + party's active conditions (lycanthropy, B-crystal exposure)
-3. **Roll d8 once per travel day** (Session 3 table or modified version)
-4. **Faction encounters**: If traveling through territory controlled by Covenant, Thormvuld, or divine agents, include one faction encounter per 3 days of travel
-5. **Environmental beats**: Standing stones, mutated terrain, pre-invasion ruins — include at least one atmospheric/exploration beat per long journey
+Prerequisites: VIF-01
 
-**Terrain Types** (Kythoria):
 
-| Terrain | Travel Speed | Encounter Frequency | Notable Locations |
-|---------|-------------|-------------------|-------------------|
-| Frontier grasslands | Normal | Moderate (d8/day) | Gamma-7, Standing Stones, abandoned homesteads |
-| Hilly/mountain passes | Slow (×0.75) | High (d6/day) | Emberforge, Frostmaw, Kazadur |
-| Forests | Normal | Moderate | Underdark Forest, Verdant Reaches, Everquill |
-| Urban/settled | Fast (×1.25) | Low | Weaveheart, Skywatch, Stonefall |
-| Ruins/abandoned zones | Slow (×0.5) | Very High | Azure Boneyard, Gamma-7 region |
-| Coastline | Normal | Moderate | Eastern Port, Southeastern Port |
+Unlocks: CC-02, CC-03
 
----
 
-### 3.7 Open Decisions Queue
+Siblings: FA-03, UDA-01
 
-Decisions requiring user/GM input before the campaign progresses. Check before each session prep.
 
-| # | Decision | Context | Options | Urgency |
-|---|----------|---------|---------|---------|
-| 1 | **Gamma-7 threshold → Level 4** | Milestone leveling — does crossing into Gamma-7 trigger level 4? | Approve / Deny | **Pre-Session 3** |
-| 2 | **Cure for lycanthropy** | Full moon in ~4 days. The party needs a way to access the cure. | (a) Weaveheart scholar (Asterion), (b) Frontier healer (Mira Stonebrook), (c) Monastery (Sanzo connection) | **Pre-Session 3** |
-| 3 | **U.D.A.R.U. Convocation representative** | Who sits on ViF's Convocation for U.D.A.R.U.? | Lyndale? Solyn? A shadow figure? | Medium |
-| 4 | **Three unnamed ViF seats** | Three member organizations are TBD. | GM to define when narrative requires them | Low (not urgent) |
-| 5 | **Khar'zul progression — forced Warlock level** | Does Balor gain a forced Warlock level? When? How does it interact with milestone leveling? | (a) Replace next level, (b) Bonus level, (c) Delayed until stage 3 | Medium (next Balor arc) |
-| 6 | **Odessa's return timing** | When does Odessa rejoin the party? | After Gamma-7? During Weaveheart? | Low |
-| 7 | **Sanzo's return timing** | When does Sanzo rejoin? | After Gamma-7? Call from monastery? | Low |
-| 8 | **Dagger of Venom for Zan** | Zan's player expressed interest. Weapon as loot or reward. | Gamma-7 find / FX cache / future encounter | Low |
-| 9 | **+1 Heavy Crossbow for Zan** | Same as above — discussed as Gamma-7 loot possibility. | Gamma-7 loot room / Thormvuld drop | Low |
-| 10 | **Balor's medium armor** | Player expressed interest. | Gamma-7 loot / Weaveheart purchase | Low |
+Status: Unknown to Party
 
----
+### CC-02 - The Covenant performed demonic skin graft experiments using Khar'zul's essence - these experiments created three unintended species (see TOR category)
 
-### 3.8 Current Campaign State (Post-Session 2)
+Prerequisites: CC-01, KHZ-04
 
-**As of Session 2 completion**:
 
-| Element | State |
-|---------|-------|
-| Party level | 4 (gained at homestead after wolf siege) |
-| Location | Abandoned homestead (about to depart for Gamma-7) |
-| Active PCs | Zan, Kaelyn, Balor, Aurora, Nyra, Bardolemeu |
-| Absent PCs | Aegon (departed alone), Odessa (away), Sanzo (away) |
-| Key conditions | 3 lycanthropy (Kaelyn, Zan, Balor), full moon in ~4 days |
-| Known enemies | Crystal wolves, Flesh Architects (heard of), Thormvuld (expected) |
-| Known allies | FX (distant contact), healing waterskins (expired) |
-| Key items | Khar'zul's blade (Stage 2 unlocked), 3 wolf skull shards, FX provisions, sending stone |
-| Open leads | Gamma-7, standing stones, wolf hideout, FX's intel, Balor's necklace (dormant) |
-| World clock | Monster pushback in ~3 days from FX's intel |
-| Faction awareness | Thormvuld knows the party exists (heist). Covenant unaware. ViF unaware. |
+Unlocks: TOR-01
 
----
 
-# PART 4: REVELATION SCHEDULE
+Siblings: KHZ-04
 
-The revelation schedule is organized by **PC thread + Main Story**, not by layer. Each entry shows which conspiracy track(s) the beat belongs to, the method of discovery, and the dependency.
 
----
+Status: Unknown to Party
 
-### 4.1 Main Story Revelations (No Single PC Owner)
+### CC-03 - The Covenant does NOT worship Khar'zul - they study and control him, aiming to harness him as a weapon for power in a post-gods world
 
-These beats are accessible to any party member through exploration, research, or faction interaction.
+Prerequisites: CC-01
 
-| # | Beat | Track | Where/How Discovered | Depends On | Earliest Arc |
-|---|------|-------|---------------------|------------|--------------|
-| MS1 | Monsters exposed to crystals hoard CMGMI | A1 | Direct observation (crystal wolves, travel encounters) | None | **Arc 1** |
-| MS2 | Three Curves symbol found on facility markings | B1 | Gamma-7 — every door, document, equipment tag | None | **Arc 1** |
-| MS3 | Gamma-7 was Flesh Architects monster research facility | B2 | Gamma-7 — operating theater, creature pens, journal | MS2 | **Arc 1** |
-| MS4 | ViF exists — larger coalition behind the Architects | B3 | Gamma-7 — deeper records (Sealed ViF letter) | MS3 | **Arc 1** |
-| MS5 | U.D.A.R.U. is a founding ViF member — Drow research network | B6 | Gamma-7 Room 5 — sealed letter in Undercommon | MS4 | **Arc 1** |
-| MS6 | Crimson Covenant is a founding ViF member | B4 | Gamma-7 deeper records / Covenant documents | MS4 | **Arc 1-2** |
-| MS7 | Flesh Architects are independent, not Covenant sub-division | B5 | Gamma-7 documents — separate crests, separate records | MS4 | **Arc 1-2** |
-| MS8 | Convocation of Fragments — 7 members govern ViF | B8 | Deep ViF structure records | MS4, MS6-MS7 (3+ orgs known) | **Arc 2-3** |
-| MS9 | Blackmail artifact — ViF's insurance against the gods | B9 | Convocation records, defector, or assembled intel | MS8, E2 | **Arc 4-5** |
-| MS10 | Three unseated ViF seats — identities unknown | B12 | ViF records showing 7 seats, 3 masked | MS8 | **Arc 3-4** |
-| MS11 | Three Curves decoded: A, B, C + 7 dots = 7 orgs | B13 | Symbol documentation + Originals knowledge | MS8, E1-E5 | **Arc 5-6** |
-| MS12 | ViF's shared goal and fatal tension | B14 | Full ViF charter — incompatible endgames | MS4-MS7, MS8 | **Arc 5-6** |
-| MS13 | Faith is power transfer — worship fuels gods | D1 | Weaveheart research / ancient texts | None | **Arc 2** |
-| MS14 | Gods didn't create the world | D2 | Standing stones (Session 3) / ancient pre-god sites | None | **Arc 1-2** |
-| MS15 | Gods are fragments of A and C | D3 | Deepest lore — Weaveheart, Underdark, Shadowfell | MS14, E1-E3 | **Arc 5-6** |
-| MS16 | Divine magic is branding — mortal is the source | D5 | Independent experiments / Ki demonstration | MS14 | **Arc 3-4** |
-| MS17 | Ki is proof — mortals can access magic without gods | D6 | Sanzo's monastery / Monk NPC | MS16 | **Arc 4-5** |
-| MS18 | Gods' power depletes — they can disappear | D7 | Divine power faltering / ViF power curve records | MS13, MS15 | **Arc 5-6** |
-| MS19 | Monster invasion was planned — planar pact | E1 | Sealed breach site / Covenant docs | None | **Arc 2-3** |
-| MS20 | All 10 gods approved the invasion | E2 | Planning documents with all divine signatures | MS19 | **Arc 3-4** |
-| MS21 | Lolth, Raven Queen, Vorn are scapegoats — they still coordinate | E3 | "Enemy" churches coordinating / temple evidence | MS20 | **Arc 4-5** |
-| MS22 | A and C wanted to destroy mortals after B's sacrifice | E4 | Deepest archives — Underdark, Shadowfell | MS15, F5 | **Arc 6-7** |
-| MS23 | B's sacrifice was defiance, not a gift | E5 | Direct B contact / B-touched vision at ley line | MS22, F5 | **Arc 7-8** |
-| MS24 | CMGMI are B's physical remains | F1 | Weaveheart research / Aegon's visions | A2 | **Arc 3-4** |
-| MS25 | Magic consumes CMGMI as fuel | F2 | Arcane efficiency research / Covenant docs | A2, MS24 | **Arc 4-5** |
-| MS26 | Three energy sources: Spark + Weave + CMGMI = Magic | F3 | Weaveheart foundational research | MS25, MS16 | **Arc 5-6** |
-| MS27 | B resurrection mechanics — Weave collapses into B | F4 | Covenant/Architects research documents | MS26, A3 | **Arc 6-7** |
-| MS28 | Glimpse of B at ley lines — B doesn't want to return | F5 | B-touched PC at ley line convergence | MS27, C6 | **Arc 7-8** |
-| MS29 | Endgame paradox — B resurrection costs all magic | F6 | Inescapable logic once MS27-MS28 are known | MS27-MS28, MS23 | **Arc 8-9** |
+
+Unlocks: CC-04, KHZ-05
+
+
+Siblings: KHZ-05
+
+
+Status: Unknown to Party
+
+### CC-04 - The Covenant wants to bring back Khar'zul and control him - to secure power and status in the post-gods era
+
+Prerequisites: CC-03
+
+
+Unlocks: KHZ-06
+
+
+Siblings: VIF-06
+
+
+Status: Unknown to Party
+
+### CC-05 - The Covenant has an internal hierarchy: Inner Circle (5 members, identities secret), Apostles (12), Cardinals (regional control), Inquisitors, Seekers, Faithful. One Inner Circle member sits on ViF's Convocation.
+
+Prerequisites: CC-01
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### CC-06 - Balor is the Covenant's primary target - he is the culmination of Project Genesis, bred as a vessel for Khar'zul's essence
+
+Prerequisites: CC-01, KHZ-07
+
+
+Unlocks: -
+
+
+Siblings: KHZ-07
+
+
+Status: Unknown to Party
+
+### CC-07 - Elven leadership of the Last Stand provided subjects for the Covenant's experiments - they wanted improved soldiers and surrendered their own people
+
+Prerequisites: CC-02
+
+
+Unlocks: TOR-04
+
+
+Siblings: LST-03, TOR-04
+
+
+Status: Unknown to Party
 
 ---
 
-### 4.2 Zan's Revelation Thread
+## 7 - U.D.A.R.U.
+(Prefix: UDA)
 
-| # | Beat | Track | Where/How Discovered | Depends On | Arc |
-|---|------|-------|---------------------|------------|-----|
-| Z1 | Zan was Subject 242 — official designation in Flesh Architects system | B1-B2 | Gamma-7 Room 5 — Subject Transfer Ledger | None | **Arc 1** |
-| Z2 | Zan was scheduled for transfer TO Gamma-7 from Primary Facility | B2 | Subject Transfer Ledger — transfer order | Z1 | **Arc 1** |
-| Z3 | Agent Korvus requested Zan's transfer — named, trackable | B2 | Transfer order — requesting agent field | Z1 | **Arc 1** |
-| Z4 | The Catalyst Project was the program that flagged Zan | B2 | Research Folder referencing Catalyst Project + Subject 242 | Z1 | **Arc 1** |
-| Z5 | Zan's Shadar-kai (Shadow Elf) origin ties to Project Genesis | D4, B11 | Connection: Shadow Elves are Project Genesis byproduct | Z1, D4 | **Arc 3-4** |
-| Z6 | Zan is a bloodline descendant of the Raven Queen | E3 | Raven Queen had mortal form, offspring. Zan carries her blood. | E3 | **Arc 4-5** |
-| Z7 | The Raven Queen may know Zan exists and has subtly protected him | E3 | Raven Queen agent intervention / vision | Z6 | **Arc 5-6** |
-| Z8 | The Flesh Architects may have known Zan's bloodline when they selected him | B5 | Catalyst Project records — selection criteria | Z4, Z6 | **Arc 5-6** |
+### UDA-01 - U.D.A.R.U. (Underdark Drow Arcane Research Unit) is a Drow ViF founding member - it studies B-crystals and B-touched individuals
 
----
+Prerequisites: VIF-01
 
-### 4.3 Kaelyn's Revelation Thread
 
-| # | Beat | Track | Where/How Discovered | Depends On | Arc |
-|---|------|-------|---------------------|------------|-----|
-| K1 | Kaelyn's cell wall bore the Three Curves — she was ViF property | B1 | Gamma-7 Room 5 — ViF letter + symbol recognition at facility | None | **Arc 1** |
-| K2 | The Drow researchers who held Kaelyn were U.D.A.R.U., not random Drow | B6 | Sealed ViF letter — confirms U.D.A.R.U. as the division that held her | B6 | **Arc 1** |
-| K3 | Kaelyn was a coalition-wide specimen shared between U.D.A.R.U. and Flesh Architects | B6 | ViF letter — "integrated physiology studies under ViF's unified research mandate" | K2 | **Arc 1** |
-| K4 | U.D.A.R.U. is led by Lyndale Velkyn (Kaelyn's mother) and Solyn Velkyn (Kaelyn's twin) | B6 | U.D.A.R.U. structure document / captured researcher | K2 | **Arc 2-3** |
-| K5 | Kaelyn's 20-year imprisonment was U.D.A.R.U. research run by her own family | B6, C4 | Personal files / researcher confession | K4 | **Arc 3** |
-| K6 | Kaelyn's crystal heart is the most advanced B-touched manifestation documented | C1, C4 | U.D.A.R.U. research files — comparison data | K3, C1 | **Arc 3-4** |
-| K7 | Kaelyn has a twin sister (Solyn) who actively participated in her imprisonment | B6 | Solyn's file / direct encounter | K4 | **Arc 3-4** |
-| K8 | U.D.A.R.U.'s hidden endgame: Drow supremacy after the gods fall | B6 | U.D.A.R.U. internal documents (deep access) | K4 | **Arc 4-5** |
+Unlocks: UDA-02, UDA-03
 
----
 
-### 4.4 Balor's Revelation Thread
+Siblings: FA-03, CC-01
 
-| # | Beat | Track | Where/How Discovered | Depends On | Arc |
-|---|------|-------|---------------------|------------|-----|
-| B1 | Covenant documents reference Project Genesis — named program | B4 | Gamma-7 Research Folder | MS6 | **Arc 1-2** |
-| B2 | Balor's blade is Khar'zul's — the Covenant seeks to resurrect Khar'zul | B10 | Covenant philosophy doc / agent capture | MS6 | **Arc 2-3** |
-| B3 | The Covenant does NOT worship Khar'zul — they study and control him | B10 | Covenant philosophy document | B2 | **Arc 2-3** |
-| B4 | Balor is the culmination of Project Genesis — bred as Khar'zul's vessel | B11 | Covenant records naming Balor | B2-B3 | **Arc 3** |
-| B5 | Balor's mother was not an Apostle — she was a prisoner who escaped | B11 | Escape records / mother's hidden cache | B4 | **Arc 3-4** |
-| B6 | The "Apostle" story is a Covenant cover to track mother and child | B11 | Cross-referenced Covenant and Skallfang records | B5 | **Arc 4** |
-| B7 | The Covenant necklace is the bind — activates through Khar'zul's blade progression | B11 | Necklace activates / Khar'zul speaks through it | B4 | **Arc 3-4** |
-| B8 | Khar'zul has 5 generals — sealed or scattered, the Covenant seeks them | B11 | Covenant records / Excalidraw graph element | B2 | **Arc 4-5** |
-| B9 | Forced Warlock level (if triggered) is the Covenant's bind taking effect | B11 | Level-up trigger / in-game consequence | B7 | **Arc 3-4** |
 
----
+Status: Partially hinted (ViF letter at Gamma-7, but U.D.A.R.U. name not yet discovered)
 
-### 4.5 Bardolemeu's Revelation Thread
+### UDA-02 - U.D.A.R.U. knows Lolth did not create the Drow - this knowledge is kept from the rest of Drow society
 
-| # | Beat | Track | Where/How Discovered | Depends On | Arc |
-|---|------|-------|---------------------|------------|-----|
-| Br1 | The Romeo family has ties to ViF — intelligence network role | B7 | Bardolemeu's investigation / Midnight Troupe encounter | MS4 | **Arc 2-3** |
-| Br2 | The Romeo family is a full ViF member, not just Covenant-tied | B7 | ViF membership records | Br1 | **Arc 2-3** |
-| Br3 | The family joined later via Covenant invitation — they chose this | B7 | Family records — invitation letter | Br1 | **Arc 2-3** |
-| Br4 | Bardolemeu's uncle/mentor knows but has hidden this from him | B7 | Mentor's note / family confrontation | Br1 | **Arc 2-3** |
-| Br5 | Bardolemeu has been treated as immature sentimentalist — not trusted with the truth | B7 | Family member confession | Br2-Br3 | **Arc 3** |
-| Br6 | The Romeo family's post-gods ambition: be indispensable to everyone | B7 | Family mission statement / Convocation records | B14 | **Arc 3-4** |
+Prerequisites: UDA-01, TOR-01
 
----
 
-### 4.6 Aegon's Revelation Thread
+Unlocks: UDA-05
 
-| # | Beat | Track | Where/How Discovered | Depends On | Arc |
-|---|------|-------|---------------------|------------|-----|
-| A1 | Paul was murdered — not by the Covenant, but by the Order of the Scales | E1 | Evidence of Scales involvement / Aegon's investigation | None | **Arc 2-3** |
-| A2 | The Order of the Scales acts on Aurelius's command — a god ordered Paul's death | E1 | Church records / captured Scale confesses | A1 | **Arc 3** |
-| A3 | Aurelius spoke to Aegon to redirect him AWAY from the truth — not toward it | E1 | Contradictory visions / divine manipulation pattern | A2 | **Arc 3-4** |
-| A4 | Aegon's visions are shifting from Aurelius to B — B is calling to him | C1, C6 | Vision pattern shift — crystalline imagery replacing divine | C1 | **Arc 3-4** |
-| A5 | Paul was silenced because he was uncovering the Divine Conspiracy | E1 | Paul's research notes / hidden cache | A2 | **Arc 4** |
-| A6 | Aegon's B-touched status makes him a target of the gods AND ViF | C5 | Divine agent intervention / ViF tracking | C5, A4 | **Arc 4-5** |
 
----
+Siblings: TOR-01, TOR-03
 
-### 4.7 Odessa's Revelation Thread
 
-| # | Beat | Track | Where/How Discovered | Depends On | Arc |
-|---|------|-------|---------------------|------------|-----|
-| O1 | Valen Healoris = Odessa's biological father — a secret in her family | D4 | Eryx's evidence / family confrontation | None | **Arc 4-5** |
-| O2 | Elven leadership surrendered captives to the Covenant during the Sealing War | D4 | Eryx's proof — documentation of the surrender | D4 | **Arc 4-5** |
-| O3 | The elven leadership's surrender produced Drow and Shadow Elves as byproducts | D4 | Cross-reference: surrender docs + Project Genesis records | O2 | **Arc 5** |
-| O4 | Odessa's family line is connected to the elven leadership that surrendered | D4 | Deep family records / Eryx's complete file | O1-O2 | **Arc 5** |
-| O5 | Odessa's absence has left her thread dormant — pick up when she returns | — | — | — | **When present** |
+Status: Unknown to Party
 
----
+### UDA-03 - Kaelyn was held by U.D.A.R.U. for 20 years - she was a coalition-wide specimen shared between U.D.A.R.U. and the Flesh Architects. Her cell wall bore the Three Curves symbol.
 
-### 4.8 Aurora's Revelation Thread
+Prerequisites: UDA-01
 
-| # | Beat | Track | Where/How Discovered | Depends On | Arc |
-|---|------|-------|---------------------|------------|-----|
-| A1 | Aurora is B-touched — the constellations in her body map B's essence | C1 | Direct discovery / B-resonance testing | C1 | **Arc 2-3** |
-| A2 | Aurora's twin, Polaris, was captured by the Covenant | C4 | Covenant records / family intel | None | **Arc 3-4** |
-| A3 | Polaris was experimented on and turned into a Tiefling | D4 | Covenant Project Genesis records — demonic grafting | A2, D4 | **Arc 5** |
-| A4 | Aurora's constellations can be "read" — they contain knowledge of B's sacrifice | F1 | Deciphered constellations / Weaveheart research | A1 | **Arc 4-5** |
-| A5 | Polaris may be alive, serving the Covenant as an unwilling agent | C5 | Covenant prisoner records / encounter | A3 | **Arc 6-7** |
-| A6 | Aurora can sense Polaris through the B-connection — a bond across distance | C6 | Ley line / crystal proximity | C6, A1, A5 | **Arc 7** |
+
+Unlocks: UDA-04, UDA-06
+
+
+Siblings: -
+
+
+Status: Discovered at Gamma-7 (Session 3 planned)
+
+### UDA-04 - U.D.A.R.U. operates without Lolth's knowledge - it frames its work as serving her interests while pursuing an anti-god agenda
+
+Prerequisites: UDA-03
+
+
+Unlocks: UDA-05
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### UDA-05 - U.D.A.R.U.'s hidden endgame: kill the gods alongside ViF, then use accumulated knowledge to establish Drow supremacy over all other races. This is hidden from the rest of ViF.
+
+Prerequisites: UDA-04, VIF-06
+
+
+Unlocks: -
+
+
+Siblings: VIF-06
+
+
+Status: Unknown to Party
+
+### ### UDA-06 - U.D.A.R.U. is led by Lyndale Velkyn (Kaelyn's mother, founder) and Solyn Velkyn (Kaelyn's twin sister, co-leader). Kaelyn's imprisonment was run by her own family.
+
+Prerequisites: UDA-03
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Unknown to Party
 
 ---
 
-### 4.9 Nyra's Revelation Thread
+## 8 - Romeo Family
+(Prefix: ROM)
 
-| # | Beat | Track | Where/How Discovered | Depends On | Arc |
-|---|------|-------|---------------------|------------|-----|
-| N1 | Nyra's Air Genasi nature gives her heightened B-sensitivity | C2-C3 | Direct experience / self-discovery | C2 | **Arc 2-3** |
-| N2 | Nyra's parents were researching elemental convergence theory before disappearing | C3 | Parents' research notes / hidden cache | C3 | **Arc 3-4** |
-| N3 | Genasi carry more of B's essence than other mortal races | C3 | Deep lore research / U.D.A.R.U. files | C3 | **Arc 4** |
-| N4 | Nyra's parents didn't just disappear — they were taken by either the gods or the Covenant | C5 | Investigation into parents' fate | N2, C5 | **Arc 4-5** |
-| N5 | The elemental crystals Nyra seeks are stabilized B-essence manifestations | F1 | Crystal discovery — connection to CMGMI | N2, F1 | **Arc 4-5** |
-| N6 | Collecting all elemental crystals could create a controlled focal point — a safe alternative to full B resurrection | F6 | Research into endgame alternatives | F6 | **Arc 8-9** |
+### ROM-01 - The Romeo family joined ViF later - not as a founding member, but invited by the Crimson Covenant due to a prior relationship
+
+Prerequisites: VIF-01
+
+
+Unlocks: ROM-02
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### ROM-02 - The Romeo family operates as ViF's intelligence network - their wealth and political connections let them exert influence across the continent for all ViF members
+
+Prerequisites: ROM-01
+
+
+Unlocks: ROM-03, ROM-04, VIF-04
+
+
+Siblings: VIF-04
+
+
+Status: Unknown to Party
+
+### ROM-03 - Bardolemeu's family is a full ViF member - Bardolemeu knows nothing about this. He has been treated as an immature sentimentalist not trusted with the truth.
+
+Prerequisites: ROM-02
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### ROM-04 - The Romeo family's post-gods ambition: be indispensable to everyone - power through being essential to the new order
+
+Prerequisites: ROM-02, VIF-06
+
+
+Unlocks: -
+
+
+Siblings: VIF-06
+
+
+Status: Unknown to Party
 
 ---
 
-### 4.10 Sanzo's Revelation Thread
+## 9 - The Five Generals
+(Prefix: GEN)
 
-| # | Beat | Track | Where/How Discovered | Depends On | Arc |
-|---|------|-------|---------------------|------------|-----|
-| S1 | Sanzo's monastery teachings hold the truth about Ki coming from within | D6 | Sanzo's own experience / monastery visit | None | **When present** |
-| S2 | Monasteries have known for centuries that divine magic is a lie (through Ki) | D6 | Monastery archives / elder monk teachings | S1, D5 | **When present** |
-| S3 | Monasteries are sanctuaries — the gods leave them alone because they can't harvest faith from non-worshippers | D7 | Monastery defenses / divine avoidance pattern | S2, D7 | **When present** |
+### GEN-01 - Five generals led the monster invasion at its outset - they commanded the invading forces
+
+Prerequisites: CON-01
+
+
+Unlocks: KHZ-01
+
+
+Siblings: CON-03
+
+
+Status: Unknown to Party
+
+### GEN-02 - The identities and fates of the five generals
+
+Prerequisites: GEN-01
+
+
+Unlocks: G02-, G03-, G04-, G05-
+
+
+Siblings: -
+
+
+Status: Unknown to Party
 
 ---
 
-### 4.11 Revelation Delivery Principles
+## 10 - Khar'zul
+(Prefix: KHZ)
 
-1. **Show, don't tell**: Whenever possible, the party discovers a beat through direct experience (finding a document, seeing a symbol, hearing a confession) rather than exposition from an NPC.
+### KHZ-01 - Khar'zul was one of five generals who led the monster invasion - a balor of tremendous power
 
-2. **Recontextualization**: Earlier beats gain new meaning when later beats are discovered. Kaelyn's cell wall symbol (B1) means nothing until she learns about ViF (B3) and U.D.A.R.U. (B6).
+Prerequisites: GEN-01
 
-3. **PC entry first**: A beat that connects to a PC is discovered through that PC's story first. The same beat discovered by another PC or through general exploration is a weaker discovery — reserve PC revelations for PC moments.
 
-4. **Distributed and interleaved**: No two back-to-back reveals from the same track unless contextually required (e.g., Gamma-7 naturally delivers B1-B3 consecutively because they're in the same room).
+Unlocks: KHZ-02
 
-5. **Cross-track weaving**: A session should ideally advance 2-3 tracks simultaneously, with at least one PC-specific beat and one main story beat.
 
-6. **Multiple paths**: For each revelation, define 2-3 possible discovery methods so the party's choices determine how they learn the truth. If one path is cut off (party avoids Gamma-7, misses a room), the beat can be discovered through another route.
+Siblings: -
 
-7. **Audit gate**: Before a new lore entity is created or a major beat is deployed, run A1-A4 audits against the existing cache. Flag inconsistencies — never silently fix.
+
+Status: Unknown to Party
+
+### KHZ-02 - Khar'zul was sealed rather than destroyed at the end of the Sealing War - his prison still exists somewhere, and his essence was bound within a living blade
+
+Prerequisites: KHZ-01
+
+
+Unlocks: KHZ-03, KHZ-04
+
+
+Siblings: FAL-01
+
+
+Status: Partially known (Khar'zul's blade is carried by Balor - but the sealing story is not yet discovered)
+
+### KHZ-03 - Khar'zul's essence was bound within a living blade - the blade Balor carries is Khar'zul's prison and vessel
+
+Prerequisites: KHZ-02
+
+
+Unlocks: KHZ-07
+
+
+Siblings: -
+
+
+Status: Hinted (the blade spoke "DESTROY" in combat - players know something is in it)
+
+### KHZ-04 - The Covenant experimented with tissue harvested from Khar'zul's essence - these demonic skin graft experiments created Drow, Shadow Elves, and Tieflings as unintended byproducts
+
+Prerequisites: KHZ-02, CC-01
+
+
+Unlocks: CC-02, TOR-01
+
+
+Siblings: CC-02, TOR-03
+
+
+Status: Unknown to Party
+
+### KHZ-05 - The Covenant does NOT worship Khar'zul - they study and control him as a weapon, not a deity
+
+Prerequisites: KHZ-02, CC-03
+
+
+Unlocks: KHZ-06
+
+
+Siblings: CC-03
+
+
+Status: Unknown to Party
+
+### KHZ-06 - The Covenant wants to bring back Khar'zul and control him - to secure power in a post-gods world
+
+Prerequisites: KHZ-05, CC-04
+
+
+Unlocks: -
+
+
+Siblings: CC-04
+
+
+Status: Unknown to Party
+
+### KHZ-07 - Balor is the culmination of Project Genesis - bred over generations as a mortal vessel for Khar'zul's essence. His mother was a prisoner who escaped, not an Apostle.
+
+Prerequisites: KHZ-03, CC-06
+
+
+Unlocks: -
+
+
+Siblings: CC-06
+
+
+Status: Unknown to Party
+
+### KHZ-08 - Khar'zul's blade has multiple stages of unlocking - each stage gives Balor more power but draws him closer to becoming Khar'zul's vessel.
+
+Prerequisites: KHZ-03, KHZ-05
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Partially known (Stage 2 unlocked in Session 2)
 
 ---
 
-*End of Roadmap V3 — Updated 2026-09-06*
+## 11 - General 2
+(Prefix: G02)
+
+### Placeholder - to be defined by the GM.
+
+---
+
+## 12 - General 3
+(Prefix: G03)
+
+### Placeholder - to be defined by the GM.
+
+---
+
+## 13 - General 4
+(Prefix: G04)
+
+### Placeholder - to be defined by the GM.
+
+---
+
+## 14 - General 5
+(Prefix: G05)
+
+### Placeholder - to be defined by the GM.
+
+---
+
+## 15 - First Alliance
+(Prefix: FAL)
+
+### FAL-01 - The First Alliance was the coalition of mortal races that fought against the Five Generals
+
+Prerequisites: KHZ-02
+
+
+Unlocks: FAL-02
+
+
+Siblings: -
+
+
+Status: Known
+
+### FAL-02 - ViF was founded by a small circle of First Alliance scholars and arcanists who independently discovered fragments of the truth - that the invasion was orchestrated, that the gods are not creators
+
+Prerequisites: FAL-01, VIF-01
+
+
+Unlocks: -
+
+
+Siblings: VIF-01
+
+
+Status: Unknown to Party
+
+---
+
+## 16 - Last Stand
+(Prefix: LST)
+
+### LST-01 - The Last Stand is build upon a large cave of B-crystals
+
+Prerequisites: -
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Public knowledge
+
+### LST-02 - Elven leadership of the Last Stand secretly provided subjects to the Covenant during the Sealing War - they wanted enhanced soldiers and surrendered their own people for demonic graft experiments
+
+Prerequisites: CC-07
+
+
+Unlocks: TOR-04
+
+
+Siblings: CC-07, TOR-04
+
+
+Status: Unknown to Party
+
+---
+
+## 17 - B + B's Sacrifice
+(Prefix: BBS)
+
+### BBS-01 - B, one of the Original, sacrificed itself in defiance - the Great Sacrifice shattered B's essence to give mortals independent access to magic and resist A and C's planned genocide
+
+Prerequisites: ORG-03
+
+
+Unlocks: BBS-02, BBS-03, BBS-04
+
+
+Siblings: ORG-03
+
+
+Status: Unknown to Party
+
+### BBS-02 - B's sacrifice generated all arcane energy across all planes - every spell ever cast draws on the power B released
+
+Prerequisites: BBS-01
+
+
+Unlocks: BBS-04
+
+
+Siblings: MAG-01
+
+
+Status: Unknown to Party
+
+### BBS-03 - B's sacrifice generated all currency metals and gemstones - gold, silver, platinum, diamonds, and every precious stone are fragments of B's physical form
+
+Prerequisites: BBS-01
+
+
+Unlocks: BBS-05, BBS-06
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### BBS-04 - The Weave - the permeating field of magical energy that flows through all planes - is B's lingering form. Every spell draws on B's scattered consciousness.
+
+Prerequisites: BBS-01, BBS-02
+
+
+Unlocks: BBS-07
+
+
+Siblings: MAG-01
+
+
+Status: Unknown to Party
+
+### BBS-05 - Currency metals, gemstones, and magical items (CMGMI) are B's physical remnants - scattered pieces of B's body across the Material Plane
+
+Prerequisites: BBS-03
+
+
+Unlocks: BBS-06
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### BBS-06 - The hoarding instinct is the unconscious pull of living beings toward B's scattered body - CMGMI are fragments calling to be reunited. This affects all living creatures, not just monsters.
+
+Prerequisites: BBS-05, BCR-04
+
+
+Unlocks: -
+
+
+Siblings: BCR-04
+
+
+Status: Unknown to Party
+
+### BBS-07 - B's lingering will persists in crystals - glimpses of B's consciousness are possible at ley line convergences or through a willing B-touched conduit
+
+Prerequisites: BBS-04, BCR-05
+
+
+Unlocks: BBS-08
+
+
+Siblings: BTG-02
+
+
+Status: Unknown to Party
+
+### BBS-08 - A partial resurrection of B is feasible - the entity's strength scales with the resources gathered. Full resurrection would cost all mortal magic, as the Weave would collapse into B's re-formed consciousness.
+
+Prerequisites: BBS-07
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+---
+
+## 18 - B-Touched + Genasi
+(Prefix: BTG)
+
+### BTG-01 - Some individuals are B-touched - they have some sort of connection to B's essence, making them more susceptible to crystal influence and able to sense B's lingering will
+
+Prerequisites: BCR-05
+
+
+Unlocks: BTG-02, BTG-03
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### BTG-02 - B-touched individuals feel the hoarding pull more intensely than others and can serve as conduits for B's lingering consciousness - the Covenant captures and studies them
+
+Prerequisites: BTG-01
+
+
+Unlocks: BTG-05
+
+
+Siblings: BBS-07
+
+
+Status: Unknown to Party
+
+### BTG-03 - The elemental planes were the foundation upon which the Originals built the Material Plane - the planes are not separate from creation but the building blocks of it
+
+Prerequisites: BTG-01
+
+
+Unlocks: BTG-04
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### BTG-04 - Genasi have essence from the elemental planes - they are inherently more sensitive to B's lingering presence and feel it at the edge of awareness
+
+Prerequisites: BTG-03
+
+
+Unlocks: BTG-05, BTG-06
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### BTG-05 - All Genasi feel an ethereal will, voice, or presence at the edge of awareness - this is B's lingering consciousness brushing against their elemental sensitivity
+
+Prerequisites: BTG-04
+
+
+Unlocks: BTG-06
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### BTG-06 - Research into the Genasi-B connection is suppressed by both the gods and the Covenant
+
+Prerequisites: BTG-05
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+---
+
+## 19 - The True Origin of Races
+(Prefix: TOR)
+
+### TOR-01 - Tieflings, Drow, and Shadow Elves (Shadar-kai) were not created by the gods - they are unintended byproducts of the Crimson Covenant's Project Genesis: demonic skin graft experiments using Khar'zul's essence
+
+Prerequisites: CC-02, KHZ-04
+
+
+Unlocks: TOR-02, TOR-03, UDA-02
+
+
+Siblings: CC-02, KHZ-04
+
+
+Status: Unknown to Party
+
+### TOR-02 - No god created any mortal race - all mortal races were created by the Originals (A, B, C). The gods' creation claims are complete fabrications.
+
+Prerequisites: TOR-01, DEC-02
+
+
+Unlocks: DEC-03
+
+
+Siblings: DEC-02
+
+
+Status: Unknown to Party
+
+### TOR-03 - Drow and Shadow Elves were produced by Covenant experiments using Khar'zul's demonic essence grafted onto elven captives - their non-standard appearances are the result of incomplete or varied grafting
+
+Prerequisites: TOR-01
+
+
+Unlocks: UDA-02
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### TOR-04 - Elven leadership of the Last Stand surrendered their own people to the Covenant for these experiments - a war crime revealed centuries later
+
+Prerequisites: TOR-01, LST-03
+
+
+Unlocks: -
+
+
+Siblings: LST-03, CC-07
+
+
+Status: Unknown to Party
+
+---
+
+## 20 - The Divine Deception
+(Prefix: DEC)
+
+### DEC-01 - The gods falsely claim to have created Tieflings, Drow, and Shadow Elves - these species are Covenant byproducts, not divine creations
+
+Prerequisites: TOR-01
+
+
+Unlocks: DEC-02
+
+
+Siblings: TOR-01, TOR-02
+
+
+Status: Unknown to Party
+
+### DEC-02 - The gods' claims to have created ALL mortal races are fabrications - no god created any race. The Originals created all mortal life.
+
+Prerequisites: DEC-01
+
+
+Unlocks: DEC-03, TOR-02
+
+
+Siblings: TOR-02
+
+
+Status: Unknown to Party
+
+### DEC-03 - The creation myth - the 10 gods shaping the world, planes, and life in sequence - is a complete fabrication. The gods did not create the world or anything in it.
+
+Prerequisites: DEC-02
+
+
+Unlocks: DEC-04
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### DEC-04 - The pantheon's rivalries, schisms, and holy wars are staged theater designed to deepen faith and keep mortals divided and believing
+
+Prerequisites: DEC-03
+
+
+Unlocks: DEC-05
+
+
+Siblings: CON-05
+
+
+Status: Unknown to Party
+
+### DEC-05 - The gods pretend to grant divine magic to their faithful - in truth, the mortal casts the spell using their own arcane spark and the Weave. The god injects their arcane signature at the last second and claims credit.
+
+Prerequisites: DEC-03
+
+
+Unlocks: MAG-02
+
+
+Siblings: MAG-02, MAG-04
+
+
+Status: Unknown to Party
+
+---
+
+## 21 - The Divine Conspiracy
+(Prefix: CON)
+
+### CON-01 - The monster invasion was planned - not a natural disaster or a punishment from the gods. It was an orchestrated genocide.
+
+Prerequisites: BCR-07
+
+
+Unlocks: CON-02, CON-03, CON-06
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### CON-02 - All 10 gods orchestrated the invasion via planar pacts with four planes - the Abyss, the Nine Hells, the Shadowfell, and the Feywild. The gods personally negotiated with each plane's powers.
+
+Prerequisites: CON-01
+
+
+Unlocks: CON-04, CON-05, GEN-01
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### CON-03 - Five generals led the monster invasion from the planar breaches - the three banned gods (Lolth, Raven Queen, Vorn) did not act alone. The generals commanded the invading forces.
+
+Prerequisites: CON-01
+
+
+Unlocks: GEN-01
+
+
+Siblings: GEN-01
+
+
+Status: Unknown to Party
+
+### CON-04 - Every single one of the 10 gods knew about and approved the monster invasion. Not one dissented. Not one warned mortals. It was unanimous.
+
+Prerequisites: CON-02
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### CON-05 - The three "banned" gods (Lolth, Raven Queen, Vorn) are scapegoats - publicly blamed for the invasion while secretly coordinating with the other seven. The "banned" status is theater designed to absorb public rage.
+
+Prerequisites: CON-04
+
+
+Unlocks: DEC-04
+
+
+Siblings: DEC-04
+
+
+Status: Unknown to Party
+
+### CON-06 - The monster invasion was designed to drive mortals toward desperate worship - fear and suffering generate more faith, which replenishes the gods' power
+
+Prerequisites: CON-01, TRU-02
+
+
+Unlocks: -
+
+
+Siblings: TRU-02
+
+
+Status: Unknown to Party
+
+---
+
+## 22 - The Divine Truth
+(Prefix: TRU)
+
+### TRU-01 - The gods are fragments of A and C - the Originals subdivided after B's sacrifice to better manage, monitor, and manipulate the mortal races who now possessed magic
+
+Prerequisites: ORG-04
+
+
+Unlocks: TRU-02, TRU-04
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### TRU-02 - The gods need faith, worship and prayer - it replenishes their finite power. Every prayer, tithe, and hymn transfers arcane energy from the mortal to the god.
+
+Prerequisites: TRU-01
+
+
+Unlocks: TRU-03, CON-06
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### TRU-03 - Without enough worship, a god's power depletes and they can disappear from reality entirely - the False Firmament is a survival mechanism, not just a control mechanism
+
+Prerequisites: TRU-02
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### TRU-04 - The gods can create, transform, and destroy non-living things, and create living things - but they CANNOT alter or destroy living beings directly. They must work through proxies, created forces, and mortal agents.
+
+Prerequisites: TRU-01
+
+
+Unlocks: -
+
+
+Siblings: MAG-02
+
+
+Status: Unknown to Party
+
+### TRU-05 - The gods' overall power is vast but finite - the power A and C concentrated into 10 gods is equivalent to the power B dispersed across all mortals. Collectively, mortals could theoretically challenge the gods.
+
+Prerequisites: TRU-01
+
+
+Unlocks: -
+
+
+Siblings: MAG-04
+
+
+Status: Unknown to Party
+
+---
+
+## 23 - True Nature of Magic
+(Prefix: MAG)
+
+### MAG-01 - All magic works the same way: the mortal's internal arcane spark (inherited from B's sacrifice) ignites with ambient arcane energy from the Weave (B's lingering form), using components (CMGMI - B's physical remains) as fuel
+
+Prerequisites: BBS-04
+
+
+Unlocks: MAG-02, MAG-03, MAG-04
+
+
+Siblings: BBS-02
+
+
+Status: Unknown to Party
+
+### MAG-02 - "Divine magic" is the mortal manipulating the Weave themselves - the god only adds their arcane signature to make it feel divine, then claims credit. The mortal already had the power.
+
+Prerequisites: MAG-01, DEC-05
+
+
+Unlocks: MAG-03
+
+
+Siblings: DEC-05
+
+
+Status: Unknown to Party
+
+### MAG-03 - Ki is the ability to harness the inner arcane spark without external components, without Weave manipulation, and without divine intermediaries - it is proof that the divine magic system is a lie and mortals can access magic independently
+
+Prerequisites: MAG-02
+
+
+Unlocks: -
+
+
+Siblings: -
+
+
+Status: Unknown to Party
+
+### MAG-04 - Every living being has the potential to use magic - the arcane spark is universal. The gods have deliberately hidden this truth to maintain their monopoly on divine power.
+
+Prerequisites: MAG-01
+
+
+Unlocks: -
+
+
+Siblings: TRU-05
+
+
+Status: Unknown to Party
+
+## 24 - Zan
+*(Prefix: ZAN)*
+
+### ZAN-01 - Zan was Subject 242 in the Flesh Architects' Catalyst Project, where B-Crystals permanently modified his teleportation - he can now resist damage when teleporting and place "marks" on objects, people or places to teleport to as a bonus action
+Prerequisites: -
+
+Unlocks: ZAN-02, ZAN-03, ZAN-08
+
+Siblings: -
+
+Status: Discovered (player knows)
+
+### ZAN-02 - The Catalyst Project used B-Crystals on test subjects to study and modify innate magical abilities - first on Zan (Subject 242), then Sophie (Subject 241), whose success in reusing Zan's imbued crystals proved the procedure replicable
+Prerequisites: ZAN-01
+
+Unlocks: ZAN-11
+
+Siblings: BCR-02, FA-01
+
+Status: Unknown to Party
+
+### ZAN-03 - Zan is B-touched - the B-Crystals left a permanent resonance in his body, making him more sensitive to B's pull for CMGMI and attuning him to B's lingering will. The Flesh Architects may be able to track him through this resonance
+Prerequisites: ZAN-01, BCR-05
+
+Unlocks: ZAN-13
+
+Siblings: BTG-01, BTG-02
+
+Status: Unknown to Party
+
+### ZAN-04 - Zan carries the Raven Queen's brand - a mark of direct bloodline descent that appeared at age 7, making him the youngest Shadar-kai ever to receive it. The brand is now physically visible on the top of his spine as a small white raven mark, revealed after his near-death experience and the Raven Queen's involvement in bringing him back
+Prerequisites: -
+
+Unlocks: ZAN-05, ZAN-07
+
+Siblings: -
+
+Status: Discovered (player knows)
+
+### ZAN-05 - At age 7, Zan's parents (Ashura Zando and Athena Orion) secretly abandoned him on the Material Plane. The Raven Queen's brand had made him a target of higher Shadar-kai families, and the Zandorion family could not protect him. They magically modified his memory to bury the true reason. Recovery triggers: (1) encountering the brand on his own body, (2) meeting Dun'vis and seeing the tattooed replica, (3) a triggering event or magical revelation, (4) confrontation with his parents.
+Prerequisites: ZAN-04
+
+Unlocks: ZAN-09, ZAN-12
+
+Siblings: -
+
+Status: Unknown to Party (memory buried)
+
+### ZAN-06 - The Raven Queen saved Zan's life at age 11 - during a 30-foot cliff jump, she answered his desperate prayer and awakened his innate Shadar-kai teleportation. This was before the Flesh Architects; it established her personal interest in him.
+Prerequisites: ZAN-04
+
+Unlocks: ZAN-07
+
+Siblings: -
+
+Status: Unknown to Party (player knows the teleportation awakened, but not that it was the Raven Queen's direct intervention)
+
+### ZAN-07 - The Raven Queen's motives are unknown - she marked Zan at age 7, saved him at age 11, and intervened again during his near-death. She has an agenda beyond him, likely tied to her position among the three "banned" gods. She may know Zan is alive and have been subtly protecting him.
+Prerequisites: ZAN-06
+
+Unlocks: -
+
+Siblings: CON-05
+
+Status: Unknown to Party
+
+### ZAN-08 - Zan saw the Three Curves symbol on a restricted wing door in the Flesh Architects facility where he was held. He already knows the Architects answered to something larger, but does not yet know ViF's name or purpose.
+Prerequisites: ZAN-01
+
+Unlocks: VIF-01
+
+Siblings: VIF-01
+
+Status: Discovered (player knows - Gamma-7 will contextualize this)
+
+### ZAN-09 - An orphan named Dun'vis was groomed and trained to replace Zan - given a tattooed replica of the Raven Queen's brand, shaped to become Zan's identical replacement. Dun'vis grew up enduring the hatred, envy, and assassination attempts meant for Zan. He now hunts Zan to bring him back to the Shadowfell, expose the Zandorion plan, and reclaim his own identity: "I want my life back. I want my name back. I want myself back."
+Prerequisites: ZAN-05
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Party
+
+### ZAN-10 - J.B. (The Collector) - the crime lord who found Zan at age 7, trained him in theft and assassination, cut off the tips of his elven ears, renamed him "Zan," and ultimately sold him to the Flesh Architects after witnessing his teleportation awaken. He is now in his 50s-60s and may still run his guild or have risen in the underworld. He is a potential source of intelligence on the Flesh Architects and the Covenant.
+Prerequisites: -
+
+Unlocks: -
+
+Siblings: -
+
+Status: Known to Zan (player knows - J.B. is a primary revenge target)
+
+### ZAN-11 - Sophie (Subject 241) was the love Zan found in the laboratory. They shared two years of imprisonment, healing each other's wounds between experiments. After Zan's escape, the Architects reused the B-Crystals that had been imbued in him on Sophie - successfully replicating the procedure. She is alive and works for the Flesh Architects as a legendary assassin with teleportation abilities, a human given Shadar-kai-like powers through the Catalyst Project.
+Prerequisites: ZAN-02
+Unlocks: -
+
+Siblings: FA-01
+
+Status: Unknown to Party (Zan believes she may still be a prisoner or dead)
+
+### ZAN-12 - The Zandorion family (Ashura Zando and Athena Orion) are alive in the Shadowfell, living with guilt, pain, and hope of seeing Zan again. They made the impossible choice to abandon him to protect him from nobility threats. Dun'vis bears the consequences of their decision.
+Prerequisites: ZAN-05
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Party
+
+### ZAN-13 - Zan's modified teleportation draws directly from the Weave. As a B-touched individual, his abilities may grow stronger near ley line convergences or B-Crystal deposits - but also attract unwanted attention from entities that sense B's resonance.
+Prerequisites: ZAN-03, BBS-04
+Unlocks: -
+
+Siblings: MAG-01
+
+Status: Unknown to Party
+
+### ZAN-14 - As a B-touched individual, Zan shares a Constitution saving throw vulnerability against lycanthropy - the hybrid B-essence + necromantic corruption interacting with lycanthropic infection may be unpredictable, possibly accelerating the corruption or creating a new hybrid condition.
+
+---
+
+## 25 - Kaelyn
+
+### KAE-01 - The blue dragon skeleton Kaelyn touched in the Azure Boneyard was not a natural corpse - it was a dracolich raised by one of the five generals who led the Abominable End invasion.
+
+Prerequisites: GEN-01, UDA-03
+
+Unlocks: KAE-03, KAE-23
+
+Siblings: GEN-02
+
+Status: Unknown to Party
+
+### KAE-02 - The Azure Boneyard is a U.D.A.R.U. containment site - the cave is not a natural formation. U.D.A.R.U. captured and contained the dracolich after allied forces defeated it, then relocated the remains here for study.
+
+Prerequisites: UDA-03
+
+Unlocks: KAE-09
+
+Siblings: UDA-03
+
+Status: Unknown to Party
+
+### KAE-03 - The power that crystallized Kaelyn's heart is not pure B essence - it is a hybrid of B's essence AND residual necromantic corruption left by the general who raised the dracolich. This twin infection is the root of her "disease."
+
+Prerequisites: KAE-01
+
+Unlocks: KAE-04, KAE-21
+
+Siblings: -
+
+Status: Unknown to Party
+
+### KAE-04 - The necromantic corruption causes Kaelyn's spells to misfire unpredictably under strong emotions - requires a percentile wild magic surge roll when fear, rage, grief, or euphoria override her control.
+
+Prerequisites: KAE-03
+
+Unlocks: KAE-05
+
+Siblings: -
+
+Status: Known to Party (Kaelyn knows her magic is unstable)
+
+### KAE-05 - The vial of dragon bone dust acquired from the Thormvuld vault was scraped from the same dracolich skeleton that gave Kaelyn her powers - it is a key reagent for stabilizing or curing the corruption.
+
+Prerequisites: KAE-04, THM-01
+
+Unlocks: KAE-24
+
+Siblings: -
+
+Status: Acquired (dust is in Kaelyn's possession - she does not yet know it is the cure ingredient)
+
+### KAE-06 - Kaelyn's crystal heart turns violet (red + blue merged) when she experiences strong emotions - a visual manifestation of her dual nature: red = original Drow essence (demon-tissue origin), blue = dragon-borne B essence.
+
+Prerequisites: -
+
+Unlocks: KAE-15
+
+Siblings: BTG-01
+
+Status: Observable (visible to party members who see her chest glow)
+
+### KAE-07 - Solyn Velkyn (Kaelyn's twin sister) survived the cave-in - she is now the acting leader of House Velkyn, scarred and conflicted. Kaelyn has believed her dead for over a century.
+
+Prerequisites: UDA-06
+
+Unlocks: -
+
+Siblings: KAE-08
+
+Status: Unknown to Party
+
+### KAE-08 - Lyndale Velkyn (Kaelyn's mother) survived the fire - horribly burned, hidden in seclusion, consumed by vengeance against Kaelyn. Kaelyn has believed her dead for over a century.
+
+Prerequisites: UDA-06
+
+Unlocks: -
+
+Siblings: KAE-07
+
+Status: Unknown to Party
+
+### KAE-09 - The organization that imprisoned and tortured Kaelyn for 20 years was U.D.A.R.U., led by her own mother (Lyndale) and twin sister (Solyn) - the torture was not anonymous Drow cruelty, it was family.
+
+Prerequisites: KAE-02, UDA-06
+
+Unlocks: KAE-07, KAE-08
+
+Siblings: UDA-06
+
+Status: Unknown to Party
+
+### KAE-10 - The symbol on Kaelyn's cell wall was the Three Curves of Veritas in Fractum (ViF), not a Drow crest - she was a specimen in a coalition-wide research program, not just a Drow prisoner.
+
+Prerequisites: UDA-03
+
+Unlocks: VIF-01
+
+Siblings: VIF-01
+
+Status: Discovered at Gamma-7 (Session 3 planned)
+
+### KAE-11 - The Crimson Covenant would take significant interest in Kaelyn as a living B-touched artifact. They might offer a cure in exchange for study
+
+Prerequisites: CC-06, UDA-03
+
+Unlocks: -
+
+Siblings: CC-06
+
+Status: Unknown to Party
+
+### KAE-12 - The Drow were not created by Lolth - they are an unintended byproduct of Crimson Covenant demonic skin graft experiments on elves ~200 years ago. Lolth discovered the sunlight-sensitive Drow, claimed credit, gave them sanctuary, and seeded Abyssal spiders to bind them to her worship.
+
+Prerequisites: TOR-01, UDA-02
+
+Unlocks: -
+
+Siblings: TOR-01
+
+Status: Unknown to Party
+
+### KAE-13 - The Black Willow's enormous growth and perpetual shadow were caused by a ley line convergence + B-crystals near its roots, not by Lolth's power - Lolth opportunistically claimed the tree and the Drow beneath it.
+
+Prerequisites: TOR-01
+
+Unlocks: -
+
+Siblings: KAE-12
+
+Status: Unknown to Party
+
+### KAE-14 - Seraphine the tiefling nanny taught the twins to question Lolth's faith - whether she knew the Drow's true origin (Covenant experiments) or simply had a rare compassionate heart is deliberately unresolved. She may have left records. She may not have.
+
+Prerequisites: TOR-01
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Party (deliberately ambiguous)
+
+### KAE-15 - Kaelyn's crystal heart is slowly growing - the overheating is a warning sign. If pushed too far it could consume her: spread across her body, draw B essence involuntarily, attract monsters and B-touched entities, eventually kill her.
+
+Prerequisites: KAE-06
+
+Unlocks: KAE-21
+
+Siblings: -
+
+Status: Hinted (Kaelyn senses the overheating - does not yet know it is growth)
+
+### KAE-16 - Kaelyn has an unconscious sensitivity to ley lines, arcane-reactive crystals, and concentrations of B's essence - this instinct can guide her toward or alert her to important locations, and also draw her into danger.
+
+Prerequisites: BTG-01, UDA-03
+
+Unlocks: KAE-17
+
+Siblings: BTG-02
+
+Status: Unknown to Kaelyn (dormant instinct - may manifest near ley line convergences)
+
+### KAE-17 - Other B-touched can sense Kaelyn's crystal heart as a beacon across the Weave - the party's B-touched members are magnetically drawn together whether they want to be or not.
+
+Prerequisites: KAE-16, BTG-05
+
+Unlocks: -
+
+Siblings: BTG-05
+
+Status: Not yet triggered (requires proximity between party B-touched members)
+
+### KAE-18 - As a B-touched individual, Kaelyn may unconsciously feel drawn to collect currency, metals, gems, and magical items (CMGMI) - the same hoarding instinct that drives B-influenced monsters. Subtle at first, worsening with proximity to B concentrations.
+
+Prerequisites: BCR-04, BTG-01
+
+Unlocks: -
+
+Siblings: BTG-02
+
+Status: Dormant (may emerge over time with B-crystal exposure)
+
+### KAE-19 - A living B-touched individual with a crystal heart is a walking testament to B's continued presence - the gods' agents (Order of the Scales) would seek to silence her if they learned of her. She is proof that the gods' narrative is a lie.
+
+Prerequisites: DEC-02, BTG-01
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown to Party
+
+### KAE-20 - As a B-touched individual, Kaelyn shares a Constitution saving throw vulnerability against lycanthropy - the hybrid B-essence + necromantic corruption interacting with lycanthropic infection may be unpredictable, possibly accelerating the corruption or creating a new hybrid condition.
+
+Prerequisites: BTG-01
+
+Unlocks: -
+
+Siblings: KAE-18
+
+Status: Mechanical rule (apply when Kaelyn faces lycanthropic infection - shared with Zan)
+
+### KAE-21 - Kaelyn's emotional suppression is a survival mechanism, not a cure - the necromantic corruption has been worsening regardless of her control. The dam will break eventually.
+
+Prerequisites: KAE-03, KAE-15
+
+Unlocks: KAE-05
+
+Siblings: -
+
+Status: Unknown to Kaelyn (she believes suppression works - it is failing slowly)
+
+### KAE-22 - B's lingering consciousness manifests as a white fox - if Kaelyn ventures near high concentrations of B essence (ley line convergences, crystal caves, the Black Willow's roots, the Azure Boneyard), the fox may appear.
+
+Prerequisites: BBS-07
+
+Unlocks: -
+
+Siblings: BBS-07
+
+Status: Unknown to Party
+
+### KAE-23 - The identity and fate of the general who raised the blue dragon dracolich is unknown - are they still active? Sealed? Dead? Does their survival or fate connect to Kaelyn's corruption? This thread ties Kaelyn's personal arc to the broader general mystery.
+
+Prerequisites: KAE-01, GEN-02
+
+Unlocks: -
+
+Siblings: GEN-02
+
+Status: Unknown to Party - ties Kaelyn's arc to the Five Generals mystery
+
+### KAE-24 - The cure for the necromantic corruption requires multiple components beyond the dragon bone dust - possible components include: residual necromantic essence from the original general, pure B-crystal from the Azure Boneyard, a ley line convergence cleansing ritual, a stabilized precursor from the crystal heart before corruption spreads further.
+
+Prerequisites: KAE-05
+
+Unlocks: -
+
+Siblings: -
+
+Status: Unknown (the full recipe is a campaign-scale quest line)
+
+---
+
