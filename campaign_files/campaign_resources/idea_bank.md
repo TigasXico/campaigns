@@ -15,7 +15,7 @@ Prefix entries with `[TODO]` for actionable tasks vs loose ideas/notes.
 
 ---
 
-## Zan wants a Dagger of Venom
+## [TODO] Zan wants a Dagger of Venom
 
 **Description:** Player expressed interest. Could be a Gamma-7 find, a reward from FX, or tied to the Raven Queen thread. Not urgent but good to keep on the radar.
 
