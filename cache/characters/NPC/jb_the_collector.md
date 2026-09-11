@@ -1,21 +1,33 @@
 ---
 id: jb_the_collector
 type: character
-name: "J.B. (The Collector)"
+name: "J.B. (The Collector) — The Chief Architect"
 status: draft
 tags:
-  - npc, human, crime_lord, thief_guild, assassin_trainer, flesh_architects
+  - npc, human, crime_lord, thief_guild, assassin_trainer, flesh_architects, chief_architect
 related:
-  - zan_vaelis_zandorian: Zan's former master who mutilated him, renamed him, and sold him to the Flesh Architects
-  - the_flesh_architects: Sold Subject 242 (Zan) to the Flesh Architects after his teleportation awakened
+  - zan_vaelis_zandorian: Zan's former master who mutilated him, renamed him, and sold him to the Flesh Architects — and the Chief Architect of the Flesh Architects all along
+  - the_flesh_architects: Head of the Flesh Architects — the Chief Architect, using his crime lord identity as a cover for talent acquisition and test subject procurement
   - shadow_elves: Trained a young Shadar-kai in his guild of thieves and assassins
+  - chief_architect: J.B. IS the Chief Architect — the crime lord and the flesh-sculptor are the same person
+  - elena_vance: Named in Elena Vance's diary: the Chief Architect is called J.B.
+  - site_gamma-7: Ordered Gamma-7 decommissioned and operations consolidated
+secrets:
+  - text: "J.B. is not merely an outside contractor who sold Zan to the Flesh Architects — he IS the Chief Architect of the Flesh Architects. His crime lord identity was a cover for talent acquisition, test subject procurement, and intelligence gathering. He has been the head of the organization the entire time."
+    access: gm-only
+  - text: "Zan does not know this. He believes J.B. was a crime lord who sold him to the Architects. The truth — that the man who mutilated him, renamed him, and sold him was also the man who ran the Catalyst Project — has not yet been discovered."
+    access: gm-only
+  - text: "J.B. ordered the decommissioning of Gamma-7 and the consolidation of all research to the Primary Facility. Elena Vance's diary entry — 'they call him J.B.' — is the first recorded confirmation connecting his crime lord identity to his Flesh Architect role."
+    access: gm-only
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-09-11
 ---
 
 ## Overview
 
-**J.B.** -- known only by these initials -- is a human crime lord in his 40s (at the time of Zan's childhood, now older) who ran a guild of thieves, assassins, and "ring bearers" on the Material Plane. He found a seven-year-old Zan on the streets and took him in -- not out of kindness, but as raw material to be shaped into a weapon.
+**J.B. (The Collector)** — known only by these initials — is the **Chief Architect of the Flesh Architects**. His public identity: a human crime lord in his 40s (at the time of Zan's childhood, now older) who ran a guild of thieves, assassins, and "ring bearers" on the Material Plane. His true identity: the head of the Flesh Architects, using the crime lord operation as a front for talent acquisition, test subject procurement, and intelligence gathering.
+
+He found a seven-year-old Zan on the streets and took him in — not out of kindness, but as raw material to be shaped into a weapon — and later, a test subject for the Catalyst Project.
 
 ---
 

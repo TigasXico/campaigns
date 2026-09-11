@@ -14,7 +14,7 @@ Last updated: 2026-09-11
 
 ## Party State
 
-- **Level 4**, 6 present (Aegon absent -- departed to seek answers after Aurelius spoke; Odessa & Sanzo still away long-term).
+- **Level 4**, 6 present (Aegon absent -- departed to seek answers after Aurelius spoke).
 - **Current location:** Inside Site Gamma-7 (mid-exploration)
 - **FX's provisions:** 2 Potions of Healing, antitoxin, torches, tinderbox, bedrolls, 2x tents, rope, signal whistle, sending stone (unused), map case.
 - **Gold:** Intact.
@@ -84,4 +84,4 @@ Clear the rest of Gamma-7. Find the first big lore drops -- per-character backst
 - Fate of Sophie (Subject 241)
 - Contents of Balor's mother's cache
 - Content of Bardolemeu's mentor's note
-- When Odessa / Aegon / Sanzo rejoin the party
+- When Aegon rejoins the party

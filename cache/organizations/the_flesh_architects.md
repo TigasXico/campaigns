@@ -140,10 +140,9 @@ The Flesh Archives use a sequential numbering system for their test subjects:
 
 ## Notable Personnel
 
-- **The Chief Architect** (identity unknown) -- Head of the Flesh Architects. Oversees all experiments. Reports to ViF's Convocation of Fragments, not the Covenant. Rumored to have undergone extensive self-implantation -- possibly no longer fully mortal.
+- **The Chief Architect — J.B. (The Collector)** -- Head of the Flesh Architects. Oversees all experiments. Reports to ViF's Convocation of Fragments, not the Covenant. Rumored to have undergone extensive self-implantation -- possibly no longer fully mortal. His crime lord identity ("The Collector") was a cover for talent acquisition, test subject procurement, and intelligence gathering. Zan does not know the man who mutilated and sold him was also the head of the Flesh Architects himself.
 - **Attending Scientists** -- Researchers who conduct experiments. Many have crystalline veins on their hands and faces. Some have begun voluntary self-implantation.
 - **Lab Guards** -- Flesh Architects' own security personnel who secure facilities and keep subjects contained
-- **J.B. (the Collector)** -- An outside contractor who sold Subject 242 to the Architects
 
 ---
 

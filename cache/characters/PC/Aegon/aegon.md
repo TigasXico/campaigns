@@ -24,7 +24,7 @@ related:
   - henry: One of the Four Blood Brothers who fought alongside Aegon in the Trial by Combat
   - roderick: One of the Four Blood Brothers who fought alongside Aegon in the Trial by Combat
 secrets:
-  - text: "Paul was not killed by the Crimson Covenant. He was killed by agents of the Order of the Scales acting on divine command from Aurelius. The evidence pointing to the Covenant was a deliberate frame — the Covenant wants B-touched individuals alive and would never have silenced Paul."
+  - text: "Paul was killed by Agent 241 (Sophie) of the Flesh Architects on a contract that passed from the Order of the Scales (acting on Aurelius's command) to the Crimson Covenant, and from the Covenant to the Flesh Architects. The evidence pointing to the Covenant was planted by the Scales — but the Covenant was actually involved as the intermediary. This is a layered frame: the Scales hide their involvement behind the Covenant, and Covenant hides behind the FA."
     access: gm-only
   - text: "Aegon's early visions were genuine communications from Aurelius (a fragment of A or C). However, as B's lingering consciousness in the Weave grew stronger, B began reaching out to those strong of conviction. Paul was the first to receive visions from both sources. He realized the truth — Aurelius was not what he claimed to be — and was silenced for it. Aegon's visions are now also shifting from Aurelius toward B."
     access: gm-only
