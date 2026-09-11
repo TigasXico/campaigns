@@ -31,7 +31,6 @@
         break-after: page;
         page-break-after: always;
         border: none;
-        background: #f5ecd7 !important;
         -webkit-print-color-adjust: exact;
         print-color-adjust: exact;
       }
@@ -41,17 +40,9 @@
         page-break-after: auto;
       }
 
-      .no-print {
-        display: none;
-      }
-
       .no-break {
         break-after: auto !important;
         page-break-after: auto !important;
-      }
-
-      .gm-note {
-        display: none;
       }
 
       .pad-page {
@@ -79,7 +70,11 @@
     .page {
       width: 210mm;
       min-height: 297mm;
-      background: #f5ecd7;
+      background:
+        radial-gradient(ellipse at 15% 80%, rgba(139, 109, 71, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at 70% 20%, rgba(160, 120, 60, 0.10) 0%, transparent 40%),
+        radial-gradient(ellipse at 85% 65%, rgba(180, 140, 90, 0.08) 0%, transparent 35%),
+        #f5ecd7;
       padding: 25mm 22mm 30mm 22mm;
       position: relative;
       box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
@@ -89,28 +84,55 @@
       overflow: hidden;
     }
 
-    .page::before {
-      content: '';
-      position: absolute;
-      inset: 0;
+    .water-damage-top {
+      background:
+        linear-gradient(to bottom, rgba(180, 160, 120, 0.25) 0%, rgba(180, 160, 120, 0.08) 60%, transparent 100%),
+        radial-gradient(ellipse at 15% 80%, rgba(139, 109, 71, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at 70% 20%, rgba(160, 120, 60, 0.10) 0%, transparent 40%),
+        radial-gradient(ellipse at 85% 65%, rgba(180, 140, 90, 0.08) 0%, transparent 35%),
+        #f5ecd7;
+    }
+
+    .page-exact {
+      height: 297mm;
+      overflow: hidden;
+    }
+
+    .diary-grid {
+      width: 210mm;
       background:
         radial-gradient(ellipse at 15% 80%, rgba(139, 109, 71, 0.15) 0%, transparent 50%),
         radial-gradient(ellipse at 70% 20%, rgba(160, 120, 60, 0.10) 0%, transparent 40%),
-        radial-gradient(ellipse at 85% 65%, rgba(180, 140, 90, 0.08) 0%, transparent 35%);
-      pointer-events: none;
-      z-index: 1;
+        radial-gradient(ellipse at 85% 65%, rgba(180, 140, 90, 0.08) 0%, transparent 35%),
+        #f5ecd7;
+      padding: 8mm;
+      position: relative;
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
+      color: #2b1a05;
+      font-size: 16pt;
+      line-height: 1.5;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6mm;
     }
 
-    .water-damage-top::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      height: 60mm;
-      background: linear-gradient(to bottom, rgba(180, 160, 120, 0.25) 0%, rgba(180, 160, 120, 0.08) 60%, transparent 100%);
-      pointer-events: none;
-      z-index: 2;
+    .a6-card {
+      width: 100%;
+      min-height: 136mm;
+      background: #faf3e4;
+      padding: 6mm 8mm;
+      border: 1px solid #d4c4a4;
+      box-shadow: inset 0 0 8px rgba(180, 160, 120, 0.15);
+      break-inside: avoid;
+      overflow: hidden;
+    }
+
+    .a6-card .diary-date {
+      margin: 0 0 4px 0;
+    }
+
+    .a6-card p {
+      margin: 0 0 4px 0;
     }
 
     .page-content {
@@ -123,12 +145,6 @@
       font-family: 'Caveat', cursive;
       font-size: 14pt;
       line-height: 1.6;
-    }
-
-    .hand-undercommon {
-      font-family: 'Shadows Into Light', cursive;
-      font-size: 17pt;
-      line-height: 1.7;
     }
 
     .hand-diary {
@@ -194,11 +210,6 @@
       padding: 4px 6px;
       border-bottom: 1px dotted #b8a88a;
       vertical-align: top;
-    }
-
-    table.ledger tr.water-damaged td {
-      color: #c4b490;
-      font-style: italic;
     }
 
     .stamp {
@@ -329,12 +340,7 @@
       color: #2b1a05;
     }
 
-    .romeo-mark {
-      width: 40px;
-      height: 40px;
-      display: inline-block;
-      vertical-align: middle;
-    }
+    
 
     .gm-note {
       font-family: sans-serif;
@@ -365,12 +371,12 @@
   <!-- ============================================= -->
   <!-- PAGE 1: ASSET TRANSFER LEDGER                    -->
   <!-- ============================================= -->
-  <div class="page water-damage-top">
+  <div class="page page-exact water-damage-top">
     <span class="watermark">GAMMA-7</span>
 
     <div class="page-content hand-clinical">
       <h2>Asset Transfer Log — Site Gamma-7</h2>
-      <p class="doc-date">Orders 44–58 | Vesper — Aloria, Year 500</p>
+      <p class="doc-date">Orders 44-58 | Vesper — Aloria, Year 500</p>
 
       <table class="ledger">
         <thead>
@@ -388,14 +394,14 @@
             <td>MON-09</td>
             <td>Displacer beast, adult, sedated</td>
             <td>Primary Fac.</td>
-            <td>Gamma-7 (COMPLETE)</td>
+            <td>Gamma-7</td>
           </tr>
           <tr>
             <td>45</td>
             <td>FA-238</td>
             <td>Human, male, ~30s, implantation track</td>
             <td>Primary Fac.</td>
-            <td>Gamma-7 (COMPLETE)</td>
+            <td>Gamma-7</td>
           </tr>
           <tr>
             <td>46</td>
@@ -415,35 +421,35 @@
             <td>ROM-INT-4</td>
             <td>Sealed dispatch — frontier routes</td>
             <td>Courier</td>
-            <td>Gamma-7 (COMPLETE)</td>
+            <td>Gamma-7</td>
           </tr>
           <tr>
             <td>49</td>
             <td>MON-11</td>
             <td>Phase beast carcass — crystal extraction</td>
-            <td>Gamma-7 (COMPLETE)</td>
-            <td>Primary Fac. (COMPLETED)</td>
+            <td>Gamma-7</td>
+            <td>Primary Fac.</td>
           </tr>
           <tr>
             <td>50</td>
             <td>UDA-MAT-7</td>
             <td>B. Willow root samples, preserved</td>
             <td>Underdark Arch.</td>
-            <td>Gamma-7 (COMPLETE)</td>
+            <td>Gamma-7</td>
           </tr>
           <tr>
             <td>51</td>
             <td>FA-241</td>
             <td>F, ~late teens, Catalyst candidate</td>
             <td>Primary Fac.</td>
-            <td>Gamma-7 (COMPLETE)</td>
+            <td>Gamma-7</td>
           </tr>
           <tr>
             <td>52</td>
             <td>MON-12</td>
             <td>Owlbear, juvenile, crystal-infused</td>
             <td>Covenant NE</td>
-            <td>Gamma-7 (COMPLETE)</td>
+            <td>Gamma-7</td>
           </tr>
           <tr class="strikethrough" style="position:relative;">
             <td>53</td>
@@ -464,21 +470,21 @@
             <td>MON-14</td>
             <td>Owlbear, adult, crystal-infused</td>
             <td>Primary Fac.</td>
-            <td>Gamma-7 (COMPLETE)</td>
+            <td>Gamma-7</td>
           </tr>
           <tr>
             <td>55</td>
             <td>FA-243</td>
             <td>Tiefling, M, implantation track</td>
             <td>Primary Fac.</td>
-            <td>Gamma-7 (COMPLETE)</td>
+            <td>Gamma-7</td>
           </tr>
           <tr>
             <td>56</td>
             <td>CC-CRY-11</td>
             <td>Crystal samples — classified</td>
             <td>Underdark Arch.</td>
-            <td>Primary Fac. (COMPLETED)</td>
+            <td>Primary Fac.</td>
           </tr>
           <tr>
             <td>57</td>
@@ -499,7 +505,7 @@
   <!-- ============================================= -->
   <!-- PAGE 2: U.D.A.R.U. LETTER                        -->
   <!-- ============================================= -->
-  <div class="page">
+  <div class="page page-exact">
     <span class="watermark" style="opacity:0.06;">U.D.A.R.U.</span>
 
     <div class="page-content hand-undercommon">
@@ -524,8 +530,8 @@
 
       <p>To the Chief Researcher, Site Gamma-7 —</p>
 
-      <p>Acknowledging shared custody of UDA-07-KV under the usual arrangement. Standard shared-custody terms apply —
-        your team has research access and full access to research notes, our division retains administrative hold.</p>
+      <p>Acknowledging shared custody of UDA-07-KV intel. Standard cooperation terms apply —
+        your team has full access to research notes, our division retains administrative hold.</p>
 
       <p>Full dossier remains at the Underdark archive.</p>
 
@@ -533,20 +539,20 @@
         samples as discussed.</p>
 
       <br>
-      <p class="doc-date">10th Aloria, Year 500</p>
-      <p style="margin-bottom:0;">Arch-Liaison of the Underdark Drow Arcane Research Unit</p>
+      <p class="doc-date">10th of Aloria, Year 500</p>
+      <p style="margin-bottom:0;">Arch-Liaison of U.D.A.R.U.</p>
     </div>
   </div>
 
   <!-- ============================================= -->
   <!-- PAGE 3: NYRA'S MEMO                              -->
   <!-- ============================================= -->
-  <div class="page">
+  <div class="page page-exact">
     <div class="page-content hand-memo" style="position:relative;">
       <h2 style="text-align:left;border:none;font-family:'Special Elite',monospace;font-size:11pt;color:#6b5030;">FA
         RESEARCH DIVISION — INTERNAL MEMO</h2>
 
-      <p class="doc-date">8th Tyra, Year 500</p>
+      <p class="doc-date">8th of Tyra, Year 500</p>
 
       <p><strong>Re: Elemental Ancestry &amp; Arcane Substrate Resonance</strong></p>
 
@@ -570,20 +576,20 @@
   <!-- ============================================= -->
   <!-- PAGE 4: FA MISSION REPORT + THEATRE TICKET       -->
   <!-- ============================================= -->
-  <div class="page">
+  <div class="page page-exact">
     <div class="page-content hand-clinical">
       <h2>FA Operations — Mission Confirmation</h2>
 
-      <p class="doc-date">Filed: 22nd Aurelius, Year 497</p>
+      <p class="doc-date">Filed: 12th Aurelius, Year 497</p>
 
-      <p><strong>Re:</strong> Contract per Covenant request, Order of the Scales commission.</p>
+      <p><strong>Contract</strong> - per Covenant request, Order of the Scales commission.</p>
 
       <br>
 
       <table style="font-size:14pt;">
         <tr>
           <td style="width:100px;color:#6b5030;">Target:</td>
-          <td>Priest of the Scales, Drakhaven parish. Known paragon. Deemed a liability by the commissioning party.</td>
+          <td>Paul, Priest of the Scales. Known paragon. Deemed a liability by the commissioning party. Currently lives alone, in Kraventhor</td>
         </tr>
         <tr>
           <td style="color:#6b5030;">Agent:</td>
@@ -591,7 +597,7 @@
         </tr>
         <tr>
           <td style="color:#6b5030;">Status:</td>
-          <td><strong>CONFIRMED.</strong> Agent 241 reports successful elimination. No witnesses.</td>
+          <td><strong>CONFIRMED.</strong> Agent 241 reports successful elimination. No witnesses. Left Covenant evidences, as requested</td>
         </tr>
       </table>
 
@@ -620,14 +626,14 @@
         <p
           style="font-family:'Special Elite',monospace;font-size:9pt;margin:12px 0 4px 0;color:#6b5030;letter-spacing:2px;">
           SEAT</p>
-        <p style="font-family:'Caveat',cursive;font-size:14pt;margin:0 0 12px 0;">Royal Circle — Box 3<br>Row A
-          &nbsp;·&nbsp; Seat 2</p>
+        <p style="font-family:'Caveat',cursive;font-size:14pt;margin:0 0 12px 0;">Royal Circle — Box 3<br>Full box - 8
+          people</p>
 
-        <p class="doc-date" style="font-size:11pt;color:#8b7355;">8th Aurelius, Year 500</p>
+        <p class="doc-date" style="font-size:11pt;color:#8b7355;">8th of Aurelius, Year 500</p>
 
         <div style="margin-top:8px;text-align:center;">
-          <img class="romeo-mark" src="" alt="Romeo Family mark" style="display:none;" id="romeo-mark-img" />
-          <p style="font-family:'Special Elite',monospace;font-size:7pt;color:#b8a88a;margin:4px 0 0 0;">[ Romeo family ]</p>
+          <img src="Romeo_Symbol.png" alt="Romeo Family mark" style="width:80px;height:80px;opacity:0.70;display:inline-block;vertical-align:middle;" />
+          <p style="font-family:'Special Elite',monospace;font-size:7pt;color:#8b7355;margin:4px 0 0 0;letter-spacing:2px;">ROMEO</p>
         </div>
       </div>
     </div>
@@ -636,23 +642,24 @@
   <hr class="page-break">
 
   <!-- ============================================= -->
-  <!-- PADDING DOCUMENTS — continuous, no page breaks  -->
+  <!-- PADDING DOCUMENTS -->
   <!-- ============================================= -->
-  <div class="page">
+
+  <div class="page page-exact">
     <span class="watermark" style="font-size:60pt;opacity:0.04;">GAMMA-7</span>
 
     <!-- Supply Requisition -->
     <div class="pad-page hand-memo">
       <h2 style="text-align:left;border:none;">Supply Requisition</h2>
-      <p class="doc-date">20th Vesper, Year 500</p>
+      <p class="doc-date">20th of Vesper, Year 500</p>
       <p>Requesting: 12 reams parchment, 3 vials lamp oil, replacement scalpel set (size 3).</p>
-      <p style="color:#3b6b1a;">Approved — pick up from Stonefall courier next rotation.</p>
-      <p style="font-size:12pt;margin-top:20px;">— E. Vance</p>
+      <p style="color:#3b6b1a;">Approved - pick up from Stonefall courier next rotation.</p>
+      <p style="font-size:12pt;margin-top:20px;">- E. Vance</p>
     </div>
 
     <!-- Duty Roster -->
     <div class="pad-page hand-clinical">
-      <h2 style="text-align:left;border:none;">Duty Roster — Week of 21st-30th Vesper, Year 500</h2>
+      <h2 style="text-align:left;border:none;">Duty Roster - Week of 11th - 20th of Vesper, Year 500</h2>
       <table style="font-size:13pt;">
         <tr>
           <td style="width:120px;color:#6b5030;">Night watch:</td>
@@ -668,34 +675,36 @@
         </tr>
       </table>
       <p style="margin-top:30px;">Any missed rounds will be docked.</p>
-      <p style="font-size:12pt;">— Chief Researcher</p>
+      <p style="font-size:12pt;">- Chief Researcher</p>
     </div>
 
     <!-- Disciplinary Note -->
     <div class="pad-page hand-clinical">
-      <p class="doc-date">22nd Vesper, Year 500</p>
-      <p>Guard R. Tallow — third late shift this month. Final warning. Next infraction = reassignment to Covenant
-        outpost.</p>
+      <p class="doc-date">12th of Vesper, Year 500</p>
+      <p>Guard R. Tallow - third late shift this month. Final warning. Next infraction = reassignment to Covenant outpost.</p>
       <p>Signed: V. Torren</p>
     </div>
 
+  </div>
+
+  <div class="page page-exact">
+    <span class="watermark" style="font-size:60pt;opacity:0.04;">GAMMA-7</span>
+
     <!-- Maintenance Request -->
     <div class="pad-page hand-memo">
-      <p class="doc-date">8th Aloria, Year 500</p>
-      <p>Burn pit furnace — vent is clogged again. Smoke backs into the corridor. This is the fourth time. Fix it
-        properly or I'm filing a formal grievance.</p>
-      <p style="font-size:12pt;">— Signed: 3 staff members</p>
+      <p class="doc-date">8th of Aloria, Year 500</p>
+      <p>Burn pit furnace - vent is clogged again. Smoke backs into the corridor. This is the fourth time. Fix it properly or I'm filing a formal grievance.</p>
+      <p style="font-size:12pt;">- Signed: 3 staff members</p>
       <br>
-      <span class="stamp" style="font-size:13pt;">DENIED — BUDGET</span>
+      <span class="stamp" style="font-size:13pt;">DENIED - BUDGET</span>
     </div>
 
     <!-- Courier Manifest -->
     <div class="pad-page hand-clinical">
       <h2 style="text-align:left;border:none;">Courier Manifest</h2>
-      <p class="doc-date">12th Aloria, Year 500</p>
+      <p class="doc-date">12th of Aloria, Year 500</p>
       <p><strong>Outgoing:</strong> 3 sealed crates to Primary Facility.</p>
-      <p><strong>Contents:</strong> crystal essay results (batch 7-11), subject tissue samples (FA-239, FA-240),
-        standard administrative reports.</p>
+      <p><strong>Contents:</strong> crystal essay results (batch 7-11), subject tissue samples (FA-239, FA-240), standard administrative reports.</p>
       <p><strong>Courier:</strong> Standard, Waystation 4.</p>
       <p><strong>Return:</strong> 8 days.</p>
     </div>
@@ -703,24 +712,28 @@
     <!-- Perimeter Report -->
     <div class="pad-page hand-memo">
       <h2 style="text-align:left;border:none;">Perimeter Report</h2>
-      <p class="doc-date">18th Tyra, Year 500</p>
-      <p>Scout report — unusual monster activity 2 days west. Goblin patrols, larger than usual. No direct threat to
-        facility.</p>
+      <p class="doc-date">18th of Tyra, Year 500</p>
+      <p>Scout report - unusual monster activity 2 days west. Goblin patrols, larger than usual. No direct threat to facility.</p>
       <p>Recommend doubling watch for next two cycles.</p>
       <br>
-      <p style="font-size:12pt;color:#8b1a1a;">Filed — no action taken.</p>
+      <p style="font-size:12pt;color:#8b1a1a;">Filed - no action taken.</p>
     </div>
+
+  </div>
+
+  <div class="page page-exact">
+    <span class="watermark" style="font-size:60pt;opacity:0.04;">GAMMA-7</span>
 
     <!-- Personal Note -->
     <div class="pad-page hand-note" style="font-size:16pt;">
-      <p>El —</p>
-      <p>You left your journal in the common room again. I put it in your drawer. Stop doing that. Someone's going to
-        read it.</p>
-      <p style="margin-top:30px;">— H</p>
+      <p>El -</p>
+      <p>You left your journal in the common room again. I put it in your drawer. Stop doing that. Someone's going to read it.</p>
+      <p style="margin-top:30px;">- H</p>
     </div>
 
     <!-- Expense Ledger Strip -->
     <div class="pad-page hand-clinical" style="font-size:13pt;">
+      <h2 style="text-align:left;border:none;">Monthly Budget</h2>
       <p class="doc-date">Tyra, Year 500</p>
       <table style="font-size:13pt;width:70%;">
         <tr>
@@ -744,18 +757,23 @@
 
     <!-- Calendar Page -->
     <div class="pad-page hand-clinical">
-      <h2 style="text-align:left;border:none;">Raven Queen, Year 500</h2>
-      <p style="margin:8px 0;">○ &nbsp; Liaison visit (U.D.A.R.U.)</p>
-      <p style="margin:8px 0;">○ &nbsp; Courier (Stonefall)</p>
-      <p style="margin:8px 0;">○ &nbsp; Containment drill</p>
-      <p style="margin:8px 0;text-decoration:line-through;text-decoration-thickness:3px;">○ &nbsp; [date heavily crossed
-        out — unreadable]</p>
+      <h2 style="text-align:left;border:none;">Monthly Agenda</h2>
+      <p class="doc-date">Raven Queen, Year 500</p>
+      <p style="margin:8px 0;">&#9675; &nbsp; Liaison visit (U.D.A.R.U.)</p>
+      <p style="margin:8px 0;">&#9675; &nbsp; Courier (Stonefall)</p>
+      <p style="margin:8px 0;">&#9675; &nbsp; Containment drill</p>
+      <p style="margin:8px 0;text-decoration:line-through;text-decoration-thickness:3px;">&#9675; &nbsp; [date heavily crossed out - unreadable]</p>
     </div>
+
+  </div>
+
+  <div class="page page-exact">
+    <span class="watermark" style="font-size:60pt;opacity:0.04;">GAMMA-7</span>
 
     <!-- Burn Pit Usage Log -->
     <div class="pad-page hand-clinical">
-      <h2 style="text-align:left;border:none;">Burn Pit — Usage Log</h2>
-      <p class="doc-date">14th Raven Queen, Year 500</p>
+      <h2 style="text-align:left;border:none;">Burn Pit - Usage Log</h2>
+      <p class="doc-date">14th of Raven Queen, Year 500</p>
       <p><strong>Batch 14:</strong> subject tissue (deceased)</p>
       <p><strong>Batch 15:</strong> contaminated samples</p>
       <p><strong>Batch 16:</strong> failed crystal integrations</p>
@@ -763,204 +781,198 @@
       <br>
       <p style="font-size:12pt;">Logged by: E. Vance</p>
     </div>
+
   </div>
 
   <hr class="page-break">
 
   <!-- ============================================= -->
+  <!-- ELENA VANCE DIARY (Room 6 - Burn Pit)          -->
+  <!-- All entries flow continuously, no page breaks  -->
+  <!-- ============================================= -->
   <!-- ELENA VANCE DIARY (Room 6 — Burn Pit)           -->
   <!-- All entries flow continuously, no page breaks   -->
   <!-- ============================================= -->
 
-  <div class="page burn-bottom">
-    <span class="watermark" style="font-size:60pt;opacity:0.04;">DIARY</span>
+  <div class="diary-grid">
 
-    <div class="page-content hand-diary">
-
-      <!-- KEY: Arrival -->
-      <div class="diary-entry">
-        <p class="diary-date">18th Vesper, Year 500</p>
-        <p>Assigned to Gamma-7. The Chief Architect's people run the site. Everything here bears that symbol — three
-          curves in a circle. Nobody explained it to me. You learn not to ask.</p>
-        <p>The work is... I don't know how to describe it. Some of the other researchers have been doing this for years.
-          They don't flinch anymore. I still do.</p>
+      <!-- A6 Card 1 -->
+      <div class="a6-card">
+        <p class="diary-date">8th of Vesper, Year 500</p>
+        <p>Assigned to Gamma-7. The Chief Architect's people run the site. Everything here bears that symbol - three curves in a circle. Nobody explained it to me. You learn not to ask.</p>
+        <p>The work is... I don't know how to describe it. Some of the other researchers have been doing this for years. They don't flinch anymore. I still do.</p>
       </div>
 
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">20th Vesper, Year 500</p>
-        <p>Met the rest of the staff today. Torren runs the day shift — strict, efficient, never smiles. Morrow does
-          nights. Quiet type, keeps to himself. There's a guard named Tallow who everyone seems to dislike. I'll learn
-          why soon enough, I'm sure.</p>
+      <!-- A6 Card 2 -->
+      <div class="a6-card">
+        <p class="diary-date">10th of Vesper, Year 500</p>
+        <p>Met the rest of the staff today. Torren runs the day shift - strict, efficient, never smiles. Morrow does nights. Quiet type, keeps to himself. There's a guard named Tallow who everyone seems to dislike. I'll learn why soon enough, I'm sure.</p>
       </div>
 
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">24th Vesper, Year 500</p>
-        <p>Put in my first supply request. Parchment, lamp oil, scalpels. Torren approved it without even reading.
-          Either I'm trusted or I'm not worth scrutinizing. Not sure which is worse.</p>
+      <!-- A6 Card 3 -->
+      <div class="a6-card">
+        <p class="diary-date">14th of Vesper, Year 500</p>
+        <p>Put in my first supply request. Parchment, lamp oil, scalpels. Torren approved it without even reading. Either I'm trusted or I'm not worth scrutinizing. Not sure which is worse.</p>
       </div>
 
-      <!-- KEY: 242 (Zan) -->
-      <div class="diary-entry">
-        <p class="diary-date">28th Vesper, Year 500</p>
-        <p>Everyone still talks about 242. The Shadar-kai boy. Would have been a fascinating specimen, if he hadn't
-          escaped. Agent Korvus was furious. The Catalyst Project had their best results from him and they lost him.</p>
-        <p>I pulled his file once. Teleportation reflex, modified by crystal exposure. They wanted him here for Phase II
-          work. They say he jumped a hundred-foot drop and survived. How?</p>
+      <!-- A6 Card 4 -->
+      <div class="a6-card">
+        <p class="diary-date">18th of Vesper, Year 500</p>
+        <p>Everyone still talks about 242. The Shadar-kai boy. Would have been a fascinating specimen, if he hadn't escaped. Agent Korvus was furious. The Catalyst Project had their best results from him and they lost him.</p>
+        <p>I pulled his file once. Teleportation reflex, modified by crystal exposure. They wanted him here for Phase II work. They say he jumped a hundred-foot drop and survived. How?</p>
       </div>
 
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">2nd Aloria, Year 500</p>
-        <p>Tallow was late again. Third time this month. Torren gave him a final warning — next infraction and he's
-          reassigned to a Covenant outpost. Someone scribbled on the notice. I think it was Morrow.</p>
+    </div>
+
+    <div class="diary-grid">
+
+      <!-- A6 Card 5 -->
+      <div class="a6-card">
+        <p class="diary-date">2nd of Aloria, Year 500</p>
+        <p>Tallow was late again. Third time this month. Torren gave him a final warning - next infraction and he's reassigned to a Covenant outpost. Someone scribbled on the notice. I think it was Morrow.</p>
       </div>
 
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">6th Aloria, Year 500</p>
-        <p>Burn pit vent clogged again. Smoke backed into the corridor for hours. We filed another maintenance request.
-          They stamped it DENIED — BUDGET. We're shipping crystal samples worth a fortune out of here and they can't fix
-          a vent.</p>
+      <!-- A6 Card 6 -->
+      <div class="a6-card">
+        <p class="diary-date">6th of Aloria, Year 500</p>
+        <p>Burn pit vent clogged again. Smoke backed into the corridor for hours. We filed another maintenance request. They stamped it DENIED - BUDGET. We're shipping crystal samples worth a fortune out of here and they can't fix a vent.</p>
       </div>
 
-      <!-- KEY: 241 (Sophie) arrives -->
-      <div class="diary-entry">
-        <p class="diary-date">10th Aloria, Year 500</p>
-        <p>New girl showed up today. Subject 241. She seems to be working with them now — goes outside on assignments
-          I'm not cleared to read about.</p>
+      <!-- A6 Card 7 -->
+      <div class="a6-card">
+        <p class="diary-date">10th of Aloria, Year 500</p>
+        <p>New girl showed up today. Subject 241. She seems to be working with them now - goes outside on assignments I'm not cleared to read about.</p>
         <p>She comes back different each time. Colder. More efficient.</p>
         <p>They send her to do things the rest of us only write reports about.</p>
       </div>
 
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">14th Aloria, Year 500</p>
-        <p>Courier came through today. Three crates to the Primary Facility. Essay results, tissue samples, reports. I
-          wonder if the couriers know what's in the crates. I wonder if they'd care.</p>
-      </div>
-
-      <!-- KEY: JB (Chief Architect's name) -->
-      <div class="diary-entry">
-        <p class="diary-date">25th Aloria, Year 500</p>
-        <p>Today I overheard a conversation I shouldn't have. Learned the Chief Architect's name — they call him J.B.
-        </p>
-        <p>I've heard that name before. Someone mentioned him in connection with the Catalyst Project. The one who
-          brought 242 in.</p>
-      </div>
-
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">4th Tyra, Year 500</p>
-        <p>Went over the expense ledger today. The Chief Researcher drinks 2 gp wine per bottle. Subject rations are 3
-          sp. I don't know why that bothers me more than the other things we do here.</p>
-      </div>
-
-      <!-- KEY: Owlbear -->
-      <div class="diary-entry">
-        <p class="diary-date">15th Tyra, Year 500</p>
-        <p>The damn owlbear in the vault. MON-14. It won't be quiet. If we ever leave this place, someone needs to deal
-          with it. It hasn't eaten in days and it's getting louder.</p>
-        <p>Morrow says he heard it clawing at the inner door last night. I don't want to be here when it gets free.</p>
-      </div>
-
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">20th Tyra, Year 500</p>
-        <p>Scout came back today — goblin patrols two days west. Bigger than usual. Recommended doubling the watch.
-          Nobody did anything about it. They filed the report and that was the end of it. What are we more afraid of —
-          the monsters outside, or the ones we're making in here?</p>
-      </div>
-
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">24th Tyra, Year 500</p>
-        <p>H. found my journal again. Left it in the common room after a long shift. He put it in my drawer with a note
-          — 'stop doing that, someone's going to read it.' He's right. But of everyone here, he's the only one who'd
-          warn me instead of using it against me.</p>
-      </div>
-
-      <!-- KEY: U.D.A.R.U. -->
-      <div class="diary-entry">
-        <p class="diary-date">28th Tyra, Year 500</p>
-        <p>Met the U.D.A.R.U. liaison today. They came about their specimen — UDA-07-KV. A Drow woman. I only saw her
-          file.</p>
-        <p>The heart — it's not natural. Whatever happened to her, it left something inside her chest. Was able to
-          analyze some crystal samples — whatever it is, it carries a weird arcane signature. Both elemental and
-          necrotic.</p>
-        <p>They've been studying her for decades and she's still alive.</p>
-        <p>I don't know whether to be impressed or horrified.</p>
-        <p>The liaison was polite. Cold. The kind of polite that makes your skin crawl. I'm glad they don't visit often.
-        </p>
-      </div>
-
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">2nd Raven Queen, Year 500</p>
-        <p>Something is changing. More meetings behind closed doors. Less talk in the corridors. Torren has been packing
-          — I saw crates in his office. Nobody's told me anything, but I can feel it. Something's ending.</p>
-      </div>
-
-      <!-- KEY: Genesis -->
-      <div class="diary-entry">
-        <p class="diary-date">4th Raven Queen, Year 500</p>
-        <p>The Covenant's Genesis program. I don't understand it. Generations of bloodlines tracked like livestock. They
-          don't just study subjects — they breed them.</p>
-        <p>The Chief Architect says it's none of our concern, that the Covenant operates under different rules than we
-          do. That's supposed to comfort me. It doesn't.</p>
-        <p>Sometimes I wonder if we're any different. We give them numbers. We log them in ledgers. We ship them between
-          facilities like cargo. The Covenant is just... more honest about what they are.</p>
-      </div>
-
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">7th Raven Queen, Year 500</p>
-        <p>Packing has accelerated. Whole sections of the facility are being cleared out — equipment, samples, files.
-          Everything heading east-southeast. Nobody's told me where I'm going yet. Or if I'm going at all.</p>
-      </div>
-
-      <!-- KEY: Elven subject -->
-      <div class="diary-entry">
-        <p class="diary-date">9th Raven Queen, Year 500</p>
-        <p>Another elven subject came through. Covenant custody — CC-GEN-12. Young, visions. They're interested in what
-          he sees. His personal effects were almost nothing — just a single pearl earring. I packed it myself.</p>
-        <p>Strange thing for a boy to carry.</p>
-        <p>Strange thing for me to remember. Some details stick. Some don't let go.</p>
-      </div>
-
-      <!-- FILLER -->
-      <div class="diary-entry">
-        <p class="diary-date">11th Raven Queen, Year 500</p>
-        <p>Another batch for the burn pit today. Subject tissue. Contaminated samples. Failed crystal integrations. I've
-          been logging these for months and I've never once written down what that actually means. Maybe I don't want to
-          know.</p>
-      </div>
-
-      <!-- KEY: 241 (Sophie) — later entry -->
-      <div class="diary-entry">
-        <p class="diary-date">12th Raven Queen, Year 500</p>
-        <p>They don't call 241 a subject anymore. Agent 241 now.</p>
-        <p>I saw her once in the corridor. I could see it — the emptiness in her eyes.</p>
-        <p>She didn't look at me. She doesn't look at anyone anymore.</p>
-      </div>
-
-      <!-- KEY: Decommissioning -->
-      <div class="diary-entry" style="border-bottom:none;">
-        <p class="diary-date">14th Raven Queen, Year 500</p>
-        <p>They're shutting us down. Everything moved to the Primary Facility. Orders came from the Chief Architect
-          directly — destroy remaining samples, purge non-essential records.</p>
-        <p>I was supposed to burn it all. I couldn't.</p>
-        <p>Some of what happened here should survive. If someone finds this — know that the people here were doing
-          things I still can't explain. The three curves. The crystals. The people they called assets.</p>
-        <p>This research should be remembered, announced, shared. We've made unthinkable discoveries here, and they want
-          to erase it all. The ignorants...</p>
-        <p style="margin-top:30px;">— Elena Vance</p>
+      <!-- A6 Card 8 -->
+      <div class="a6-card">
+        <p class="diary-date">14th of Aloria, Year 500</p>
+        <p>Courier came through today. Three crates to the Primary Facility. Essay results, tissue samples, reports. I wonder if the couriers know what's in the crates. I wonder if they'd care.</p>
       </div>
 
     </div>
-  </div>
+
+    <div class="diary-grid">
+
+      <!-- A6 Card 9 -->
+      <div class="a6-card">
+        <p class="diary-date">18th of Aloria, Year 500</p>
+        <p>Today I overheard a conversation I shouldn't have. Learned the Chief Architect's name - they call him J.B.</p>
+        <p>I've heard that name before. Someone mentioned him in connection with the Catalyst Project. The one who brought 242 in.</p>
+      </div>
+
+      <!-- A6 Card 10 -->
+      <div class="a6-card">
+        <p class="diary-date">4th of Tyra, Year 500</p>
+        <p>Went over the expense ledger today. The Chief Researcher drinks 2 gp wine per bottle. Subject rations are 3 sp. I don't know why that bothers me more than the other things we do here.</p>
+      </div>
+
+      <!-- A6 Card 11 -->
+      <div class="a6-card">
+        <p class="diary-date">9th of Tyra, Year 500</p>
+        <p>The damn owlbear in the vault. MON-14. It won't be quiet. If we ever leave this place, someone needs to deal with it. It hasn't eaten in days and it's getting louder.</p>
+        <p>Morrow says he heard it clawing at the inner door last night. I don't want to be here when it gets free.</p>
+      </div>
+
+      <!-- A6 Card 12 -->
+      <div class="a6-card">
+        <p class="diary-date">14th of Tyra, Year 500</p>
+        <p>Scout came back today - goblin patrols two days west. Bigger than usual. Recommended doubling the watch. Nobody did anything about it. They filed the report and that was the end of it. What are we more afraid of - the monsters outside, or the ones we're making in here?</p>
+      </div>
+
+    </div>
+
+    <div class="diary-grid">
+
+      <!-- A6 Card 13 -->
+      <div class="a6-card">
+        <p class="diary-date">1st of Raven Queen, Year 500</p>
+        <p>H. found my journal again. Left it in the common room after a long shift. He put it in my drawer with a note - 'stop doing that, someone's going to read it.' He's right. But of everyone here, he's the only one who'd warn me instead of using it against me.</p>
+      </div>
+
+      <!-- A6 Card 14 -->
+      <div class="a6-card">
+        <p class="diary-date">5th of Raven Queen, Year 500</p>
+        <p>Met the U.D.A.R.U. liaison today. They came about their specimen - UDA-07-KV. A Drow woman. I only saw her file.</p>
+        <p>The heart - it's not natural. Whatever happened to her, it left something inside her chest. Was able to analyze some crystal samples - whatever it is, it carries a weird arcane signature. Both elemental and necrotic.</p>
+        <p>They've studied her for decades - experiments, tests, painful exams - and she's still alive.</p>
+        <p>I don't know whether to be impressed or horrified.</p>
+        <p>The liaison was polite. Cold. The kind of polite that makes your skin crawl. I'm glad they don't visit often.</p>
+      </div>
+
+      <!-- A6 Card 15 -->
+      <div class="a6-card">
+        <p class="diary-date">8th of Raven Queen, Year 500</p>
+        <p>Something is changing. More meetings behind closed doors. Less talk in the corridors. Torren has been packing - I saw crates with his stuff. Nobody's told me anything, but I can feel it. Something's ending.</p>
+      </div>
+
+      <!-- A6 Card 16 -->
+      <div class="a6-card">
+        <p class="diary-date">12th of Raven Queen, Year 500</p>
+        <p>The Covenant's Genesis program. I don't understand it. Generations of bloodlines tracked like livestock. They don't just study subjects - they breed them.</p>
+        <p>The Chief Architect says it's none of our concern, that the Covenant operates under different rules than we do. That's supposed to comfort me. It doesn't.</p>
+        <p>Sometimes I wonder if we're any different. We give them numbers. We log them in ledgers. We ship them between facilities like cargo. The Covenant is just... more honest about what they are.</p>
+      </div>
+
+    </div>
+
+    <div class="diary-grid">
+
+      <!-- A6 Card 17 -->
+      <div class="a6-card">
+        <p class="diary-date">14th of Raven Queen, Year 500</p>
+        <p>Packing has accelerated. Whole sections of the facility are being cleared out - equipment, samples, files. Everything heading to the Primary Facility - somewhere E-SE. Nobody's told me where I'm going yet. Or if I'm going at all.</p>
+      </div>
+
+      <!-- A6 Card 18 -->
+      <div class="a6-card">
+        <p class="diary-date">19th of Raven Queen, Year 500</p>
+        <p>Another elven subject came through. Covenant custody - CC-GEN-12. Young, apparently has visions. They're interested in what he sees. His personal effects were almost nothing - just a single pearl earring, shining like a star. I packed it myself.</p>
+        <p>Strange thing for a boy to carry.</p>
+        <p>Strange thing for me to remember...</p>
+      </div>
+
+      <!-- A6 Card 19 -->
+      <div class="a6-card">
+        <p class="diary-date">1st Thalkis, Year 500</p>
+        <p>Another batch for the burn pit today. Subject tissue. Contaminated samples. Failed crystal integrations. I've been logging these for months and I've never once written down what that actually means. Maybe I don't want to know.</p>
+      </div>
+
+      <!-- A6 Card 20 -->
+      <div class="a6-card">
+        <p class="diary-date">5th Thalkis, Year 500</p>
+        <p>They don't call 241 a subject anymore. It's agent 241 now.</p>
+        <p>I saw her once in the corridor. I could see it - the emptiness in her eyes.</p>
+        <p>She didn't look at me. She doesn't look at anyone anymore.</p>
+      </div>
+
+    </div>
+
+    <div class="diary-grid">
+
+      <!-- A6 Card 21 -->
+      <div class="a6-card">
+        <p class="diary-date">14th Thalkis, Year 500</p>
+        <p>They're shutting us down. Everything moved to the Primary Facility. Orders came from the Chief Architect directly - destroy remaining samples, purge non-essential records.</p>
+        <p>I was supposed to burn it all. I couldn't.</p>
+        <p>Some of what happened here should survive. If someone finds this - know that the people here were doing things I still can't explain.</p>
+        <p>This research should be remembered, announced, shared. We've made unthinkable discoveries here, and they want to erase it all. The ignorants...</p>
+        <p style="margin-top:30px;">- Elena Vance</p>
+      </div>
+
+    </div>
 
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
