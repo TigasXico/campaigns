@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kythoria Continental Map</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #1a1a2e; font-family: 'Segoe UI', Arial, sans-serif; padding: 20px; color: #eee; }
+  h1 { font-size: 1.5rem; margin-bottom: 4px; color: #ccd; }
+  .subtitle { font-size: 0.85rem; color: #889; margin-bottom: 16px; }
+  .map-wrap { overflow: auto; max-height: 92vh; border: 1px solid #444; background: #222236; display: inline-block; border-radius: 8px; padding: 8px; resize: both; }
+  .grid { display: grid; gap: 1px; }
+  .grid > div {
+    font-size: 9px; line-height: 1.2; text-align: center;
+    border-radius: 2px; overflow: hidden; word-wrap: break-word;
+    display: flex; align-items: center; justify-content: center;
+    position: relative; cursor: default; padding: 1px;
+    min-height: 46px;
+  }
+  .grid > div:hover { z-index: 20; box-shadow: 0 0 10px #fff, 0 0 20px #fffa; border-radius: 4px; transform: scale(1.8); }
+  .grid > div.label-cell {
+    font-size: 10px; color: #999; background: transparent !important;
+    cursor: default; font-weight: 600; align-items: center;
+    min-height: 46px;
+  }
+  .grid > div.label-cell:hover { transform: none; z-index: auto; box-shadow: none; }
+  .grid > div.loc { font-weight: 700; color: #fff; text-shadow: 0 0 4px #000, 0 0 8px #000; }
+  .legend { margin-top: 14px; padding: 14px 18px; background: #222; border-radius: 8px; max-width: 1000px; }
+  .legend h3 { font-size: 0.9rem; color: #bbb; margin-bottom: 8px; }
+  .legend-grid { display: flex; flex-wrap: wrap; gap: 5px 16px; }
+  .legend-item { display: flex; align-items: center; gap: 5px; font-size: 0.8rem; color: #ccc; }
+  .legend-swatch { width: 18px; height: 18px; border-radius: 3px; border: 1px solid #555; flex-shrink: 0; }
+  .legend-section { margin-top: 10px; }
+  .legend-section h4 { font-size: 0.85rem; color: #888; margin-bottom: 4px; }
+  .loc-tags { display: flex; flex-wrap: wrap; gap: 6px 16px; }
+  .loc-tag { display: inline-flex; align-items: center; gap: 4px; font-size: 0.8rem; background: #333a; padding: 2px 8px; border-radius: 4px; color: #eee; }
+  .loc-tag .swatch { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+  .note { margin-top: 8px; font-size: 0.75rem; color: #777; font-style: italic; }
+  .controls { display: flex; gap: 12px; align-items: center; margin-bottom: 10px; flex-wrap: wrap; }
+  .controls label { font-size: 0.8rem; color: #999; }
+  .controls input { width: 60px; padding: 2px 6px; background: #333; border: 1px solid #555; color: #eee; border-radius: 4px; }
+</style>
+</head>
+<body>
+<h1>🗺️ Kythoria — Continental Map (Draft v0.1)</h1>
+<div class="subtitle">50 cols × 70 rows · ~20 mi/cell · C1,R1 = NW · Cold north → warm south</div>
+<div class="controls">
+  <label>Cell size: <input type="range" id="cellSize" min="30" max="80" value="46"> <span id="sizeDisplay">46px</span></label>
+  <label>Show: <input type="checkbox" id="showLabels" checked> Labels</label>
+</div>
+<div class="map-wrap"><div class="grid" id="mapGrid"></div></div>
+<div class="legend" id="legend"></div>
+
+<script>
+// ─── TERRAIN COLORS ───
+const T = {
+  TU: { c:'#c8dbe8', l:'Arctic Tundra' },
+  TA: { c:'#4a7a4a', l:'Subarctic Taiga' },
+  MT: { c:'#6a6a6a', l:'Mountain' },
+  FH: { c:'#9a8a6a', l:'Foothills' },
+  HI: { c:'#a89878', l:'Rugged Highlands' },
+  GR: { c:'#7ab85a', l:'Grassland / Plains' },
+  FR: { c:'#2a6a2a', l:'Forest' },
+  BW: { c:'#4a4030', l:'Barren Wasteland' },
+  JF: { c:'#5ab84a', l:'Subtropical Jungle' },
+  SF: { c:'#2a2a4a', l:'Shadow Forest (Underdark)' },
+  RV: { c:'#3a7aba', l:'River' },
+  LK: { c:'#2a5a8a', l:'Lake' },
+};
+
+// ─── LOCATION COLORS ───
+const LOC_COLORS = { CAP:'#e8c040', SET:'#d07030', TWN:'#50a0c0', POI:'#d05050', AREA:'#a08060' };
+const LOC_NAMES = {
+  SKY:'Skywatch', WEAVE:'Weaveheart', EMBER:'Emberforge',
+  DRAKHAVEN:'Drakhaven', HEARTHGLEN:'Hearthglen', EVERQUILL:'Everquill',
+  ELYNDOR:'Elyndor', KAZADUR:'Kazadur', STONEFIST:'Stonefist',
+  FANGHOLD:'Fanghold',
+  SE_PORT:'SE Port', E_PORT:'E Port',
+  LOGISTICS_HUB:'Log Hub', METAL_MINE:'Metal Mine', GEM_MINE:'Gem Mine',
+  STONEFALL:'Stonefall', ICEREST:'Icerest', SEALFANG:'Sealfang',
+  NORDRIFT:'Nordrift', FROSTWOOD_STN:'Frostwood',
+  GAMMA7:'Gamma-7', PRIMARY_FAC:'Primary Fac', STANDING_STONES:'Standing Stones',
+  WHISPERING_GLACIER:'Whispering Gl',
+  ELARWYN:'Elarwyn', CAVERN_DISC:'Cavern Disc',
+  BLACK_WILLOW:'Black Willow', AZURE_BONEYARD:'Azure Boneyard',
+  BONEFIELDS:'Bonefields'
+};
+
+// ─── LOCATION DATA ───
+const locs = [
+  { x1:28, x2:30, y1:36, y2:38, t:'CAP', a:'SKY' },
+  { x1:29, x2:31, y1:39, y2:41, t:'CAP', a:'WEAVE' },
+  { x1:26, x2:28, y1:38, y2:40, t:'CAP', a:'EMBER' },
+  { x1:30, x2:31, y1:35, y2:36, t:'SET', a:'DRAKHAVEN' },
+  { x1:32, x2:33, y1:33, y2:34, t:'SET', a:'HEARTHGLEN' },
+  { x1:28, x2:29, y1:33, y2:34, t:'SET', a:'EVERQUILL' },
+  { x1:34, x2:35, y1:46, y2:47, t:'SET', a:'ELYNDOR' },
+  { x1:37, x2:38, y1:26, y2:27, t:'SET', a:'KAZADUR' },
+  { x1:26, x2:27, y1:28, y2:29, t:'SET', a:'STONEFIST' },
+  { x1:43, x2:44, y1:4,  y2:5,  t:'SET', a:'FANGHOLD' },
+  { x1:45, x2:46, y1:62, y2:63, t:'SET', a:'SE_PORT' },
+  { x1:48, x2:49, y1:42, y2:43, t:'SET', a:'E_PORT' },
+  { x1:42, x2:43, y1:5,  y2:5,  t:'AREA', a:'BONEFIELDS' },
+  { x1:36, x2:36, y1:27, y2:27, t:'TWN', a:'LOGISTICS_HUB' },
+  { x1:38, x2:38, y1:25, y2:25, t:'TWN', a:'METAL_MINE' },
+  { x1:38, x2:38, y1:28, y2:28, t:'TWN', a:'GEM_MINE' },
+  { x1:19, x2:19, y1:37, y2:37, t:'TWN', a:'STONEFALL' },
+  { x1:45, x2:45, y1:6,  y2:6,  t:'TWN', a:'ICEREST' },
+  { x1:47, x2:47, y1:6,  y2:6,  t:'TWN', a:'SEALFANG' },
+  { x1:44, x2:44, y1:7,  y2:7,  t:'TWN', a:'NORDRIFT' },
+  { x1:38, x2:38, y1:8,  y2:8,  t:'TWN', a:'FROSTWOOD_STN' },
+  { x1:16, x2:16, y1:37, y2:37, t:'POI', a:'GAMMA7' },
+  { x1:14, x2:14, y1:39, y2:39, t:'POI', a:'PRIMARY_FAC' },
+  { x1:18, x2:18, y1:37, y2:37, t:'POI', a:'STANDING_STONES' },
+  { x1:40, x2:40, y1:3,  y2:3,  t:'POI', a:'WHISPERING_GLACIER' },
+  { x1:39, x2:39, y1:51, y2:51, t:'POI', a:'ELARWYN' },
+  { x1:40, x2:40, y1:44, y2:44, t:'POI', a:'CAVERN_DISC' },
+  { x1:10, x2:10, y1:58, y2:58, t:'POI', a:'BLACK_WILLOW' },
+  { x1:12, x2:12, y1:52, y2:52, t:'POI', a:'AZURE_BONEYARD' },
+];
+
+// ─── GENERATE GRID DATA ───
+function getTerrain(r, c) {
+  let t = 'GR';
+
+  if (r <= 8) t = 'TU';
+  else if (r >= 9 && r <= 16) {
+    if (c >= 31 && c <= 35) t = 'MT';
+    else if (c <= 30 || c >= 36) t = 'TA';
+  }
+  if (r >= 6 && r <= 22 && c >= 31 && c <= 34) t = 'MT';
+  if (r >= 19 && r <= 23 && c >= 32 && c <= 39) t = 'MT';
+  if (r >= 17 && r <= 24 && c <= 30 && !['MT','FH'].includes(t)) t = (r<=19?'TA':'HI');
+  if (r >= 25 && r <= 30 && c >= 22 && c <= 39 && t !== 'MT') t = 'FH';
+  if (c <= 9) {
+    if (r <= 8) t = 'TU';
+    else if (r <= 16) t = 'TA';
+    else if (r <= 30) t = 'HI';
+    else if (r <= 53) t = 'HI';
+    else t = 'JF';
+  }
+  if (r <= 19 && c >= 10 && c <= 24 && !['MT','FH'].includes(t)) t = (r<=8?'TU':'TA');
+  if (r >= 48 && r <= 54 && c >= 36 && c <= 43) t = 'FR';
+  if (r >= 46 && r <= 47 && c >= 33 && c <= 35) t = 'FR';
+  if (r >= 54 && r <= 63 && c >= 6 && c <= 14) t = 'SF';
+  if (r >= 55 && c >= 15 && t === 'GR') t = 'JF';
+  if (r >= 38 && r <= 40 && c >= 26 && c <= 28) t = 'BW';
+  if (r >= 7 && r <= 9 && c >= 37 && c <= 39 && t !== 'RV') t = 'FR';
+
+  const rivers = {'37,10':1,'38,8':1,'40,7':1,'41,6':1,'42,5':1,'43,4':1};
+  if (rivers[c+','+r]) t = 'RV';
+  const lakes = {'20,34':1,'25,44':1,'46,46':1,'30,60':1,'17,42':1,'33,50':1,'24,55':1,'40,64':1,'8,45':1,'12,28':1};
+  if (lakes[c+','+r]) t = 'LK';
+
+  return t;
+}
+
+function blend(c1, c2, ratio) {
+  const h = (s)=>parseInt(s,16);
+  const r1=h(c1.slice(1,3)),g1=h(c1.slice(3,5)),b1=h(c1.slice(5,7));
+  const r2=h(c2.slice(1,3)),g2=h(c2.slice(3,5)),b2=h(c2.slice(5,7));
+  const m=(v)=>Math.round(v).toString(16).padStart(2,'0');
+  return `#${m(r1*(1-ratio)+r2*ratio)}${m(g1*(1-ratio)+g2*ratio)}${m(b1*(1-ratio)+b2*ratio)}`;
+}
+
+function isInLoc(c, r, loc) {
+  return c >= loc.x1 && c <= loc.x2 && r >= loc.y1 && r <= loc.y2;
+}
+
+// ─── RENDER ───
+function render(cellSize, showLabels) {
+  const gridEl = document.getElementById('mapGrid');
+  const COLS = 50, ROWS = 70;
+  gridEl.style.gridTemplateColumns = `${Math.round(cellSize * 1.2)}px repeat(${COLS}, ${Math.round(cellSize)}px)`;
+
+  let html = '<div class="label-cell">&nbsp;</div>';
+  for (let c = 1; c <= COLS; c++) {
+    html += `<div class="label-cell">C${c}</div>`;
+  }
+
+  for (let r = 1; r <= ROWS; r++) {
+    html += `<div class="label-cell" style="font-size:${Math.max(8,cellSize/4)}px">R${r}</div>`;
+
+    for (let c = 1; c <= COLS; c++) {
+      const terrain = getTerrain(r, c);
+      const tc = T[terrain]?.c || '#666';
+
+      // Find location at this cell
+      let loc = null;
+      for (const l of locs) {
+        if (isInLoc(c, r, l)) { loc = l; break; }
+      }
+
+      let bg = tc;
+      let cls = '';
+      let label = '';
+      let fontSize = Math.max(7, cellSize / 4.2);
+
+      if (loc) {
+        cls = 'loc';
+        bg = blend(tc, LOC_COLORS[loc.t] || '#888', 0.55);
+        if (showLabels) {
+          const name = LOC_NAMES[loc.a] || loc.a;
+          // Show abbreviated name for multi-cell, full name for single
+          label = name;
+          if (name.length > 8) fontSize = Math.max(6, cellSize / 5.5);
+        }
+      }
+
+      // Rivers and lakes get special markers
+      if (terrain === 'RV' && !loc) { bg = '#3a7aba'; label = '≈'; cls = ''; }
+      if (terrain === 'LK' && !loc) { bg = '#2a5a8a'; label = '◆'; cls = ''; }
+
+      // Small terrain label for empty cells when zoomed out
+      if (!loc && terrain !== 'RV' && terrain !== 'LK') {
+        if (cellSize >= 50) label = terrain;
+      }
+
+      html += `<div class="${cls}" style="background:${bg};font-size:${fontSize}px">${label}</div>`;
+    }
+  }
+
+  gridEl.innerHTML = html;
+}
+
+// ─── INITIAL RENDER ───
+let currentSize = 46;
+render(currentSize, true);
+
+// ─── CONTROLS ───
+document.getElementById('cellSize').addEventListener('input', function() {
+  currentSize = parseInt(this.value);
+  document.getElementById('sizeDisplay').textContent = this.value + 'px';
+  render(currentSize, document.getElementById('showLabels').checked);
+});
+document.getElementById('showLabels').addEventListener('change', function() {
+  render(currentSize, this.checked);
+});
+
+// ─── LEGEND ───
+(function buildLegend() {
+  const el = document.getElementById('legend');
+  let h = '<h3>🗺️ Terrain Key</h3><div class="legend-grid">';
+  for (const [k,v] of Object.entries(T)) {
+    h += `<div class="legend-item"><div class="legend-swatch" style="background:${v.c}"></div>${k} — ${v.l}</div>`;
+  }
+  h += '</div>';
+  h += '<div class="legend-section"><h4>📍 Settlement & POI Colors</h4><div class="loc-tags">';
+  h += `<span class="loc-tag"><div class="swatch" style="background:${LOC_COLORS.CAP}"></div>Capital</span>`;
+  h += `<span class="loc-tag"><div class="swatch" style="background:${LOC_COLORS.SET}"></div>Large Settlement</span>`;
+  h += `<span class="loc-tag"><div class="swatch" style="background:${LOC_COLORS.TWN}"></div>Small Town</span>`;
+  h += `<span class="loc-tag"><div class="swatch" style="background:${LOC_COLORS.POI}"></div>POI / Landmark</span>`;
+  h += `<span class="loc-tag"><div class="swatch" style="background:${LOC_COLORS.AREA}"></div>Area</span>`;
+  h += '</div></div>';
+  h += `<div class="legend-section"><h4>📍 All Locations</h4><div class="loc-tags">`;
+  const seen = new Set();
+  for (const l of locs) {
+    if (seen.has(l.a)) continue;
+    seen.add(l.a);
+    h += `<span class="loc-tag"><div class="swatch" style="background:${LOC_COLORS[l.t]}"></div>${LOC_NAMES[l.a]||l.a}</span>`;
+  }
+  h += '</div></div>';
+  h += '<div class="note">Hover any cell to zoom · Use the slider to adjust cell size · Toggle labels on/off</div>';
+  el.innerHTML = h;
+})();
+</script>
+</body>
+</html>

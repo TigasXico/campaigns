@@ -1,0 +1,635 @@
+{
+  "metadata": {
+    "name": "Kythoria Continental Map",
+    "version": "0.1.0",
+    "date": "2026-09-17",
+    "scale": "~20 miles per cell",
+    "dimensions": { "columns": 50, "rows": 70 },
+    "coordinate_system": "C-1,R-1 = top-left (northwest). Column increases eastward, Row increases southward.",
+    "orientation": "cold north → warm south",
+    "climate_gradient": "standard latitudinal",
+    "notes": "Draft for review. Underdark/cave systems omitted from surface map except where noted."
+  },
+
+  "templates": {
+    "Capital_C3":   { "type": "capital_city", "cells": "3×3", "description": "Seat of a capital, major population center" },
+    "Large_C2":     { "type": "large_settlement", "cells": "2×2", "description": "Major ruined city, large port, fortress settlement" },
+    "Small_C1":     { "type": "small_settlement", "cells": "1×1", "description": "Frontier town, village, minor settlement, outpost" },
+    "POI_P1":       { "type": "point_of_interest", "cells": "1×1", "description": "Single building, ruin, landmark, cavern entrance, glacier" },
+    "Region":       { "type": "region", "cells": "variable rectangle", "description": "Forest, mountain range, sea, contested zone" },
+    "River":        { "type": "river", "cells": "1-cell-wide path", "description": "Flowing waterway" },
+    "Road":         { "type": "road", "cells": "1-cell-wide path", "description": "Trade/military road" }
+  },
+
+  "biome_zones": [
+    { "rows": "R1-R8",  "cols": "C1-C35",  "biome": "arctic_tundra",        "label": "Frozen North (monster-held NW)",           "climate": "arctic",       "status": "monster-held" },
+    { "rows": "R1-R8",  "cols": "C36-C50", "biome": "arctic_tundra",        "label": "Frostmaw (Skallfang-held)",               "climate": "arctic",       "status": "independent" },
+    { "rows": "R9-R16", "cols": "C1-C30",  "biome": "subarctic_taiga",      "label": "Northern Wastes (monster-held)",           "climate": "subarctic",    "status": "monster-held" },
+    { "rows": "R9-R16", "cols": "C36-C50", "biome": "subarctic_taiga",      "label": "Frostmaw Southern Reaches",               "climate": "subarctic",    "status": "independent" },
+    { "rows": "R6-R22", "cols": "C31-C34", "biome": "mountain",             "label": "Spine of the World (N-S spine)",           "climate": "alpine",       "status": "natural_barrier" },
+    { "rows": "R19-R23","cols": "C32-C39", "biome": "mountain",             "label": "Spine of the World (S foothills)",         "climate": "alpine",       "status": "natural_barrier" },
+    { "rows": "R17-R24","cols": "C1-C30",  "biome": "subarctic_transition", "label": "Northern Frontier Transition",             "climate": "cool",         "status": "contested" },
+    { "rows": "R25-R30","cols": "C25-C39", "biome": "mountain_foothills",   "label": "Northeast Mountains (Kazadur region)",     "climate": "cool_mountain","status": "partially_reclaimed" },
+    { "rows": "R25-R30","cols": "C22-C24", "biome": "mountain_foothills",   "label": "Stonefist Mountains",                     "climate": "cool_mountain","status": "monster-held" },
+    { "rows": "R30-R52","cols": "C23-C35", "biome": "temperate_heartlands", "label": "Temperate Heartlands (core civilization)", "climate": "temperate",    "status": "reclaimed" },
+    { "rows": "R30-R45","cols": "C10-C22", "biome": "temperate_transitional","label": "Western Frontier (contested)",             "climate": "temperate",    "status": "contested" },
+    { "rows": "R30-R52","cols": "C36-C50", "biome": "temperate_eastern",    "label": "Eastern Recovered Lands",                 "climate": "temperate",    "status": "reclaimed" },
+    { "rows": "R46-R55","cols": "C23-C35", "biome": "temperate_forest",     "label": "Southern Heartlands (Elyndor area)",       "climate": "temperate",    "status": "partially_reclaimed" },
+    { "rows": "R48-R55","cols": "C36-C45", "biome": "temperate_old_growth", "label": "Verdant Reaches",                         "climate": "temperate",    "status": "reclaimed" },
+    { "rows": "R53-R63","cols": "C6-C14",  "biome": "subtropical_shadow",   "label": "The Underdark (shadow-forest)",            "climate": "subtropical",  "status": "independent_drow" },
+    { "rows": "R53-R70","cols": "C1-C5",   "biome": "subtropical_wilderness","label": "Far South-West (monster-held)",            "climate": "subtropical",  "status": "monster-held" },
+    { "rows": "R53-R70","cols": "C15-C50", "biome": "subtropical",          "label": "Subtropical South (recovered)",            "climate": "subtropical",  "status": "reclaimed" },
+    { "rows": "R1-R70",  "cols": "C1-C9",  "biome": "monster_far_west",     "label": "Far West (uncharted, monster-held)",       "climate": "varied",       "status": "monster-held" },
+    { "rows": "R9-R16",  "cols": "C31-C35", "biome": "mountain",            "label": "Spine of the World (northern pass)",       "climate": "alpine",       "status": "natural_barrier" }
+  ],
+
+  "terrain_features": {
+    "mountain_ranges": [
+      {
+        "id": "spine_of_the_world",
+        "name": "Spine of the World",
+        "segments": [
+          { "span_cols": "C31-C34", "span_rows": "R6-R22", "orientation": "north-south", "note": "Divides NW monster-held from NE Frostmaw" },
+          { "span_cols": "C32-C39", "span_rows": "R19-R23", "orientation": "east-west", "note": "Southern foothills, separates Frostmaw from Kazadur region" }
+        ],
+        "description": "Massive mountain range. Rich in iron and unrefined crystal. Narrow passes guarded by Skallfang patrols. No monster army has crossed in force."
+      }
+    ],
+    "rivers": [
+      {
+        "id": "frostmaw_river",
+        "name": "Frostmaw River",
+        "path": ["C37,R10", "C38,R8", "C40,R7", "C41,R6", "C42,R5", "C43,R4"],
+        "description": "Flows from Spine of the World through Frostwood lowlands to Icefang Sea. Lifeblood of the Frostmaw."
+      },
+      {
+        "id": "elyndor_rivers",
+        "name": "Elyndor River Confluence",
+        "path": "confluence_at_elyndor",
+        "description": "Two rivers converge at Elyndor. Exact tributary paths TBD when map detail increases.",
+        "confluence_cell": "C34,R46"
+      }
+    ],
+    "rivers_placeholder": [
+      {
+        "id": "heartlands_river",
+        "name": "Heartlands River System",
+        "note": "Central river system feeding Hearthglen valley and surrounding farmlands. Tributaries from Spine of the World southward through the heartlands. Exact paths TBD.",
+        "general_flow": "northeast → southwest through heartlands"
+      }
+    ],
+    "seas": [
+      {
+        "id": "icefang_sea",
+        "name": "Icefang Sea",
+        "span_cols": "C36-C50",
+        "span_rows": "R1-R2",
+        "description": "Northern ocean. Perpetually choked with ice floes. Few ships venture here."
+      }
+    ],
+    "forests": [
+      {
+        "id": "frostwood",
+        "name": "The Frostwood",
+        "span_cols": "C37-C39",
+        "span_rows": "R7-R9",
+        "description": "Stunted, frozen forest of twisted pines and hardy shrubs in Frostmaw river valleys. Only source of timber in the region."
+      },
+      {
+        "id": "verdant_reaches",
+        "name": "The Verdant Reaches",
+        "span_cols": "C36-C43",
+        "span_rows": "R48-R54",
+        "description": "Vast old-growth forest. Part of former Kingdom of Elyndor territory. Dense canopy — some areas never see sunlight."
+      },
+      {
+        "id": "underdark_forest",
+        "name": "The Underdark (Surface Forest)",
+        "span_cols": "C6-C14",
+        "span_rows": "R54-R63",
+        "description": "Forest of perpetual shadow. Colossal Black Willow at center blocks all sunlight. Drow theocratic community. South-west Kythoria. Besieged but never breached during invasion."
+      }
+    ],
+    "roads": [
+      {
+        "id": "frontier_road",
+        "name": "The Frontier Road",
+        "path": ["C19,R37", "C18,R37", "C17,R37", "C16,R37", "C15,R37", "C14,R37", "C13,R38", "C12,R38", "C11,R38"],
+        "description": "Extends west from heartlands into contested territory. Lifeline for military supply convoys. Always guarded."
+      }
+    ]
+  },
+
+  "locations": [
+    {
+      "id": "skywatch",
+      "name": "Skywatch",
+      "region": "The Three Capitals",
+      "center": { "col": 29, "row": 37 },
+      "template": "Capital_C3",
+      "status": "active_capital",
+      "biome": "temperate_heartlands",
+      "terrain": "Elevated terrain with panoramic views. Highest of the three capitals.",
+      "rationale": "Primary scouting/observation hub. Ruled by King + Council of Eyes. Elven capital city. Northernmost of the three capitals.",
+      "sub_locations": ["Skywatch War College", "Cartography Hall", "The Lookout", "Guiding Hand Guild HQ"],
+      "nearby": [
+        { "to": "weaveheart", "relation": "south (sister city)" },
+        { "to": "emberforge", "relation": "west-southwest (sister city)" }
+      ]
+    },
+    {
+      "id": "weaveheart",
+      "name": "Weaveheart",
+      "region": "The Three Capitals",
+      "center": { "col": 30, "row": 40 },
+      "template": "Capital_C3",
+      "status": "active_capital",
+      "biome": "temperate_heartlands",
+      "terrain": "Atop a ley line convergence. Arcane energy flows close to surface.",
+      "rationale": "Arcane/research heart. Magical barrier powered from here. Human capital city. South of Skywatch.",
+      "sub_locations": ["Grand Athenaeum", "Weaveheart Academy of Arcane Arts", "Magical Barrier Hub"],
+      "nearby": [
+        { "to": "skywatch", "relation": "north (sister city)" },
+        { "to": "emberforge", "relation": "west-northwest (sister city)" }
+      ]
+    },
+    {
+      "id": "emberforge",
+      "name": "Emberforge",
+      "region": "The Three Capitals",
+      "center": { "col": 27, "row": 39 },
+      "template": "Capital_C3",
+      "status": "active_capital",
+      "biome": "temperate_heartlands",
+      "terrain": "Beneath a volcanic ash wasteland (surface is barren). Underground city harnessing geothermal activity.",
+      "rationale": "Industrial heart. Dwarven capital city. West of Skywatch and Weaveheart.",
+      "sub_locations": ["Volcanic Forges", "Engineering Halls", "Engineering Archives", "Emberforge Opera"],
+      "nearby": [
+        { "to": "skywatch", "relation": "east-northeast (sister city)" },
+        { "to": "weaveheart", "relation": "east-southeast (sister city)" }
+      ]
+    },
+    {
+      "id": "arcane_reactive_crystal_cave",
+      "name": "Arcane-Reactive Crystal Cave",
+      "region": "The Three Capitals",
+      "center": { "col": 29, "row": 39 },
+      "template": null,
+      "status": "underground_not_mapped",
+      "biome": null,
+      "terrain": "Underground — not visible on surface map",
+      "rationale": "Stretches beneath Skywatch and Weaveheart, beside Emberforge. Massive crystal formations of condensed B essence. Supercharges soil fertility above. Full extent unknown.",
+      "surface_only_note": "NOT rendered on surface map — listed here as context for why capitals are placed here."
+    },
+    {
+      "id": "drakhaven",
+      "name": "Drakhaven",
+      "region": "Ruined Mortal Kingdoms",
+      "center": { "col": 30, "row": 35 },
+      "template": "Large_C2",
+      "status": "partially_reclaimed_ruin",
+      "biome": "temperate_heartlands",
+      "terrain": "Center of the continent. Where all trade routes converged. Wide paved avenues, grand architecture.",
+      "rationale": "Largest pre-invasion city. Human kingdom capital. Partially reclaimed. Trade routes converge here. Self-styled 'capital of Kythoria'.",
+      "sub_locations": ["The High Septon (within)", "Drakh Ix'thar HQ (restored)"],
+      "nearby": [
+        { "to": "skywatch", "relation": "south-southeast (~2 cells)" },
+        { "to": "hearthglen", "relation": "northeast (~2 cells)" }
+      ]
+    },
+    {
+      "id": "hearthglen",
+      "name": "Hearthglen",
+      "region": "Rined Mortal Kingdoms",
+      "center": { "cl": 32, "row": 33 },
+      "template": "Lare_C2",
+      "status": "anihilated_ruin",
+      "bome": "temperate_heartlands",
+      "terrain": "Fertile river valley. Agricultural land — now ruined and salted.",
+      "rationale": "Halfling kingdom capital. Central position for trade. West of Kazadur, somewhat east of Drakhaven. Trade partner with Kazadur (metals → minting). Royal Mint location.",
+      "sub_locations": ["Royal Mint (ruined)"],
+      "nearby": [
+        { "to": "kazadur", "relation": "east (~5 cells — trade route)" },
+        { "to": "drakhaven", "relation": "southwest (~2 cells)" }
+      ]
+    },
+    {
+      "id": "everquill",
+      "name": "Everquill",
+      "region": "Ruined Mortal Kingdoms",
+      "center": { "col": 28, "row": 33 },
+      "template": "Large_C2",
+      "status": "monster_held_ruin",
+      "biome": "temperate_heartlands",
+      "terrain": "City of pale towers. Central position among kingdoms for diplomacy. Wide boulevards, terraced gardens.",
+      "rationale": "Gnome kingdom capital. Centrally positioned among the six mortal kingdoms. Between Drakhaven and the frontier transition. Paper capital — treaties, laws, maps penned here.",
+      "sub_locations": ["Great Archive (lower vaults may survive)"],
+      "nearby": [
+        { "to": "drakhaven", "relation": "west (~2 cells)" },
+        { "to": "hearthglen", "relation": "northeast (~4 cells)" }
+      ]
+    },
+    {
+      "id": "elyndor",
+      "name": "Elyndor",
+      "region": "Ruined Mortal Kingdoms",
+      "center": { "cl": 34, "row": 46 },
+      "template": "Lare_C2",
+      "status": "monster_held_ruin",
+      "bome": "temperate_forest",
+      "terrain": "Frested region at confluence of two rivers. Elegant ruins woven into living trees.",
+      "rationale": "Elven kingdom capital. Southeast of heartlands. Verdant Reaches in its territory. Sacred grove at city center. Still monster-held, unreclaimed.",
+      "sub_locations": ["Sacred Grove"],
+      "nearby": [
+        { "to": "verdant_reaches", "relation": "south (overlaps territory)" },
+        { "to": "drakhaven", "relation": "northwest (~5 cells)" }
+      ]
+    },
+    {
+      "id": "kazadur",
+      "name": "Kazadur",
+      "region": "Ruined Mortal Kingdoms",
+      "center": { "col": 37, "row": 26 },
+      "template": "Large_C2",
+      "status": "partially_reclaimed_ruin",
+      "biome": "mountain_foothills",
+      "terrain": "Carved into mountain range (Spine of the World foothills). Grew inward and downward following ore veins. Terraced mining above ground.",
+      "rationale": "Dwarven kingdom capital. Northeast of Kythoria. Rich in iron, silver, gold, platinum, gemstones. Deepest halls sealed — undiscovered.",
+      "sub_locations": ["Sealed Deep Halls (undiscovered)", "Terraced Mining Operations"],
+      "nearby": [
+        { "to": "frostmaw", "relatin": "north (across Spine foothills)" },
+        { "to": "heartglen", "relatin": "west (~5 cells — trade route)" },
+        { "to": "logistics_hub", "relaton": "southwest (adjacent)" },
+        { "to": "metal_mining_town", "relatin": "northwest (adjacent)" },
+        { "to": "gemstone_mining_town", "relaton": "south (adjacent)" }
+      ]
+    },
+   {
+      "id": "logistics_hub",
+      "name": "Logistics Hub",
+      "region": "Northeast Mining Cluster",
+      "center": { "col": 36, "row": 27 },
+      "template": "Smal_C1",
+      "staus": "reclaimed_minr_settlement",
+      "biome": "mountai_foothills",
+      "terrain": "Fortified waystation. Halflings coordinate shipping of raw materials from mines.",
+      "rationale": "Halfling-run shipping coordinator between Kazadur mines and Hearthglen mint. Minor settlement.",
+      "nearby": [
+        { "to": "kazadur", "relation": "northeast (adjacent)" }
+      ]
+    },
+   {
+      "id": "metal_mining_town",
+      "name": "Metal Mining Town",
+      "region": "Northeast Mining Cluster",
+      "center": { "col": 38, "row": 25 },
+      "template": "Smal_C1",
+      "staus": "reclaimed_minr_settlement",
+      "biome": "mountain",
+      "terrain": "Focused on extracting currency metals (gold, silver, copper, platinum).",
+      "rationale": "One of three minor settlements in the Kazadur mining cluster. Open to any race wanting to earn coin.",
+      "nearby": [
+        { "to": "kazadur", "relation": "southwest (adjacent)" }
+      ]
+    },
+   {
+      "id": "gemstone_mining_town",
+      "name": "Gemstone Mining Town",
+      "region": "Northeast Mining Cluster",
+      "center": { "col": 38, "row": 28 },
+      "template": "Smal_C1",
+      "staus": "reclaimed_minr_settlement",
+      "biome": "mountain",
+      "terrain": "Focused on extracting gemstones.",
+      "rationale": "One of three minor settlements in the Kazadur mining cluster. Open to any race wanting to earn coin.",
+      "nearby": [
+        { "to": "kazadur", "relation": "nothwest (adjacent)" }
+      ]
+    },
+   {
+      "id": "stonefist",
+      "name": "Stonefist",
+      "region": "Ruined Mortal Kingdoms",
+      "center": { "col": 26, "row": 28 },
+      "template": "Large_C2",
+      "status": "monster_held_ruin",
+      "biome": "mountain_foothills",
+      "terrain": "Massive unadorned stone carved from living rock. Fortress capital. Training grounds cut into mountainside.",
+      "rationale": "Half-Orc kingdom capital. Rugged, defensible mountain region. Exact position lore says 'TBD' — placed west of Kazadur in a mountainous zone that fits the defensive fortress description. Monster-held.",
+      "sub_locations": [],
+      "nearby": [
+        { "to": "kazadur", "relatin": "east (~5 cells across mountain terrain)" },
+        { "to": "frontier_zone", "relatin": "southwest" }
+      ]
+    },
+    {
+      "id": "stonefall",
+      "name": "Stoefall",
+      "region": "Western Frontier",
+      "center": { "col": 19, "row": 37 },
+      "template": "Smll_C1",
+      "status": "active_frontier_town",
+      "biome": "temperate_tranitional",
+      "terrain": "Edge of Last Stand territory. Timber and stone. Half-finished wall. Population few hundred.",
+      "rationale": "Last real settleent before wilderness. Three days (cells) east of Gamma-7. FX's safe house here.",
+      "sub_locations": ["X's Safe Huse (northern edge)", "The Rusty Compass", "Settler's Rest", "Poured Stone", "Shrine to Aurelius"],
+      "nearby": [
+        { "to": "site_gamma_7", "relation": "west (~3 cells = 3 days)" },
+        { "to": "standing_stones", "relation": "west (~1 cell)" },
+        { "to": "heartlands", "relation": "east" }
+      ]
+    },
+   {
+      "id": "site_gamma_7",
+      "name": "Site Gamma-7",
+      "region": "Wstern Frontier",
+      "center": { "col": 16, "row": 37 },
+      "template": "PO_P1",
+      "status": "abandoned_research_outpost",
+      "biome": "temperate_tranitional",
+      "terrain": "Rgged highlands. Surface buildings partially collapsed. Underground levels better preserved.",
+      "rationale": "3 cells west of Stonefall = 3 days travel. Abandoned Flesh Architects research utpost. ViF coalition facility. Three Curves symbol throughout.",
+      "sub_locations": ["collapsed dome", "broken tower", "underground levels", "containment vault (guardian beast)"],
+      "nearby": [
+        { "to": "stonefall", "relation": "east (~3 cells)" },
+        { "to": "primary_faclity", "relation": "east-sutheast (~2 cells)" }
+      ]
+    },
+    {
+      "id": "primary_facility",
+      "name": "Priary Facility (Flesh Architects)",
+      "region": "Wstern Frontier",
+      "center": { "col": 14, "row": 39 },
+      "template": "POI_P1",
+      "status": "active_hostile_facility",
+      "biome": "temperate_tranitional",
+      "terrain": "Deper into frotier wilderness. Active, operational installation. Defenses unknown.",
+      "rationale": "East-southeast of Gamma-7 (~2 cells). Main Flesh Architects installation. Houses Catalyst Project & Project Genesis. Zan escaped from here at age 13. Larger and more important than Gamma-7.",
+      "sub_locations": [],
+      "nearby": [
+        { "to": "site_gamma_7", "relation": "west-northwest (~2 cells)" }
+      ]
+    },
+    {
+      "id": "standing_stones",
+      "name": "Standig Stones",
+      "region": "Wstern Frontier",
+      "center": { "col": 18, "row": 37 },
+      "template": "POI_P1",
+      "sttus": "landmark",
+      "biome": "temperate_tranitional",
+      "terrain": "Ridge-top. Nine moss-covered stones in a circle. Ancient funerary rite site. Pre-dates all known religions.",
+      "rationale": "Between Stonefall and Gamma-7 (~1 cell west of Stonefall). Ley line convergence point. Landmark on FX's map. Party visited in Session 3.",
+      "sub_locations": [],
+      "nearby": [
+        { "to": "stonefall", "relation": "east (~1 cell)" },
+        { "to": "site_gamma_7", "relation": "west (~2 cells)" }
+      ]
+    },
+    {
+      "id": "fanghold",
+      "name": "Fanghold",
+      "region": "Frostmaw",
+      "center": { "col": 43, "row": 4 },
+      "template": "Lare_C2",
+      "status": "active_fortress_settlement",
+      "biome": "arctic_tundra",
+      "terrain": "Cared into a mountain face overlooking the Icefang Sea. Single massive structure of stone, timber, and ice. Interconnected halls and chambers.",
+      "rationale": "Main Skallfang Cln settlement. Entire clan (~400 souls) lives within. One entrance — the Ice Gate.",
+      "sub_locations": ["Great Hall", "The Vault (empty, warded)", "Ice Gate", "Hrothgar's Lodge (destroyed)"],
+      "nearby": [
+        { "to": "bonefields", "relation": "west (adjacent)" },
+        { "to": "whispering_glacier", "relatin": "west-southwest (~3 cells)" },
+        { "to": "ierest", "relaton": "east (coastal)" }
+      ]
+    },
+    {
+      "id": "icrest",
+      "name": "Icerst",
+      "region": "Frstmaw",
+      "center": { "col": 45, "row": 6 },
+      "template": "Smal_C1",
+      "staus": "active_vllage",
+      "biome": "arctic_coastal",
+      "terrain": "Smll fishing outpost on Icefang Sea coast. 20-30 clan members.",
+      "rationale": "One of three coastal Skallfang villages.",
+      "nearby": [
+        { "to": "fanghold", "relation": "west-northwest (hub)" },
+        { "to": "sealfang", "relation": "northeast" }
+      ]
+    },
+    {
+      "id": "sealfang",
+      "name": "Salfang",
+      "region": "Froswmaw",
+      "center": { "col": 47, "row": 6 },
+      "template": "Smal_C1",
+      "staus": "active_vllage",
+      "biome": "arctic_coastal",
+      "terrain": "Smll fishing outpost on Icefang Sea coast. 20-30 clan members.",
+      "rationale": "One of three coastal Skallfang villages.",
+      "nearby": [
+        { "to": "fanghold", "relation": "west (hub)" },
+        { "to": "icrest", "relaton": "southwest" }
+      ]
+    },
+   {
+      "id": "nordrift",
+      "name": "Nordrift",
+      "region": "Frostmaw",
+      "center": { "col": 44, "row": 7 },
+      "template": "Smal_C1",
+      "status": "active_vilage",
+      "biome": "arctic_coastal",
+      "terrain": "Small fishing outpost on Icefang Sea coast. 20-30 clan members.",
+      "rationale": "One of three coastal Skallfang villages.",
+      "nearby": [
+        { "to": "fanghold", "relation": "northwest (hub)" },
+        { "to": "ierest", "relation": "east" }
+      ]
+    },
+   {
+      "id": "frostwood_station",
+      "name": "Frostwood Staton",
+      "region": "Frostmaw",
+      "center": { "col": 38, "row": 8 },
+      "template": "Smll_C1",
+      "status": "active_outpost",
+      "biome": "subarctic_taiga",
+      "terrain": "Single longhouse with stable, smokehouse, and storage cellar. In the Frostwood forest.",
+      "rationale": "Hunting outpost used by Skallfang huners on extended expeditions. In Frostwood river valleys.",
+      "nearby": [
+        { "to": "frostmaw_river", "relation": "nearby" }
+      ]
+    },
+    {
+      "id": "whispering_glcier",
+      "name": "Whspering Glacier",
+      "region": "Frostmaw",
+      "center": { "col": 40, "row": 3 },
+      "template": "POI_P1",
+      "staus": "landmark_vaul",
+      "biome": "arctic_glacier",
+      "terrain": "Anient glacier that emits a constant low hum — 'the Whisper.' Deep within, a vault once held Khar'zul's sealed blade.",
+      "rationale": "Heart of the Frostmaw. Khar'zul's blade held here for first century of clan guardianship. Cold supressed the blade's inluence. Skallfang elders claim the glacier 'speaks'.",
+      "nearby": [
+        { "to": "fanghold", "relation": "east-northeast (~3 cells)" }
+      ]
+    },
+    {
+      "id": "bonefields",
+      "name": "Bonefields",
+      "region": "Frostmaw",
+      "center": { "col": 42, "row": 5 },
+      "template": "Lare_C2",
+      "status": "landscae",
+      "biome": "arctic_tundra",
+      "terrain": "Vast stretch of frozen tundra littered with monster skeletons. Nothing grows. Burial chamers beneath.",
+      "rationale": "Between Fanghold and Icefang Sea. Generations of slain monsters + Skallfang ancestors buried together. Sound of howling dead beasts in deep winter.",
+      "nearby": [
+        { "to": "fanghold", "relation": "east (ajacent)" }
+      ]
+    },
+   {
+      "id": "southeastern_port",
+      "name": "The Southeastern Port",
+      "region": "South-East",
+      "center": { "col": 45, "row": 62 },
+      "template": "Lare_C2",
+      "status": "active_ajor_port",
+      "biome": "subtropial_coastal",
+      "terrain": "Heavily fortified port city. Built on ruins of pre-invasion city. Deep-water dock and lighthouse are pre-invasion originals.",
+      "rationale": "Sutheast coast. Major sea trade hub. Highly defensible by natural position. Exports: fruits, spices, timber, herbs.",
+      "sub_locations": [],
+      "nearby": [
+        { "to": "eastern_port", "relation": "north along coast" },
+        { "to": "verdant_reaches", "relation": "inland west" }
+      ]
+    },
+   {
+      "id": "eastern_port",
+      "name": "The Eatern Port",
+      "region": "Suth-East",
+      "center": { "col": 48, "row": 42 },
+      "template": "Lare_C2",
+      "status": "active_port_settleent",
+      "biome": "temperate_coastal",
+      "terrain": "Port settlement. Key waypoint on Eastern Sea Route.",
+      "rationale": "East coast. Handles significant maritime trade volume. Last to fall during invasion, first reclaimed.",
+      "sub_locations": [],
+      "nearby": [
+        { "to": "southeastern_port", "relation": "south along coast" },
+        { "to": "heartlands", "relation": "west inland" }
+      ]
+    },
+   {
+      "id": "elarwyn",
+      "name": "Elarwyn",
+      "region": "Suth-East",
+      "center": { "col": 39, "row": 51 },
+      "template": "POI_P1",
+      "status": "hidden_comunity",
+      "biome": "temperate_old_growth",
+      "terrain": "Deep within Verdant Reaches. Protected by magical barrier that shifts paths and disorients intruders.",
+      "rationale": "Aurora's birthplace. Founded by druids as refuge. Magical barrier keeps it hidden. Undiscovered by outside powers. Skylight cave nearby (ley line convergence).",
+      "sub_locations": [],
+      "nearby": [
+        { "to": "verdant_reaches", "relation": "surounded by" },
+        { "to": "elyndor", "relaton": "northwst" }
+      ]
+    },
+   {
+      "id": "cavern_of_discovery",
+      "name": "Cvern of Dicovery",
+      "region": "Suth-East",
+      "center": { "col": 40, "row": 44 },
+      "template": "POI_P1",
+      "sttus": "landmark_cave",
+      "biome": "mountai",
+      "terrain": "Rnote mountain cavern. Single large chamber with natural stone pillars. Underground stream (glacial metwater). Profound stillness.",
+      "rationale": "Mountain range near Nyra's childhood home, near Verdant Reaches area. Elemental air energy convergence. Site of Nyra's Air Elemental battle and first elemental crystal.",
+      "sub_locations": [],
+      "nearby": [
+        { "to": "verdant_reaches", "relaton": "southweast" }
+      ]
+    },
+   {
+      "id": "black_willow",
+      "name": "The Black Willow",
+      "region": "Suth-West",
+      "center": { "col": 10, "row": 58 },
+      "template": "POI_P1",
+      "sttus": "landmark_leylin_convergence",
+      "biome": "subtropical_shadow",
+      "terrain": "Colossal tree of impossible proportions at center of Underdark forest. Trunk wide enough for carved chambers. Roots run throughout the forest. Canopy blocks all sunlight.",
+      "rationale": "Gows upon a ley line convergence. B's lingering consciousness caused unnatural growth. Crystal cave at roots (underground — not mapped). Eternal twilight beneath. Lolth claimed credit.",
+      "sub_locations": [],
+      "nearby": [
+        { "to": "underdark_forest", "relation": "center of" }
+      ]
+    },
+   {
+      "id": "azure_boneard",
+      "name": "The Azre Boneyard",
+      "region": "Suth-West",
+      "center": { "col": 12, "row": 52 },
+      "template": "POI_P1",
+      "sttus": "landmark_cave",
+      "biome": "mountai",
+      "terrain": "Dee cave in mountain range near Underdark. Lined with blue arcane-reactive crystals. Complete blue dragon skeleton at center.",
+      "rationale": "Acessible through mountain passages. Site of Kaelyn's transformation (crystal heart, draconic sorcery). Dragon drawn here by B-influence — same hoarding instinct. Crystals emit faint resonance detectable by B-touched.",
+      "sub_locations": [],
+      "nearby": [
+        { "to": "underdark_forest", "relatin": "southweast (~4 cells)" }
+      ]
+    }
+  ],
+
+  "excluded_from_surface_map": [
+    {
+      "id": "high_septon",
+      "name": "The High Septon",
+      "reason": "Within Drakhaven — not a separate surface marker."
+    },
+    {
+      "id": "fx_safe_house",
+      "name": "FX's Safe House",
+      "reason": "Within Stonefall — not a separate surface marker."
+    },
+    {
+      "id": "underdark_caves",
+      "name": "Underdark Caves",
+      "reason": "Underground — omitted per user instructions."
+    },
+    {
+      "id": "underdark_entrances",
+      "name": "Underdark Entrances (North Gate, West Sanitation, South Cemetery)",
+      "reason": "Underground access points — omitted per user instructions."
+    },
+    {
+      "id": "arcane_reactive_crystal_cave_surface",
+      "name": "Arcane-Reactive Crystal Cave (surface marker)",
+      "reason": "Entirely underground — noted in JSON for context only."
+    },
+    {
+      "id": "seidgaard",
+      "name": "Seidga'ard (Thormvuld floating estate)",
+      "reason": "Mobile/floating — not a fixed surface location."
+    },
+    {
+      "id": "thormvuld_workshop_settlement",
+      "name": "House Thormvuld Workshop Settlement",
+      "reason": "Lore mentions it exists in northeast region but position undefined — TBD when lore is further developed."
+    }
+  ],
+
+  "open_questions": [
+    { "id": "Q1", "question": "Stonefist exact position — lore says 'exact position TBD when map is finalized.' Placed at C26,R28 (rugged mountains west of Kazadur). Does this work?" },
+    { "id": "Q2", "question": "Primary Facility distance from Gamma-7 — placed ~2 cells ESE. Does this distance feel right?" },
+    { "id": "Q3", "question": "Azure Boneyard — included on surface map as mountain cave. Confirm keep or remove?" },
+    { "id": "Q4", "question": "Seidga'ard and Thormvuld workshop settlement — both omitted (one mobile, one undefined). Confirm?" },
+    { "id": "Q5", "question": "Missing anything? Any location expected but not listed?" },
+    { "id": "Q6", "question": "Size templates: Capitals 3×3, Large settlements 2×2, Small 1×1, POIs 1×1. Sizes approved?" },
+    { "id": "Q7", "question": "How should biomes for the far west (C1-C9, all rows) be defined? Currently marked as generic 'monster-held, uncharted' with varied climate bands." }
+  ]
+}
