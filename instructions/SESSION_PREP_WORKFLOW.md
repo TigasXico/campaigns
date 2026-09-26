@@ -131,9 +131,17 @@ No "Role," "Demeanor," "Knows," or "Hook" fields. The GM at the table only needs
 
 **Do not** include a timeline table estimating minutes per section. No "Part 1: 30-45 min, Part 2: 15-20 min" breakdowns. The document flows by **location/scene order** -- the GM uses their own judgment at the table.
 
-#### R6. No Quick Reference Card / Summary Section
+#### R6. No Duplicate Information — Centralize, Don't Repeat
 
-**Do not** duplicate information at the end of the document. No separate "Quick Reference Card" or "Printable Summary." Embed all reference information (DCs, loot, NPC names, room summaries) **in the sections where they are used**. One source of truth.
+Information that appears in multiple places gets out of sync. Each type of content has exactly **one home** in the document:
+
+- **Mechanical stats (AC, HP, attacks, damage, CR, saves, passives):** Live exclusively in the **Stat Blocks** section at the end of the document. Scene descriptions reference stat blocks by name and describe only narrative/tactical behavior. Never repeat a creature's AC or attack bonus inline.
+- **Magical item mechanics:** Live exclusively in the **Handouts** section. Scenes list the item by name only. The handout describes attunement, charges, saves, and effects — formatted so the GM can cut it out and hand it to players.
+- **Loot tables (mundane):** Live inline in the scene where they're found. Gold, non-magical gear, signet rings — list where they're discovered.
+- **NPCs:** Live inline in the scene where they appear (R4 format). No separate NPC roster.
+- **DCs:** Live inline in the scene where the check occurs. The GM needs the number at the point of use.
+
+This replaces the old R6 ("No Quick Reference Card / Summary Section"). Stat blocks and handouts are not duplicate content — they are the single source of truth for mechanical information.
 
 #### R7. No Draft Notes / Flagged Markers
 
@@ -147,14 +155,15 @@ No "Role," "Demeanor," "Knows," or "Hook" fields. The GM at the table only needs
 
 The GM does not need to re-read a strategic analysis during a session.
 
-#### R9. Skill Checks = DC Tables Only
+#### R9. Skill Check DCs — Inline Where Used
 
-All investigation, perception, and skill check information is consolidated into a single **DC table** per location. No narrative paragraphs describing what a check reveals.
+DCs and skill checks are written **inline in the scene or description where they are needed**. The GM reads the scene, sees the check, and has the DC right there. No separate consolidated DC table at the end of a section.
 
-| DC | Check | Result |
-|----|-------|--------|
-| 12 | Nature/Religion | Funerary rite site. Pre-dates all known religions. Safe. |
-| 15 | Perception | Beneath the altar: 3 bone tokens (skull, leaf, star). |
+| Instead of... | Write... |
+|---|---|
+| A DC table at the bottom of a scene, pulling all checks out of context | The DC next to the action it governs: *"Oil barrels + fire (4d6 in 10 ft, DEX 14 half)"* or *"DC 14 Persuasion gives them courage for a volley"* |
+
+When a single interaction has multiple DC tiers, a small inline table is fine — as long as it lives inside the scene that triggers it.
 
 ---
 
