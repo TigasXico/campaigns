@@ -8,7 +8,7 @@ tags:
 related:
   - kythorian_timeline: Master timeline; all E-IDs below reference events in it
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-09-19
 ---
 
 > Subset of the master timeline (`kythorian_timeline.md`) containing ONLY events
@@ -147,7 +147,7 @@ updated: 2026-08-14
 - **Year**: 365
 - **Visibility**: [SECRET]
 - **Category**: Awakening
-- **Description**: At age 15, fleeing Drow scouts, Kaelyn falls through a fissure into the Azure Boneyard. She touches a blue dragon skeleton saturated with B's essence. A bolt of electrical energy surges through her -- her heart externalizes into a red pulsing crystal, her left eye turns black, her hair turns black.
+- **Description**: At age 15, fleeing Drow scouts, Kaelyn falls through a fissure into the Azure Boneyard. She touches a blue dragon dracolich skeleton -- raised by Xerathul, the Veiled Eyes of Death -- saturated with B's essence and residual necromantic corruption. A bolt of electrical energy, carrying both powers, surges through her -- her heart externalizes into a red pulsing crystal, her left eye turns black, her hair turns black. The necromantic residue bleeds into her, beginning the disease that will slowly consume her magic.
 
 ## E88 - Kaelyn's First Surface Village Visit
 - **Year**: 380

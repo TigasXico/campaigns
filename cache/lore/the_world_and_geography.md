@@ -41,7 +41,11 @@ Kythoria is the cradle of mortal civilization  -  and the stage upon which the g
 Kythoria spans multiple climate zones, creating distinct regions with their own character and challenges:
 
 #### The Frozen North (Arctic / Subarctic)
-The northern reaches of Kythoria are a harsh, cold expanse of tundra, taiga, and snow-capped mountains. The cold is biting, the growing season short, and the nights long. Before the monster invasion, hardy dwarf holds and human settlements dotted this region. Today, much of the north remains under monster control, its frozen wastes serving as a near-impenetrable stronghold for the enemy. The rare expeditions that venture north return with tales of blizzards that seem almost sentient and creatures that have adapted to the cold in horrifying ways.
+The northern reaches of Kythoria are a harsh, cold expanse of tundra, taiga, and snow-capped mountains. The cold is biting, the growing season short, and the nights long. Before the monster invasion, hardy dwarven holds and human settlements dotted this region.
+
+The Frozen North is divided by the **Spine of the World** mountain range:
+- **The North-West**: Largely monster-held, its frozen wastes serve as a near-impenetrable stronghold for the enemy. Expeditions that venture here return with tales of blizzards that seem almost sentient and creatures adapted to the cold in horrifying ways.
+- **The North-East**: Here lies the **Frostmaw**, the only part of the Frozen North never conquered by the monster army. The Skallfang Clan has held this brutal arctic region for centuries, shielded by the Spine of the World to their west.
 
 #### The Temperate Heartlands
 The center of the continent enjoys a temperate climate  -  four distinct seasons, fertile farmlands, rolling hills, and dense forests. This is where the three capital cities of the Last Stand  -  **Skywatch**, **Emberforge**, and **Weaveheart**  -  were founded near the center-southeast. The heartlands are the most densely populated and safest region of the continent. The soil is rich, the rivers run clean, and the forests, while still holding pockets of danger, have been largely reconquered and resettled. This region also contains the **ley line convergence** beneath Weaveheart  -  a place where the raw essence of B's sacrifice flows close to the surface.

@@ -24,8 +24,9 @@ related:
   - the_originals: A and C's fragments planned the invasion; B sacrificed to stop them
   - the_gods_and_the_deception: The gods planned the monster invasion to destroy mortalkind
   - the_great_sacrifice: B's lingering will (hoarding instinct) subverts the invasion from within
+  - the_five_generals: The Five Great Generals who commanded the Scourge's Legions
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-09-19
 ---
 
 ## Overview
@@ -48,7 +49,7 @@ The monster army developed a natural hierarchy based on a simple principle: **st
 
 By the time the Last Stand was founded (~200 years ago), the monster army had consolidated under **Five Major Generals**  -  the most powerful and cunning creatures to emerge from the strength-based hierarchy. These generals commanded the largest and most fearsome armies, coordinating the assault that pushed the mortal races to their final retreat.
 
-Four of the Five Generals are left undefined, available for future development and player backstory integration.
+The Five Generals are now documented in a dedicated file: `organizations/the_five_generals.md`. A summary of each is below, with cross-references to their full character files.
 
 #### Khar'zul  -  The Flesh That Remembers
 
@@ -63,6 +64,17 @@ One of the five generals was **Khar'zul (The Flesh That Remembers)**  -  a balor
 **The Blade Today**  -  Khar'zul's blade is now carried by **Balor Skallfang (The Tainted)**  -  a tiefling barbarian who was found as an infant beside the blade. The blade whispers to Balor, testing his will, offering power. He performs the **Rite of Ash** to quiet the whispers.
 
 *(Full character file: `characters/NPC/balor_skallfang.md`; item file: `items/kharzuls_blade.md`.)*
+
+#### The Other Four Generals
+
+The remaining four generals have been documented in `organizations/the_five_generals.md`. In brief:
+
+- **Voragos, the Ashen Winged Eclipse** — An ancient black dragon whose Ashen Legion devastated the skies. First Great General to fall, slain by the First Alliance in Year 279 (E36).
+- **Xerathul, the Veiled Eyes of Death** — A Lich who commanded the Grave Legion, an undead army that grew stronger with every battle. Raised the blue dragon later known as the Azure Boneyard dracolich. Second Great General to fall, hunted down in Year 284 (E37).
+- **Vaessra, the Whisper Before Ruin** — A fallen empyrean commanding the Twilight Legion (infiltration, corruption). Vanished before Voragos fell — never found, status unknown.
+- **Kha'Thuun, the Witness from Beyond** — A mind flayer commanding the Black Legion (intelligence, psionics). Vanished as the Scourge lost ground — never defeated, never found.
+
+*(Full character files: see `characters/NPC/` for each general.)*
 
 ---
 
@@ -117,7 +129,7 @@ These creatures bear patches of demonic flesh fused with mortal anatomy, unnatur
 
 With planar breaches sealed, no new monsters are arriving from other planes. However, those already on Kythoria remain devastating:
 
-- The **Frozen North** is still largely monster-held, a stronghold for the remaining horde
+- The **Frozen North (West)** is still largely monster-held, a stronghold for the remaining horde. The **Frostmaw (North-East)**, separated by the Spine of the World, was never conquered.
 - The **Western Frontier** is actively contested, with Last Stand forces pushing forward
 - Monster groups, fractured by a strange hoarding influence, operate semi-independently
 - Some clusters remain dedicated to destruction; others hoard treasure
@@ -139,7 +151,7 @@ This fragmentation has made reconquering possible. The Last Stand exploits these
 
 ## Open Questions
 
-1. [hourglass] **The Four Unnamed Generals**  -  Who were the other four generals? Still alive/imprisoned/destroyed?
+1. [ok] **The Five Generals**  -  Resolved in `organizations/the_five_generals.md` and their respective NPC files.
 2. [hourglass] **Remaining Loyalist Command**  -  Who commands loyalist forces today?
 3. [hourglass] **Crystal-Corrupted Apex**  -  What happens to a dragon or similarly powerful creature?
 4. [hourglass] **Monster Categories by Plane**  -  Open for flexible encounter design.

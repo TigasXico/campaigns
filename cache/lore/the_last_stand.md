@@ -75,7 +75,7 @@ A stable, reliable magical barrier was developed in Weaveheart, powered by the u
 With the safety of the Last Stand secured, the mortal races organized and began pushing back against the monster hordes. The reconquering effort has been uneven:
 
 - **South and East**: These regions were recovered more easily. The terrain favored the defenders, and monster resistance was lighter. Today, these areas are fully reclaimed and resettled.
-- **North and West**: These regions remain heavily contested. Monster resistance is fierce, and the terrain is more treacherous. Approximately **one-third of the continent** remains under monster control when the campaign begins.
+- **North (West) and West**: The north-west remains heavily contested  -  monster resistance is fierce, and the Spine of the World's western slopes form a near-impenetrable stronghold. The north-east (the Frostmaw) was never conquered by the monster army and remains independent under the Skallfang Clan, though it is not reclaimed Last Stand territory. Approximately **one-third of the continent** remains under monster control when the campaign begins.
 
 ## Current State
 

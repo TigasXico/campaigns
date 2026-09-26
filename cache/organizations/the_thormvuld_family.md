@@ -10,7 +10,7 @@ related:
   - kazadur: The family originates from the Kingdom of Kazadur's mining region
   - economy: The most prominent magical item producers on the continent
   - the_guild_of_the_spark: Connected to the church of Forge and Arcana
-  - kythorian_timeline: E60 (crystal discovery), E61 (public knowledge), E93-E97 (the heist and its aftermath)
+  - garrik_thormvuld: Historical ancestor - arcane engineer who built Khar'Zul's sealing devices and vault; one of the seven Alliance heroes
 secrets:
   - text: "House Thormvuld has accumulated more arcane knowledge over generations than any other mortal family. Their private archives may contain fragments of truth about B, the Weave, and the nature of magic that even the gods would prefer stayed hidden."
     access: gm-only
@@ -97,6 +97,10 @@ The house is organized around its master crafters and enchanters, with knowledge
 - **The Iron Vanguard**: Security and military force
 - **Research Division**: Scientists studying the crystals (based in the underground facility)
 - **Hunters**: Newly formed division dedicated to recovering stolen assets (post-heist)
+
+### Historical Ancestors
+
+- **Garrik Thormvuld** (Historical) — Arcane engineer ancestor who built the sealing devices used to imprison Khar'Zul and helped construct the vault for the sword. One of the seven Alliance heroes who fought in both battles against the Balor general.
 
 ## Goals
 

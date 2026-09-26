@@ -8,12 +8,13 @@ tags:
 related:
   - the_last_stand: The Alliance's victory enabled the reconquering
   - monsters_and_ecology: Defeated three of the Five Monster Generals, including Khar'zul
-  - kharzuls_blade: Devised the ritual that sealed Khar'zul within his own blade after his defeat
-  - the_crimson_covenant: Dissident scholars of the Alliance became the Crimson Covenant
+  - kharzuls_blade: Devised the ritual that sealed Khar'zul within his own blade after his second defeat
+  - the_crimson_covenant: Dissident scholar Mordrane Vhalor, one of the seven heroes, defected to found the Crimson Covenant
   - balor_skallfang: The Skallfang Clan fought in the Alliance and were entrusted with the blade
   - society: Its legacy shapes modern military and political structures
   - the_great_sacrifice: The Alliance unknowingly wielded power from B's sacrifice
-  - the_council_accord: The Alliance evolved into the Council Accord governing the three capitals
+  - the_alliance_heroes: Selected a party of seven heroes to defeat Khar'Zul; two died in the first battle
+  - mordrane_vhalor: The Alliance arcanist who created the sealing ritual; later defected
 secrets:
   - text: "The First Alliance was formed by mortal leaders who had no idea they were fighting a war orchestrated by the gods themselves. Had they known the divine conspiracy, the alliance may never have formed."
     access: gm-only
@@ -81,11 +82,19 @@ After two centuries of relentless monster invasion (The Abominable End), the sur
 
 ### The War Against the Five Generals
 
-The Alliance waged a war lasting years. The conflict was devastating - entire regions were lost, millions perished. Ultimately, the Alliance achieved the impossible: they **defeated three of the Five Generals** of the monster army, including **Khar'zul (The Flesh That Remembers)**. The other two generals retreated and have not been seen since.
+The Alliance waged a war lasting years. The conflict was devastating - entire regions were lost, millions perished. Ultimately, the Alliance achieved the impossible: they **defeated three of the Five Generals** of the monster army. The first to fall was **Voragos, The Ashen Winged Eclipse** — an Ancient Black Dragon whose death marked the first great victory ever achieved against the Scourge. The second was **Xerathul, The Veiled Eyes of Death** — a Lich whose undead armies had made every battle a war of attrition.
+
+The last and most dangerous was **Khar'Zul (The Flesh That Remembers)**. Unlike the other two, Khar'Zul was immortal — his essence could survive the destruction of his body. The Alliance selected seven heroes for the task: Lord Alaric Arkwright, Ragnulf Skallfang, Garrik Thormvuld, Mordrane Vhalor, Soren Kaien, Edmund Drake, and Cassian Aurelius.
+
+The first battle against Khar'Zul was devastating. The Alliance suffered catastrophic losses, including the deaths of Soren Kaien and Edmund Drake. Khar'Zul was defeated — but his essence returned to the Abyss and reformed. The Alliance had killed him, but they had not ended him.
+
+Forced to find a permanent solution, Mordrane Vhalor created the sealing ritual, theorizing that Khar'Zul's own sword — the only object that had endured centuries of his power — could contain his essence. Garrik Thormvuld built devices to anchor the essence at the moment of death. In the second battle, Khar'Zul was defeated once more. As his physical form collapsed, Garrik's devices activated, and Mordrane performed the ritual. Khar'Zul's essence was dragged into the blade. The sealing was successful.
+
+The other two generals — **Vaessra** and **Kha'Thuun** — were never defeated. Both vanished without explanation and have not been seen since.
 
 ### The Sealing of Khar'zul
 
-After Khar'zul's physical form was destroyed, his essence endured. The Alliance's greatest scholars discovered that the only vessel capable of containing Khar'zul was his own sword. Through the greatest sealing ritual ever performed, they bound Khar'zul's essence within the blade. The blade was entrusted to the **Skallfang Clan**.
+After Khar'zul's physical form was destroyed for the second time — the first death having failed when his essence returned from the Abyss — the Alliance's greatest scholars enacted a desperate plan. Mordrane Vhalor created the sealing ritual, theorizing that Khar'zul's own sword might be the only vessel capable of containing him. Garrik Thormvuld built devices to anchor the essence. Through the greatest sealing ritual ever performed, they bound Khar'zul's essence within the blade. The blade was entrusted to the **Skallfang Clan**.
 
 ### The Dissidents
 

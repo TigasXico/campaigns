@@ -6,7 +6,7 @@ status: draft
 tags:
   - timeline, history, chronology
 created: 2026-08-09
-updated: 2026-08-20
+updated: 2026-09-19
 ---
 
 > All dates are plain years. Year 0 = start of the Mortal Kingdoms era.
@@ -248,17 +248,17 @@ updated: 2026-08-20
 - **Category**: Science
 - **Description**: The arcane barrier protecting the Last Stand becomes operational. The Thormvuld family led the research, first developed in Weaveheart at a ley line convergence, then expanded to all three capitals.
 
-## E36 - Defeat of a General
+## E36 - Defeat of Voragos
 - **Year**: 279
 - **Visibility**: [PUBLIC]
 - **Category**: Battle
-- **Description**: One of the five generals is defeated in battle by the combined forces of the First Alliance.
+- **Description**: **Voragos, the Ashen Winged Eclipse** — the ancient black dragon general commanding the Ashen Legion — is slain in the bloodiest battle of the Scourge War. His death marks the first time a Great General has fallen, proving the First Alliance can defeat even the monster army's greatest commanders.
 
-## E37 - Defeat of Another General
+## E37 - Defeat of Xerathul
 - **Year**: 284
 - **Visibility**: [PUBLIC]
 - **Category**: Battle
-- **Description**: A third general is defeated in battle.
+- **Description**: **Xerathul, the Veiled Eyes of Death** — the Lich general commanding the Grave Legion — is hunted down and destroyed by the First Alliance. His death deprives the monster army of its necromantic backbone; the undead legions that grew stronger with every battle finally collapse. The dracolich he raised is later captured by U.D.A.R.U. for necromantic research.
 
 ## E38 - Sealing of Khar'Zul
 - **Year**: 296
@@ -266,11 +266,11 @@ updated: 2026-08-20
 - **Category**: Battle
 - **Description**: Khar'Zul's physical form is destroyed, but his essence endures. His own sword (having absorbed his blood, victories, and hatred) becomes the only vessel. The greatest sealing ritual binds Khar'Zul within the blade. The blade is entrusted to the Skallfang Clan.
 
-## E39 - Last General Goes into Hiding
+## E39 - Kha'Thuun Goes into Hiding
 - **Year**: 298
 - **Visibility**: [PUBLIC]
 - **Category**: Disbandment
-- **Description**: The last remaining general of the monster's army disappears without a trace. Some speculate he went into hiding, others that he died, others that he went back to their home plane.
+- **Description**: **Kha'Thuun, the Witness from Beyond** — the mind flayer general commanding the Black Legion — vanishes without a trace. The last of the Five Great Generals to remain active, his disappearance marks the end of coordinated monster army command. Some speculate he went into hiding, others that he died, others that he returned to his home plane. Never defeated, never found.
 ## E66 - Khel'vin Born
 - **Year**: 290
 - **Visibility**: [SECRET]

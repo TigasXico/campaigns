@@ -13,7 +13,9 @@ related:
   - the_arcane_reactive_crystals: The blade may be influenced by or interact with the crystals
   - the_first_alliance: The First Alliance performed the sealing ritual that bound Khar'zul within this blade
   - the_skallfang_clan: The clan guarded the blade for centuries before losing it to the Covenant
-  - the_sealing_of_kharzul: The ritual that bound Khar'zul's essence within this blade
+  - the_alliance_heroes: Seven heroes fought two battles to seal Khar'Zul within the blade
+  - mordrane_vhalor: The arcanist who created the sealing ritual that bound Khar'Zul's essence
+  - garrik_thormvuld: Built the devices that anchored Khar'Zul's essence during the sealing
 secrets:
   - text: "The blade was not a prison designed by mortal scholars  -  Khar'zul's own sword was the only vessel that could contain him because it had absorbed his blood, victories, hatred, and corruption over countless wars until it ceased to be merely a weapon."
     access: gm-only
@@ -46,15 +48,15 @@ Over centuries, the blade has transformed. Steel gave way to living flesh. Veins
 
 ### The Sealing
 
-After the First Alliance defeated Khar'zul's physical form, they discovered a terrible truth: his essence endured beyond death itself. No spell could erase it, no divine miracle could extinguish it, no prison created by mortal hands could contain it for long.
+After the First Alliance defeated Khar'zul's physical form, they discovered a terrible truth: his essence endured beyond death itself. What they had witnessed was the remains of his physical form being pulled back toward the Abyss, where his essence would endure until it could once again manifest a body. They had killed Khar'Zul, but they had not ended him.
 
 The greatest scholars and priests of the age searched desperately for a vessel capable of containing an essence that refused to perish. Every enchanted relic shattered beneath its corruption. Every magical prison eventually failed. Every divine seal proved temporary.
 
-Only then did they realize the terrible truth: there already existed a vessel capable of containing Khar'zul  -  **his own sword**.
+Only then did they realize the terrible truth: there already existed a vessel capable of containing Khar'zul — **his own sword**. The blade had absorbed his blood, his victories, his hatred, and his corruption until it ceased to be merely a weapon. It had become an extension of his very existence. No other artifact in creation possessed a bond so profound with the balor, and no other object could survive the burden of containing him.
 
-The blade had absorbed his blood, his victories, his hatred, and his corruption until it ceased to be merely a weapon. It had become an extension of his very existence. No other artifact in creation possessed a bond so profound with the balor, and no other object could survive the burden of containing him.
+Seven heroes were selected for the task of bringing Khar'zul down: Lord Alaric Arkwright, Ragnulf Skallfang, Garrik Thormvuld, Mordrane Vhalor, Soren Kaien, Edmund Drake, and Cassian Aurelius. The first battle was devastating — Soren Kaien and Edmund Drake fell. Khar'Zul was killed, but his essence escaped. When he returned, the Alliance came prepared. **Mordrane Vhalor** created the sealing ritual. **Garrik Thormvuld** built devices to anchor Khar'zul's essence at the moment of death.
 
-Through the greatest sealing ritual ever performed, they bound the immortal essence of the balor within the blade itself  -  not inside a gemstone, not within a magical prison, but inside the weapon that had served as his companion throughout countless wars. The greatest general of the Abyss became forever trapped within the very weapon he had once wielded.
+In the second battle, when Khar'Zul fell again, Garrik's devices activated, preventing the essence from escaping. Mordrane began the ritual. Khar'zul's essence resisted, but through the greatest sealing ritual ever performed, the immortal essence of the balor was bound within the blade itself — not inside a gemstone, not within a magical prison, but inside the weapon that had served as his companion throughout countless wars. The greatest general of the Abyss became forever trapped within the very weapon he had once wielded.
 
 ### The Transformation
 
@@ -64,9 +66,9 @@ As years became centuries and centuries became legends, none could tell where th
 
 ### The Dissidents
 
-Some who had stood upon that battlefield witnessed something they could not ignore. They had seen the impossible. The ritual had not *destroyed* Khar'zul  -  it had preserved him. To them, the prison was never a punishment, but a chrysalis. He was changing, evolving into something greater than any balor had ever been.
+The architect of the sealing ritual, **Mordrane Vhalor**, witnessed something he could not ignore. He had seen the impossible. The ritual had not *destroyed* Khar'zul — it had preserved him. To Mordrane, the prison was never a punishment, but a chrysalis. Khar'zul was changing, evolving into something greater than any balor had ever been.
 
-These dissidents disappeared into the shadows, carrying fragments of the sealing ritual, ancient records, forbidden knowledge, and relics recovered from the battlefield. Over centuries, they became known by another name: **The Crimson Covenant**.
+Mordrane became obsessed with the potential of Khar'zul's ascended essence. He envisioned a perfect vessel — a living weapon capable of containing and wielding Khar'zul's power. He and his followers disappeared into the shadows, carrying fragments of the sealing ritual, ancient records, forbidden knowledge, and relics recovered from the battlefield. Over centuries, they became known by another name: **The Crimson Covenant**.
 
 > **[emoji] TODO  -  Blade's Journey**: The geographical path of Khar'zul's blade between the sealing (~200 YA), Project Genesis, Balor's birth (~20 YA), and how it ended up in the Skallfang Clan's/Hrothgar's possession needs to be defined. This will be resolved after reviewing the general timeline of the invasion, the Founding of the First Alliance, the Founding of the Last Stand, and the Sealing of Khar'zul. See: `kythorian_timeline.md`, `the_sealing_of_kharzul.md`, `the_skallfang_clan.md`, `the_first_alliance.md`.
 

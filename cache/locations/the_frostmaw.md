@@ -9,8 +9,9 @@ related:
   - the_skallfang_clan: The Frostmaw is the Skallfang Clan's ancestral homeland
   - balor_skallfang: Balor was raised in Frostmaw territory
   - kharzuls_blade: The blade was hidden in the Frostmaw for generations
-  - the_frontier: The Frostmaw lies beyond the Western Frontier, in the frozen north
-  - kythoria: The northernmost region of the continent
+  - the_frontier: The Frostmaw occupies the north-east of the continent, isolated from the Last Stand by the Spine of the World and monster-held territory
+  - kythoria: The northernmost region of the continent, in the north-east
+  - kazadur: The Frostmaw lies north of the Kazadur mining region, separated by the Spine of the World's southern reaches
   - kharzuls_blade: The blade was hidden in the Frostmaw for two centuries; Khar'zul's sealed vault was hidden in the Whispering Glacier
   - the_frostmaw: Described inline within this file
   - monsters_and_ecology: Home to the most dangerous northern monsters
@@ -25,9 +26,11 @@ updated: 2026-08-09
 
 ## Overview
 
-The **Frostmaw** (Frost + Maw  -  the frozen jaws of the north) is the northernmost inhabited region of Kythoria, a brutal arctic expanse of jagged ice-capped mountains, frozen fjords, and howling tundra. It is the ancestral homeland of the **Skallfang Clan**  -  monster hunters who have endured this harsh wilderness for generations.
+The **Frostmaw** (Frost + Maw  -  the frozen jaws of the north) is the northernmost inhabited region of Kythoria, occupying the **north-east** of the continent. A brutal arctic expanse of jagged ice-capped mountains, frozen fjords, and howling tundra. It is the ancestral homeland of the **Skallfang Clan**  -  monster hunters who have endured this harsh wilderness for generations.
 
 The Frostmaw is not a territory of the Last Stand. It is not reclaimed land. It was never conquered by the monster army, because the Frostmaw was never worth taking  -  and the Skallfang Clan never stopped defending it.
+
+To the south, past the Spine of the World's foothills, lie the partially reclaimed northeast mining region and the ruins of Kazadur. To the west, across the Spine of the World itself, stretches monster-held territory  -  the north-west of Kythoria, still firmly under the enemy's grip.
 
 ---
 
@@ -37,7 +40,7 @@ The Frostmaw is not a territory of the Last Stand. It is not reclaimed land. It 
 The lifeblood of the region. A wide, fast-moving river that flows from the **Spine of the World** mountains through the lowlands to the **Icefang Sea**. The river is fed by glacial melt and teems with fish. In winter, it freezes solid enough to travel on foot; in summer, it is the primary transport route for furs, trade, and clan movements.
 
 ### The Spine of the World
-A mountain range that forms the Frostmaw's eastern boundary, rising like the teeth of a frozen jaw. Rich in iron and unrefined crystal deposits, but extremely dangerous to mine due to frequent avalanches and monster activity.
+A mountain range that forms the Frostmaw's **western** and southern boundaries, rising like the teeth of a frozen jaw. The range separates the Frostmaw from the monster-held north-west to the west, and from the Kazadur mining region to the south. Rich in iron and unrefined crystal deposits, but extremely dangerous to mine due to frequent avalanches and monster activity. The only passes through the Spine are narrow, treacherous, and guarded by Skallfang patrols  -  no monster army has ever crossed them in force.
 
 ### The Icefang Sea
 The northern ocean, perpetually choked with ice floes. Few ships venture here. The Skallfang Clan maintains small fishing villages along the coast, but the sea is as deadly as the land.

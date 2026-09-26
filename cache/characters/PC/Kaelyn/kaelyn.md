@@ -19,6 +19,7 @@ related:
   - the_crimson_covenant: Would consider her a B-touched artifact worth capturing; intensely interested in studying her crystal heart
   - the_underdark_forest: Kaelyn was exiled at age 11 after the Trial of Lolth; the Drow settlement is a perpetually shaded forest in south-west Kythoria under a massive Black Willow
   - the_azure_boneyard: Gained her powers by touching a blue dragon skeleton there; the cave where Kaelyn touched a dragon skull and awakened her powers
+  - xerathul_the_veiled_eyes_of_death: The Lich general who raised the blue dragon as a dracolich — the necromantic corruption in Kaelyn's blood traces back to him
   - solyn_velkyn: Twin sister; rival in the Trial of Lolth, savior in the cave-in; presumed dead but actually alive (Kaelyn does not know)
   - lyndale_velkyn: Kaelyn's mother, High Matron of the Drow community; presumed dead in the fire, but actually alive (Kaelyn does not know)
   - veritas_in_fractum: Kaelyn's cell wall bore the Three Curves symbol — she was a specimen of U.D.A.R.U. (Underdark Drow Arcane Research Unit), not merely a Drow prisoner
@@ -46,12 +47,12 @@ secrets:
   - text: "Seraphine the tiefling nanny taught the twins to question Lolth's faith. Her reasons and what she truly knew about the Drow's origins are unclear — she may have carried hidden knowledge, or she may simply have been a rare voice of compassion in a cruel theocracy. Whether she left any records behind is unknown."
     access: gm-only
 created: 2026-08-10
-updated: 2026-08-14
+updated: 2026-09-19
 ---
 
 ## Overview
 
-**Kaelyn** is a Drow sorcerer who awakened her powers by touching a blue dragon dracolich skeleton — a creature once raised by one of the five invasion generals, later captured and studied by U.D.A.R.U. The dragon's bones carried two energies: centuries of B-saturated essence and residual necromantic corruption from the general who raised it. Her hair turned black, her left eye went black, and a red crystalized heart formed in her chest — a unique physical B-touched manifestation. But the necromantic residue also infected her, creating a progressive "disease" that causes her magic to surge uncontrollably under emotional stress. Exiled at 11 after refusing to kill her nanny in the Trial of Lolth, she survived alone, gained power, was captured and tortured for 20 years by her mother, and escaped believing she killed her family. She now wanders Kythoria as a bounty hunter, hiding behind a charismatic, hedonistic mask, seeking a cure for the corruption spreading through her magic. She is B-touched physically (crystal heart) — vs Aurora (spiritual/stars) and Aegon (visionary).
+**Kaelyn** is a Drow sorcerer who awakened her powers by touching a blue dragon dracolich skeleton — a creature raised by **Xerathul, the Veiled Eyes of Death** (the Lich general commanding the Grave Legion), later captured and studied by U.D.A.R.U. The dragon's bones carried two energies: centuries of B-saturated essence and residual necromantic corruption from the general who raised it. Her hair turned black, her left eye went black, and a red crystalized heart formed in her chest — a unique physical B-touched manifestation. But the necromantic residue also infected her, creating a progressive "disease" that is slowly consuming her. Her magic is becoming harder to control — spells surge unpredictably under stress, misfire, or fail entirely. The black lightning patterns across her left arm and shoulder are slowly spreading through her body, a visible sign of the necromantic corruption advancing. Exiled at 11 after refusing to kill her nanny in the Trial of Lolth, she survived alone, gained power, was captured and tortured for 20 years by her mother, and escaped believing she killed her family. She now wanders Kythoria as a bounty hunter, hiding behind a charismatic, hedonistic mask, seeking a cure for the corruption spreading through her magic. She is B-touched physically (crystal heart) — vs Aurora (spiritual/stars) and Aegon (visionary).
 
 ---
 
@@ -120,7 +121,7 @@ Three days at the gate crying for help. No one opened it. Eventually walked away
 
 ### The Azure Boneyard (Age 15)
 
-The cave Kaelyn fell into was not a natural formation — it was a **U.D.A.R.U. containment site**. Years earlier, U.D.A.R.U. had captured a **blue dragon dracolich** — an undead dragon raised by one of the five generals who led the monster invasion. After defeating the dracolich alongside allied forces, U.D.A.R.U. relocated the creature's remains to this cave for study, where the skeleton continued to pulse with two distinct energies: the dragon's original B-saturated essence (from centuries of exposure to arcane-reactive crystals) and residual necromantic power left by the general who raised it.
+The cave Kaelyn fell into was not a natural formation — it was a **U.D.A.R.U. containment site**. Years earlier, U.D.A.R.U. had captured a **blue dragon dracolich** — raised by **Xerathul, the Veiled Eyes of Death** (the Lich general who commanded the Grave Legion). After Xerathul's defeat, U.D.A.R.U. relocated the creature's remains to this cave for **necromantic research**, where the skeleton continued to pulse with two distinct energies: the dragon's original B-saturated essence (from centuries of exposure to arcane-reactive crystals) and residual necromantic power left by Xerathul's raising.
 
 Spotted by Drow scouts while hunting, Kaelyn fled toward the mountains and fell through a fissure into this deep cave. Walls lined with **blue crystals** (arcane-reactive, condensed essence of B). At center: a **complete blue dragon dracolich skeleton**, its bones still humming with trapped energy. Touched the dragon's skull. A bolt of blue electrical energy surged through her — heart externalized and crystallized into a red pulsing crystal, left eye turned black, hair turned black. The dragon skeleton had been saturated with B's essence for centuries. Her Drow blood (from demonic tissue grafting) allowed her to survive the transfer.
 
@@ -132,7 +133,9 @@ Explored her powers in isolation for 15 years — lightning control, arcane shap
 
 ### Capture and Imprisonment (Ages 30-50)
 
-Drow spies recognized her despite altered appearance. Lyndale — through U.D.A.R.U. — saw an opportunity. Kaelyn was captured and imprisoned in the Underdark Caves for **20 years**. Systematic interrogation and torture: The Silence (prolonged isolation), False Freedom (staged escapes + recapture), The Mirror (illusions of Seraphine), The Twin (Solyn involved in psychological tests). Experiments: researchers discovered strong emotions cause unpredictable spell surges — the necromantic corruption reacting to emotional states — and turn the crystal heart **violet** (red Drow essence + blue dragon B essence). U.D.A.R.U. was intensely interested in the hybrid nature of her power (B-essence + necromantic), documenting how the two energies interacted. Over two decades, Kaelyn learned to suppress emotions and rely on cold logic — a survival mechanism that masked but never cured the underlying corruption.
+Drow spies recognized her despite altered appearance. Lyndale — through U.D.A.R.U. — saw an opportunity. Kaelyn was captured and imprisoned in the Underdark Caves for **20 years**. Systematic interrogation and torture: The Silence (prolonged isolation), False Freedom (staged escapes + recapture), The Mirror (illusions of Seraphine), The Twin (Solyn involved in psychological tests). Experiments: researchers discovered strong emotions cause unpredictable spell surges — the necromantic corruption reacting to emotional states — and turn the crystal heart **violet** (red Drow essence + blue dragon B essence).
+
+U.D.A.R.U.'s **primary interest** was not her crystal heart — it was **how she had survived the necromantic energy transfer from the dracolich**. All their previous test subjects had died or gone mad from exposure to the dracolich's remains. Kaelyn was the first living being known to absorb necromantic residue and survive. The hybrid nature of her power (B-essence + necromantic) was their key to unlocking safe necromantic mastery, and they spent two decades trying to extract that secret through systematic experimentation. Over two decades, Kaelyn learned to suppress emotions and rely on cold logic — a survival mechanism that masked but never cured the underlying corruption.
 
 ### The Escape (Age 50)
 During an intense experiment, containment failed. Kaelyn released a massive electrical discharge  -  destroyed equipment, killed researchers, freed herself. Fled toward Mountain Passage. Lyndale confronted her  -  no longer seeing a daughter, only a threat and a failed experiment. Solyn stood beside her mother. The discharge had ignited a spreading fire. Kaelyn **pushed Lyndale into the fire** to clear the exit. Ceiling began to collapse. **Solyn pushed Kaelyn out** of the mountain, taking her place beneath the rubble. Kaelyn fled believing both were dead. (GM note: Both survived. Kaelyn does not know.)
@@ -143,18 +146,22 @@ For 100 years, Kaelyn wandered Kythoria. Joined rogue groups, worked as a **boun
 ---
 
 ## Abilities
-- **Draconic Sorcery:** Blue dragon lineage — lightning, thunder, storm magic infused with B's essence and tainted by necromantic corruption from the dracolich
-- **Crystal Heart:** Physical manifestation of B's essence bonded to body. Pulses with power, turns violet with strong emotion, overheats with overuse. The hybrid nature of the energy (B-essence + necromantic) makes her magic fundamentally unstable
-- **Wild Magic Surge (adapted):** When strong emotions override her control (fear, rage, grief, euphoria), Kaelyn must roll on an adapted wild magic surge table (percentile). This represents the necromantic corruption destabilizing her spellcasting — a "disease" she has been losing control over. One of her primary motivations for adventuring is seeking a cure
+- **Draconic Sorcery:** Blue dragon lineage — lightning, thunder, storm magic infused with B's essence and tainted by necromantic corruption from the dracolich. As the corruption spreads, her control weakens
+- **Crystal Heart:** Physical manifestation of B's essence bonded to body. Pulses with power, turns violet with strong emotion, overheats with overuse. The hybrid nature of the energy (B-essence + necromantic) makes her magic fundamentally unstable. The overheating is a warning — the crystal may be growing
+- **Progressive Necromantic Corruption (The "Disease"):** The necromantic residue absorbed from the dracolich is slowly spreading through her body. This manifests as:
+  - **Wild Magic Surges** — when strong emotions override her control (fear, rage, grief, euphoria), spells become unpredictable and dangerous
+  - **Spell Failure** — the corruption increasingly interferes with her ability to channel magic; spells may misfire, fizzle, or fail entirely
+  - **Black Lightning Spread** — the black lightning patterns across her left arm, shoulder, and chest are slowly extending further through her body over time
+  - The progression is slow but steady. She has been fighting it for a century, and it is gradually winning
 - **Drow Heritage:** Darkvision (superior), fey ancestry (advantage on charm saves), innate cantrips, stealth training
 - **B-Touched Instinct:** Unconscious sensitivity to ley lines, arcane-reactive crystals, B's essence concentrations
 - **Bounty Hunter Skills:** Tracking, stealth, persuasion, intimidation, combat — honed over a century
-- **Controlled Emotions:** 20 years of torture taught emotional suppression — a survival mechanism that limits power output. However, suppression is not a cure — the instability has been worsening regardless
+- **Controlled Emotions:** 20 years of torture taught emotional suppression — a survival mechanism that limits power output. However, suppression is not a cure — the instability has been worsening regardless, and the black lightning continues to spread
 
 ---
 
 ## Goals
-1. **Find a cure for the "disease"** — the necromantic corruption is progressively worsening, causing wild magic surges she can no longer fully suppress. This is her primary motivation for seeking knowledge, allies, and arcane expertise
+1. **Find a cure for the "disease"** — the necromantic corruption is progressively worsening. Magic is becoming harder to control, spells fail or surge unpredictably, and the black lightning across her body is slowly spreading. She feels herself losing the fight. This is her primary motivation for seeking knowledge, allies, and arcane expertise
 2. **Use the vial of dragon bone dust** — acquired from the Thormvuld vault during the heist, this dust was scraped from the same dracolich skeleton that gave her powers. It is likely a key reagent for stabilizing or curing the corruption
 3. Hide her true nature (crystal heart, black lightning, B-touched essence, necromantic taint)
 4. Understand her power's full nature (why overheating? Is the crystal growing? Is the necromantic corruption spreading?)
@@ -196,8 +203,17 @@ Possible fates: Solyn leads Drow community, scarred, seeking Kaelyn for answers/
 ### Seraphine's Hidden Knowledge
 Seraphine taught the twins to question. What she truly knew and why remains unclear. She may have known fragments of the truth about Drow origins, or she may simply have been a rare compassionate voice in a cruel theocracy. Whether she left any journals, messages, or records is unknown.
 
-### Magic Instability  -  The Crystal's Growth
+### Magic Instability  -  The Crystal's Growth & Necromantic Spread
 Overheating may be early warning: crystal heart is **growing**. If pushed further: spread across body, involuntarily draw B's essence, attract monsters/B-touched entities, eventually consume her. Character arc: find a way to stabilize, control, or reverse growth.
+
+### The Black Lightning — Visual Marker of the Disease
+The black lightning patterns are a visible indicator of the necromantic corruption spreading. Currently: fingertips → left arm → left shoulder → crystal heart → left eye. Over time (slow but steady): the patterns will extend further — across the chest, down the torso, to the right arm. If the corruption reaches her right eye, it may signal an irreversible stage. This visual progression gives the player and DM a tangible measure of the disease's advance.
+
+Possible stages:
+1. **Current** — Left arm, shoulder, chest, left eye.
+2. **Intermediate** — Spread across upper torso, beginning to appear on right arm.
+3. **Advanced** — Spiderwebbing across both arms and chest, symptoms worsening significantly.
+4. **Critical** — Reaches right eye, magic failure becomes the norm, spells rarely function.
 
 ---
 
@@ -205,6 +221,7 @@ Overheating may be early warning: crystal heart is **growing**. If pushed furthe
 1. [ok] **Solyn's current status**  -  Resolved in `solyn_velkyn.md`: survived the cave-in, now acting leader of House Velkyn, keeps Lyndale hidden, conflicted about Kaelyn.
 2. [ok] **Lyndale's current status**  -  Resolved in `lyndale_velkyn.md`: survived the fire, horribly burned, hidden in seclusion, consumed by vengeance against Kaelyn.
 3. [?] **The crystal growth**  -  How fast? What triggers acceleration? Way to stop it?
+4. [?] **Black lightning spread rate**  -  How fast is the corruption spreading? Does intense magic use accelerate it? Can it be slowed?
 4. [?] **Kaelyn's connection to other B-touched**  -  Will she sense Aurora's constellations? Will Aegon see her in visions?
 5. [?] **The Black Willow's crystal cave**  -  What secrets beneath the tree's roots?
 6. [?] **Seraphine's past**  -  Did she leave records? Connected to Balor's story?

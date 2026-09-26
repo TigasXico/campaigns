@@ -4,7 +4,7 @@ type: character
 name: "Balor Skallfang (The Tainted)"
 status: draft
 tags:
-  - pc, player_character, tiefling, barbarian, skullfang_clan, kharzul, blade_bearer, crimson_covenant
+  - pc, player_character, tiefling, barbarian, skullfang_clan, kharzul, blade_bearer, crimson_covenant, skallfang_clan
 related:
   - monsters_and_ecology: Carries Khar'zul, a former balor general of the monster army, sealed within his sword
   - the_crimson_covenant: Balor is the culmination of Project Genesis; ultimate target
@@ -13,6 +13,7 @@ related:
   - races_and_ancestries: Balor is a tiefling, a race created by Covenant experiments
   - the_medallion_of_vex: Heirloom medallion his mother left with him as an infant
   - the_frostmaw: The Skallfang Clan's ancestral homeland where Balor was raised
+  - hjalvar_skallfang: Hrothgar's son, Balor's brother, current chieftain of the Skallfang Clan
   - the_first_alliance: The Skallfang Clan fought in the Alliance against the Five Generals and were entrusted with the blade
   - kharzuls_blade: Unwilling bearer of the blade containing Khar'zul's essence
   - the_last_stand: The Skallfang Clan (his adoptive family) fought in the First Alliance
@@ -66,6 +67,10 @@ Monster hunters of the northern frontier. Oath: *"When darkness comes... we stan
 
 ### Childhood and Training
 Hrothgar raised Balor as his own, teaching him to hunt, fight, respect life. Balor showed remarkable physical strength from an early age. The sword's presence felt familiar. Faint whispers began, words he slowly understood.
+
+Balor grew up alongside **Hjalvar Skallfang**, Hrothgar's son, in Ulfrheim. Throughout their childhood the two became the closest thing either would have to brothers. They trained together, hunted together, fought alongside one another, and constantly competed to see who could become the stronger warrior. Their rivalry was never born from hatred — it was built on mutual respect. Hjalvar knew Balor better than almost anyone. He understood his temper, his strengths, and his weaknesses, and was one of the few people capable of standing against him in training without fear. Balor, in turn, respected Hjalvar not only as a warrior, but as someone who could challenge him without ever trying to diminish him.
+
+Where Balor's path was increasingly shaped by the strange power within him, Hjalvar remained deeply connected to the teachings of his father and the traditions of the Skallfang.
 
 ### The Trial of the Fang
 When Balor came of age at 18 (Year 498), he faced the ancient rite: alone into the frozen wilderness. When a monster threatened his hunting party, he embraced the Rage  -  but what emerged was unprecedented. His horns grew, eyes ignited, claws lengthened, crimson veins spread. Yet he never lost control. Hrothgar declared: *"It is not the darkness that defines the man... but the man who masters the darkness."* He bestowed the byname: **Balor, The Tainted**.

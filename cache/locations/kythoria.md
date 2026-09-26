@@ -35,7 +35,7 @@ Kythoria is the cradle of mortal civilization and the primary setting of the cam
 
 Kythoria spans multiple climate zones:
 
-- **The Frozen North (Arctic/Subarctic)**: Harsh tundra, taiga, snow-capped mountains. Largely monster-held. Expeditions return with tales of sentient blizzards and cold-adapted horrors.
+- **The Frozen North (Arctic/Subarctic)**: Harsh tundra, taiga, snow-capped mountains, divided by the Spine of the World. The north-west is monster-held; the north-east is the Frostmaw, held by the Skallfang Clan and never conquered. Expeditions to the monster-held portion return with tales of sentient blizzards and cold-adapted horrors.
 - **The Temperate Heartlands**: Four distinct seasons, fertile farmlands, rolling hills, dense forests. The three capital cities (Skywatch, Emberforge, Weaveheart) are located near the center-southeast. The safest region.
 - **The Subtropical South**: Warm climate, dense jungles, mangrove swamps, white-sand beaches. Fully recovered. Vital ports for trade. Ancient ruins hidden by vegetation.
 - **The Eastern Coast & Sea Routes**: Safe sea lanes connect major ports. Recovered early. Thriving network of port towns, fishing villages, and trading posts.
@@ -53,3 +53,5 @@ Kythoria's history is divided into three eras:
 Approximately **two-thirds of the continent** has been reclaimed. The recovered south and east host thriving settlements, farms, and trade routes. The north and west remain contested, with approximately one-third of the continent still under monster control.
 
 The three capital cities  -  Skywatch, Emberforge, and Weaveheart  -  form the political, economic, and cultural heart of mortal civilization on Kythoria.
+
+The monster army's strongest holdouts are in the **north-west**, behind the Spine of the World. The **north-east** was never conquered by the invasion  -  but it was never part of the Last Stand either, held independently by the Skallfang Clan.
