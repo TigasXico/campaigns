@@ -28,7 +28,7 @@ The world is crisscrossed by invisible highways of concentrated magical energy k
 
 Kythoria spans multiple climate zones, each with its own character, its own challenges, and its own relationship to the ongoing war.
 
-**The Frozen North** is a harsh, cold expanse of tundra, taiga, and snow-capped mountains. Before the invasion, hardy dwarf holds and human settlements dotted this unforgiving landscape. Today, much of the north remains under monster control. Rumors speak of sentient blizzards that seem to hunt with purpose, and of cold-adapted horrors that have made the frozen wastes their own.
+**The Frozen North** is a harsh, cold expanse of tundra, taiga, and snow-capped mountains, divided by the Spine of the World. Before the invasion, hardy dwarven holds and human settlements dotted this unforgiving landscape. Today, the north-west remains under monster control, while the north-east — the **Frostmaw** — was never conquered and is held by the Skallfang Clan. Rumors speak of sentient blizzards that seem to hunt with purpose, and of cold-adapted horrors that have made the frozen wastes their own.
 
 **The Temperate Heartlands** enjoy four distinct seasons, with fertile farmlands, rolling hills, and dense forests. This is the most densely populated and safest region of the continent. It is here that the three capital cities -- **Skywatch**, **Emberforge**, and **Weaveheart** -- were founded near the center-southeast, forming the heart of mortal civilization.
 
@@ -40,7 +40,7 @@ Kythoria spans multiple climate zones, each with its own character, its own chal
 
 ### 2.2 Territorial Reality
 
-Approximately **two-thirds of the continent** has been reclaimed. The recovered south and east host thriving settlements, farms, and trade routes. Some part of the north and west remain contested, and approximately **one-third of the continent** remains under monster control. The reconquering continues, but the enemy has not been broken -- only pushed back.
+Approximately **two-thirds of the continent** has been reclaimed. The recovered south and east host thriving settlements, farms, and trade routes. The north-west remains contested, while the north-east — the Frostmaw — was never conquered by the monster army but is independent Skallfang territory, not part of the Last Stand. Approximately **one-third of the continent** remains under monster control, concentrated in the north-west and far west. The reconquering continues, but the enemy has not been broken -- only pushed back.
 
 ### 2.3 Known Landmarks
 

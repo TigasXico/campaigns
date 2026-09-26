@@ -2,7 +2,7 @@
 
 Snapshot of party resources, active conditions, open threads, and campaign position. Updated after each session.
 
-**Last updated:** 2026-09-11 (post-Session 3)
+**Last updated:** 2026-09-26 (post-Session 4 climax)
 
 ---
 
@@ -16,15 +16,15 @@ Snapshot of party resources, active conditions, open threads, and campaign posit
 | Kaelyn | — | 4 | Drow / Sorcerer (Wild Magic) | Present. Crystal heart. B-touched. Knows about Sophie. |
 | Balor | — | 4 | Half-Orc / Barbarian | Present. Carries Khar'zul's blade. Stopped Zan from rushing underground. |
 | Nyra | — | 4 | Shadar-kai / Ranger | Present. Fused crystal on staff — wind manipulation potential. |
-| Aegon | — | 4 | Aasimar / Paladin (Vengeance) | **Absent** — departed after Session 2. Rejoins early Session 4. |
+| Aegon | — | 4 | Aasimar / Paladin (Vengeance) | Present. Rejoined early Session 4. |
 
-**Level:** 4 | **6 present** (Aegon rejoins Session 4), 1 absent
+**Level:** 4 | **All 7 present**
 
 ---
 
 ## Location
 
-Room 2 (owlbear lair), underground level of Site Gamma-7. On short rest.
+Gamma-7 stairwell. Post-combat: Sylas Thormvuld + 3 guards dead, Sol Romeo downed/captured, 4 guards remaining (2 front saw fight, 2 rear approaching).
 
 ---
 
@@ -54,16 +54,18 @@ Room 2 (owlbear lair), underground level of Site Gamma-7. On short rest.
 
 | Condition | PCs Affected | Detail |
 |-----------|-------------|--------|
-| **Lycanthropy incubation** | Kaelyn, Zan, Balor | Bitten by crystal wolves. Full moon in ~3-4 days from Session 4 start. |
-| **Kaelyn wild magic** | Kaelyn | Surge triggered by emotions + B-crystal proximity. Unstable. |
-| **Aegon absent** | Aegon | Departed alone after Aurelius spoke. Rejoins early Session 4. |
-| **Crimson Covenant necklace** | Balor | Purchased in Stonefall. Told no one. Secret. |
+| **Lycanthropy incubation** | Balor, Kaelyn, Aurora | Bitten by crystal wolves. Counter: 1 each. DC: 16. Full moon ~2-3 days. |
+| **Zan — lycanthropy cured** | Zan | Successful CON save. No further checks. |
+| **Kaelyn wild magic + necromancy** | Kaelyn | Surge triggered by emotions + B-crystal proximity. Unstable. New necromancy inclination uncovered (crystal has necrotic + elemental signatures). |
+| **Kaelyn arcane disease** | Kaelyn | Disease affecting arcane powers — possible morph toward vampirism (lycanthropy + necromancy + arcane disease converging). |
+| **Crimson Covenant necklace** | Balor | Purchased in Stonefell. Told no one. Secret. |
 | **Aurora concealed recognition** | Aurora | Matched ViF symbol to hidden constellation. Still secret. |
 | **Khar'zul's blade — Stage 2** | Balor | Spoke "DESTROY" in combat. Active and watching. |
 | **Zan-Kaelyn past-sharing** | Zan, Kaelyn | Private conversation at safe house. No other PC knows. |
-| **Zan's Sophie quest** | Zan | Confessed to Kaelyn: searching for Sophie (Subject 241), person he loves. Might be in Gamma-7. |
+| **Zan's Sophie quest** | Zan | Confessed to Kaelyn: searching for Sophie (Subject 241), person he loves. Not in Gamma-7. |
 | **Nyra's fused crystal** | Nyra | B-crystal + air elemental crystal fused on staff. Wind manipulation potential — requires training. |
-| **d20 reroll boon** | All 6 present | From standing stones memory-reflection. One reroll each. Expires end of Session 4. |
+| **Sol Romeo captured** | All | Bardolemeu's direct cousin. Downed, alive, in stairwell. Will attempt escape if taken with party. |
+| **d20 reroll boon** | EXPIRED — used or expired end of Session 4. |
 
 ---
 
@@ -81,32 +83,36 @@ Room 2 (owlbear lair), underground level of Site Gamma-7. On short rest.
 
 | Timer | Detail |
 |-------|--------|
-| **Monster army pushback** | ~3 days remaining |
-| **Lycanthropy full moon** | ~3-4 days remaining (was ~4 days at Session 3 start) |
+| **Monster army pushback** | ~2 days remaining |
+| **Lycanthropy full moon** | ~2-3 days remaining |
+| **Lycanthropy save tracking** | See `state_files/_next_triggers.md` — counters, DCs, per-PC status |
 
 ---
 
 ## Open Threads
 
 ### Immediate (Active This Arc)
-1. Complete Gamma-7 exploration — closed door (right wall), Operating Theater (Room 4), Room 5 (hidden annex, needs runestone)
-2. Find runestone in Room 2 hoard pile (not yet found)
-3. Thormvuld force — still pending arrival
-4. Aegon rejoins — early Session 4
-5. Lycanthropy cure — full moon in ~3-4 days
+1. Thormvuld aftermath — 4 guards remaining, Sol Romeo interrogation
+2. Sol Romeo — escape attempts if taken with party
+3. Lycanthropy cure — full moon ~2-3 days. See `_next_triggers.md`.
+4. Monster army pushback — ~2 days. Scenario TBD.
+5. Aegon's return — reintroduction to the party (he missed everything)
+6. Kaelyn's leather-bound book — with FX, contents TBD
 
 ### PC-Specific
-6. Sophie (Subject 241) — Zan's driving motivation. Location unknown. Not in Gamma-7 (so far).
-7. Nyra's wind manipulation training — fused crystal potential
-8. Standing stones memories — to be collected from players
+7. Sophie (Subject 241) — Zan's driving motivation. Not in Gamma-7. Agent Korvus named as requesting agent for Zan's transfer — trackable lead.
+8. Nyra's wind manipulation training — fused crystal potential
+9. Standing stones memories — to be collected from players
+10. Bardolemeu's family truth — Sol Romeo is his direct cousin. ROM-03 reveal incoming.
 
 ### Campaign-Level
-9. ViF named personnel — Convocation reps, division leadership undefined
-10. ViF facilities beyond Gamma-7 — Primary Facility east-southeast
-11. Locations of remaining elemental crystals (Nyra's quest)
-12. Contents of Balor's mother's cache
-13. Content of Bardolemeu's mentor's note (lute compartment — may or may not be canon)
-14. Asterion letter delivery — Weaveheart hook
+11. ViF named personnel — Convocation reps, division leadership undefined
+12. ViF facilities beyond Gamma-7 — Primary Facility E-NE (Covenant facility, no exact location)
+13. Locations of remaining elemental crystals (Nyra's quest)
+14. Contents of Balor's mother's cache
+15. Content of Bardolemeu's mentor's note
+16. Asterion letter delivery — Weaveheart hook
+17. Why did the Crimson Covenant specifically want Zan (Subject 242)? — TBD
 
 ---
 
@@ -116,7 +122,8 @@ Room 2 (owlbear lair), underground level of Site Gamma-7. On short rest.
 |---------|--------------|
 | **1** | Heist aftermath, FX briefing, symbol reveals, Nyra+Aegon join, journey start, waystation (Amelia), hot spring, homestead discovery, cliffhanger = 11-wolf siege |
 | **2** | Wolf siege resolved — all 11 killed, 2 skull shards extracted, Aegon's communion, Kaelyn's first wild magic surge, Khar'zul speaks, lycanthropy contracted. Ended at homestead. Level up to 4. |
-| **3** | Standing stones (memory-reflection, d20 rerolls). Jungle approach — Zan sprinted ahead, party separated, Aurora's owl guided. Zan confessed about Sophie to Kaelyn. Entered Gamma-7 (main door + dome). Found underground level. Nyra's crystal fusion. Owlbear defeated (Aurora downed, Bardolemeu killed). Short rest in Room 2. No documents found. Aegon absent. |
+| **3** | Standing stones (memory-reflection, d20 rerolls). Jungle approach — Zan sprinted ahead, party separated, Aurora's owl guided. Zan confessed about Sophie to Kaelyn. Entered Gamma-7 (main door + dome). Found underground level. Nyra's crystal fusion. Owlbear defeated. Short rest in Room 2. |
+| **4** | Explored rest of Gamma-7 — all documents found (Elena Vance journal, ViF letter from U.D.A.R.U., Research Folder, Subject Transfer Ledger). Aegon rejoined. Thormvuld arrived: Sylas Thormvuld (youngest son) + 3 guards + Sol Romeo (Bardolemeu's cousin). Party set ambush in stairwell. Sylas and 3 guards killed. Sol Romeo downed, captured. 2 front guards saw fight, 2 rear guards approaching. Session ended there. |
 
 ---
 
