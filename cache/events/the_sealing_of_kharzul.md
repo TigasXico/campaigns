@@ -22,12 +22,12 @@ updated: 2026-08-09
 
 ## Overview
 
-The sealing of Khar'zul (The Flesh That Remembers) was one of the greatest achievements of the First Alliance. After defeating the balor general in battle, the Alliance's most brilliant scholars devised a ritual to contain his immortal essence within the only vessel capable of holding it: his own sword.
+The sealing of Khar'zul (The Flesh That Remembers) was one of the greatest achievements of the First Alliance. After defeating the Ulrath general in battle, the Alliance's most brilliant scholars devised a ritual to contain his immortal essence within the only vessel capable of holding it: his own sword.
 
 ## Participants
 
 - **The First Alliance**: Kings, archmages, high priests, ancient monster hunters, and knightly orders
-- **Khar'zul**: One of the Five Monster Generals, a balor from the Abyss
+- **Khar'zul**: One of the Five Monster Generals, an Ulrath from the Abyss
 - **The Alliance's Greatest Scholars**: Arcanists and priests who devised the sealing ritual
 - **The Skallfang Clan**: Northern monster hunters who fought in the war and were entrusted with the sealed blade afterward
 
@@ -39,7 +39,7 @@ The First Alliance waged a war lasting years against the Five Monster Generals. 
 
 When Khar'zul's physical form was destroyed, his essence endured  -  no spell could erase it, no divine miracle could extinguish it. Every enchanted relic used as a vessel shattered. Every magical prison failed.
 
-The Alliance realized the terrible truth: the only vessel capable of containing Khar'zul was his own sword, which had absorbed his blood, victories, hatred, and corruption over countless wars. Through the greatest sealing ritual ever performed, they bound the immortal essence of the balor within the blade.
+The Alliance realized the terrible truth: the only vessel capable of containing Khar'zul was his own sword, which had absorbed his blood, victories, hatred, and corruption over countless wars. Through the greatest sealing ritual ever performed, they bound the immortal essence of the Ulrath within the blade.
 
 ## Outcome
 

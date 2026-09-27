@@ -1,10 +1,10 @@
----
+﻿---
 id: kharzul_the_flesh_that_remembers
 type: character
 name: "Khar'Zul, The Flesh That Remembers"
 status: draft
 tags:
-  - npc, monster_general, balor, demon, scourge, five_generals, sealed, imprisoned
+  - npc, monster_general, ulrath, demon, scourge, five_generals, sealed, imprisoned
 related:
   - kharzuls_blade: His essence is sealed within his own greatsword
   - balor_skallfang: Balor is the vessel bred to contain Khar'Zul's essence
@@ -18,7 +18,7 @@ related:
   - ragnulf_skallfang: Skallfang chieftain who fought against him
   - morgath_the_red_maw: First major warlord Khar'Zul defeated in the Gathering of the Spoils
 secrets:
-  - text: "Khar'Zul's essence is not merely imprisoned — it is evolving within the blade. The prison is a chrysalis, and Khar'Zul is becoming something greater than any balor has ever been."
+  - text: "Khar'Zul's essence is not merely imprisoned — it is evolving within the blade. The prison is a chrysalis, and Khar'Zul is becoming something greater than any Ulrath has ever been."
     access: gm-only
   - text: "Khar'Zul has died and returned from the Abyss before. The Alliance killed him once, but his essence endured and reformed. This is why the sealing ritual was developed — killing him was never enough."
     access: gm-only
@@ -30,13 +30,13 @@ updated: 2026-09-19
 
 ## Overview
 
-**Khar'Zul, The Flesh That Remembers** — a Balor who rose through centuries of warfare to become one of the Five Great Generals of the Scourge. Unlike many of his fellow commanders, Khar'Zul viewed war as an art to be perfected. His immortality meant that death could not keep him dead — each time his body was destroyed, his essence returned to the Abyss and eventually reformed, carrying with it every memory and lesson from the life he had lived. He was ultimately defeated and sealed within his own greatsword by the First Alliance, becoming the last of three Great Generals to fall.
+**Khar'Zul, The Flesh That Remembers** — an Ulrath who rose through centuries of warfare to become one of the Five Great Generals of the Scourge. Unlike many of his fellow commanders, Khar'Zul viewed war as an art to be perfected. His immortality meant that death could not keep him dead — each time his body was destroyed, his essence returned to the Abyss and eventually reformed, carrying with it every memory and lesson from the life he had lived. He was ultimately defeated and sealed within his own greatsword by the First Alliance, becoming the last of three Great Generals to fall.
 
 ---
 
 ## Species
 
-Balor. Among the countless Balors that served within the Scourge, only one would rise to become one of the Five Great Generals.
+Ulrath. Among the countless Ulraths that served within the Scourge, only one would rise to become one of the Five Great Generals.
 
 ---
 
@@ -50,7 +50,7 @@ Balor. Among the countless Balors that served within the Scourge, only one would
 
 Khar'Zul towered over nearly every creature that marched beneath the Scourge banner. His immense frame was covered in obsidian-black skin, fractured by rivers of molten fire that pulsed beneath the surface like blood through living veins. Vast horns crowned his head, while great wings of scorched membrane cast shadows over entire battlefields.
 
-Unlike many Balors, Khar'Zul carried two legendary weapons into battle: a colossal greatsword — whose name has been lost in history books — forged in the depths of the Abyss, said to be as ancient as the wars themselves; and an abyssal whip of living fire, capable of reducing ranks of soldiers to ash with a single sweep.
+Unlike many Ulraths, Khar'Zul carried two legendary weapons into battle: a colossal greatsword — whose name has been lost in history books — forged in the depths of the Abyss, said to be as ancient as the wars themselves; and an abyssal whip of living fire, capable of reducing ranks of soldiers to ash with a single sweep.
 
 ---
 
@@ -88,19 +88,19 @@ Khar'Zul commanded one of the largest Legions ever assembled by the Scourge. Unl
 
 ### Before the Name
 
-Long before Khar'Zul became one of the Great Generals, he was simply another creature fighting within the endless wars of the Scourge. He was a Balor — ancient even by the standards of his kind, possessing the strength, brutality, and destructive nature expected of such a creature. But raw strength was never what separated Khar'Zul from the creatures around him.
+Long before Khar'Zul became one of the Great Generals, he was simply another creature fighting within the endless wars of the Scourge. He was an Ulrath — ancient even by the standards of his kind, possessing the strength, brutality, and destructive nature expected of such a creature. But raw strength was never what separated Khar'Zul from the creatures around him.
 
 He watched. Where other demons saw battlefields, Khar'Zul saw patterns. Where others saw enemies, he saw weaknesses. He learned how different creatures fought, how they reacted to fear, what drove them forward, and what caused them to break. He did not rush into battle simply because he could. He waited, he observed. And when he finally acted, it was usually because he had already considered what would happen several steps ahead.
 
 ### The First Gathering
 
-Khar'Zul's rise began when he challenged **Morgath, The Red Maw**, another ancient Balor and one of the Scourge's most feared warlords. Morgath was everything the Scourge expected from a demon commander: brutal, overwhelming, and convinced that strength alone was enough to win a war. His armies were infamous for crushing their enemies through sheer force, leaving nothing but ruins behind.
+Khar'Zul's rise began when he challenged **Morgath, The Red Maw**, another ancient Ulrath and one of the Scourge's most feared warlords. Morgath was everything the Scourge expected from a demon commander: brutal, overwhelming, and convinced that strength alone was enough to win a war. His armies were infamous for crushing their enemies through sheer force, leaving nothing but ruins behind.
 
 Khar'Zul had watched his campaigns for years. He saw what others did not: Morgath wasted soldiers, resources, and opportunities simply because he possessed the strength to do so. To Khar'Zul, that was not power — it was inefficiency.
 
-The two Balor met alone upon a battlefield surrounded by their armies. Morgath expected a contest of strength. Instead, Khar'Zul studied him. Every movement, every attack, every opening was observed and remembered. What appeared to be a desperate struggle was, in truth, Khar'Zul learning exactly how his opponent fought. When Morgath finally committed to a decisive strike, Khar'Zul stepped into the attack and exploited the weakness he had been waiting for. Morgath fell, his torso split from his legs.
+The two Ulrath met alone upon a battlefield surrounded by their armies. Morgath expected a contest of strength. Instead, Khar'Zul studied him. Every movement, every attack, every opening was observed and remembered. What appeared to be a desperate struggle was, in truth, Khar'Zul learning exactly how his opponent fought. When Morgath finally committed to a decisive strike, Khar'Zul stepped into the attack and exploited the weakness he had been waiting for. Morgath fell, his torso split from his legs.
 
-By the law of the Gathering, his army became Khar'Zul's spoils. Thousands of creatures now stood before the Balor who had defeated their former master — not through strength, but through understanding. That victory marked the beginning of Khar'Zul's rise.
+By the law of the Gathering, his army became Khar'Zul's spoils. Thousands of creatures now stood before the Ulrath who had defeated their former master — not through strength, but through understanding. That victory marked the beginning of Khar'Zul's rise.
 
 ### The Name That Spread
 
@@ -138,11 +138,11 @@ Khar'Zul's greatest advantage was not simply his strength, nor his mastery of wa
 
 After felling Voragos and Xerathul, the First Alliance tracked Khar'Zul to a major Scourge stronghold. The Alliance selected a specific group from among its ranks to carry out the attack: Lord Alaric Arkwright, Ragnulf Skallfang, Garrik Thormvuld, Mordrane Vhalor, Soren Kaien, Edmund Drake, and Cassian Aurelius. They were entrusted with bringing down Khar'Zul.
 
-The battle was unlike anything they had anticipated. Khar'Zul was not merely a monster surrounded by an army — he commanded the battlefield himself, constantly adapting to the Alliance's strategies and exploiting weaknesses within their formation. The Alliance suffered devastating losses, including the death of two of the heroes: Soren Kaien and Edmund Drake. Yet for the first time, Khar'Zul found himself facing opponents who could match him not only in strength, but in coordination. Eventually, after an immense struggle and countless losses, the ancient Balor was defeated. Khar'Zul fell.
+The battle was unlike anything they had anticipated. Khar'Zul was not merely a monster surrounded by an army — he commanded the battlefield himself, constantly adapting to the Alliance's strategies and exploiting weaknesses within their formation. The Alliance suffered devastating losses, including the death of two of the heroes: Soren Kaien and Edmund Drake. Yet for the first time, Khar'Zul found himself facing opponents who could match him not only in strength, but in coordination. Eventually, after an immense struggle and countless losses, the ancient Ulrath was defeated. Khar'Zul fell.
 
 ### The First Return
 
-The Alliance had done what no army before them had managed to accomplish — the ancient Balor lay motionless among the ruins, his massive form reduced to ash and burning fragments. Then something went wrong. The remains of Khar'Zul did not simply fade. The ash began to move against the wind. Blackened fragments of flesh lifted from the ground and spiraled toward the place where his body had fallen. The air around the battlefield grew unnaturally hot, while the ground beneath the ruins began to crack with faint crimson light. The remains were drawn together into a swirling mass of smoke, blood, and infernal energy — and then they were gone. Not destroyed. Taken.
+The Alliance had done what no army before them had managed to accomplish — the ancient Ulrath lay motionless among the ruins, his massive form reduced to ash and burning fragments. Then something went wrong. The remains of Khar'Zul did not simply fade. The ash began to move against the wind. Blackened fragments of flesh lifted from the ground and spiraled toward the place where his body had fallen. The air around the battlefield grew unnaturally hot, while the ground beneath the ruins began to crack with faint crimson light. The remains were drawn together into a swirling mass of smoke, blood, and infernal energy — and then they were gone. Not destroyed. Taken.
 
 For a few moments, nothing happened. Then, from somewhere far beyond the battlefield, a deep infernal roar echoed through the air. What the Alliance had witnessed was the remains of his physical form being pulled back toward the Abyss, where his essence would endure until it could once again manifest in a body. Their victory had lasted only moments. They had killed Khar'Zul, but they had not ended him. When the Alliance eventually learned that Khar'Zul had returned to the world, the truth became impossible to ignore: Khar'Zul was immortal.
 

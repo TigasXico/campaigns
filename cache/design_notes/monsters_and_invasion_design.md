@@ -49,7 +49,7 @@ Invasion is not random  -  it's divine conspiracy. Gods couldn't destroy mortals
 - Dragon hoarding canonically caused by B's influence
 
 ### Monster Hierarchy
-Strength-based. Five Major Generals emerged during the Abominable End. Khar'zul (balor from Abyss) defeated by First Alliance. Three generals defeated (Khar'zul + 2 unnamed), two retreated (unnamed). Remaining undefined for flexibility.
+Strength-based. Five Major Generals emerged during the Abominable End. Khar'zul (Ulrath from Abyss) defeated by First Alliance. Three generals defeated (Khar'zul + 2 unnamed), two retreated (unnamed). Remaining undefined for flexibility.
 
 ### Three-Way Standoff
 Gods want to prevent B's resurrection / Covenant wants to perform it / Monster army wants to destroy mortals. No faction has full control.

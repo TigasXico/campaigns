@@ -100,7 +100,7 @@ The house is organized around its master crafters and enchanters, with knowledge
 
 ### Historical Ancestors
 
-- **Garrik Thormvuld** (Historical) — Arcane engineer ancestor who built the sealing devices used to imprison Khar'Zul and helped construct the vault for the sword. One of the seven Alliance heroes who fought in both battles against the Balor general.
+- **Garrik Thormvuld** (Historical) — Arcane engineer ancestor who built the sealing devices used to imprison Khar'Zul and helped construct the vault for the sword. One of the seven Alliance heroes who fought in both battles against the Ulrath general.
 
 ## Goals
 

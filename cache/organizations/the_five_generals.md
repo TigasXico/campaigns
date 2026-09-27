@@ -6,7 +6,7 @@ status: draft
 tags:
   - organization, scourge, monster_army, generals, hierarchy, military
 related:
-  - kharzul_the_flesh_that_remembers: Balor General — the most dangerous
+  - kharzul_the_flesh_that_remembers: Ulrath General — the most dangerous
   - voragos_the_ashen_winged_eclipse: Ancient Black Dragon General — first to fall
   - xerathul_the_veiled_eyes_of_death: Lich General — second to fall
   - vaessra_the_whisper_before_ruin: Fallen Empyrean General — vanished
@@ -63,7 +63,7 @@ But victory through the Gathering offered more than command. Every defeated gene
 ## The Five Generals
 
 ### I. Khar'Zul, The Flesh That Remembers
-**Species:** Balor
+**Species:** Ulrath
 **Legion:** One of the largest Legions ever assembled — extraordinary diversity of monstrous races
 **Role:** Master tactician; viewed war as an art to be perfected
 **Fate:** Defeated and sealed within his own greatsword. The last of the three Generals to fall.

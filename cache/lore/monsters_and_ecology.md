@@ -55,7 +55,7 @@ The Five Generals are now documented in a dedicated file: `organizations/the_fiv
 
 > *"The flesh remembers what the mind forgets  -  pain, power, purpose."*
 
-One of the five generals was **Khar'zul (The Flesh That Remembers)**  -  a balor from the Abyss. Khar'zul rose through the invasion horde's ranks through countless battles, eventually becoming one of the Five Great Generals.
+One of the five generals was **Khar'zul (The Flesh That Remembers)**  -  an Ulrath from the Abyss. Khar'zul rose through the invasion horde's ranks through countless battles, eventually becoming one of the Five Great Generals.
 
 **The First Alliance and Defeat**  -  The mortal kingdoms forged an unprecedented alliance  -  **The First Alliance**  -  and created **The Last Stand**. They waged a war that lasted years against the monster army. The First Alliance ultimately **defeated three of the Five Generals**, Khar'zul among them. The other two generals retreated and are now in hiding or at unknown locations.
 

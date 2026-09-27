@@ -6,7 +6,7 @@ status: draft
 tags:
   - pc, player_character, tiefling, barbarian, skullfang_clan, kharzul, blade_bearer, crimson_covenant, skallfang_clan
 related:
-  - monsters_and_ecology: Carries Khar'zul, a former balor general of the monster army, sealed within his sword
+  - monsters_and_ecology: Carries Khar'zul, a former Ulrath general of the monster army, sealed within his sword
   - the_crimson_covenant: Balor is the culmination of Project Genesis; ultimate target
   - the_great_sacrifice: Khar'zul's essence connects to B's lingering will
   - the_arcane_reactive_crystals: Blade may resonate with crystals
@@ -79,9 +79,9 @@ When Balor came of age at 18 (Year 498), he faced the ancient rite: alone into t
 A monstrous fiend struck the village in Year 499, hunting with intelligent purpose  -  **sent by the Crimson Covenant** to retrieve Balor and the blade. Hrothgar fell defending the lodge. Overwhelmed, Balor rushed for the greatsword. The moment he held it  -  **the world disappeared.**
 
 ### The Vision  -  Avatar of the Living Prison
-Balor stood in an ashen field under a red sky before a colossal balor. The creature spoke: *"At last... You do not wield me... You carry me."* Then Balor woke  -  surrounded by the mangled bodies of the fiend and the ravaged village.
+Balor stood in an ashen field under a red sky before a colossal Ulrath. The creature spoke: *"At last... You do not wield me... You carry me."* Then Balor woke  -  surrounded by the mangled bodies of the fiend and the ravaged village.
 
-What Balor does not yet know: the vision and the blackout **happened simultaneously**. While his consciousness stood paralyzed before the balor, his body remained in the mortal world  -  but Khar'zul reached fully through the prison and **took control of his vessel**. This is the **Avatar of the Living Prison**  -  the ultimate power Project Genesis was designed to create. In this state: Khar'zul fully descends into Balor's body, Balor becomes a living vessel, the blade's power manifests without limitation, every movement controlled by Khar'zul himself. Balor's body became wreathed in crimson flame, twisting into a demonic reflection of the balor.
+What Balor does not yet know: the vision and the blackout **happened simultaneously**. While his consciousness stood paralyzed before the Ulrath, his body remained in the mortal world  -  but Khar'zul reached fully through the prison and **took control of his vessel**. This is the **Avatar of the Living Prison**  -  the ultimate power Project Genesis was designed to create. In this state: Khar'zul fully descends into Balor's body, Balor becomes a living vessel, the blade's power manifests without limitation, every movement controlled by Khar'zul himself. Balor's body became wreathed in crimson flame, twisting into a demonic reflection of the Ulrath.
 
 The **Rite of Ash** that Hrothgar taught Balor was designed to prevent this state from recurring. Every night Balor speaks the rite, reinforcing the cage. But the cage has already been opened once. It will never be as strong as before.
 

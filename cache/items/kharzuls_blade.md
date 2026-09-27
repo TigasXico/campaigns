@@ -4,9 +4,9 @@ type: item
 name: "Khar'zul's Blade (The Living Prison)"
 status: draft
 tags:
-  - weapon, sentient, artifact, kharzul, balor, demonic, living_blade, seal
+  - weapon, sentient, artifact, kharzul, ulrath, demonic, living_blade, seal
 related:
-  - monsters_and_ecology: The blade contains Khar'zul, a former balor general of the monster army
+  - monsters_and_ecology: The blade contains Khar'zul, a former Ulrath general of the monster army
   - balor_skallfang: Carried by Balor, the unwilling bearer who serves as the blade's prison
   - the_crimson_covenant: The Covenant studies the blade and seeks to harness Khar'zul's power
   - the_great_sacrifice: Khar'zul's essence may resonate with B's lingering will and the hoarding instinct
@@ -19,7 +19,7 @@ related:
 secrets:
   - text: "The blade was not a prison designed by mortal scholars  -  Khar'zul's own sword was the only vessel that could contain him because it had absorbed his blood, victories, hatred, and corruption over countless wars until it ceased to be merely a weapon."
     access: gm-only
-  - text: "Khar'zul's essence is slowly evolving within the blade. The scholars who first studied it realized the prison was not punishment but a chrysalis  -  Khar'zul was changing into something greater than any balor had ever been."
+  - text: "Khar'zul's essence is slowly evolving within the blade. The scholars who first studied it realized the prison was not punishment but a chrysalis  -  Khar'zul was changing into something greater than any Ulrath had ever been."
     access: gm-only
   - text: "The Crimson Covenant believes the blade can be used to resurrect Khar'zul in a controlled form, bound to a mortal vessel. Balor is that vessel."
     access: gm-only
@@ -29,7 +29,7 @@ updated: 2026-08-18
 
 ## Overview
 
-Khar'zul's blade is the greatsword that once belonged to the balor general **Khar'zul (The Flesh That Remembers)**, one of the Five Generals of the monster army. After his physical form was destroyed, his immortal essence was sealed within this very weapon  -  the only vessel in all of creation capable of containing him.
+Khar'zul's blade is the greatsword that once belonged to the Ulrath general **Khar'zul (The Flesh That Remembers)**, one of the Five Generals of the monster army. After his physical form was destroyed, his immortal essence was sealed within this very weapon  -  the only vessel in all of creation capable of containing him.
 
 Over centuries, the blade has transformed. Steel gave way to living flesh. Veins spread beneath the metal. Muscles wrapped around the guard. A single enormous yellow demonic eye opened within the blade, forever watching the world around it. Now, none can tell where the demon ends and the sword begins. The blade *is* Khar'zul's body.
 
@@ -52,11 +52,11 @@ After the First Alliance defeated Khar'zul's physical form, they discovered a te
 
 The greatest scholars and priests of the age searched desperately for a vessel capable of containing an essence that refused to perish. Every enchanted relic shattered beneath its corruption. Every magical prison eventually failed. Every divine seal proved temporary.
 
-Only then did they realize the terrible truth: there already existed a vessel capable of containing Khar'zul — **his own sword**. The blade had absorbed his blood, his victories, his hatred, and his corruption until it ceased to be merely a weapon. It had become an extension of his very existence. No other artifact in creation possessed a bond so profound with the balor, and no other object could survive the burden of containing him.
+Only then did they realize the terrible truth: there already existed a vessel capable of containing Khar'zul — **his own sword**. The blade had absorbed his blood, his victories, his hatred, and his corruption until it ceased to be merely a weapon. It had become an extension of his very existence. No other artifact in creation possessed a bond so profound with the Ulrath, and no other object could survive the burden of containing him.
 
 Seven heroes were selected for the task of bringing Khar'zul down: Lord Alaric Arkwright, Ragnulf Skallfang, Garrik Thormvuld, Mordrane Vhalor, Soren Kaien, Edmund Drake, and Cassian Aurelius. The first battle was devastating — Soren Kaien and Edmund Drake fell. Khar'Zul was killed, but his essence escaped. When he returned, the Alliance came prepared. **Mordrane Vhalor** created the sealing ritual. **Garrik Thormvuld** built devices to anchor Khar'zul's essence at the moment of death.
 
-In the second battle, when Khar'Zul fell again, Garrik's devices activated, preventing the essence from escaping. Mordrane began the ritual. Khar'zul's essence resisted, but through the greatest sealing ritual ever performed, the immortal essence of the balor was bound within the blade itself — not inside a gemstone, not within a magical prison, but inside the weapon that had served as his companion throughout countless wars. The greatest general of the Abyss became forever trapped within the very weapon he had once wielded.
+In the second battle, when Khar'Zul fell again, Garrik's devices activated, preventing the essence from escaping. Mordrane began the ritual. Khar'zul's essence resisted, but through the greatest sealing ritual ever performed, the immortal essence of the Ulrath was bound within the blade itself — not inside a gemstone, not within a magical prison, but inside the weapon that had served as his companion throughout countless wars. The greatest general of the Abyss became forever trapped within the very weapon he had once wielded.
 
 ### The Transformation
 
@@ -66,7 +66,7 @@ As years became centuries and centuries became legends, none could tell where th
 
 ### The Dissidents
 
-The architect of the sealing ritual, **Mordrane Vhalor**, witnessed something he could not ignore. He had seen the impossible. The ritual had not *destroyed* Khar'zul — it had preserved him. To Mordrane, the prison was never a punishment, but a chrysalis. Khar'zul was changing, evolving into something greater than any balor had ever been.
+The architect of the sealing ritual, **Mordrane Vhalor**, witnessed something he could not ignore. He had seen the impossible. The ritual had not *destroyed* Khar'zul — it had preserved him. To Mordrane, the prison was never a punishment, but a chrysalis. Khar'zul was changing, evolving into something greater than any Ulrath had ever been.
 
 Mordrane became obsessed with the potential of Khar'zul's ascended essence. He envisioned a perfect vessel — a living weapon capable of containing and wielding Khar'zul's power. He and his followers disappeared into the shadows, carrying fragments of the sealing ritual, ancient records, forbidden knowledge, and relics recovered from the battlefield. Over centuries, they became known by another name: **The Crimson Covenant**.
 
@@ -78,7 +78,7 @@ The blade is in Balor's possession. It:
 - Is **growing in power** alongside Balor, unlocking new abilities as he grows
 - **Whispers constantly** to Balor, testing his will, offering power
 - Requires the **Rite of Ash** to quiet when the whispers become unbearable
-- Contains Khar'zul's **conscious essence**  -  the balor is aware, watching, waiting
+- Contains Khar'zul's **conscious essence**  -  the Ulrath is aware, watching, waiting
 - **Magnetizes toward Balor**  -  the blade seems to follow him, not the other way around
 
 ### The Eye
@@ -100,7 +100,7 @@ The whispers:
 - Reveal fragments of knowledge about the Abyss, demons, and ancient wars
 - Become unbearable if not quieted through the Rite of Ash
 
-In the vision Balor saw when first touching the blade, the colossal balor figure spoke:
+In the vision Balor saw when first touching the blade, the colossal Ulrath figure spoke:
 
 > *"At last... You do not wield me... You carry me."*
 
@@ -152,7 +152,7 @@ The stages represent Khar'zul's progressive **integration** with Balor, not Balo
 ### Stage 2 -- Smoldering Heart
 **The Forge Within Ignites**
 
-*"The balor remembers fire. The flesh remembers warmth. The blade remembers what it was."*
+*"The Ulrath remembers fire. The flesh remembers warmth. The blade remembers what it was."*
 
 **Trigger**: Balor must spill blood in a fight where he genuinely feared for his life, then perform the Rite of Ash over the blade while the enemy's blood still coats it.
 
@@ -214,7 +214,7 @@ The stages represent Khar'zul's progressive **integration** with Balor, not Balo
 
 **Trigger**: Balor must suffer a near-death experience where Khar'zul saves his life. After that, both of them must consciously accept the deepening bond.
 
-**Thematic Meaning**: The prison is breaking down -- but instead of Khar'zul escaping, the two are fusing. Balor gains access to Khar'zul's memories, his rage, his ancient hatreds. In turn, Khar'zul tastes mortality, vulnerability, and something he never expected: the capacity to care. This stage is about mutual transformation. Khar'zul is no longer just a balor; Balor is no longer just a mortal. They are now something... new.
+**Thematic Meaning**: The prison is breaking down -- but instead of Khar'zul escaping, the two are fusing. Balor gains access to Khar'zul's memories, his rage, his ancient hatreds. In turn, Khar'zul tastes mortality, vulnerability, and something he never expected: the capacity to care. This stage is about mutual transformation. Khar'zul is no longer just an Ulrath; Balor is no longer just a mortal. They are now something... new.
 
 **Mechanical -- The Blade:**
 - +3 to attack and damage rolls
@@ -233,7 +233,7 @@ The stages represent Khar'zul's progressive **integration** with Balor, not Balo
 - **The Blur**: After any long rest, Balor must make a DC 12 Wisdom save. On failure, Khar'zul's influence pushes one of Balor's memories to the surface as if it were his own. The DM chooses a fragment of Khar'zul's memory to implant (e.g., commanding an army of a hundred thousand demons). Balor believes this memory is real until confronted with evidence otherwise.
 - Khar'zul can now actively lie to Balor. When Balor asks about Khar'zul's past, motivations, or plans, the DM can choose to give truthful or false information. Khar'zul has advantage on any Deception check against Balor's Insight.
 - The **Rite of Ash now takes 1 hour** and requires Balor to be in physical contact with the blade the entire time. Khar'zul will try to distract, bargain, and interrupt. The Rite now requires a DC 16 Wisdom save (no advantage) to complete.
-- **The Pact Forced**: The next level Balor gains after reaching Stage 4 must be a level in Warlock. The fusion is so profound that it manifests as a pact -- Khar'zul's essence binding Balor's soul as patron to vessel. This is not optional; the bond has reached critical mass and demands expression. **Recommended patron**: The Fiend (Khar'zul is a balor -- the thematic fit is exact), though the DM may reflavor features as Khar'zul's direct gifts rather than a traditional patron relationship.
+- **The Pact Forced**: The next level Balor gains after reaching Stage 4 must be a level in Warlock. The fusion is so profound that it manifests as a pact -- Khar'zul's essence binding Balor's soul as patron to vessel. This is not optional; the bond has reached critical mass and demands expression. **Recommended patron**: The Fiend (Khar'zul is an Ulrath -- the thematic fit is exact), though the DM may reflavor features as Khar'zul's direct gifts rather than a traditional patron relationship.
 
 ---
 

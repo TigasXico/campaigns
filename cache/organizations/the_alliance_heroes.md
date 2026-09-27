@@ -20,7 +20,7 @@ updated: 2026-09-19
 
 ## Overview
 
-The Alliance Heroes were a party of seven warriors, scholars, and leaders selected from the ranks of the First Alliance and entrusted with the impossible task of defeating **Khar'Zul, The Flesh That Remembers**. Together, they fought two battles against the ancient Balor — the first ending in his death and subsequent return from the Abyss, the second ending in his permanent sealing within his own greatsword. Two died in the first battle; one defected after the sealing; the rest returned to their peoples as legends.
+The Alliance Heroes were a party of seven warriors, scholars, and leaders selected from the ranks of the First Alliance and entrusted with the impossible task of defeating **Khar'Zul, The Flesh That Remembers**. Together, they fought two battles against the ancient Ulrath — the first ending in his death and subsequent return from the Abyss, the second ending in his permanent sealing within his own greatsword. Two died in the first battle; one defected after the sealing; the rest returned to their peoples as legends.
 
 ---
 
@@ -75,7 +75,7 @@ The Alliance eventually tracked Khar'Zul to a major Scourge stronghold. The batt
 
 The Alliance suffered devastating losses, including the death of two of the heroes: **Soren Kaien** and **Edmund Drake**. Yet for the first time, Khar'Zul found himself facing opponents who could match him not only in strength, but in coordination. The monster hunters of the Skallfang knew how to fight creatures like him. Garrik Thormvuld found ways to disrupt his movement and infernal abilities. Mordrane Vhalor recognized patterns in Khar'Zul's behavior that others missed. And Lord Alaric kept the entire force together even as the battle descended into chaos.
 
-Eventually, after an immense struggle and countless losses, the ancient Balor was defeated. Khar'Zul fell. The Alliance believed they had accomplished what generations before them had failed to do — but they were wrong. Khar'Zul's essence returned to the Abyss and reformed. They had killed him, but they had not ended him.
+Eventually, after an immense struggle and countless losses, the ancient Ulrath was defeated. Khar'Zul fell. The Alliance believed they had accomplished what generations before them had failed to do — but they were wrong. Khar'Zul's essence returned to the Abyss and reformed. They had killed him, but they had not ended him.
 
 ---
 

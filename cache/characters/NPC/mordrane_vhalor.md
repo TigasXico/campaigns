@@ -28,7 +28,7 @@ updated: 2026-09-19
 
 ## Role in the Alliance
 
-During the first battle against Khar'Zul, Mordrane recognized patterns in the Balor's behavior that others missed. His analytical mind proved essential to the Alliance's strategy. After Khar'Zul returned from the Abyss, Mordrane theorized that the Balor's own sword — having endured centuries of exposure to his power — might be the only vessel strong enough to contain his essence. He created the Sealing Ritual that, combined with Garrik Thormvuld's anchoring devices, successfully imprisoned Khar'Zul within the blade.
+During the first battle against Khar'Zul, Mordrane recognized patterns in the Ulrath's behavior that others missed. His analytical mind proved essential to the Alliance's strategy. After Khar'Zul returned from the Abyss, Mordrane theorized that the Ulrath's own sword — having endured centuries of exposure to his power — might be the only vessel strong enough to contain his essence. He created the Sealing Ritual that, combined with Garrik Thormvuld's anchoring devices, successfully imprisoned Khar'Zul within the blade.
 
 ---
 
@@ -36,7 +36,7 @@ During the first battle against Khar'Zul, Mordrane recognized patterns in the Ba
 
 To the world, Mordrane had been one of the heroes who helped bring an end to one of the Scourge's greatest generals. But to Mordrane, the sealing had revealed something far greater. Khar'Zul had died — and yet, he had not truly ceased to exist. His essence had survived the destruction of his body, carrying with it everything he had been: his memories, his power, his will, and the accumulated force of centuries spent conquering and destroying. The ritual had proven that the essence of a being could be separated from its physical form and contained within a vessel.
 
-But Mordrane became obsessed with another realization: Khar'Zul had changed. Centuries imprisoned within the blade had transformed the ancient Balor into something beyond what he had once been. His essence had endured without a body, growing into something that could no longer be defined simply as a demon. Something greater. Something that should not have been possible.
+But Mordrane became obsessed with another realization: Khar'Zul had changed. Centuries imprisoned within the blade had transformed the ancient Ulrath into something beyond what he had once been. His essence had endured without a body, growing into something that could no longer be defined simply as a demon. Something greater. Something that should not have been possible.
 
 Mordrane began to question what would happen if such an essence were given a body capable of containing it — not a body created by nature, but a body created by design. His studies eventually led him to the forbidden knowledge that led to the origin of Project Genesis: the experiments that had produced the Tieflings, beings created through the deliberate manipulation of mortal and supernatural forces through years of bloodline manipulation of different races.
 

@@ -143,7 +143,7 @@ updated: 2026-09-19
 - **Visibility**: [PUBLIC]
 - **Category**: War
 - **Description**: A fourth of the continent has fallen. Death toll is in the tens of millions -- around 15% of the population is dead. Five figureheads emerge behind the dread monster army. Their names and origins remain unknown to the general public.
-- **Secret**: One of the five was Khar'Zul, an ancient Balor from the Nine Hells. The other four remain undefined.
+- **Secret**: One of the five was Khar'Zul, an ancient Ulrath from the Nine Hells. The other four remain undefined.
 - **Visibility**: [PUBLIC]
 
 ## E19 - B's Crystals Affect Monster Army

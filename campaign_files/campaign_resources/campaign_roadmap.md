@@ -1,4 +1,4 @@
-# CAMPAIGN ROADMAP V3
+﻿# CAMPAIGN ROADMAP V3
 ## Levels 3?20 | Four Conspiracy Layers + Interleaved PC Arcs | No Fixed Timeline
 
 **Last updated**: 2026-08-29
@@ -723,7 +723,7 @@ Status: Unknown to Party
 ## 10 - Khar'zul
 (Prefix: KHZ)
 
-### KHZ-01 - Khar'zul was one of five generals who led the monster invasion - a balor of tremendous power
+### KHZ-01 - Khar'zul was one of five generals who led the monster invasion - an Ulrath of tremendous power
 
 Prerequisites: GEN-01
 

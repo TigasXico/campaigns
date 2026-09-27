@@ -25,7 +25,7 @@ updated: 2026-09-19
 
 ## Role in the Alliance
 
-During the first battle, Garrik found ways to disrupt Khar'Zul's movement and infernal abilities using his arcane engineering. After Khar'Zul's return from the Abyss, Garrik constructed the devices that would anchor the Balor's essence at the moment of his second death, preventing it from escaping back to the Abyss. These devices were the critical component that allowed Mordrane Vhalor's sealing ritual to succeed.
+During the first battle, Garrik found ways to disrupt Khar'Zul's movement and infernal abilities using his arcane engineering. After Khar'Zul's return from the Abyss, Garrik constructed the devices that would anchor the Ulrath's essence at the moment of his second death, preventing it from escaping back to the Abyss. These devices were the critical component that allowed Mordrane Vhalor's sealing ritual to succeed.
 
 Garrik also helped design and construct the heavily guarded vault established under the protection of the Last Stand, with Thormvuld technology and magical wards designed to prevent the sword from being accessed or transported without the knowledge of the Alliance's guardians.
 

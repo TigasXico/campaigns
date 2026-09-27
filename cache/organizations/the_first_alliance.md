@@ -1,4 +1,4 @@
----
+﻿---
 id: the_first_alliance
 type: organization
 name: "The First Alliance"
@@ -71,7 +71,7 @@ Membership in the First Alliance is by kingdom, order, guild, or clan. At its he
 1. **Reconquering**: Push back the invasion and reclaim lost territory - ongoing
 2. **Survival**: Prevent the extinction of the mortal races at the hands of the monster horde
 3. **Defeat enemy command**: Break the monster army's leadership
-4. **Contain Khar'zul**: Ensure the balor general could never return (and prevent the return of the other hidden generals)
+4. **Contain Khar'zul**: Ensure the Ulrath general could never return (and prevent the return of the other hidden generals)
 5. **Recover lost knowledge**: Restore ~70% of pre-invasion records and artifacts
 
 ## History
