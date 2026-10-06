@@ -105,135 +105,75 @@ In the vision Balor saw when first touching the blade, the colossal Ulrath figur
 > *"At last... You do not wield me... You carry me."*
 
 
-## Evolution (GM Reference)
+Stage 1 (Level 1) — Awakening
 
-The blade's power grows with Balor through four stages, each representing a deepening of Khar'zul's integration with his vessel. Progression between stages requires specific narrative triggers, not just character levels.
+Attack & Damage Modifiers: +0 bonus. Damage: 2d6 slashing
 
-The stages represent Khar'zul's progressive **integration** with Balor, not Balor unlocking power from the blade. Each stage is a threshold where Khar'zul reaches further through the prison. The Rite of Ash holds each stage stable -- without it, Khar'zul advances on his own.
+Passive Features: Khar'zul occasionally whispers in Old Abyssal in response to external triggers. Balor can make a 14 Wisdom (Insight) check when prompted to try and understand what Khar'zul is trying to communicate.
 
-> **The Avatar of the Living Prison** is a *state*, not a stage. It can manifest at any stage if:
-> - Balor fails a high-difficulty Wisdom save after extreme emotional/physical trauma
-> - Balor *chooses* to let go and accept Khar'zul's full power (a risky gambit)
-> - Khar'zul forces his way through (only possible if Balor skipped the Rite of Ash for 3+ days)
->
-> At Stage 1-2: Involuntary, uncontrolled, memory loss, catastrophic collateral damage.
-> At Stage 3: Balor can sense it building and *choose* to direct it.
-> At Stage 4: Balor can trigger it intentionally as a transformative ability.
+Active Features: Whisper of Warning (Reaction). Once per long rest, when an ally within 30 feet is hit by an attack, Balor can use his reaction to grant them a +2 bonus to AC against that triggering attack.
+
+Drawbacks & Consequences: The constant, murmuring whispers of the demon impose disadvantage on all Wisdom (Perception) checks that rely on hearing.
 
 ---
 
-### Stage 1 -- Awakening
-**The Prisoner Opens His Eyes**
+Stage 2 (Level 4) — Smoldering Heart
 
-*"The whispers begin. They are not commands. They are introductions."*
+Attack & Damage Modifiers: +1 to attack and damage rolls. Damage: 2d6 slashing + 1d4 fire
 
-**Trigger**: Balor first touched the blade. Already achieved.
+Passive Features: The blade counts as magical for the purpose of overcoming resistance and immunity. Balor can sense the presence and general direction of any fiends within 60 feet. 
 
-**Thematic Meaning**: Khar'zul has become aware of his bearer. He observes, tests, and learns. The whispers are fragments -- Khar'zul probing Balor's mind, tasting his fears and memories. This stage is about discovery: Balor discovering the blade is alive, and Khar'zul discovering who Balor is.
+Active Features: Infernal Vitality (Free Action). Once per short or long rest, when Balor reduces a hostile creature to 0 HP, he gains temporary hit points equal to 1d6 + his proficiency bonus.
 
-**Mechanical -- The Blade:**
-- +1 to attack and damage rolls
-- Damage: 2d8 slashing (versatile: 2d10)
-- Khar'zul whispers fragments of Old Abyssal -- Balor can make DC 15 Intelligence (Arcana/Religion) checks to decipher meaning when prompted
-- **Whisper of Warning (Reaction)**: Once per long rest, when an ally within 30 ft is hit by an attack, Khar'zul murmurs a warning. The ally can use their reaction to gain +2 AC against that attack. *Khar'zul does this to protect his vessel's allies -- not out of kindness, but because a dead party member can't help Balor survive.*
-
-**Visual:**
-- **Blade**: The eye is now open and tracking movement. Veins beneath the metal pulse dimly, synchronized with Balor's heartbeat when he rages.
-- **Balor**: No physical change. But when he rages, those around him feel a faint wrongness -- a subtle pressure in the air, a smell of ozone and ash.
-
-**Benefits**: +1 weapon, the first of Khar'zul's aid (the warning whisper), sentient guidance in matters of demons and Abyssal lore.
-
-**Drawbacks**:
-- The whispers never stop. Balor has disadvantage on Perception checks relying on hearing when trying to be stealthy -- Khar'zul's voice is a constant murmur.
-- Skipping the Rite of Ash for 3 days causes the whispers to become distracting (disadvantage on Perception checks until the Rite is performed).
+Drawbacks & Consequences: Blood-Addiction. While Balor has temporary hit points from Infernal Vitality, he must succeed on a DC 12 Wisdom saving throw at the start of any new combat encounter. On a failure, he must spend his first turn moving toward and attacking the nearest wounded creature (ally or enemy).
 
 ---
 
-### Stage 2 -- Smoldering Heart
-**The Forge Within Ignites**
+Stage 3 (Level 8) — Burning Will
 
-*"The Ulrath remembers fire. The flesh remembers warmth. The blade remembers what it was."*
+Attack & Damage Modifiers: +1 to attack and damage rolls. Damage: 2d6 slashing + 1d6 fire
 
-**Trigger**: Balor must spill blood in a fight where he genuinely feared for his life, then perform the Rite of Ash over the blade while the enemy's blood still coats it.
+Passive Features: Balor now understands Old Abyssal - no longer needs Wisdom (Insight) checks to understand Khar'zul's whispers
 
-**Thematic Meaning**: The blade awakens to its demonic nature. Khar'zul tests whether Balor can handle real power. This stage is a temptation -- the power is real, useful, and addictive. Balor learns that the blade's gifts come at a cost.
+Active Features: Ignite (No Action). Once per Rage, the first time Balor hits a creature with a melee attack, the target ignites. It takes 1d6 fire damage at the start of each of its turns for 1 minute. The target or another creature can use an action to douse the flames.
 
-**Mechanical -- The Blade:**
-- +2 to attack and damage rolls
-- Damage: 2d8 slashing + 1d4 fire (versatile: 2d10 + 1d6)
-- The blade is now considered **magical** for overcoming resistance/immunity
-- **Infernal Vitality**: Once per short rest, when Balor reduces a hostile creature to 0 HP, he can roll 1d6 + proficiency bonus. He gains that many temporary HP.
-- **Eyes of the Pit**: Khar'zul shares his darkvision. Balor gains 60 ft darkvision (if he already has it, it extends to 120 ft). In addition, Balor can sense the presence of fiends (including demonic essence in others) within 60 ft as an action.
-
-**Visual:**
-- **Blade**: Faint orange glow emanates from the eye. Heat shimmers above the blade when drawn. The veins beneath the metal now visibly pulse with a slow, rhythmic warmth.
-- **Balor**: When he rages, his eyes smolder with deep orange embers. His breath comes out as faint wisps of smoke. Faint red-gold patterns spread across his ashen skin like cracks in cooling embers, visible only when his blood is up.
-
-**Benefits**: Magical weapon, fire damage, sustain in long fights (Infernal Vitality), darkvision, fiend-sense.
-
-**Drawbacks**:
-- **The Blood-Addiction**: After a fight where Balor uses Infernal Vitality, he must make a DC 12 Wisdom save. On a failure, he becomes intoxicated by the scent of blood for the next hour -- he has disadvantage on Charisma checks, and if combat breaks out again, he must succeed on a DC 14 Wisdom save or attack the nearest wounded creature (ally or enemy) before any other target.
-- The **Rite of Ash now takes 10 minutes** instead of 5 -- Khar'zul resists being silenced longer.
+Drawbacks & Consequences: Blood-Blindness. Khar'zul's thirst begins to override Balor's restraint. If Balor begins his turn in combat with no hostile creatures within his movement speed, he must succeed on a DC 14 Wisdom saving throw. On a failure, he is compelled to move toward and make a melee attack against the nearest living creature (including allies).
 
 ---
 
-### Stage 3 -- Burning Will
-**The General Tests His Vessel**
+Stage 4 (Level 12) — Flesh and Steel
 
-*"Khar'zul no longer whispers. He speaks. And when he speaks, the world listens."*
+Attack & Damage Modifiers: +2 to attack and damage rolls. Damage: 2d6 slashing + 1d8 fire
 
-**Trigger**: Balor must willingly accept Khar'zul's aid in a moment of great personal cost -- choosing to let the blade's fire loose even though it hurts an innocent or an ally.
+Passive Features: Balor gains advantage on saving throws against being charmed or frightened. Balor gains resistance agains fire damage.
 
-**Thematic Meaning**: Khar'zul respects strength. He begins treating Balor less like a prison and more like a protege. He offers real counsel -- ancient tactics, knowledge of demonkind, battlefield instincts. But this is a trap: the more Balor relies on Khar'zul, the harder it becomes to imagine life without his voice. This stage is about partnership with a predator.
+Active Features: Infernal Charge (Action). Balor slams the blade into the ground, unleashing a 15-foot cone of abyssal flame. Creatures in the area must make a Dexterity saving throw (DC = 8 + Balor’s proficiency bonus + Balor’s Constitution modifier). On a failure, they take 3d8 fire damage and are knocked prone. On a success, they take half damage and are not knocked prone. Usable a number of times equal to Balor's proficiency bonus per long rest.
 
-**Mechanical -- The Blade:**
-- +2 to attack and damage rolls
-- Damage: 2d8 slashing + 1d6 fire (versatile: 2d10 + 2d6)
-- Balor gains **advantage on Wisdom saving throws**
-- When he deals fire damage to a creature, he gains temporary HP equal to half the fire damage dealt (rounded down), up to a maximum of twice his proficiency bonus
-- **Infernal Charge (Action)**: Balor charges the blade with Abyssal flame before slamming it into the ground. Creatures in a 30 ft radius must make a DC 16 Dexterity saving throw. On failure: 5d8 fire damage and knocked prone. On success: half damage and not knocked prone. This ability can be used a number of times equal to proficiency bonus per long rest.
-- Once per rage, when Balor hits with a melee attack, he can **ignite** the target. The target takes 2d6 fire damage at the start of each of its turns for 1 minute, or until it uses its turn to extinguish the flames.
-- **Strategic Insight (Bonus Action)**: Khar'zul shares battlefield instincts. Balor gains advantage on the next attack roll against a creature he can see. Usable a number of times equal to proficiency bonus per long rest.
-
-**Visual:**
-- **Blade**: The eye now glows with steady amber light. Flickering flames dance along the blade's edge but never consume the metal. The fleshy parts of the blade have hardened into a dark, chitin-like material with veins of molten orange.
-- **Balor**: In combat, Balor's skin cracks with lines of molten orange light like volcanic fissures. His horns smoke. His shadow flickers with an extra set of horns. When he speaks, his voice carries an echo -- Khar'zul's timbre layered beneath his own.
-
-**Benefits**: Stronger fire damage, rage-enhanced sustainability, battlefield control (ignite), tactical advantage (Strategic Insight).
-
-**Drawbacks**:
-- **The Debt**: Each time Balor activates Strategic Insight or Infernal Charge, Khar'zul notes it. After accumulating a number of uses equal to Balor's level (across any rest period), Khar'zul will demand a favor. If refused, the next time Balor enters a rage, he must make a DC 15 Wisdom save or enter the Avatar of the Living Prison state involuntarily for 1 round -- Khar'zul takes control, moves into melee, and attacks the nearest creature.
-- The **Rite of Ash now takes 30 minutes** and must be performed in complete solitude. If interrupted, it fails and Khar'zul's whispers become overwhelming (disadvantage on all mental saves until the Rite is successfully completed).
+Drawbacks & Consequences: The Pact Forced & Demonic Override. The spiritual fusion reaches critical mass. Balor’s very next character level must be taken in the Warlock class (The Fiend patron). Additionally, whenever Balor is reduced below half his maximum hit points, he must make a DC 15 Wisdom saving throw. On a failure, Khar'zul seizes motor control: Balor instantly enters a Rage (if he has uses left) and must use Reckless Attack on every turn, targeting the nearest creature regardless of allegiance until combat ends or he falls unconscious.
 
 ---
 
-### Stage 4 -- Flesh and Steel
-**The Boundary Dissolves**
+Stage 5 (Level 16) — The Flesh That Remembers
 
-*"I am no longer in the blade. You are no longer in the body. We are..."*
+Attack & Damage Modifiers: +2 to attack and damage rolls. Damage: 2d6 slashing + 1d10 fire
 
-**Trigger**: Balor must suffer a near-death experience where Khar'zul saves his life. After that, both of them must consciously accept the deepening bond.
+Passive Features: Flesh Recall (Reaction). When Balor takes damage, he can instantly knit his flesh back together, reducing the damage taken by 1d10 + his Constitution modifier. Usable a number of times equal to his proficiency bonus per long rest.
 
-**Thematic Meaning**: The prison is breaking down -- but instead of Khar'zul escaping, the two are fusing. Balor gains access to Khar'zul's memories, his rage, his ancient hatreds. In turn, Khar'zul tastes mortality, vulnerability, and something he never expected: the capacity to care. This stage is about mutual transformation. Khar'zul is no longer just an Ulrath; Balor is no longer just a mortal. They are now something... new.
+Active Features: Hellbreaker (Action). Balor unleashes a 30-foot cone of devastating fire. Creatures in the area must make a Dexterity saving throw (DC = 8 + PB + CON). On a failure, they take 6d8 fire damage. On a success, they take half. The ground in the area smolders for 1 minute, dealing 2d8 fire damage to any creature that ends its turn there. Usable once per long rest.
 
-**Mechanical -- The Blade:**
-- +3 to attack and damage rolls
-- Damage: 2d10 slashing + 1d8 fire (versatile: 2d12 + 2d8)
-- **Hellbreaker (Action)**: Balor unleashes a 30 ft cone of infernal fire. Creatures in the area must make a DC 16 Dexterity save. On failure: 8d8 fire damage. On success: half damage. The cone also leaves smoldering terrain that deals 2d8 fire damage to any creature that starts its turn there, lasting 1 minute.
-- **Unflinching**: Balor has advantage on saving throws against being charmed or frightened. (Note: this is partially redundant with Stage 3's blanket Wisdom save advantage -- see Balance Analysis below for discussion.)
-- **Flesh Recall (Reaction)**: When Balor takes damage, he can regrow flesh and seal wounds instantly. Once per long rest, he reduces the damage taken by 3d10 + his Constitution modifier.
+Drawbacks & Consequences: Slaughter Compulsion. Balor loses the capacity for mercy. He can no longer choose to deal non-lethal damage, and if an enemy attempts to surrender, Balor must kill them. Furthermore, if an ally casts a spell on Balor while he is Raging (even beneficial or healing magic), Balor must make a DC 16 Wisdom saving throw. On a failure, Khar'zul perceives the magic as a threat, forcing Balor to use his reaction to attack that ally if they are in range, or spend his next turn hunting them down if they are not.
 
-**Visual:**
-- **Blade**: The distinction between blade and flesh is nearly gone. The eye has grown larger and now has a secondary pupil. Veiny tendrils creep up Balor's arm when he holds it, pulsing in rhythm with his heartbeat. Occasionally, the tendrils move independently.
-- **Balor (Permanent)**: Balor's ashen skin has taken on a faint reddish tint on his right side (the blade arm). The crimson veins are now visible even when calm. One of his eyes occasionally flickers with Khar'zul's molten amber. His horns have grown thicker and have small barbs. When he sleeps, Khar'zul's whispers sometimes escape his lips aloud, speaking in Old Abyssal.
+---
 
-**Benefits**: +3 weapon, devastating AoE (Hellbreaker), fear immunity (Unflinching), emergency self-heal (Flesh Recall), partial access to Khar'zul's ancient knowledge of the Abyss and the monster war.
+Stage 6 (Level 20) — Integration
 
-**Drawbacks**:
-- **The Blur**: After any long rest, Balor must make a DC 12 Wisdom save. On failure, Khar'zul's influence pushes one of Balor's memories to the surface as if it were his own. The DM chooses a fragment of Khar'zul's memory to implant (e.g., commanding an army of a hundred thousand demons). Balor believes this memory is real until confronted with evidence otherwise.
-- Khar'zul can now actively lie to Balor. When Balor asks about Khar'zul's past, motivations, or plans, the DM can choose to give truthful or false information. Khar'zul has advantage on any Deception check against Balor's Insight.
-- The **Rite of Ash now takes 1 hour** and requires Balor to be in physical contact with the blade the entire time. Khar'zul will try to distract, bargain, and interrupt. The Rite now requires a DC 16 Wisdom save (no advantage) to complete.
-- **The Pact Forced**: The next level Balor gains after reaching Stage 4 must be a level in Warlock. The fusion is so profound that it manifests as a pact -- Khar'zul's essence binding Balor's soul as patron to vessel. This is not optional; the bond has reached critical mass and demands expression. **Recommended patron**: The Fiend (Khar'zul is an Ulrath -- the thematic fit is exact), though the DM may reflavor features as Khar'zul's direct gifts rather than a traditional patron relationship.
+Attack & Damage Modifiers: +3 to attack and damage rolls. Damage: 2d6 slashing + 1d12 fire
+
+Passive Features: Immortal Echo. Once per long rest, if Balor is reduced to 0 HP, he drops to 1 HP instead. The blade instantly detonates in a 15-foot radius. Each creature in that area must make a Constitution saving throw (DC = 8 + PB + CON) or take 4d10 fire damage and be pushed 10 feet away.
+
+Active Features: Avatar of the Living Prison (Bonus Action). Balor triggers his ultimate form for 1 minute. He gains 40 temporary hit points, and his size increases to Large (if there is room). While in this form, Hellbreaker can be used as a Bonus Action instead of an Action. Usable once per long rest.
+
+Drawbacks & Consequences: The Prison Breaks & The Vessel is Sealed. The weapon physically fuses with Balor's arm; he can never be disarmed of it, but he can no longer wield two-handed weapons or use a shield. Magical healing from any source other than a fiend, a spell cast using a warlock spell slot, or a potion of healing is halved for Balor. Furthermore, when the Avatar of the Living Prison state ends, or if Balor rolls a natural 1 on an attack roll while raging, he must make a DC 18 Wisdom saving throw. On a failure, Khar'zul completely subsumes Balor's consciousness. Balor temporarily becomes an NPC under the DM's control, driven purely by an apocalyptic need to destroy everything in sight. This total possession lasts for 1 hour, or until Balor is reduced to 0 hit points.
 
 ---
 
