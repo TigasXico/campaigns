@@ -14,15 +14,15 @@ When the party completes a long rest:
 
 | PC | Counter | DC | Status |
 |----|---------|----|--------|
-| **Balor** | 1 | 16 | Infected — roll CON save |
-| **Kaelyn** | 1 | 16 | Infected — roll CON save |
-| **Aurora** | 1 | 16 | Infected — roll CON save |
+| **Balor** | 1 | 16 | Infected — roll CON save (DC 16) |
+| **Kaelyn** | 1 | 16 | Infected — roll CON save (DC 16)|
+| **Aurora** | 1 | 16 | Infected — roll CON save (DC 16)|
 | **Zan** | — | — | **Cured** — no further checks |
 
 **Mechanics:**
 - Each infected PC rolls a **Constitution saving throw** at the end of each long rest
-- **Success:** Counter decreases by 1, DC decreases by 1 (minimum DC 10, minimum counter 0)
-- **Failure:** Counter increases by 1, DC increases by 1
+- **Success:** Counter decreases by 1, DC decreases by 2 (minimum DC 10, minimum counter 0)
+- **Failure:** Counter increases by 1, DC increases by 2
 - **Counter reaches 3:** Lycanthropy curse fully takes effect. Transformation occurs at next full moon.
 - **Counter reaches 0:** PC has fought off the infection — cured. No further checks.
 - **Full moon:** Automatic progression — counter advances by 1 for all infected PCs regardless of save result. If counter reaches 3 during a full moon, transformation is immediate.
@@ -58,14 +58,6 @@ If the party takes Sol Romeo with them and attempts a short rest during travel, 
 ---
 
 ## Session Start (Ongoing)
-
-### d20 Reroll Boons
-- Standing stones boons: 1 reroll each (Zan, Aurora, Bardolemeu, Kaelyn, Balor, Nyra)
-- **Status:** [TO CONFIRM — did these expire at end of Session 4?]
-
-### Monster Army Pushback Clock
-- ~2 days remaining
-- Scenario: [TBD — A, B, or C]
 
 ---
 
